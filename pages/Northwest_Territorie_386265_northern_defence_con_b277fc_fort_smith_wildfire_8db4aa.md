@@ -262,17 +262,17 @@ image: /assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fo
 
 ## Introduction
 
-In early September 2024, residents of Fort Smith in the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}) briefly found themselves discussing a familiar UFO question: what were the strange lights hovering and flashing in the night sky? Within hours, however, the mystery largely disappeared. What some observers initially treated as an unidentified aerial phenomenon was quickly linked to aircraft returning from wildfire operations based at the Fort Smith airport. The episode is a useful case study in how northern UFO rumours can emerge, spread, and then be resolved when local aviation information becomes available. Rather than becoming a long-running mystery, the Fort Smith sighting demonstrated how rapidly a dramatic claim can shrink once the operational context is understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+In early September 2024, residents of Fort Smith in the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}) briefly found themselves discussing a familiar UFO question: what were the strange lights hovering and flashing in the night sky? Within hours, however, the mystery largely disappeared. What some observers initially treated as an unidentified aerial phenomenon was quickly linked to aircraft returning from wildfire operations based at the Fort Smith airport. The episode is a useful case study in how northern UFO rumours can emerge, spread, and then be resolved when local aviation information becomes available. Rather than becoming a long-running mystery, the Fort Smith sighting demonstrated how rapidly a dramatic claim can shrink once the operational context is understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-1-dark.svg" | relative_url }}" alt="Fort Smith illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Fort Smith's UFOs became wildfire aircraft
 
-On 2 September 2024, video and eyewitness accounts circulated in Fort Smith showing unusual lights in the sky. Residents discussing the footage online offered a range of possibilities, from drones and lanterns to more exotic [explanations]({{ 'explanations/' | relative_url }}). The lights appeared to hover and flash in ways that were unfamiliar to some observers, especially when viewed against the dark northern sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+On 2 September 2024, video and eyewitness accounts circulated in Fort Smith showing unusual lights in the sky. Residents discussing the footage online offered a range of possibilities, from drones and lanterns to more exotic [explanations]({{ 'explanations/' | relative_url }}). The lights appeared to hover and flash in ways that were unfamiliar to some observers, especially when viewed against the dark northern sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
-The speculation did not last long. According to reporting from Cabin Radio, officials from the Northwest Territories wildfire agency identified the lights as air tankers returning to their Fort Smith base after firefighting operations. What had briefly appeared mysterious was, in practice, a routine aviation movement connected to the territory's wildfire response system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+The speculation did not last long. According to reporting from Cabin Radio, officials from the Northwest Territories wildfire agency identified the lights as air tankers returning to their Fort Smith base after firefighting operations. What had briefly appeared mysterious was, in practice, a routine aviation movement connected to the territory's wildfire response system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
-The speed of the identification is what makes the incident noteworthy within Northwest Territories UFO history. Many historical UFO cases remain unresolved because reliable information arrives late or not at all. In Fort Smith, the explanation emerged almost immediately from an organisation directly involved in the activity being observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+The speed of the identification is what makes the incident noteworthy within Northwest Territories UFO history. Many historical UFO cases remain unresolved because reliable information arrives late or not at all. In Fort Smith, the explanation emerged almost immediately from an organisation directly involved in the activity being observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ttbzf5wGa5M" title="UGC: Wildfires make the sky turn red in Fort Smith, Northwest Territories, Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ttbzf5wGa5M" target="_blank" rel="noopener noreferrer">UGC: Wildfires make the sky turn red in Fort Smith, Northwest Territories, Canada</a></p><p class="youtube-embed-meta">Channel: Manila Bulletin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ttbzf5wGa5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ttbzf5wGa5M">Open on YouTube</a></p></div></div></div>
@@ -287,15 +287,15 @@ Several factors can make firefighting aircraft appear unusual at night:
 * Holding patterns can create the impression that lights are stationary or circling.
 * Landing lights and navigation lights can appear brighter than expected when viewed from a distance.
 * Changes in direction can create the illusion that lights are hovering or moving erratically.
-* Smoke, haze, darkness, and atmospheric conditions can distort distance and speed estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+* Smoke, haze, darkness, and atmospheric conditions can distort distance and speed estimates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
-In a small northern community, where air traffic is generally lighter than in southern Canadian cities, even normal operational flights can attract attention when they occur at unusual hours or in unusual numbers. The fact that residents were already familiar with recent wildfire activity may have heightened awareness of activity in the sky while not necessarily making the specific aircraft immediately recognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio&#x27;People who were evacuated have the anger to change</span><span class="citation-popover-snippet">August 18, 2024 — 18 Aug 2024 — Luke James, who worked behind the scenes with fire crews before having to flee Fort Smith last summer, be...</span><span class="citation-popover-meta">Published: August 18, 2024</span></span></span>
+In a small northern community, where air traffic is generally lighter than in southern Canadian cities, even normal operational flights can attract attention when they occur at unusual hours or in unusual numbers. The fact that residents were already familiar with recent wildfire activity may have heightened awareness of activity in the sky while not necessarily making the specific aircraft immediately recognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio&#x27;People who were evacuated have the anger to change</span><span class="citation-popover-snippet">August 18, 2024 — 18 Aug 2024 — Luke James, who worked behind the scenes with fire crews before having to flee Fort Smith last summer, be...</span><span class="citation-popover-meta">Published: August 18, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-2-dark.svg" | relative_url }}" alt="Fort Smith illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How wildfire aircraft changed the interpretation
 
-Fort Smith is not simply a remote community with an airport. It is one of the Northwest Territories' key wildfire aviation centres. The Government of the Northwest Territories maintains an air tanker base there, including FireBoss air tankers and a "bird dog" aircraft used to coordinate aerial firefighting operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
+Fort Smith is not simply a remote community with an airport. It is one of the Northwest Territories' key wildfire aviation centres. The Government of the Northwest Territories maintains an air tanker base there, including FireBoss air tankers and a "bird dog" aircraft used to coordinate aerial firefighting operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
 
 Wildfire aviation can involve:
 
@@ -306,11 +306,11 @@ Wildfire aviation can involve:
 * Coordination aircraft directing aerial operations.
 * Night or low-light return flights.
 * Multiple aircraft arriving within a short period.
-* Aircraft using highly visible lighting systems for safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
+* Aircraft using highly visible lighting systems for safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
 
 </div>
 
-Once observers learned that air tankers were returning to the Fort Smith base, the apparent mystery became much less compelling. The same lights that had briefly encouraged UFO speculation now fit a known and documented operational pattern. The underlying observation—the presence of unusual lights—did not change. What changed was the context available to interpret them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+Once observers learned that air tankers were returning to the Fort Smith base, the apparent mystery became much less compelling. The same lights that had briefly encouraged UFO speculation now fit a known and documented operational pattern. The underlying observation—the presence of unusual lights—did not change. What changed was the context available to interpret them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
 This distinction is important in UFO research. An unidentified object is not necessarily a mysterious object; it is often simply an object that has not yet been identified.
 
@@ -319,213 +319,157 @@ This distinction is important in UFO research. An unidentified object is not nec
 
 ## Why rapid local identification matters
 
-The Fort Smith incident illustrates a broader interpretation risk that appears repeatedly in northern Canadian UFO reporting. Remote regions combine large skies, limited observers, changing weather, military and civilian aviation, and specialised aircraft operations. Under those conditions, even ordinary activities can appear extraordinary when viewed without supporting information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">Both helicopters and fixed wing aircraft are used to do patrols around the Northwest Territories during wildfire season. Wildfire staff...</span></span></span>
+The Fort Smith incident illustrates a broader interpretation risk that appears repeatedly in northern Canadian UFO reporting. Remote regions combine large skies, limited observers, changing weather, military and civilian aviation, and specialised aircraft operations. Under those conditions, even ordinary activities can appear extraordinary when viewed without supporting information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">Both helicopters and fixed wing aircraft are used to do patrols around the Northwest Territories during wildfire season. Wildfire staff...</span></span></span>
 
-Within the wider context of northern defence sites and aviation activity, observers sometimes assume that an unexplained light must involve secret military operations, surveillance systems, experimental aircraft, or something even more exotic. The Fort Smith case points in the opposite direction. The explanation was not hidden at all. It was a publicly documented wildfire operation conducted from a well-known local base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
+Within the wider context of northern defence sites and aviation activity, observers sometimes assume that an unexplained light must involve secret military operations, surveillance systems, experimental aircraft, or something even more exotic. The Fort Smith case points in the opposite direction. The explanation was not hidden at all. It was a publicly documented wildfire operation conducted from a well-known local base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nt.ca">[Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nt.ca</span><span class="citation-popover-snippet">ernment of Northwest TerritoriesAir tanker fleet &#124; Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</span></span></span>
 
-The case also demonstrates the value of local knowledge. People familiar with wildfire aviation, airport activity, or government fire operations were in a much better position to assess the sighting than observers relying solely on the appearance of the lights themselves. The identification came not from advanced analysis of imagery but from understanding what aircraft were expected to be in the area that evening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+The case also demonstrates the value of local knowledge. People familiar with wildfire aviation, airport activity, or government fire operations were in a much better position to assess the sighting than observers relying solely on the appearance of the lights themselves. The identification came not from advanced analysis of imagery but from understanding what aircraft were expected to be in the area that evening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-3-dark.svg" | relative_url }}" alt="Fort Smith illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Fort Smith case tells us about Northwest Territories UFO reports
 
-As a UFO case, the September 2024 Fort Smith lights are not significant because they remained unexplained. They are significant because they did not. The episode provides a rare example of a local UFO rumour being checked against operational reality almost immediately and losing much of its mystery in the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+As a UFO case, the September 2024 Fort Smith lights are not significant because they remained unexplained. They are significant because they did not. The episode provides a rare example of a local UFO rumour being checked against operational reality almost immediately and losing much of its mystery in the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
-For readers exploring UFO history in the Northwest Territories, the lesson is straightforward. Northern skies contain many genuine sources of unusual lights, including wildfire aircraft, patrol flights, helicopters, satellites, atmospheric effects, and other aviation activity. Before a sighting is linked to defence installations, secret programmes, or unknown craft, it is worth asking a simpler question: what aircraft were already expected to be there? The Fort Smith lights show how often that question can provide the answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
+For readers exploring UFO history in the Northwest Territories, the lesson is straightforward. Northern skies contain many genuine sources of unusual lights, including wildfire aircraft, patrol flights, helicopters, satellites, atmospheric effects, and other aviation activity. Before a sighting is linked to defence installations, secret programmes, or unknown craft, it is worth asking a simpler question: what aircraft were already expected to be there? The Fort Smith lights show how often that question can provide the answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Government of Northwest Territories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">ufos over fort smith are rapidly identified</span><span class="citation-popover-snippet">Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</span><span class="citation-popover-meta">Published: September 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OB3rWdiu0VE" title="UGC: Wildfires make the sky turn red in Fort Smith, Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OB3rWdiu0VE" target="_blank" rel="noopener noreferrer">UGC: Wildfires make the sky turn red in Fort Smith, Canada</a></p><p class="youtube-embed-meta">Channel: Sharjah24 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OB3rWdiu0VE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OB3rWdiu0VE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fort Smith&#x27;s UFOs became wildfire aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fort Smith&#x27;s UFOs became wildfire aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Demonstrates how sightings are often resolved through ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how sightings are often resolved through ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Useful comparison point for resolved and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison point for resolved and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="fort-smith-when-fort-smith-s-ufos-became-wildfire-aircraft-northwest-territories-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +485,7 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +505,7 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +537,7 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +589,7 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +634,7 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,89 +675,89 @@ For readers exploring UFO history in the Northwest Territories, the lesson is st
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cabinradio.ca  
    Title: ufos over fort smith are rapidly identified  
-   Link: <a href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</p></details>
+   Link:<a href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioUFOs over Fort Smith are rapidly identified - YellowknifeSeptember 3, 2024 — 3 Sept 2024 — UFOs over Fort Smith are rapidly id...</p></details>
    Published: September 3, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gov.nt.ca  
-   Link: <a href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment of Northwest TerritoriesAir tanker fleet | Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</p></details>
+   Link:<a href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-tanker-fleet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment of Northwest TerritoriesAir tanker fleet | Environment and Climate ChangeAir Tanker Group 1 is based at the Fort Smith airport...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gov.nt.ca  
-   Link: <a href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Both helicopters and fixed wing aircraft are used to do patrols around the Northwest Territories during wildfire season. Wildfire staff...</p></details>
+   Link:<a href="https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/services/wildfire-operations/air-operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both helicopters and fixed wing aircraft are used to do patrols around the Northwest Territories during wildfire season. Wildfire staff...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cabinradio.ca  
    Title: Cabin Radio'People who were evacuated have the anger to change'  
-   Link: <a href="https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2024 — 18 Aug 2024 — Luke James, who worked behind the scenes with fire crews before having to flee Fort Smith last summer, be...</p></details>
+   Link:<a href="https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/197407/news/environment/wildfires/people-who-were-evacuated-have-the-anger-to-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2024 — 18 Aug 2024 — Luke James, who worked behind the scenes with fire crews before having to flee Fort Smith last summer, be...</p></details>
    Published: August 18, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cabinradio.ca  
    Title: dont fly your drone over a wildfire fort smith fire crews plead  
-   Link: <a href="https://cabinradio.ca/152681/news/environment/wildfires/dont-fly-your-drone-over-a-wildfire-fort-smith-fire-crews-plead/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/152681/news/environment/wildfires/dont-fly-your-drone-over-a-wildfire-fort-smith-fire-crews-plead/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Smith announces evacuation welcome-home event October 18, 2023. UFOs over Fort Smith are rapidly identified September 3, 2024. Top...</p></details>
+   Link:<a href="https://cabinradio.ca/152681/news/environment/wildfires/dont-fly-your-drone-over-a-wildfire-fort-smith-fire-crews-plead/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/152681/news/environment/wildfires/dont-fly-your-drone-over-a-wildfire-fort-smith-fire-crews-plead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Smith announces evacuation welcome-home event October 18, 2023. UFOs over Fort Smith are rapidly identified September 3, 2024. Top...</p></details>
    Published: October 18, 2023  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DOJejSvge57/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOJejSvge57/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NWT fire officials warn of AI-generated images...Fire officials in the N.W.T. are warning about misinformation and misleading images cir...</p></details>
+   Link:<a href="https://www.instagram.com/p/DOJejSvge57/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOJejSvge57/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NWT fire officials warn of AI-generated images...Fire officials in the N.W.T. are warning about misinformation and misleading images cir...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: eyes in the sky aerial surveillance from a drone recently helped deputies locate  
-   Link: <a href="https://www.facebook.com/4029news/posts/eyes-in-the-sky-aerial-surveillance-from-a-drone-recently-helped-deputies-locate/1460856389405721/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4029news/posts/eyes-in-the-sky-aerial-surveillance-from-a-drone-recently-helped-deputies-locate/1460856389405721/?locale=es_LA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EYES IN THE SKY | Aerial surveillance from a drone...EYES IN THE SKY | Aerial surveillance from a drone recently helped deputies locate...</p></details>
+   Link:<a href="https://www.facebook.com/4029news/posts/eyes-in-the-sky-aerial-surveillance-from-a-drone-recently-helped-deputies-locate/1460856389405721/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/4029news/posts/eyes-in-the-sky-aerial-surveillance-from-a-drone-recently-helped-deputies-locate/1460856389405721/?locale=es_LA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EYES IN THE SKY | Aerial surveillance from a drone...EYES IN THE SKY | Aerial surveillance from a drone recently helped deputies locate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OB3rWdiu0VE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OB3rWdiu0VE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UGC: Wildfires make the sky turn red in Fort Smith, CanadaThis handout video shows the town of Fort Smith, Canada during wildfires on Aug...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OB3rWdiu0VE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OB3rWdiu0VE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UGC: Wildfires make the sky turn red in Fort Smith, CanadaThis handout video shows the town of Fort Smith, Canada during wildfires on Aug...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ttbzf5wGa5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ttbzf5wGa5M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ttbzf5wGa5M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ttbzf5wGa5M</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NWTFireinfo/posts/view-from-above-an-early-fire-in-north-slave-aircraft-are-essential-to-managing-/428858622619533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWTFireinfo/posts/view-from-above-an-early-fire-in-north-slave-aircraft-are-essential-to-managing-/428858622619533/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft role in managing NWT wildfiresWildfire update for July 13, 2024: No new fires reported. Hot and dry weather expected in Beaufort...</p></details>
+   Link:<a href="https://www.facebook.com/NWTFireinfo/posts/view-from-above-an-early-fire-in-north-slave-aircraft-are-essential-to-managing-/428858622619533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWTFireinfo/posts/view-from-above-an-early-fire-in-north-slave-aircraft-are-essential-to-managing-/428858622619533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft role in managing NWT wildfiresWildfire update for July 13, 2024: No new fires reported. Hot and dry weather expected in Beaufort...</p></details>
    Published: July 13, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: phys.org  
    Title: 2023 08 military airlifts wildfires canada north  
-   Link: <a href="https://phys.org/news/2023-08-military-airlifts-wildfires-canada-north.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2023-08-military-airlifts-wildfires-canada-north.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft as wildfires swept the Northwest Territories. The... Powerful UFO spotted blasting from a distant black hole. Jun 16, 2026.Read...</p></details>
+   Link:<a href="https://phys.org/news/2023-08-military-airlifts-wildfires-canada-north.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2023-08-military-airlifts-wildfires-canada-north.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft as wildfires swept the Northwest Territories. The... Powerful UFO spotted blasting from a distant black hole. Jun 16, 2026.Read...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVElAsMkzl8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVElAsMkzl8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and this evening battling several acres of fire along County Roads...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVElAsMkzl8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVElAsMkzl8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and this evening battling several acres of fire along County Roads...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Aerial firefighting units battle fire burning in Canada's Northwest Territories  
-   Link: <a href="https://www.youtube.com/watch?v=E_YRnuFv844" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E_YRnuFv844</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Smith wildfire aircraft cabin radio South African firefighters arrive in Northwest Territories Cabin Radio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E_YRnuFv844" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E_YRnuFv844</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Smith wildfire aircraft cabin radio South African firefighters arrive in Northwest Territories Cabin Radio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/keibmdhteurkgksgnhotkthjhqwtyeksbhzxhgbaearijiaerk/posts/771398701812999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/keibmdhteurkgksgnhotkthjhqwtyeksbhzxhgbaearijiaerk/posts/771398701812999/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>have been lasered.... UFO sighting in Fort Smith, Arkansas in...</p></details>
+   Link:<a href="https://www.facebook.com/groups/keibmdhteurkgksgnhotkthjhqwtyeksbhzxhgbaearijiaerk/posts/771398701812999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/keibmdhteurkgksgnhotkthjhqwtyeksbhzxhgbaearijiaerk/posts/771398701812999/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>have been lasered.... UFO sighting in Fort Smith, Arkansas in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: americanheritage.com  
    Title: Was This the First Reported UFO?  
-   Link: <a href="https://www.americanheritage.com/was-first-reported-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.americanheritage.com/was-first-reported-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN HERITAGEIn its place came sinister tales of captured extraterrestrials and alien autopsies.... UFO—sightings that could not be...</p></details>
+   Link:<a href="https://www.americanheritage.com/was-first-reported-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.americanheritage.com/was-first-reported-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN HERITAGEIn its place came sinister tales of captured extraterrestrials and alien autopsies.... UFO—sightings that could not be...</p></details>

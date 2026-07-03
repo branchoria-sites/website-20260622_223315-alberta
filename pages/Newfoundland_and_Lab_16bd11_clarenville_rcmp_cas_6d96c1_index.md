@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11/
 description: Focused pages that expand on Clarenville.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1
 parent_title: Clarenville
@@ -16,7 +16,7 @@ parent_permalink: /clarenville/
 
 # Explore Topics in Clarenville
 
-The following pages expand on the main **[Clarenville]({{ '/clarenville/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Clarenville]({{ '/clarenville/' | relative_url }})** page and cover its key branches in.
 
 - [Light Exchange]({{ '/light-exchange/' | relative_url }})
 - [Optical Aids]({{ '/optical-aids/' | relative_url }})

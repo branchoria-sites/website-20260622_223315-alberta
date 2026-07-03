@@ -266,15 +266,15 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_b
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-1-dark.svg" | relative_url }}" alt="NORAD drills illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The challenge is especially important in [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s UFO history because Goose Bay is not merely a local airport. It serves as a major Royal Canadian Air Force facility supporting NORAD operations and has repeatedly hosted Canadian and American aircraft during homeland-defence exercises. In some years, hundreds of personnel and dozens of aircraft have deployed through the base for training activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 wing</span><span class="citation-popover-snippet">Canada5 Wing Goose Bay26 May 2026 — 5 Wing Goose Bay/ CFB Goose Bay. Supports NORAD operations for projection of air power on the north a...</span></span></span>
+The challenge is especially important in [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s UFO history because Goose Bay is not merely a local airport. It serves as a major Royal Canadian Air Force facility supporting NORAD operations and has repeatedly hosted Canadian and American aircraft during homeland-defence exercises. In some years, hundreds of personnel and dozens of aircraft have deployed through the base for training activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 wing</span><span class="citation-popover-snippet">Canada5 Wing Goose Bay26 May 2026 — 5 Wing Goose Bay/ CFB Goose Bay. Supports NORAD operations for projection of air power on the north a...</span></span></span>
 
 ## Were the lights part of a NORAD drill?
 
 One of the first questions investigators should ask about a Goose Bay-area UFO report is whether it coincided with a NORAD exercise window.
 
-Several modern NORAD exercises have used 5 Wing Goose Bay as a forward operating location. During Exercise VIGILANT SHIELD 15 in 2014, more than 550 military personnel and over 20 aircraft deployed to Goose Bay. NORAD itself warned that members of the public might observe military aircraft operating in close proximity to other aircraft around the base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northcom.mil/Newsroom/Press-Releases/Article/563968/norad-and-usnorthcom-exercise-to-focus-on-homeland-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Was a NORAD exercise publicly announced?">[northcom.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Was a NORAD exercise publicly announced?</span><span class="citation-popover-snippet">Open source on northcom.mil.</span></span></span>
+Several modern NORAD exercises have used 5 Wing Goose Bay as a forward operating location. During Exercise VIGILANT SHIELD 15 in 2014, more than 550 military personnel and over 20 aircraft deployed to Goose Bay. NORAD itself warned that members of the public might observe military aircraft operating in close proximity to other aircraft around the base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northcom.mil/Newsroom/Press-Releases/Article/563968/norad-and-usnorthcom-exercise-to-focus-on-homeland-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Was a NORAD exercise publicly announced?">[northcom.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Was a NORAD exercise publicly announced?</span><span class="citation-popover-snippet">Open source on northcom.mil.</span></span></span>
 
-The following year, Exercise VIGILANT SHIELD 16 brought roughly 700 personnel from Canadian and American military organisations to Goose Bay and other northern locations. The exercise was specifically designed to practise aerospace warning and air-defence missions across vast northern distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 144fw.ang.af.mil">[144fw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">144fw.ang.af.mil</span><span class="citation-popover-title">15 through Oct. 26. The VS 16 NORAD Field</span><span class="citation-popover-snippet">taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</span><span class="citation-popover-meta">Published: November 6, 2015</span></span></span>
+The following year, Exercise VIGILANT SHIELD 16 brought roughly 700 personnel from Canadian and American military organisations to Goose Bay and other northern locations. The exercise was specifically designed to practise aerospace warning and air-defence missions across vast northern distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 144fw.ang.af.mil">[144fw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">144fw.ang.af.mil</span><span class="citation-popover-title">15 through Oct. 26. The VS 16 NORAD Field</span><span class="citation-popover-snippet">taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</span><span class="citation-popover-meta">Published: November 6, 2015</span></span></span>
 
 This matters because many UFO reports are made by observers who are unaware that an exercise is underway. A witness may accurately report strange lights or unusual aircraft behaviour while misidentifying the cause. Training activity can produce observations that seem extraordinary when viewed from the ground but are routine from a military aviation perspective.
 
@@ -287,7 +287,7 @@ The existence of an exercise should therefore be treated as a factor requiring i
 
 NORAD exercises are not simply a matter of a few extra aircraft arriving at the airfield. They can temporarily change the character of Labrador's skies.
 
-Exercise deployments to Goose Bay have included fighter aircraft, support crews, command personnel and aerial-refuelling assets. Official exercise descriptions emphasise realistic homeland-defence scenarios involving intercepts, deployments and coordinated air operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northcom.mil/Newsroom/Press-Releases/Article/563968/norad-and-usnorthcom-exercise-to-focus-on-homeland-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Was a NORAD exercise publicly announced?">[northcom.mil+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Was a NORAD exercise publicly announced?</span><span class="citation-popover-snippet">Open source on northcom.mil.</span></span></span>
+Exercise deployments to Goose Bay have included fighter aircraft, support crews, command personnel and aerial-refuelling assets. Official exercise descriptions emphasise realistic homeland-defence scenarios involving intercepts, deployments and coordinated air operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northcom.mil/Newsroom/Press-Releases/Article/563968/norad-and-usnorthcom-exercise-to-focus-on-homeland-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Was a NORAD exercise publicly announced?">[northcom.mil+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Was a NORAD exercise publicly announced?</span><span class="citation-popover-snippet">Open source on northcom.mil.</span></span></span>
 
 For local observers, this can create several conditions that later complicate UFO investigations:
 
@@ -312,13 +312,13 @@ The most common source of confusion is not necessarily a fighter aircraft itself
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-2-dark.svg" | relative_url }}" alt="NORAD drills illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aerial refuelling can look unusual
 
-NORAD exercises have involved tanker aircraft such as the KC-135 Stratotanker. Photographs and official exercise material show tankers operating from Goose Bay during VIGILANT SHIELD deployments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad begins annual vigilant shield exercise</span><span class="citation-popover-snippet">NORAD begins annual VIGILANT SHIELD exercise17 Oct 2016 — NORAD&#x27;s annual VIGILANT SHIELD field training exercise. The live-fly fiel...</span></span></span>
+NORAD exercises have involved tanker aircraft such as the KC-135 Stratotanker. Photographs and official exercise material show tankers operating from Goose Bay during VIGILANT SHIELD deployments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad begins annual vigilant shield exercise</span><span class="citation-popover-snippet">NORAD begins annual VIGILANT SHIELD exercise17 Oct 2016 — NORAD&#x27;s annual VIGILANT SHIELD field training exercise. The live-fly fiel...</span></span></span>
 
 At night, a tanker and receiving aircraft can appear as a single object with multiple lights. Depending on viewing angle, the formation may seem unusually large, stationary, or oddly shaped. Witnesses unfamiliar with air-to-air refuelling can easily interpret the display as something unusual.
 
 ### Fighter formations create deceptive lighting patterns
 
-Exercise participants have included CF-18 Hornets, F-15 Eagles and F-16 Fighting Falcons. 144fw.ang.af.mil+2co.ng.mil <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 144fw.ang.af.mil">[144fw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">144fw.ang.af.mil</span><span class="citation-popover-title">15 through Oct. 26. The VS 16 NORAD Field</span><span class="citation-popover-snippet">taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</span><span class="citation-popover-meta">Published: November 6, 2015</span></span></span>
+Exercise participants have included CF-18 Hornets, F-15 Eagles and F-16 Fighting Falcons. 144fw.ang.af.mil+2co.ng.mil<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 144fw.ang.af.mil">[144fw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">144fw.ang.af.mil</span><span class="citation-popover-title">15 through Oct. 26. The VS 16 NORAD Field</span><span class="citation-popover-snippet">taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</span><span class="citation-popover-meta">Published: November 6, 2015</span></span></span>
 
 Viewed from many kilometres away, several fighters flying in formation may appear as one object. As aircraft change relative positions, lights can seem to merge, separate or accelerate. These visual effects frequently appear in UFO reports worldwide and are particularly relevant in military training areas.
 
@@ -327,7 +327,7 @@ Viewed from many kilometres away, several fighters flying in formation may appea
 
 ### Radar and air-defence activity remain largely invisible
 
-A further complication is that the public rarely sees the full operational picture. NORAD exercises involve command-and-control systems, radar tracking and coordination across large regions of Canadian and American airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[norad.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">oose Bay, Inuvik, N.W.T...</span></span></span>
+A further complication is that the public rarely sees the full operational picture. NORAD exercises involve command-and-control systems, radar tracking and coordination across large regions of Canadian and American airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[norad.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">oose Bay, Inuvik, N.W.T...</span></span></span>
 
 As a result, witnesses may observe only a fragment of a larger operation. An apparently isolated light or aircraft manoeuvre could be connected to an intercept scenario or training mission occurring beyond the observer's awareness.
 
@@ -338,9 +338,9 @@ As a result, witnesses may observe only a fragment of a larger operation. An app
 
 Goose Bay's geography amplifies these problems.
 
-The base supports NORAD operations protecting the north-eastern approaches to North America and offers access to vast training airspace. Military and civilian aviation share the region, while the surrounding landscape contains large areas with few lights and limited population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 wing</span><span class="citation-popover-snippet">Canada5 Wing Goose Bay26 May 2026 — 5 Wing Goose Bay/ CFB Goose Bay. Supports NORAD operations for projection of air power on the north a...</span></span></span>
+The base supports NORAD operations protecting the north-eastern approaches to North America and offers access to vast training airspace. Military and civilian aviation share the region, while the surrounding landscape contains large areas with few lights and limited population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 wing</span><span class="citation-popover-snippet">Canada5 Wing Goose Bay26 May 2026 — 5 Wing Goose Bay/ CFB Goose Bay. Supports NORAD operations for projection of air power on the north a...</span></span></span>
 
-Historically, Labrador also hosted extensive low-level military flying. During the Cold War and afterwards, allied air forces used Labrador's enormous training areas for tactical flight operations. Thousands of low-level sorties were conducted annually during peak periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFB Goose Bay</span><span class="citation-popover-snippet">CFB Goose Bay</span></span></span>
+Historically, Labrador also hosted extensive low-level military flying. During the Cold War and afterwards, allied air forces used Labrador's enormous training areas for tactical flight operations. Thousands of low-level sorties were conducted annually during peak periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFB Goose Bay</span><span class="citation-popover-snippet">CFB Goose Bay</span></span></span>
 
 For UFO researchers, this creates a distinctive environment:
 
@@ -385,194 +385,194 @@ NORAD exercises do not solve the UFO question around Goose Bay, but they do expl
 For historians of Newfoundland and Labrador UFO reports, the most useful lesson is methodological rather than sensational. A sighting near Goose Bay cannot be understood properly without checking what was happening in the airspace at the time. In a region shaped by decades of military flying and NORAD activity, the question “Was there an exercise underway?” is often as important as the sighting itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the lights part of a NORAD drill?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the lights part of a NORAD drill?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides accessible insight into military aircraft development and operations often discussed in airspace mystery and defense contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible insight into military aircraft development and operations often discussed in airspace mystery and defense contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes careful evaluation of military activity, radar reports, and witness testimony before reaching conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes careful evaluation of military activity, radar reports, and witness testimony before reaching conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains North American defense infrastructure, strategic command systems, and military operational procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains North American defense infrastructure, strategic command systems, and military operational procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how secret military programs and exercises can influence public interpretations of unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secret military programs and exercises can influence public interpretations of unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="norad-drills-were-the-lights-part-of-a-norad-drill-newfoundland-and-labrador-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,105 +778,105 @@ For historians of Newfoundland and Labrador UFO reports, the most useful lesson 
 
 ## Endnotes
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: 144fw.ang.af.mil  
    Title: 15 through Oct. 26. The VS 16 NORAD Field  
-   Link: <a href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</p></details>
+   Link:<a href="https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.144fw.ang.af.mil/News/Article-Display/Article/865345/taking-off-to-the-great-white-north/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>taking off to the great white north - 144th Fighter Wing - Air ForceNovember 6, 2015 — 6 Nov 2015 — Exercise Vigilant Shield 16 exercise...</p></details>
    Published: November 6, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oose Bay, Inuvik, N.W.T...</p></details>
+   Link:<a href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oose Bay, Inuvik, N.W.T...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: norad begins annual vigilant shield exercise  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD begins annual VIGILANT SHIELD exercise17 Oct 2016 — NORAD&#x27;s annual VIGILANT SHIELD field training exercise. The live-fly fiel...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2016/10/norad-begins-annual-vigilant-shield-exercise.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD begins annual VIGILANT SHIELD exercise17 Oct 2016 — NORAD&#x27;s annual VIGILANT SHIELD field training exercise. The live-fly fiel...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: co.ng.mil  
    Title: colorado air national guard fighter wing builds readiness with canadian partner  
-   Link: <a href="https://co.ng.mil/News/Archives/Article/2413385/colorado-air-national-guard-fighter-wing-builds-readiness-with-canadian-partner/" target="_blank" rel="noopener noreferrer nofollow">https://co.ng.mil/News/Archives/Article/2413385/colorado-air-national-guard-fighter-wing-builds-readiness-with-canadian-partner/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By Senior Master Sgt. John Rohrer, Colorado...Read more...</p></details>
+   Link:<a href="https://co.ng.mil/News/Archives/Article/2413385/colorado-air-national-guard-fighter-wing-builds-readiness-with-canadian-partner/" target="_blank" rel="noopener noreferrer nofollow">https://co.ng.mil/News/Archives/Article/2413385/colorado-air-national-guard-fighter-wing-builds-readiness-with-canadian-partner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Senior Master Sgt. John Rohrer, Colorado...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: CFB Goose Bay  
-   Link: <a href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Goose_Bay</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Goose_Bay</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: norad.mil  
    Title: training together to better protect the north  
-   Link: <a href="https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Oct 2015 — &quot;The exercise certainly allowed 5 Wing Goose Bay and Iqaluit to demonstrate their ability to serve as valuable operating si...</p></details>
+   Link:<a href="https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Oct 2015 — &quot;The exercise certainly allowed 5 Wing Goose Bay and Iqaluit to demonstrate their ability to serve as valuable operating si...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2001984905/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2001984905/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOW PASSA U.S. Air Force F-15 Eagle takes flight during exercise Vigilant Shield 15 from 5 Wing Goose Bay Air Base, Newfoundland and Labr...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Photos/igphoto/2001984905/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2001984905/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOW PASSA U.S. Air Force F-15 Eagle takes flight during exercise Vigilant Shield 15 from 5 Wing Goose Bay Air Base, Newfoundland and Labr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: goosebayairport.com  
-   Link: <a href="https://goosebayairport.com/corporate/community-5-wing/" target="_blank" rel="noopener noreferrer nofollow">https://goosebayairport.com/corporate/community-5-wing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Wing offers a unique and demanding training environment for joint and combined exercises.Read more...</p></details>
+   Link:<a href="https://goosebayairport.com/corporate/community-5-wing/" target="_blank" rel="noopener noreferrer nofollow">https://goosebayairport.com/corporate/community-5-wing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Wing offers a unique and demanding training environment for joint and combined exercises.Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skiesmag.com  
-   Link: <a href="https://skiesmag.com/press-releases/binationalnoradexercisewrapsup/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/press-releases/binationalnoradexercisewrapsup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bi-national NORAD exercise wraps upThe Canadian NORAD Region (CANR) hosted the flying portion of the exercise at 5 Wing Goose Bay, N.L...</p></details>
+   Link:<a href="https://skiesmag.com/press-releases/binationalnoradexercisewrapsup/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/press-releases/binationalnoradexercisewrapsup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bi-national NORAD exercise wraps upThe Canadian NORAD Region (CANR) hosted the flying portion of the exercise at 5 Wing Goose Bay, N.L...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/news/146315/us-and-canadian-forces-join-first-live-fly-homeland-security-exercise-since-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/146315/us-and-canadian-forces-join-first-live-fly-homeland-security-exercise-since-cold-war</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US and Canadian forces join for first live-fly homeland...28 Oct 2014 — Vigilant Shield 15 at 5 Wing Goose Bay, Newfoundland and Labrado...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/146315/us-and-canadian-forces-join-first-live-fly-homeland-security-exercise-since-cold-war" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/146315/us-and-canadian-forces-join-first-live-fly-homeland-security-exercise-since-cold-war</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US and Canadian forces join for first live-fly homeland...28 Oct 2014 — Vigilant Shield 15 at 5 Wing Goose Bay, Newfoundland and Labrado...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/VoussouvenezvousPA/posts/2817632568395934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VoussouvenezvousPA/posts/2817632568395934/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Father James Branch, November 23, 1944 from the Prairie...Father James Branch, November 23, 1944 from the Prairie Optimist...</p></details>
+   Link:<a href="https://www.facebook.com/groups/VoussouvenezvousPA/posts/2817632568395934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VoussouvenezvousPA/posts/2817632568395934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Father James Branch, November 23, 1944 from the Prairie...Father James Branch, November 23, 1944 from the Prairie Optimist...</p></details>
    Published: November 23, 1944  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: both canadian and us aircraft were scrambled to track down the object  
-   Link: <a href="https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Canadian and US aircraft were scrambled to track...Pilots of 2 planes UFO Encounter Goose Bay AFB, Labrador, Canada, 1953 F-94 Purs...</p></details>
+   Link:<a href="https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both Canadian and US aircraft were scrambled to track...Pilots of 2 planes UFO Encounter Goose Bay AFB, Labrador, Canada, 1953 F-94 Purs...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: finance.yahoo.com  
    Title: annual norad exercise commences labrador 150000690  
-   Link: <a href="https://finance.yahoo.com/news/annual-norad-exercise-commences-labrador-150000690.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/annual-norad-exercise-commences-labrador-150000690.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Exercise Commences in Labrador16 Oct 2014 — Exercise VIGILANT SHIELD will see approximately 550 personnel from both Canada and the...</p></details>
+   Link:<a href="https://finance.yahoo.com/news/annual-norad-exercise-commences-labrador-150000690.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/annual-norad-exercise-commences-labrador-150000690.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Exercise Commences in Labrador16 Oct 2014 — Exercise VIGILANT SHIELD will see approximately 550 personnel from both Canada and the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newfoundlandtea.substack.com  
-   Link: <a href="https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo" target="_blank" rel="noopener noreferrer nofollow">https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Is Closer Here: UFO Files of Newfoundland...What he sees will become the most famous UFO sighting in Newfoundland&#x27;s history...</p></details>
+   Link:<a href="https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo" target="_blank" rel="noopener noreferrer nofollow">https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Is Closer Here: UFO Files of Newfoundland...What he sees will become the most famous UFO sighting in Newfoundland&#x27;s history...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: helencescott.com  
    Title: are ufo s observing rcmp officers in nl  
-   Link: <a href="https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl" target="_blank" rel="noopener noreferrer nofollow">https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFO&#x27;s Observing RCMP Officers in NL?20 Oct 2020 — UFO&#x27;s are no strangers to Newfoundland and Labrador. As a matter of fact, the UFOs...</p></details>
+   Link:<a href="https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl" target="_blank" rel="noopener noreferrer nofollow">https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFO&#x27;s Observing RCMP Officers in NL?20 Oct 2020 — UFO&#x27;s are no strangers to Newfoundland and Labrador. As a matter of fact, the UFOs...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Happy Valley-Goose Bay welcomes federal investment at 5 Wing Goose Bay...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Happy Valley-Goose Bay welcomes federal investment at 5 Wing Goose Bay...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: productofnewfoundland.ca  
    Title: ufos of newfoundland  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — Outer Space to Outer Cove: Newfoundland UFOs · [Gander](&amp;#123;&amp;#123; &#x27;gander/&#x27; | relative_url &amp;#125;&amp;#125;) Incident, 1951 · Random I...</p></details>
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — Outer Space to Outer Cove: Newfoundland UFOs · [Gander](&amp;#123;&amp;#123; &#x27;gander/&#x27; | relative_url &amp;#125;&amp;#125;) Incident, 1951 · Random I...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: the 5 wing base in happy valley goose bay took part in operation noble defender  
-   Link: <a href="https://www.facebook.com/labradormorning/posts/the-5-wing-base-in-happy-valley-goose-bay-took-part-in-operation-noble-defender-/10166208714220613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/the-5-wing-base-in-happy-valley-goose-bay-took-part-in-operation-noble-defender-/10166208714220613/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Operation takes place multiple times a year...</p></details>
+   Link:<a href="https://www.facebook.com/labradormorning/posts/the-5-wing-base-in-happy-valley-goose-bay-took-part-in-operation-noble-defender-/10166208714220613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/the-5-wing-base-in-happy-valley-goose-bay-took-part-in-operation-noble-defender-/10166208714220613/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Operation takes place multiple times a year...</p></details>

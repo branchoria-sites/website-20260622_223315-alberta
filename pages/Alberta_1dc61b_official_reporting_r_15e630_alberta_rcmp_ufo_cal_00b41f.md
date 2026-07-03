@@ -256,21 +256,21 @@ image: /assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_uf
 
 ## Introduction
 
-Alberta RCMP UFO calls are useful [records]({{ 'records/' | relative_url }}), but they are easy to misread. They usually show that someone reported an unusual sky sighting to police, not that police confirmed an unexplained object. That distinction matters because many Alberta reports begin as public-safety calls: a light over a road, a suspected drone, a bright meteor, a line of [satellites]({{ 'satellites/' | relative_url }}), or a possible aviation hazard. Canada’s Sky Canada review found that the RCMP generally does not investigate UAP sightings unless they connect to public safety or criminal investigation, and that it has no formal UAP-specific collection or dissemination policy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Currently, the RCMP</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</span></span></span>
+Alberta RCMP UFO calls are useful [records]({{ 'records/' | relative_url }}), but they are easy to misread. They usually show that someone reported an unusual sky sighting to police, not that police confirmed an unexplained object. That distinction matters because many Alberta reports begin as public-safety calls: a light over a road, a suspected drone, a bright meteor, a line of [satellites]({{ 'satellites/' | relative_url }}), or a possible aviation hazard. Canada’s Sky Canada review found that the RCMP generally does not investigate UAP sightings unless they connect to public safety or criminal investigation, and that it has no formal UAP-specific collection or dissemination policy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Currently, the RCMP</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-1-dark.svg" | relative_url }}" alt="RCMP Calls illustration 1" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What an RCMP UFO call usually preserves
 
-An RCMP call normally preserves the fact of contact: a person called, gave a location or approximate area, described something unusual, and may have prompted a dispatcher or detachment to decide whether police, fire, emergency medical services or another agency needed to respond. In [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }}), that matters because RCMP operational communications centres support detachments and satellite offices across the province’s RCMP-policed communities around the clock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[RCMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">alberta operational communications centres</span><span class="citation-popover-snippet">Alberta Operational Communications Centres29 Aug 2025 — These centres provide support to 136 detachments and satellite offices throug...</span></span></span>
+An RCMP call normally preserves the fact of contact: a person called, gave a location or approximate area, described something unusual, and may have prompted a dispatcher or detachment to decide whether police, fire, emergency medical services or another agency needed to respond. In [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }}), that matters because RCMP operational communications centres support detachments and satellite offices across the province’s RCMP-policed communities around the clock.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[RCMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">alberta operational communications centres</span><span class="citation-popover-snippet">Alberta Operational Communications Centres29 Aug 2025 — These centres provide support to 136 detachments and satellite offices throug...</span></span></span>
 
 The record is therefore strongest as public-safety evidence. It may help establish when a sighting entered an official channel, whether other callers reported the same thing, whether there was an immediate hazard, and whether the matter was passed elsewhere. It is much weaker as physical evidence. Unless a call led to a detailed investigation, photographs, radar data, aircraft checks, weather review or witness follow-up, it cannot do much more than preserve a reported observation.
 
-This is why the wording around “official” records needs care. The RCMP’s own records systems are designed around policing occurrences, investigations and people who come into contact with police, not around scientific classification of aerial phenomena. The Office of the Privacy Commissioner has described PROS, the RCMP’s Police Reporting and Occurrence System, as a complete occurrence and records management system used from initial report to final disposition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priv.gc.ca">[Office of the Privacy Commissioner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priv.gc.ca</span><span class="citation-popover-title">ar vr rcmp 2011</span><span class="citation-popover-snippet">Office of the Privacy CommissionerAudit of Selected RCMP Operational Databases17 Nov 2011 — PROS is a complete occurrence and records man...</span></span></span> A UFO call may enter that kind of policing environment, but it does not become a scientific case file simply by doing so.
+This is why the wording around “official” records needs care. The RCMP’s own records systems are designed around policing occurrences, investigations and people who come into contact with police, not around scientific classification of aerial phenomena. The Office of the Privacy Commissioner has described PROS, the RCMP’s Police Reporting and Occurrence System, as a complete occurrence and records management system used from initial report to final disposition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: priv.gc.ca">[Office of the Privacy Commissioner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">priv.gc.ca</span><span class="citation-popover-title">ar vr rcmp 2011</span><span class="citation-popover-snippet">Office of the Privacy CommissionerAudit of Selected RCMP Operational Databases17 Nov 2011 — PROS is a complete occurrence and records man...</span></span></span> A UFO call may enter that kind of policing environment, but it does not become a scientific case file simply by doing so.
 
 ## Why police categories can hide later searches
 
-The public-safety record problem begins with classification. A caller may say “UFO”, but the event may be logged under a broader category if the practical issue is a suspected aircraft problem, drone activity, suspicious activity, public assistance, a non-criminal occurrence, or an aviation-related concern. Sky Canada’s report is blunt on this point: the RCMP receives UAP reports from the public, but generally does not investigate them as UAPs because its operational focus is public safety and criminal investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Currently, the RCMP</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</span></span></span>
+The public-safety record problem begins with classification. A caller may say “UFO”, but the event may be logged under a broader category if the practical issue is a suspected aircraft problem, drone activity, suspicious activity, public assistance, a non-criminal occurrence, or an aviation-related concern. Sky Canada’s report is blunt on this point: the RCMP receives UAP reports from the public, but generally does not investigate them as UAPs because its operational focus is public safety and criminal investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Currently, the RCMP</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</span></span></span>
 
 That creates a retrieval problem years later. A researcher searching for “UFO” may miss records that were never labelled that way. A police search may also depend on which records system, detachment, date range, keyword, occurrence type or disclosure route is used. A file can exist while still being hard to find as a UFO file.
 
@@ -281,11 +281,11 @@ This is not a uniquely Alberta problem, but Alberta makes it visible because RCM
 
 ## The 2021 Alberta calls show the pattern clearly
 
-A widely reported 2021 Canadian Press story described Alberta RCMP 911 dispatchers fielding unusual UFO-themed calls during the pandemic period, when more people were outside and looking at the night sky. The same report noted that Alberta’s RCMP call centres had received nearly 900,000 calls the previous year, and that the memorable UFO-style calls were among the unusual ones that did not require police, fire or emergency medical services to be sent out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-title">City News Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — The Alberta centres received nea...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+A widely reported 2021 Canadian Press story described Alberta RCMP 911 dispatchers fielding unusual UFO-themed calls during the pandemic period, when more people were outside and looking at the night sky. The same report noted that Alberta’s RCMP call centres had received nearly 900,000 calls the previous year, and that the memorable UFO-style calls were among the unusual ones that did not require police, fire or emergency medical services to be sent out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-title">City News Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — The Alberta centres received nea...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
-That detail is more important than the playful headline. It suggests these calls were noteworthy as dispatch experiences, not as confirmed anomalous events. The report also pointed to ordinary sky explanations then affecting public perception, including a comet fragment that lit up the sky over Alberta and Saskatchewan and a wider pandemic-era rise in Canadian UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lethbridgenewsnow.com">[Lethbridge News Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lethbridgenewsnow.com</span><span class="citation-popover-snippet">Open source on lethbridgenewsnow.com.</span></span></span>
+That detail is more important than the playful headline. It suggests these calls were noteworthy as dispatch experiences, not as confirmed anomalous events. The report also pointed to ordinary sky explanations then affecting public perception, including a comet fragment that lit up the sky over Alberta and Saskatchewan and a wider pandemic-era rise in Canadian UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lethbridgenewsnow.com">[Lethbridge News Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lethbridgenewsnow.com</span><span class="citation-popover-snippet">Open source on lethbridgenewsnow.com.</span></span></span>
 
-The same period saw other Alberta sky confusions. In late 2019, Global News reported that bright lights seen around Edmonton were explained by a scientist as identifiable astronomical or satellite-related events rather than UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Bright lights above Edmonton aren&#x27;t UFOs, says scientist</span><span class="citation-popover-snippet">Global News Bright lights above Edmonton aren&#x27;t UFOs, says scientist</span></span></span> This does not explain every Alberta report, but it shows the kind of environment in which police calls arise: many witnesses are sincere, the sighting can be striking, and the explanation may still be ordinary.
+The same period saw other Alberta sky confusions. In late 2019, Global News reported that bright lights seen around Edmonton were explained by a scientist as identifiable astronomical or satellite-related events rather than UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Bright lights above Edmonton aren&#x27;t UFOs, says scientist</span><span class="citation-popover-snippet">Global News Bright lights above Edmonton aren&#x27;t UFOs, says scientist</span></span></span> This does not explain every Alberta report, but it shows the kind of environment in which police calls arise: many witnesses are sincere, the sighting can be striking, and the explanation may still be ordinary.
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-2-dark.svg" | relative_url }}" alt="RCMP Calls illustration 2" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -293,7 +293,7 @@ The same period saw other Alberta sky confusions. In late 2019, Global News repo
 
 News stories about RCMP UFO calls often make the record sound stronger than it is. A headline about police receiving UFO calls can feel like official confirmation that something extraordinary occurred. In reality, the official part may only be the call itself. The RCMP record may not contain a technical investigation, and the absence of a clear explanation in a dispatch note does not mean no explanation existed.
 
-Transport Canada has made a similar caution about aviation records: in CADORS, the term “UFO” can include drones, balloons, meteors, weather phenomena, birds and other unidentified objects, and should not be read as extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span> The same reading discipline applies to police records. “Unidentified” often means unidentified by the caller, dispatcher or initial record, not permanently unexplained after expert review.
+Transport Canada has made a similar caution about aviation records: in CADORS, the term “UFO” can include drones, balloons, meteors, weather phenomena, birds and other unidentified objects, and should not be read as extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span> The same reading discipline applies to police records. “Unidentified” often means unidentified by the caller, dispatcher or initial record, not permanently unexplained after expert review.
 
 For Alberta UFO history, the best use of RCMP call material is therefore modest but valuable. It can show where public concern surfaced, how sky events moved into official systems, and why some reports survive as police traces rather than full investigations. It cannot, on its own, carry the weight of a major unexplained case.
 
@@ -335,194 +335,194 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why RCMP UFO Calls Can Be Hard to Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why RCMP UFO Calls Can Be Hard to Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reports are categorized and why witness reports alone rarely resolve cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports are categorized and why witness reports alone rarely resolve cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Illustrates how witness testimony, official records, and later interpretations can diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how witness testimony, official records, and later interpretations can diverge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on government, military, and official-source UFO cases, matching the record-keeping theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government, military, and official-source UFO cases, matching the record-keeping theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Centers on official reporting, investigation procedures, and limitations of case records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on official reporting, investigation procedures, and limitations of case records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="rcmp-calls-why-rcmp-ufo-calls-can-be-hard-to-read-alberta-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,189 +728,189 @@ The balanced conclusion is simple: Alberta RCMP UFO calls are evidence of report
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.gc.ca  
    Title: Currently, the RCMP  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...However, the RCMP generally does not investigate UAP sightings, as its operation...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rcmp.ca  
    Title: alberta operational communications centres  
-   Link: <a href="https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta Operational Communications Centres29 Aug 2025 — These centres provide support to 136 detachments and satellite offices throug...</p></details>
+   Link:<a href="https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/alberta/careers/9-1-1-police-dispatchers/alberta-operational-communications-centres</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta Operational Communications Centres29 Aug 2025 — These centres provide support to 136 detachments and satellite offices throug...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: calgary.citynews.ca  
    Title: City News Calgary'Aliens are coming': Alberta RCMP 911 dispatchers fielding  
-   Link: <a href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — The Alberta centres received nea...</p></details>
+   Link:<a href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — The Alberta centres received nea...</p></details>
    Published: May 2, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rcmp.ca  
-   Link: <a href="https://rcmp.ca/en/corporate-information/access-information-and-privacy/info-source/rcmp-specific-classes-records" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/corporate-information/access-information-and-privacy/info-source/rcmp-specific-classes-records</a>  
+   Link:<a href="https://rcmp.ca/en/corporate-information/access-information-and-privacy/info-source/rcmp-specific-classes-records" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/corporate-information/access-information-and-privacy/info-source/rcmp-specific-classes-records</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rcmp.ca  
-   Link: <a href="https://rcmp.ca/en" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en</a>  
+   Link:<a href="https://rcmp.ca/en" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rcmp.ca  
-   Link: <a href="https://www.rcmp.ca/en/corporate-information/publications-and-manuals/national-technology-onboarding-program-transparency-blueprint" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmp.ca/en/corporate-information/publications-and-manuals/national-technology-onboarding-program-transparency-blueprint</a>  
+   Link:<a href="https://www.rcmp.ca/en/corporate-information/publications-and-manuals/national-technology-onboarding-program-transparency-blueprint" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmp.ca/en/corporate-information/publications-and-manuals/national-technology-onboarding-program-transparency-blueprint</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gc.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.gc.ca  
    Title: report sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.gc.ca  
    Title: past surveys  
-   Link: <a href="https://science.gc.ca/site/science/en/educational-resources/canadas-extended-continental-shelf-program/past-surveys/2011" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/educational-resources/canadas-extended-continental-shelf-program/past-surveys/2011</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/educational-resources/canadas-extended-continental-shelf-program/past-surveys/2011" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/educational-resources/canadas-extended-continental-shelf-program/past-surveys/2011</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: northants.police.uk  
    Title: foi 1266 25 uap and ufo reports  
-   Link: <a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/</a>  
+   Link:<a href="https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.northants.police.uk/foi-ai/northamptonshire-police/disclosure-logs/2025/february/foi-1266-25-uap-and-ufo-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: search.open.canada.ca  
    Title: ca Royal Canadian Mounted Police  
-   Link: <a href="https://search.open.canada.ca/opendata/similar/2423c7e6-86b9-4845-98ea-98c2e18109cd?html=" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/opendata/similar/2423c7e6-86b9-4845-98ea-98c2e18109cd?html=</a>  
+   Link:<a href="https://search.open.canada.ca/opendata/similar/2423c7e6-86b9-4845-98ea-98c2e18109cd?html=" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/opendata/similar/2423c7e6-86b9-4845-98ea-98c2e18109cd?html=</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tc.canada.ca  
    Title: civil aviation daily occurrence reporting system cadors  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.alberta.ca  
    Title: ca Alberta Provincial Policing Standards  
-   Link: <a href="https://open.alberta.ca/dataset/c47786b1-20f9-485d-8e98-3a539acf9479/resource/61ad269b-4f30-486a-9177-4f7606cc5940/download/pses-alberta-provincial-policing-standards-version-2-4-2024-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.alberta.ca/dataset/c47786b1-20f9-485d-8e98-3a539acf9479/resource/61ad269b-4f30-486a-9177-4f7606cc5940/download/pses-alberta-provincial-policing-standards-version-2-4-2024-07.pdf</a>  
+   Link:<a href="https://open.alberta.ca/dataset/c47786b1-20f9-485d-8e98-3a539acf9479/resource/61ad269b-4f30-486a-9177-4f7606cc5940/download/pses-alberta-provincial-policing-standards-version-2-4-2024-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.alberta.ca/dataset/c47786b1-20f9-485d-8e98-3a539acf9479/resource/61ad269b-4f30-486a-9177-4f7606cc5940/download/pses-alberta-provincial-policing-standards-version-2-4-2024-07.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: calgary.citynews.ca  
    Title: alberta ufo sightings  
-   Link: <a href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/</a>  
+   Link:<a href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: priv.gc.ca  
    Title: ar vr rcmp 2011  
-   Link: <a href="https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow">https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Privacy CommissionerAudit of Selected RCMP Operational Databases17 Nov 2011 — PROS is a complete occurrence and records man...</p></details>
+   Link:<a href="https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow">https://www.priv.gc.ca/en/opc-actions-and-decisions/audits/ar-vr_rcmp_2011/?wbdisable=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Privacy CommissionerAudit of Selected RCMP Operational Databases17 Nov 2011 — PROS is a complete occurrence and records man...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lethbridgenewsnow.com  
-   Link: <a href="https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/" target="_blank" rel="noopener noreferrer nofollow">https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/</a>  
+   Link:<a href="https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/" target="_blank" rel="noopener noreferrer nofollow">https://lethbridgenewsnow.com/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings-2/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globalnews.ca  
    Title: Global News Bright lights above Edmonton aren't UFOs, says scientist  
-   Link: <a href="https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/</a>  
+   Link:<a href="https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6350178/edmonton-bright-lights-moon-venus/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: globalnews.ca  
    Title: alberta rcmp ufo sightings  
-   Link: <a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
+   Link:<a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/tag/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/tag/ufo-sightings/</a>  
+   Link:<a href="https://globalnews.ca/tag/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/tag/ufo-sightings/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/6350468/bright-lights-above-edmonton-arent-ufos-scientist" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/6350468/bright-lights-above-edmonton-arent-ufos-scientist</a>  
+   Link:<a href="https://globalnews.ca/video/6350468/bright-lights-above-edmonton-arent-ufos-scientist" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/6350468/bright-lights-above-edmonton-arent-ufos-scientist</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/tag/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/tag/alberta-ufo-sightings/</a>  
+   Link:<a href="https://globalnews.ca/tag/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/tag/alberta-ufo-sightings/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: globalnews.ca  
    Title: canadian ufo sightings aliens covid 19  
-   Link: <a href="https://globalnews.ca/news/7993486/canadian-ufo-sightings-aliens-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7993486/canadian-ufo-sightings-aliens-covid-19/</a>  
+   Link:<a href="https://globalnews.ca/news/7993486/canadian-ufo-sightings-aliens-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7993486/canadian-ufo-sightings-aliens-covid-19/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: globalnews.ca  
    Title: ufo sightings in canada 2025  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXNRNbDknC7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNRNbDknC7/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXNRNbDknC7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNRNbDknC7/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: UFO caught on police dash cam in Canada | Official police video  
-   Link: <a href="https://www.youtube.com/watch?v=06FxdwMatqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06FxdwMatqo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=06FxdwMatqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06FxdwMatqo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: the Sky Canada Project Report Preview (with Chris Rutkowski)  
-   Link: <a href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QGf_HpSxhM8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: How Canada tracks UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QGf_HpSxhM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QGf_HpSxhM8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: How Canada tracks UFOs...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rcmpns/videos/rcmpns-911-dispatchers-answer-your-calls-365-days-a-year-24-hours-a-day-seven-da/1281953366631438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rcmpns/videos/rcmpns-911-dispatchers-answer-your-calls-365-days-a-year-24-hours-a-day-seven-da/1281953366631438/</a>  
+   Link:<a href="https://www.facebook.com/rcmpns/videos/rcmpns-911-dispatchers-answer-your-calls-365-days-a-year-24-hours-a-day-seven-da/1281953366631438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rcmpns/videos/rcmpns-911-dispatchers-answer-your-calls-365-days-a-year-24-hours-a-day-seven-da/1281953366631438/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RCMPinAlberta/videos/behind-every-call-for-help-is-a-dispatcher-making-a-difference-this-week-we-reco/736711876104401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCMPinAlberta/videos/behind-every-call-for-help-is-a-dispatcher-making-a-difference-this-week-we-reco/736711876104401/</a>  
+   Link:<a href="https://www.facebook.com/RCMPinAlberta/videos/behind-every-call-for-help-is-a-dispatcher-making-a-difference-this-week-we-reco/736711876104401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCMPinAlberta/videos/behind-every-call-for-help-is-a-dispatcher-making-a-difference-this-week-we-reco/736711876104401/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: barrietoday.com  
-   Link: <a href="https://www.barrietoday.com/around-ontario/covid-19-survey-suggests-canadians-looked-to-the-skies-saw-more-ufos-during-pandemic-3590602" target="_blank" rel="noopener noreferrer nofollow">https://www.barrietoday.com/around-ontario/covid-19-survey-suggests-canadians-looked-to-the-skies-saw-more-ufos-during-pandemic-3590602</a>  
+   Link:<a href="https://www.barrietoday.com/around-ontario/covid-19-survey-suggests-canadians-looked-to-the-skies-saw-more-ufos-during-pandemic-3590602" target="_blank" rel="noopener noreferrer nofollow">https://www.barrietoday.com/around-ontario/covid-19-survey-suggests-canadians-looked-to-the-skies-saw-more-ufos-during-pandemic-3590602</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rcmpgrc/posts/during-national-public-safety-telecommunicators-week-the-royal-canadian-mounted-/10159130546203917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rcmpgrc/posts/during-national-public-safety-telecommunicators-week-the-royal-canadian-mounted-/10159130546203917/</a>  
+   Link:<a href="https://www.facebook.com/rcmpgrc/posts/during-national-public-safety-telecommunicators-week-the-royal-canadian-mounted-/10159130546203917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rcmpgrc/posts/during-national-public-safety-telecommunicators-week-the-royal-canadian-mounted-/10159130546203917/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2025/grc-rcmp/PS64-240-2024-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2025/grc-rcmp/PS64-240-2024-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2025/grc-rcmp/PS64-240-2024-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2025/grc-rcmp/PS64-240-2024-eng.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQFSsCJk58M/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQFSsCJk58M/</a>  
+   Link:<a href="https://www.instagram.com/p/DQFSsCJk58M/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQFSsCJk58M/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RCMPinAlberta/posts/didyouknow-alberta-rcmp-has-two-provincial-operational-communications-centres-in/1487396512953394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCMPinAlberta/posts/didyouknow-alberta-rcmp-has-two-provincial-operational-communications-centres-in/1487396512953394/</a>  
+   Link:<a href="https://www.facebook.com/RCMPinAlberta/posts/didyouknow-alberta-rcmp-has-two-provincial-operational-communications-centres-in/1487396512953394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCMPinAlberta/posts/didyouknow-alberta-rcmp-has-two-provincial-operational-communications-centres-in/1487396512953394/</a>  

@@ -280,39 +280,39 @@ image: /assets/images/Manitoba_c1a386_falcon_lake_case_34721b-overview-social.jp
 
 ## Introduction
 
-Falcon Lake remains [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s landmark UFO case because it is not just a strange story. On 20 May 1967, Winnipeg mechanic and amateur prospector Stefan Michalak said he encountered two unusual objects near Falcon Lake in Whiteshell Provincial Park, about 150 kilometres east of Winnipeg; one allegedly landed, he approached it, and a blast of hot air or gas left him burned and ill. The case matters because it produced a larger evidence trail than most UFO reports: police statements, Royal Canadian Air Force involvement, medical observations, clothing and soil samples, [radiation]({{ 'radiation/' | relative_url }}) testing, and later archival preservation. None of that proves an alien craft. It does mean the Falcon Lake incident cannot be dismissed as only campfire folklore. The unresolved question is narrower and more interesting: what evidence genuinely survives, and where do the doubts still bite? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
+Falcon Lake remains [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s landmark UFO case because it is not just a strange story. On 20 May 1967, Winnipeg mechanic and amateur prospector Stefan Michalak said he encountered two unusual objects near Falcon Lake in Whiteshell Provincial Park, about 150 kilometres east of Winnipeg; one allegedly landed, he approached it, and a blast of hot air or gas left him burned and ill. The case matters because it produced a larger evidence trail than most UFO reports: police statements, Royal Canadian Air Force involvement, medical observations, clothing and soil samples, [radiation]({{ 'radiation/' | relative_url }}) testing, and later archival preservation. None of that proves an alien craft. It does mean the Falcon Lake incident cannot be dismissed as only campfire folklore. The unresolved question is narrower and more interesting: what evidence genuinely survives, and where do the doubts still bite?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-overview.webp" | relative_url }}" alt="Overview image for Falcon Lake" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1967 encounter claim
 
-Michalak’s account began as a practical outdoor trip rather than a skywatching exercise. Library and [Archives]({{ 'archives/' | relative_url }}) Canada describes him as a mechanic and amateur geologist who had gone prospecting for quartz and silver in the Falcon Lake area on the May long weekend. According to the later account preserved in the archives discussion, he was working near a quartz vein after lunch when disturbed geese drew his attention upward and he saw two glowing objects descending. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
+Michalak’s account began as a practical outdoor trip rather than a skywatching exercise. Library and [Archives]({{ 'archives/' | relative_url }}) Canada describes him as a mechanic and amateur geologist who had gone prospecting for quartz and silver in the Falcon Lake area on the May long weekend. According to the later account preserved in the archives discussion, he was working near a quartz vein after lunch when disturbed geese drew his attention upward and he saw two glowing objects descending.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
 
-The claim then moved from a distant sighting to a close encounter. One object reportedly landed roughly within walking distance, while the other departed. Michalak said the landed object changed colour, appeared metallic, and gave off heat. In some versions of the account he described an opening, bright light, air-hissing sounds and human-like voices; he reportedly tried to speak in several languages but received no response. The important point for evidence is that Michalak did not frame the object primarily as an alien craft. Later researchers at Library and Archives Canada emphasise that he leaned towards a man-made or military explanation, which complicates the popular version of the story as a simple “spaceship” claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration</span><span class="citation-popover-snippet">When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</span></span></span>
+The claim then moved from a distant sighting to a close encounter. One object reportedly landed roughly within walking distance, while the other departed. Michalak said the landed object changed colour, appeared metallic, and gave off heat. In some versions of the account he described an opening, bright light, air-hissing sounds and human-like voices; he reportedly tried to speak in several languages but received no response. The important point for evidence is that Michalak did not frame the object primarily as an alien craft. Later researchers at Library and Archives Canada emphasise that he leaned towards a man-made or military explanation, which complicates the popular version of the story as a simple “spaceship” claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration</span><span class="citation-popover-snippet">When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</span></span></span>
 
-The dramatic injury claim was that the object rotated or shifted, exposing a vent-like area, and that a blast of hot air or gas struck him, setting part of his clothing alight and burning his upper body. Canada’s Sky Canada Project, a recent federal review of public UAP reporting, lists Falcon Lake among Canada’s best-known UAP cases and summarises the core claim as Michalak being allegedly burned by a blast of hot gas or air while prospecting near Falcon Lake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
+The dramatic injury claim was that the object rotated or shifted, exposing a vent-like area, and that a blast of hot air or gas struck him, setting part of his clothing alight and burning his upper body. Canada’s Sky Canada Project, a recent federal review of public UAP reporting, lists Falcon Lake among Canada’s best-known UAP cases and summarises the core claim as Michalak being allegedly burned by a blast of hot gas or air while prospecting near Falcon Lake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
 ## Why Falcon Lake became an evidence case
 
-Most UFO reports rise or fall on witness description alone. Falcon Lake became different because the story quickly generated things investigators could inspect: a visibly injured witness, burned clothing, a claimed landing area, samples said to come from the site, and official correspondence between Canadian police, defence and health authorities. The University of Manitoba’s account of the later archive donation says military and RCMP investigators found radioactive debris at the site and that neither the RCMP nor Canadian Forces were able to explain the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
+Most UFO reports rise or fall on witness description alone. Falcon Lake became different because the story quickly generated things investigators could inspect: a visibly injured witness, burned clothing, a claimed landing area, samples said to come from the site, and official correspondence between Canadian police, defence and health authorities. The University of Manitoba’s account of the later archive donation says military and RCMP investigators found radioactive debris at the site and that neither the RCMP nor Canadian Forces were able to explain the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
 
-That does not make every piece of evidence equally strong. The evidence is strongest where it was observed close to the event by police, doctors or technical staff, and weaker where the chain of custody depended on Michalak or civilian investigators returning to the site, collecting samples, and later handing them over. Falcon Lake’s lasting value is therefore not that it provides a clean proof of an extraordinary craft, but that it shows how messy a real-world “physical trace” UFO case can become once medicine, police procedure, public curiosity, prospecting interests and radiation fears overlap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+That does not make every piece of evidence equally strong. The evidence is strongest where it was observed close to the event by police, doctors or technical staff, and weaker where the chain of custody depended on Michalak or civilian investigators returning to the site, collecting samples, and later handing them over. Falcon Lake’s lasting value is therefore not that it provides a clean proof of an extraordinary craft, but that it shows how messy a real-world “physical trace” UFO case can become once medicine, police procedure, public curiosity, prospecting interests and radiation fears overlap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-1-dark.svg" | relative_url }}" alt="Falcon Lake illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Burns, illness and clothing
 
-The early physical evidence was Michalak himself. A 26 May 1967 RCMP-linked report, reproduced and transcribed by UFO Transparency from the investigation file, says Michalak reported the sighting to Constable G.A. Solotki on the afternoon of 20 May and later told investigators he had lost about 13 pounds in three days, could not keep food down, suffered severe headaches, and experienced a strange taste like burned wiring or insulation. The same report records a burn across his abdomen and chest of roughly one foot in diameter, described as blotchy, without blistering, and resembling a severe localised sunburn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+The early physical evidence was Michalak himself. A 26 May 1967 RCMP-linked report, reproduced and transcribed by UFO Transparency from the investigation file, says Michalak reported the sighting to Constable G.A. Solotki on the afternoon of 20 May and later told investigators he had lost about 13 pounds in three days, could not keep food down, suffered severe headaches, and experienced a strange taste like burned wiring or insulation. The same report records a burn across his abdomen and chest of roughly one foot in diameter, described as blotchy, without blistering, and resembling a severe localised sunburn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-Those details matter because they are harder to treat as mere later embellishment. The report also says Dr R. Douglas Oatway arranged for the undershirt and burn site to be checked by Dr Gillies at the Winnipeg Cancer Research Clinic, with no radioactive material found on the undershirt, cap or skin at that stage. That result cuts both ways: it supports the reality of medical concern and testing, but it weakens any simple claim that Michalak’s body or clothing immediately showed radioactive contamination from an unknown machine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+Those details matter because they are harder to treat as mere later embellishment. The report also says Dr R. Douglas Oatway arranged for the undershirt and burn site to be checked by Dr Gillies at the Winnipeg Cancer Research Clinic, with no radioactive material found on the undershirt, cap or skin at that stage. That result cuts both ways: it supports the reality of medical concern and testing, but it weakens any simple claim that Michalak’s body or clothing immediately showed radioactive contamination from an unknown machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-The burned clothing remains part of the case’s public memory. The University of Manitoba noted that Michalak’s shirt and hat were displayed in 2019 when Chris Rutkowski donated his large UFO collection to the university archives. That donation included Falcon Lake files, more than 20,000 UFO reports filed with various agencies since 1989, almost 10,000 Canadian government UFO documents, and a large specialist library, making Manitoba not only the site of the incident but also a centre for later documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
+The burned clothing remains part of the case’s public memory. The University of Manitoba noted that Michalak’s shirt and hat were displayed in 2019 when Chris Rutkowski donated his large UFO collection to the university archives. That donation included Falcon Lake files, more than 20,000 UFO reports filed with various agencies since 1989, almost 10,000 Canadian government UFO documents, and a large specialist library, making Manitoba not only the site of the incident but also a centre for later documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
 
 ### The landing mark and the first failed search
 
-The claimed landing area is one of the most important and most vulnerable parts of the case. On 25 May 1967, according to the RCMP/RCAF investigation summary, Constables Zacharias and Davis flew to Falcon Lake with seven RCAF personnel by helicopter. They found items Michalak had described, including a saw and a shopping bag, but they could not find a landing spot or burn mark from the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+The claimed landing area is one of the most important and most vulnerable parts of the case. On 25 May 1967, according to the RCMP/RCAF investigation summary, Constables Zacharias and Davis flew to Falcon Lake with seven RCAF personnel by helicopter. They found items Michalak had described, including a saw and a shopping bag, but they could not find a landing spot or burn mark from the air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-That first failure matters. If the site had been found immediately, before publicity, souvenir hunting or return visits, the physical-trace claim would be much stronger. Instead, the investigation moved into a second phase in which the location was identified later, after Michalak and others had returned to the area. The September 1967 radiation-hazard memorandum records that by 27 July an expedition reached the alleged [landing site]({{ 'landing-site/' | relative_url }}) and found a circular outline of vegetation, but the official writer described the origin of that circular outline as “debatable”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+That first failure matters. If the site had been found immediately, before publicity, souvenir hunting or return visits, the physical-trace claim would be much stronger. Instead, the investigation moved into a second phase in which the location was identified later, after Michalak and others had returned to the area. The September 1967 radiation-hazard memorandum records that by 27 July an expedition reached the alleged [landing site]({{ 'landing-site/' | relative_url }}) and found a circular outline of vegetation, but the official writer described the origin of that circular outline as “debatable”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
 This is the key distinction: there was a reported site, investigators did inspect it, and there were physical features and samples to discuss. But the site was not secured from the outset like a crime scene, and the most important inspection took place weeks after the claimed encounter. That does not prove a hoax; it does mean the landing mark cannot carry the weight sometimes placed on it in popular retellings.
 
@@ -321,244 +321,244 @@ This is the key distinction: there was a reported site, investigators did inspec
 
 ### Radioactive samples and their limits
 
-The radioactive material is the most striking evidence, but also the easiest to overstate. The September 1967 memorandum from S.E. Hunt, concerning possible radiation hazards to the public, says that on 24 July the Physics Section monitored samples of soil, burnt shirt and steel tape for possible radioactive contamination on behalf of the RCMP Crime Detection Laboratory. Gamma ray spectral analysis revealed activity levels “up to approximately” the equivalent of radium, and the samples were said to have been collected from the alleged landing site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+The radioactive material is the most striking evidence, but also the easiest to overstate. The September 1967 memorandum from S.E. Hunt, concerning possible radiation hazards to the public, says that on 24 July the Physics Section monitored samples of soil, burnt shirt and steel tape for possible radioactive contamination on behalf of the RCMP Crime Detection Laboratory. Gamma ray spectral analysis revealed activity levels “up to approximately” the equivalent of radium, and the samples were said to have been collected from the alleged landing site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
-The same memorandum also exposes the weakness of the evidence. Hunt wrote that the information received on 24 and 25 July was “vague and disjointed”, and that one reason federal and provincial health authorities became involved was the apparent lack of co-operation by the principals and the fact that the exact location of the sighting had not yet been established when the Radiation Protection Division first became involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+The same memorandum also exposes the weakness of the evidence. Hunt wrote that the information received on 24 and 25 July was “vague and disjointed”, and that one reason federal and provincial health authorities became involved was the apparent lack of co-operation by the principals and the fact that the exact location of the sighting had not yet been established when the Radiation Protection Division first became involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
-When officials surveyed the site on 27 July, they found only one small contaminated area: a smear about 0.5 by 8 inches on one side of a crack, plus some contaminated lichen and ground vegetation beyond it. The whole contaminated area was estimated as no larger than 100 square inches. Hunt concluded that radioactive contamination of rock and lichens had been found at the alleged landing site and that its origin had not been determined, but also that the measured levels were not high enough to create a radiation hazard to the general public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+When officials surveyed the site on 27 July, they found only one small contaminated area: a smear about 0.5 by 8 inches on one side of a crack, plus some contaminated lichen and ground vegetation beyond it. The whole contaminated area was estimated as no larger than 100 square inches. Hunt concluded that radioactive contamination of rock and lichens had been found at the alleged landing site and that its origin had not been determined, but also that the measured levels were not high enough to create a radiation hazard to the general public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
-That is a more careful finding than the folklore version. It is not “the whole landing site was dangerously radioactive”. It is “a small area of contamination was found, its source was not determined, and it was not considered a public health hazard.” The memorandum even notes that samples from the site gave an indication under ultraviolet light that they were contaminated with radium luminous paint, while samples from Michalak’s house did not respond in the same way. That possible radium-paint explanation does not solve the case on its own, but it gives sceptics a concrete contamination pathway to examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+That is a more careful finding than the folklore version. It is not “the whole landing site was dangerously radioactive”. It is “a small area of contamination was found, its source was not determined, and it was not considered a public health hazard.” The memorandum even notes that samples from the site gave an indication under ultraviolet light that they were contaminated with radium luminous paint, while samples from Michalak’s house did not respond in the same way. That possible radium-paint explanation does not solve the case on its own, but it gives sceptics a concrete contamination pathway to examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-2-dark.svg" | relative_url }}" alt="Falcon Lake illustration 2" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Medical, police and military records
 
-The strongest reason Falcon Lake remains discussed is the official paper trail. The investigation involved the RCMP and the Royal Canadian Air Force, with Library and Archives Canada naming RCMP Corporal J. Davis and RCAF Squadron Leader Paul Bissky among the main investigators. Officers interviewed Michalak at his Winnipeg home on 23 May, returned the next day, and recorded his account while he was reportedly still ill and unable to lead them to the location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+The strongest reason Falcon Lake remains discussed is the official paper trail. The investigation involved the RCMP and the Royal Canadian Air Force, with Library and Archives Canada naming RCMP Corporal J. Davis and RCAF Squadron Leader Paul Bissky among the main investigators. Officers interviewed Michalak at his Winnipeg home on 23 May, returned the next day, and recorded his account while he was reportedly still ill and unable to lead them to the location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-The police record contains details that support Michalak’s credibility and details that complicate it. The RCMP-linked file says background checks at Selkirk Mental Hospital, Brandon Mental Hospital and the Winnipeg Psychiatric Institute found no history of mental illness, and that his employer of six years regarded him as a good and trusted employee. At the same time, Constable Solotki’s early encounter with Michalak was not a clean, calm witness interview: the officer described him as confused and appearing drunk or irrational, though Library and Archives Canada notes Solotki did not smell alcohol on him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+The police record contains details that support Michalak’s credibility and details that complicate it. The RCMP-linked file says background checks at Selkirk Mental Hospital, Brandon Mental Hospital and the Winnipeg Psychiatric Institute found no history of mental illness, and that his employer of six years regarded him as a good and trusted employee. At the same time, Constable Solotki’s early encounter with Michalak was not a clean, calm witness interview: the officer described him as confused and appearing drunk or irrational, though Library and Archives Canada notes Solotki did not smell alcohol on him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-Medical evidence is similarly mixed. Doctors and clinics examined [burns]({{ 'burns/' | relative_url }}), symptoms and possible contamination, and the case drew in the Manitoba Cancer Clinic, Winnipeg General Hospital, Pinawa-related testing and federal radiation staff. Hunt’s September memorandum records that Dr F. Helmuth felt Michalak’s burns were thermal burns, while also noting that no ingested activity was understood to have been found in Michalak. That supports the presence of real injury while leaving the cause unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+Medical evidence is similarly mixed. Doctors and clinics examined [burns]({{ 'burns/' | relative_url }}), symptoms and possible contamination, and the case drew in the Manitoba Cancer Clinic, Winnipeg General Hospital, Pinawa-related testing and federal radiation staff. Hunt’s September memorandum records that Dr F. Helmuth felt Michalak’s burns were thermal burns, while also noting that no ingested activity was understood to have been found in Michalak. That supports the presence of real injury while leaving the cause unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
-The military angle is often misunderstood. Falcon Lake was not a case in which Canada declared that an alien vehicle had landed. It was a case in which Canadian defence, police and health bodies investigated an unusual report because there were injuries, a claimed physical site and a radiation concern. Library and Archives Canada’s discussion presents the enduring official position more cautiously: no one was able to prove or disprove Michalak’s claims, and the Department of National Defence continued to identify the case as unsolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+The military angle is often misunderstood. Falcon Lake was not a case in which Canada declared that an alien vehicle had landed. It was a case in which Canadian defence, police and health bodies investigated an unusual report because there were injuries, a claimed physical site and a radiation concern. Library and Archives Canada’s discussion presents the enduring official position more cautiously: no one was able to prove or disprove Michalak’s claims, and the Department of National Defence continued to identify the case as unsolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V14uQaRD1HE" title="The Strange Case Of The Falcon Lake Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer">The Strange Case Of The Falcon Lake Incident</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V14uQaRD1HE">Open on YouTube</a></p></div></div></div>
 
 ## Why the case remains disputed
 
-The first unresolved doubt is the single-witness problem. Michalak was the only person who claimed to see the object at close range. Later evidence may show that he was injured, that samples were radioactive, or that investigators found an odd mark at a site. It does not independently show what object caused those things, or even that one object caused all of them. That gap is why Falcon Lake can be a strong UFO case in the archival sense while still being weak as proof of any specific extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration</span><span class="citation-popover-snippet">When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</span></span></span>
+The first unresolved doubt is the single-witness problem. Michalak was the only person who claimed to see the object at close range. Later evidence may show that he was injured, that samples were radioactive, or that investigators found an odd mark at a site. It does not independently show what object caused those things, or even that one object caused all of them. That gap is why Falcon Lake can be a strong UFO case in the archival sense while still being weak as proof of any specific extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration</span><span class="citation-popover-snippet">When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</span></span></span>
 
-The second doubt is chain of custody. Michalak did not immediately lead investigators to a secured scene, the first search did not locate the landing mark, and samples later moved through Michalak, civilian investigators and other hands before official testing. Hunt’s memorandum is unusually valuable because it does not merely report radioactivity; it also records messy handling, uncertainty about the exact site, reluctance by people involved to surrender samples, and the need to chase down possible sources of contamination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
+The second doubt is chain of custody. Michalak did not immediately lead investigators to a secured scene, the first search did not locate the landing mark, and samples later moved through Michalak, civilian investigators and other hands before official testing. Hunt’s memorandum is unusually valuable because it does not merely report radioactivity; it also records messy handling, uncertainty about the exact site, reluctance by people involved to surrender samples, and the need to chase down possible sources of contamination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 &#124; The Exp...</span></span></span>
 
-The third doubt is the alcohol and conduct issue. Sceptical accounts have focused on reports that Michalak had been drinking at the Falcon Hotel the previous evening and on Solotki’s impression that he appeared drunk or disoriented. This line of argument does not explain the burns by itself, and Solotki reportedly did not smell alcohol, but it does matter when judging the reliability of the earliest witness behaviour. It also shows why a fair reading should avoid both extremes: “he was drunk, therefore nothing happened” is too easy; “he had burns, therefore the craft was real” is also too easy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
+The third doubt is the alcohol and conduct issue. Sceptical accounts have focused on reports that Michalak had been drinking at the Falcon Hotel the previous evening and on Solotki’s impression that he appeared drunk or disoriented. This line of argument does not explain the burns by itself, and Solotki reportedly did not smell alcohol, but it does matter when judging the reliability of the earliest witness behaviour. It also shows why a fair reading should avoid both extremes: “he was drunk, therefore nothing happened” is too easy; “he had burns, therefore the craft was real” is also too easy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</span></span></span>
 
-The fourth doubt is the later evolution of the burn story. Falcon Lake is often remembered through the famous grid pattern, but early descriptions in the RCMP material emphasise blotchy burns with unburned areas rather than a neat printed grid on the skin. Later photographs and recurring-lesion claims became part of the story, and sceptical writers have argued that some later marks do not match the initial medical descriptions. This does not erase the original injury, but it does warn readers not to treat every later image or television reconstruction as if it were a direct photograph from the day of the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+The fourth doubt is the later evolution of the burn story. Falcon Lake is often remembered through the famous grid pattern, but early descriptions in the RCMP material emphasise blotchy burns with unburned areas rather than a neat printed grid on the skin. Later photographs and recurring-lesion claims became part of the story, and sceptical writers have argued that some later marks do not match the initial medical descriptions. This does not erase the original injury, but it does warn readers not to treat every later image or television reconstruction as if it were a direct photograph from the day of the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-The fifth doubt is motive and interpretation. Some sceptics suggest the story could have helped Michalak protect a mineral find or explain an embarrassing accident. Supporters reply that a hoax would have required self-injury, radiation-contaminated samples, a complicated site story, and years of consistency without a clear payoff. Chris Rutkowski, speaking in Library and Archives Canada’s discussion, frames the more responsible middle ground: the evidence suggests something remarkable occurred, but it does not show alien visitation, a secret American or Soviet craft, or any other definite explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+The fifth doubt is motive and interpretation. Some sceptics suggest the story could have helped Michalak protect a mineral find or explain an embarrassing accident. Supporters reply that a hoax would have required self-injury, radiation-contaminated samples, a complicated site story, and years of consistency without a clear payoff. Chris Rutkowski, speaking in Library and Archives Canada’s discussion, frames the more responsible middle ground: the evidence suggests something remarkable occurred, but it does not show alien visitation, a secret American or Soviet craft, or any other definite explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-3-dark.svg" | relative_url }}" alt="Falcon Lake illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Falcon Lake can and cannot support
 
-Falcon Lake can support several cautious conclusions. Michalak made an immediate report in Manitoba in May 1967. He had real injuries that were examined by medical professionals. Canadian police, military and health authorities took the report seriously enough to investigate. A later radiation assessment found a small contaminated area at the alleged site and concluded that the origin of the contamination had not been determined. Those are the facts that make Falcon Lake stand out from a routine light-in-the-sky report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
+Falcon Lake can support several cautious conclusions. Michalak made an immediate report in Manitoba in May 1967. He had real injuries that were examined by medical professionals. Canadian police, military and health authorities took the report seriously enough to investigate. A later radiation assessment found a small contaminated area at the alleged site and concluded that the origin of the contamination had not been determined. Those are the facts that make Falcon Lake stand out from a routine light-in-the-sky report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</span></span></span>
 
-Falcon Lake cannot support stronger claims without adding assumptions. It does not prove an extraterrestrial craft, and it does not conclusively prove a secret military vehicle. It does not provide an uncontaminated landing site preserved from the first day. It does not provide multiple independent close-range witnesses. It does not give a neat medical chain linking burns, illness, radiation and a single unknown machine. These limits are not debunking tricks; they are the difference between an unresolved case and a solved one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Falcon Lake cannot support stronger claims without adding assumptions. It does not prove an extraterrestrial craft, and it does not conclusively prove a secret military vehicle. It does not provide an uncontaminated landing site preserved from the first day. It does not provide multiple independent close-range witnesses. It does not give a neat medical chain linking burns, illness, radiation and a single unknown machine. These limits are not debunking tricks; they are the difference between an unresolved case and a solved one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-Within Manitoba’s UFO history, that is exactly why Falcon Lake remains important. It is not the cleanest case imaginable, but it is unusually well documented for a close-encounter claim. It shows how Canadian UFO records often sit at the intersection of ordinary institutions: RCMP reports, RCAF procedures, health testing, archives, local memory and later private research. The unresolved doubts are part of the value of the case, because they force a more honest conclusion: something happened to Stefan Michalak near Falcon Lake, but the surviving evidence still cannot tell us exactly what. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
+Within Manitoba’s UFO history, that is exactly why Falcon Lake remains important. It is not the cleanest case imaginable, but it is unusually well documented for a close-encounter claim. It shows how Canadian UFO records often sit at the intersection of ordinary institutions: RCMP reports, RCAF procedures, health testing, archives, local memory and later private research. The unresolved doubts are part of the value of the case, because they force a more honest conclusion: something happened to Stefan Michalak near Falcon Lake, but the surviving evidence still cannot tell us exactly what.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umtoday-wordpress.ad.umanitoba.ca">[umtoday-wordpress.ad.umanitoba.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umtoday-wordpress.ad.umanitoba.ca</span><span class="citation-popover-title">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span><span class="citation-popover-snippet">U M Today &#124; Libraries &#124; The Falcon Lake UFO Files</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OiriSLXvZwo" title="Canada&#x27;s Most Documented UFO Case | Falcon Lake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OiriSLXvZwo" target="_blank" rel="noopener noreferrer">Canada&#x27;s Most Documented UFO Case | Falcon Lake</a></p><p class="youtube-embed-meta">Channel: The Why Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OiriSLXvZwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OiriSLXvZwo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened At Falcon Lake?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened At Falcon Lake?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented UFO incidents and official investigations, matching Falcon Lake&#x27;s evidence-focused discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented UFO incidents and official investigations, matching Falcon Lake&#x27;s evidence-focused discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the foundational framework for evaluating close-encounter cases like Falcon Lake.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational framework for evaluating close-encounter cases like Falcon Lake.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores competing interpretations of unexplained encounters and why cases remain disputed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores competing interpretations of unexplained encounters and why cases remain disputed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Appeals to readers interested in comparing Falcon Lake with other evidence-rich UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Appeals to readers interested in comparing Falcon Lake with other evidence-rich UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th"><img src="{{ '/assets/images/marketplace-covers/704884c6bc90070b55bd.jpg' | relative_url }}" alt="Listing image for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th"><img src="{{ '/assets/images/marketplace-covers/704884c6bc90070b55bd.jpg' | relative_url }}" alt="Listing image for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="falcon-lake-what-really-happened-at-falcon-lake-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,150 +764,150 @@ Within Manitoba’s UFO history, that is exactly why Falcon Lake remains importa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: UFOs at LAC: The Falcon Lake incident, part 1  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 1 - Canada.ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1525</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1525</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — In the second part of this two-part episode, we discuss the evidence and...</p></details>
    Published: May 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: umtoday-wordpress.ad.umanitoba.ca  
    Title: U M Today | Libraries | The Falcon Lake UFO Files  
-   Link: <a href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/</a>  
+   Link:<a href="https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://umtoday-wordpress.ad.umanitoba.ca/the-falcon-lake-ufo-files/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: library-archives.canada.ca  
    Title: ca UF Os at LAC: The Falcon Lake Incident  
-   Link: <a href="https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow">https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx?wbdisable=true</a>  
+   Link:<a href="https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx?wbdisable=true" target="_blank" rel="noopener noreferrer nofollow">https://library-archives.canada.ca/eng/collection/engage-learn/podcast/Pages/ufo-falcon-lake-incident-2.aspx?wbdisable=true</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eventscalendar.umanitoba.ca  
    Title: ca Libraries  
-   Link: <a href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/</a>  
+   Link:<a href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unresolved.me  
    Title: the falcon lake incident  
-   Link: <a href="https://unresolved.me/the-falcon-lake-incident" target="_blank" rel="noopener noreferrer nofollow">https://unresolved.me/the-falcon-lake-incident</a>  
+   Link:<a href="https://unresolved.me/the-falcon-lake-incident" target="_blank" rel="noopener noreferrer nofollow">https://unresolved.me/the-falcon-lake-incident</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journalofscientificexploration.org  
    Title: modern language association  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=2541&amp;submissionId=1525" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=2541&amp;submissionId=1525</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=2541&amp;submissionId=1525" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/citationstylelanguage/get/modern-language-association?publicationId=2541&amp;submissionId=1525</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unsolved.com  
    Title: Falcon Lake Ufo  
-   Link: <a href="https://unsolved.com/gallery/falcon-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/falcon-lake-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/falcon-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/falcon-lake-ufo/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: Canada FOIA Part 18 Pages 5101 5400 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Falcon Lake Incident: The Most Credible UFO Case in History  
-   Link: <a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6dKxkqbn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Most Documented UFO Case | Falcon Lake...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6dKxkqbn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Most Documented UFO Case | Falcon Lake...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Canada's Most Documented UFO Case | Falcon Lake  
-   Link: <a href="https://www.youtube.com/watch?v=OiriSLXvZwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OiriSLXvZwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case Of The Falcon Lake Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OiriSLXvZwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OiriSLXvZwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case Of The Falcon Lake Incident...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report-1967-05-26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-1960s-canada-falcon-lake-falcon-lake-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyRadioactive Landing Site, Falcon Lake Manitoba 1967, Royal Canadian Mounted Police / Royal Canadian Air Force / Departmen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september-13-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 | The Exp...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/safety-assessment-regarding-radiation-hazards-at-falcon-beach-manitoba-september</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support AssociationSafety Assessment: Regarding Radiation Hazards at Falcon Beach, Manitoba – September 13 1967 | The Exp...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: the falcon lake incident  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jyguxl/the_falcon_lake_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jyguxl/the_falcon_lake_incident/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jyguxl/the_falcon_lake_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jyguxl/the_falcon_lake_incident/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thediscoverblog.com  
-   Link: <a href="https://thediscoverblog.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://thediscoverblog.com/tag/ufo/</a>  
+   Link:<a href="https://thediscoverblog.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://thediscoverblog.com/tag/ufo/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: canadaufohistory.com  
-   Link: <a href="https://www.canadaufohistory.com/1967" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1967</a>  
+   Link:<a href="https://www.canadaufohistory.com/1967" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1967</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/21251781" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21251781</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Reactions to Falcon Lake UFO IncidentAlexander writing in the Journal for Scientific Exploration states that some of...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/21251781" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21251781</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Reactions to Falcon Lake UFO IncidentAlexander writing in the Journal for Scientific Exploration states that some of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Un Xplained: UFO Sighting Sets Man On Fire (Season 7) | History  
-   Link: <a href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oFyXP37Qx-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 5, Episode 8 - Full Episode...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oFyXP37Qx-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 5, Episode 8 - Full Episode...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Strange Case Of The Falcon Lake Incident  
-   Link: <a href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V14uQaRD1HE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V14uQaRD1HE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak</a>  
+   Link:<a href="https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: themorbidlibrary.com  
-   Link: <a href="https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/</a>  
+   Link:<a href="https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: coastfiles.com  
-   Link: <a href="https://coastfiles.com/2026/06/17/ufo-the-falcon-lake-incident/" target="_blank" rel="noopener noreferrer nofollow">https://coastfiles.com/2026/06/17/ufo-the-falcon-lake-incident/</a>  
+   Link:<a href="https://coastfiles.com/2026/06/17/ufo-the-falcon-lake-incident/" target="_blank" rel="noopener noreferrer nofollow">https://coastfiles.com/2026/06/17/ufo-the-falcon-lake-incident/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ufofalconlake/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufofalconlake/</a>  
+   Link:<a href="https://www.facebook.com/ufofalconlake/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufofalconlake/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40architectsofeden/the-falcon-lake-incident-canadas-most-documented-ufo-encounter-a16bd1180551" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40architectsofeden/the-falcon-lake-incident-canadas-most-documented-ufo-encounter-a16bd1180551</a>  
+   Link:<a href="https://medium.com/%40architectsofeden/the-falcon-lake-incident-canadas-most-documented-ufo-encounter-a16bd1180551" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40architectsofeden/the-falcon-lake-incident-canadas-most-documented-ufo-encounter-a16bd1180551</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/</a>  
+   Link:<a href="https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/</a>  

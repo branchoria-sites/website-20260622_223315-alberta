@@ -256,17 +256,17 @@ image: /assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancou
 
 ## Introduction
 
-By 1960, one strand of Vancouver’s UFO culture had begun to shift away from arguing about individual sightings and towards a different question: did Canadian officials know more than they were willing to say? A small but revealing series of letters written by Vancouver resident Ken Kaasen illustrates that change. Rather than reporting a new object in the sky, Kaasen challenged the way government agencies discussed UFOs and questioned whether military authorities were withholding information from the public. His correspondence does not prove any cover-up. What it does show is how doubts about official disclosure became part of Vancouver’s saucer-era conversation. In [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}), as elsewhere in Canada, UFO belief increasingly merged with debates about trust, secrecy and government transparency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewalrus.ca">[The Walrus+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewalrus.ca</span><span class="citation-popover-title">what ufo fears tell us about government trust</span><span class="citation-popover-snippet">The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+By 1960, one strand of Vancouver’s UFO culture had begun to shift away from arguing about individual sightings and towards a different question: did Canadian officials know more than they were willing to say? A small but revealing series of letters written by Vancouver resident Ken Kaasen illustrates that change. Rather than reporting a new object in the sky, Kaasen challenged the way government agencies discussed UFOs and questioned whether military authorities were withholding information from the public. His correspondence does not prove any cover-up. What it does show is how doubts about official disclosure became part of Vancouver’s saucer-era conversation. In [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}), as elsewhere in Canada, UFO belief increasingly merged with debates about trust, secrecy and government transparency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewalrus.ca">[The Walrus+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewalrus.ca</span><span class="citation-popover-title">what ufo fears tell us about government trust</span><span class="citation-popover-snippet">The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-1-dark.svg" | relative_url }}" alt="Secrecy Doubts illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Ken Kaasen's 1960 correspondence
 
-In July 1960, Vancouver resident Ken Kaasen wrote to the Defence Research Board (DRB), the federal scientific body that had played a central role in Canada's post-war UFO investigations. His letter reflected concerns that were becoming common among organised UFO enthusiasts. Rather than asking whether UFOs existed, he assumed that unusual aerial objects were entering North American airspace and challenged officials to explain how they could deny the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Search for the Unknown: Canada&#x27;s UFO Files and the Rise...In July 1960, Vancouver resident Ken Kaasen wrote a letter to the Defence Rese...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+In July 1960, Vancouver resident Ken Kaasen wrote to the Defence Research Board (DRB), the federal scientific body that had played a central role in Canada's post-war UFO investigations. His letter reflected concerns that were becoming common among organised UFO enthusiasts. Rather than asking whether UFOs existed, he assumed that unusual aerial objects were entering North American airspace and challenged officials to explain how they could deny the problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Search for the Unknown: Canada&#x27;s UFO Files and the Rise...In July 1960, Vancouver resident Ken Kaasen wrote a letter to the Defence Rese...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
-Kaasen's questions were direct. He wanted to know whether UFOs represented a threat to Canada, whether Royal Canadian Air Force aircraft had pursued them, and whether governments were being candid with the public. According to surviving records, he complained that both Canada and the United States seemed to offer only "doubletalk" on the subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+Kaasen's questions were direct. He wanted to know whether UFOs represented a threat to Canada, whether Royal Canadian Air Force aircraft had pursued them, and whether governments were being candid with the public. According to surviving records, he complained that both Canada and the United States seemed to offer only "doubletalk" on the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
-The correspondence also reveals the influence of civilian UFO organisations. Kaasen referred to information circulated by the National Investigations Committee on Aerial Phenomena (NICAP), an American group that argued governments possessed stronger evidence for UFO reality than they publicly admitted. Like many UFO enthusiasts of the period, he drew heavily on claims that military agencies were collecting secret information while publicly dismissing the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+The correspondence also reveals the influence of civilian UFO organisations. Kaasen referred to information circulated by the National Investigations Committee on Aerial Phenomena (NICAP), an American group that argued governments possessed stronger evidence for UFO reality than they publicly admitted. Like many UFO enthusiasts of the period, he drew heavily on claims that military agencies were collecting secret information while publicly dismissing the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
 For historians, the significance of the letters lies less in their factual claims than in what they reveal about public attitudes. The focus had shifted from a specific Vancouver sighting to a broader suspicion that official institutions were concealing important knowledge.
 
@@ -275,19 +275,19 @@ For historians, the significance of the letters lies less in their factual claim
 
 ## The Defence Research Board reply
 
-The surviving files show that the Defence Research Board did answer Kaasen's initial inquiry. The response, signed by C. A. Pope of the DRB in August 1960, presented the government's standard position. Officials stated that investigations had not produced evidence that UFOs threatened Canada and that reports generally fell into ordinary categories such as aircraft, astronomical objects or atmospheric phenomena. A smaller number remained unexplained because insufficient information was available, not because investigators had identified extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+The surviving files show that the Defence Research Board did answer Kaasen's initial inquiry. The response, signed by C. A. Pope of the DRB in August 1960, presented the government's standard position. Officials stated that investigations had not produced evidence that UFOs threatened Canada and that reports generally fell into ordinary categories such as aircraft, astronomical objects or atmospheric phenomena. A smaller number remained unexplained because insufficient information was available, not because investigators had identified extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
-This reply reflected Canada's established approach to UFO reporting. By the late 1950s, federal agencies had largely moved away from the more ambitious investigations associated with earlier projects such as Project Magnet and Project Second Storey. The official position was cautious and bureaucratic: reports would be collected and evaluated, but unexplained cases were not treated as proof of extraordinary phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — The government wanted to establish an official position on UFOs. To this end, the De...</span></span></span>
+This reply reflected Canada's established approach to UFO reporting. By the late 1950s, federal agencies had largely moved away from the more ambitious investigations associated with earlier projects such as Project Magnet and Project Second Storey. The official position was cautious and bureaucratic: reports would be collected and evaluated, but unexplained cases were not treated as proof of extraordinary phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — The government wanted to establish an official position on UFOs. To this end, the De...</span></span></span>
 
-Kaasen was unconvinced. Within days he wrote back arguing that civilian UFO researchers possessed evidence showing that UFOs were intelligently controlled. He offered no verifiable proof, but his response illustrates the growing gap between official assessments and committed believers. Once trust in government explanations had weakened, official denials themselves became evidence of secrecy in the minds of some correspondents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+Kaasen was unconvinced. Within days he wrote back arguing that civilian UFO researchers possessed evidence showing that UFOs were intelligently controlled. He offered no verifiable proof, but his response illustrates the growing gap between official assessments and committed believers. Once trust in government explanations had weakened, official denials themselves became evidence of secrecy in the minds of some correspondents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-2-dark.svg" | relative_url }}" alt="Secrecy Doubts illustration 2" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why secrecy became the real issue
 
-The most revealing part of the exchange came later in 1960 when Kaasen focused on reporting rules rather than sightings. He referred to military regulations and questioned why UFO information appeared to be handled through restricted reporting channels. To him, the existence of investigative procedures suggested that authorities considered the subject important, even while publicly downplaying it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+The most revealing part of the exchange came later in 1960 when Kaasen focused on reporting rules rather than sightings. He referred to military regulations and questioned why UFO information appeared to be handled through restricted reporting channels. To him, the existence of investigative procedures suggested that authorities considered the subject important, even while publicly downplaying it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
-This was a common line of reasoning during the Cold War. Governments routinely classified information concerning air defence, radar systems and national security. UFO enthusiasts often interpreted such secrecy as evidence that officials had discovered something extraordinary. Government agencies, meanwhile, generally viewed confidentiality as a normal feature of military administration rather than proof of hidden knowledge about alien visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+This was a common line of reasoning during the Cold War. Governments routinely classified information concerning air defence, radar systems and national security. UFO enthusiasts often interpreted such secrecy as evidence that officials had discovered something extraordinary. Government agencies, meanwhile, generally viewed confidentiality as a normal feature of military administration rather than proof of hidden knowledge about alien visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
 The result was a self-reinforcing cycle:
 
@@ -297,7 +297,7 @@ The result was a self-reinforcing cycle:
 * Officials investigated unusual reports because unidentified objects in controlled airspace could potentially involve defence concerns.
 * Believers interpreted those investigations as evidence that authorities secretly regarded UFOs as significant.
 * Official denials were then viewed as further proof of concealment.
-* The lack of public disclosure strengthened suspicions rather than reducing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+* The lack of public disclosure strengthened suspicions rather than reducing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
 </div>
 
@@ -311,204 +311,204 @@ In Vancouver's UFO community, this argument often proved more durable than indiv
 
 ## What the records actually show
 
-The surviving Canadian records do not support the claim that the Defence Research Board secretly acknowledged extraterrestrial spacecraft while publicly denying them. Instead, the files show officials receiving correspondence from concerned citizens, answering questions, collecting reports and attempting to assess whether any cases involved genuine threats to Canadian security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The surviving Canadian records do not support the claim that the Defence Research Board secretly acknowledged extraterrestrial spacecraft while publicly denying them. Instead, the files show officials receiving correspondence from concerned citizens, answering questions, collecting reports and attempting to assess whether any cases involved genuine threats to Canadian security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-At the same time, the files demonstrate why suspicions survived. The government did not always explain its procedures clearly, and Cold War reporting systems inevitably created an appearance of secrecy. To members of the public already influenced by UFO organisations and popular books, those administrative practices could seem suspicious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
+At the same time, the files demonstrate why suspicions survived. The government did not always explain its procedures clearly, and Cold War reporting systems inevitably created an appearance of secrecy. To members of the public already influenced by UFO organisations and popular books, those administrative practices could seem suspicious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</span></span></span>
 
-The importance of Kaasen's letters therefore lies in what they reveal about belief rather than what they prove about UFOs. They document a moment when Vancouver's saucer-era discussion expanded beyond sightings and witnesses into a debate about institutional trust. The central question was no longer simply "What was seen?" but "Did officials know more than they admitted?" That question would remain a recurring theme in Canadian UFO culture long after the specific correspondence of 1960 had faded from public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewalrus.ca">[The Walrus+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewalrus.ca</span><span class="citation-popover-title">what ufo fears tell us about government trust</span><span class="citation-popover-snippet">The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
+The importance of Kaasen's letters therefore lies in what they reveal about belief rather than what they prove about UFOs. They document a moment when Vancouver's saucer-era discussion expanded beyond sightings and witnesses into a debate about institutional trust. The central question was no longer simply "What was seen?" but "Did officials know more than they admitted?" That question would remain a recurring theme in Canadian UFO culture long after the specific correspondence of 1960 had faded from public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thewalrus.ca">[The Walrus+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thewalrus.ca</span><span class="citation-popover-title">what ufo fears tell us about government trust</span><span class="citation-popover-snippet">The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</span><span class="citation-popover-meta">Published: July 1960</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-3-dark.svg" | relative_url }}" alt="Secrecy Doubts illustration 3" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did officials know more than they said?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did officials know more than they said?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on official testimony, disclosure questions, and whether authorities knew more than they publicly acknowledged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on official testimony, disclosure questions, and whether authorities knew more than they publicly acknowledged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses the evolution of UFO investigation and public debate over government handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the evolution of UFO investigation and public debate over government handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Provides context for how military and government UFO investigations contributed to secrecy and disclosure debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how military and government UFO investigations contributed to secrecy and disclosure debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Influential in shaping mid-century arguments that governments were withholding information about UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Influential in shaping mid-century arguments that governments were withholding information about UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="secrecy-doubts-did-officials-know-more-than-they-said-british-columbia-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,122 +714,122 @@ The importance of Kaasen's letters therefore lies in what they reveal about beli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search for the Unknown: Canada&#x27;s UFO Files and the Rise...In July 1960, Vancouver resident Ken Kaasen wrote a letter to the Defence Rese...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search for the Unknown: Canada&#x27;s UFO Files and the Rise...In July 1960, Vancouver resident Ken Kaasen wrote a letter to the Defence Rese...</p></details>
    Published: July 1960  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfUFO studies, expert UFO research pioneers to the. Conference on the Peaceful Uses of Outer Spa...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_10.pdfUFO studies, expert UFO research pioneers to the. Conference on the Peaceful Uses of Outer Spa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Are aliens here? Trump orders release of UFO documents | Reaction  
-   Link: <a href="https://www.youtube.com/watch?v=KnaiKnaws6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KnaiKnaws6U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada government UFO files secrecy Science writer releasing book on UFOs CTV News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KnaiKnaws6U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KnaiKnaws6U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada government UFO files secrecy Science writer releasing book on UFOs CTV News...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thewalrus.ca  
    Title: what ufo fears tell us about government trust  
-   Link: <a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</p></details>
+   Link:<a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</p></details>
    Published: July 1960  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers file. RG 24... Vancouver resident Ken Kaasen. “Are the UFOs a genuine threat to...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: Canada FOIA Part 19 Pages 5401 5700 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See other... Two &#x27;major goals are open Conressional hearings to enc secrecy imposed on the UFO...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other... Two &#x27;major goals are open Conressional hearings to enc secrecy imposed on the UFO...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — The government wanted to establish an official position on UFOs. To this end, the De...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — The government wanted to establish an official position on UFOs. To this end, the De...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Canada FOIA Part 20 Pages 5701 6000 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...... Flying Objects (UFOs): over Alberta. As.you kmow;* UFOs have been... major...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...... Flying Objects (UFOs): over Alberta. As.you kmow;* UFOs have been... major...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: megathread 61926 canadas most documented ufo case  
-   Link: <a href="https://www.reddit.com/r/TheWhyFiles/comments/1ub3pv5/megathread_61926_canadas_most_documented_ufo_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/1ub3pv5/megathread_61926_canadas_most_documented_ufo_case/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Most Documented UFO Case: r/TheWhyFilesFBI Unseals 162 UFO Files, Including a 1967 Informant&#x27;s Alien Encounter and Death Warnin...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheWhyFiles/comments/1ub3pv5/megathread_61926_canadas_most_documented_ufo_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/1ub3pv5/megathread_61926_canadas_most_documented_ufo_case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Most Documented UFO Case: r/TheWhyFilesFBI Unseals 162 UFO Files, Including a 1967 Informant&#x27;s Alien Encounter and Death Warnin...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was 1947 the beginning or a turning point in UFO history, as opposed to human perceptions of the phenomenon?...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was 1947 the beginning or a turning point in UFO history, as opposed to human perceptions of the phenomenon?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It chronologically examines the Agency&#x27;s efforts to solve...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It chronologically examines the Agency&#x27;s efforts to solve...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: utias.utoronto.ca  
    Title: 1960s dr gordon patterson establishes the utias ufo project  
-   Link: <a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Canada&#x27;s official entry into the investigation of this UFO phenomenon started...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Canada&#x27;s official entry into the investigation of this UFO phenomenon started...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byResults of 1953 study of UFOs by committee chaired by H. P. R&#x27;lbertson, theo-... 1960-1965 UFO sigMings in the U. s. S...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byResults of 1953 study of UFOs by committee chaired by H. P. R&#x27;lbertson, theo-... 1960-1965 UFO sigMings in the U. s. S...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Flying Saucers December 1958 Text  
-   Link: <a href="https://www.scribd.com/document/224476720/Flying-Saucers-December-1958-Text" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/224476720/Flying-Saucers-December-1958-Text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFthe UFO had been. Here was a positive check on dis- tance. An expert ealfcs&amp;tion of the binoculars could detenntae how away the object...</p></details>
+   Link:<a href="https://www.scribd.com/document/224476720/Flying-Saucers-December-1958-Text" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/224476720/Flying-Saucers-December-1958-Text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDFthe UFO had been. Here was a positive check on dis- tance. An expert ealfcs&amp;tion of the binoculars could detenntae how away the object...</p></details>
    Published: December 1958  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Nova Scotia Memories Of Days Gone By  
-   Link: <a href="https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/2869958943238418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/2869958943238418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incident in 1967WHY WOULD UFO/ALIENS CHECK THIS BASE OUT? By Jim Lawrence WHY? It&#x27;s understood by UFOlogy researchers th...</p></details>
+   Link:<a href="https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/2869958943238418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/2869958943238418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incident in 1967WHY WOULD UFO/ALIENS CHECK THIS BASE OUT? By Jim Lawrence WHY? It&#x27;s understood by UFOlogy researchers th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arcs-atom.uottawa.ca  
    Title: arthur bray fonds file List  
-   Link: <a href="https://arcs-atom.uottawa.ca/downloads/reports/arthur-bray-fonds-fileList.html" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/downloads/reports/arthur-bray-fonds-fileList.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reportProject Second Story: Defence Research Board Meeting Minutes, April 1952... UFO Research Centre: Ontario, 1976-1980, None. 109, C...</p></details>
+   Link:<a href="https://arcs-atom.uottawa.ca/downloads/reports/arthur-bray-fonds-fileList.html" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/downloads/reports/arthur-bray-fonds-fileList.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reportProject Second Story: Defence Research Board Meeting Minutes, April 1952... UFO Research Centre: Ontario, 1976-1980, None. 109, C...</p></details>
    Published: April 1952  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...- UFO research in the U. S. A. Flying saucer review, v. 12, Jan. -Feb... 10073) Result...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...- UFO research in the U. S. A. Flying saucer review, v. 12, Jan. -Feb... 10073) Result...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digital.library.unt.edu  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CR9 Mar 1976 — Records cited by David Jacobs (UFO Con- troversy in America, 160-162) were apparently taken by the Air Force participants...</p></details>
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CR9 Mar 1976 — Records cited by David Jacobs (UFO Con- troversy in America, 160-162) were apparently taken by the Air Force participants...</p></details>

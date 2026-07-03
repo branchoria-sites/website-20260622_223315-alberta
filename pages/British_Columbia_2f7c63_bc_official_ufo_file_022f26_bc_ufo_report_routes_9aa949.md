@@ -262,7 +262,7 @@ image: /assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo
 
 ## Introduction
 
-[British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) UFO reports usually reached federal files through routine channels: a witness contacted police, an aviation unit, a military communications centre or a federal office, and the report was forwarded because it touched public safety, air navigation, defence or scientific record-keeping. That is the key point. The archived file does not mean officials confirmed an extraordinary craft; it means the report entered a government paperwork system. Library and Archives Canada describes its UFO holdings as roughly 9,500 digitised federal documents from 1947 to the early 1980s, including reports, correspondence, memos and procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+[British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) UFO reports usually reached federal files through routine channels: a witness contacted police, an aviation unit, a military communications centre or a federal office, and the report was forwarded because it touched public safety, air navigation, defence or scientific record-keeping. That is the key point. The archived file does not mean officials confirmed an extraordinary craft; it means the report entered a government paperwork system. Library and Archives Canada describes its UFO holdings as roughly 9,500 digitised federal documents from 1947 to the early 1980s, including reports, correspondence, memos and procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-1-dark.svg" | relative_url }}" alt="Report routes illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -272,7 +272,7 @@ For British Columbia, this matters because many sightings were not “investigat
 
 A British Columbia sighting usually began close to home. A resident might phone the RCMP, an airport, a military base, a newspaper or a public official. The first receiver then decided whether the report had any obvious public-safety or aviation relevance. In many cases, the practical question was not “is this alien?” but “could this be an aircraft hazard, flare, meteor, balloon, rocket, distress signal or security concern?”
 
-The RCMP route was especially important because the force served many communities where there was no separate municipal police service. Sky Canada’s 2025 federal review notes that the RCMP receives UAP reports from the public, but generally treats them through its public-safety and criminal-investigation mandate rather than as a specialist UFO office. It also found no formal RCMP policy for collecting or distributing UAP reports, meaning sightings could be filed under broader non-criminal or aviation-related categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The RCMP route was especially important because the force served many communities where there was no separate municipal police service. Sky Canada’s 2025 federal review notes that the RCMP receives UAP reports from the public, but generally treats them through its public-safety and criminal-investigation mandate rather than as a specialist UFO office. It also found no formal RCMP policy for collecting or distributing UAP reports, meaning sightings could be filed under broader non-criminal or aviation-related categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 That helps explain why older British Columbia reports can look so plain. An RCMP member might record the witness’s name, time, location, weather, direction, colour, movement and duration, then forward the information. The value of the record lies in that disciplined description, not in a dramatic conclusion.
 
@@ -281,9 +281,9 @@ That helps explain why older British Columbia reports can look so plain. An RCMP
 
 ## When aviation or defence channels became involved
 
-A report was more likely to move beyond a local file when it touched the sky in an operational way. If a pilot, air traffic controller or airport staff member reported an object, the matter could enter aviation channels. In today’s system, pilots typically report UAP sightings to an air traffic unit; NAV CANADA can file an Aviation Occurrence Report, which may then feed into Transport Canada’s CADORS system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+A report was more likely to move beyond a local file when it touched the sky in an operational way. If a pilot, air traffic controller or airport staff member reported an object, the matter could enter aviation channels. In today’s system, pilots typically report UAP sightings to an air traffic unit; NAV CANADA can file an Aviation Occurrence Report, which may then feed into Transport Canada’s CADORS system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-Historical records show a similar logic, though under earlier agencies and procedures. A useful British Columbia example appears in declassified Canadian UFO material: a 1970 Vancouver report concerning “Mrs J Templeton” was sent from RCC Victoria to Canadian Forces headquarters, with information copied to the National Research Council’s Radio and Electrical Engineering Division. The message recorded a single round, bright red ball, estimated altitude and apparent size rather than offering a speculative explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages-1201-1500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 05 canada foia part 05 pages 1201 1500</span><span class="citation-popover-snippet">UFO TransparencyCanada UFO FOIA Release, Part 05 (Pages 1201–1500), Department of National Defence / RCMP / National Research Council · 2...</span></span></span>
+Historical records show a similar logic, though under earlier agencies and procedures. A useful British Columbia example appears in declassified Canadian UFO material: a 1970 Vancouver report concerning “Mrs J Templeton” was sent from RCC Victoria to Canadian Forces headquarters, with information copied to the National Research Council’s Radio and Electrical Engineering Division. The message recorded a single round, bright red ball, estimated altitude and apparent size rather than offering a speculative explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 05 canada foia part 05 pages</span><span class="citation-popover-snippet">UFO TransparencyCanada UFO FOIA Release, Part 05 (Pages 1201–1500), Department of National Defence / RCMP / National Research Council · 2...</span></span></span>
 
 The same batch of records also shows how defence communications could act as a relay. Messages marked “UNCLAS” travelled between regional communications centres, Canadian Forces headquarters and NRC recipients. That structure is significant: it shows a reporting network, not necessarily an active UFO-hunting programme.
 
@@ -291,7 +291,7 @@ The same batch of records also shows how defence communications could act as a r
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-2-dark.svg" | relative_url }}" alt="Report routes illustration 2" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the National Research Council appears so often
 
-The National Research Council became a major destination for Canadian UFO paperwork because some reports overlapped with meteor, fireball and atmospheric observations. Sky Canada notes that the NRC collected and studied UAP reports from 1967 until the 1990s, while Library and Archives Canada identifies NRC records as a major part of the federal UFO collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The National Research Council became a major destination for Canadian UFO paperwork because some reports overlapped with meteor, fireball and atmospheric observations. Sky Canada notes that the NRC collected and studied UAP reports from 1967 until the 1990s, while Library and Archives Canada identifies NRC records as a major part of the federal UFO collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For British Columbia reports, this meant a sighting could end up in Ottawa even if it began as a local call in Vancouver, [Prince George]({{ 'prince-george/' | relative_url }}), Creston or Port Alberni. Once a report was copied to the NRC, it could become part of a national accumulation of non-meteoric or unexplained sighting material. The NRC’s role also shaped the wording of many files: they often preserve observational details that could help distinguish meteors, balloons, satellites, aircraft lights or other ordinary causes from genuinely unresolved reports.
 
@@ -304,13 +304,13 @@ One British Columbia incident could produce more than one federal trace because 
 
 That is why researchers should be careful with apparent duplicates. Two files may not mean two sightings; they may be two administrative views of one sighting. Conversely, a single surviving federal note may be only the final trace of a larger local exchange that has not survived or has not been digitised.
 
-Modern federal review confirms that Canada still has a fragmented reporting landscape. Sky Canada found that UAP reports are received by different federal organisations in different forms, with limited coordination, inconsistent data collection and little follow-up unless safety or security is involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Modern federal review confirms that Canada still has a fragmented reporting landscape. Sky Canada found that UAP reports are received by different federal organisations in different forms, with limited coordination, inconsistent data collection and little follow-up unless safety or security is involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-3-dark.svg" | relative_url }}" alt="Report routes illustration 3" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the route tells us, and what it cannot prove
 
-The report route tells us that British Columbia UFO sightings were often treated as legitimate public reports worth logging and forwarding. It also shows that Canadian officials distinguished between recording an unexplained observation and proving an extraordinary object. Sky Canada makes the same distinction in modern language: “UFO” or “UAP” means unidentified, not extraterrestrial or beyond natural explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The report route tells us that British Columbia UFO sightings were often treated as legitimate public reports worth logging and forwarding. It also shows that Canadian officials distinguished between recording an unexplained observation and proving an extraordinary object. Sky Canada makes the same distinction in modern language: “UFO” or “UAP” means unidentified, not extraterrestrial or beyond natural explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For readers of British Columbia UFO history, the safest interpretation is this: a federal file is evidence that a report entered official channels, not evidence that the object was exotic. The strongest files are those with named witnesses, precise times and locations, weather notes, aviation context, multiple independent observers or follow-up correspondence. The weakest are vague, second-hand, undated or missing the conditions needed to check aircraft, astronomical and atmospheric explanations.
 
@@ -324,178 +324,178 @@ A British Columbia UFO file should be read backwards from the paperwork route. F
 The result is less sensational than the mythology around UFO files, but more useful. British Columbia reports reached Ottawa because ordinary institutions had overlapping duties: police took public calls, aviation bodies protected flight safety, defence channels watched the airspace, and scientific offices collected reports that might have natural or astronomical explanations. That machinery is the real story behind how a BC sighting became a federal file.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a BC sighting became a federal file. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a BC sighting became a federal file. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how military, aviation, and government personnel document and handle UFO reports, matching the article&#x27;s focus on official repor...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how military, aviation, and government personnel document and handle UFO reports, matching the article&#x27;s focus on official repor...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classification, documentation, and investigation of UFO reports rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classification, documentation, and investigation of UFO reports rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides firsthand insight into how UFO cases entered military and governmental reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides firsthand insight into how UFO cases entered military and governmental reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Focuses on evaluating documented reports and evidence, complementing discussion of archived federal files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating documented reports and evidence, complementing discussion of archived federal files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="report-routes-how-a-bc-sighting-became-a-federal-file-british-columbia-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ The result is less sensational than the mythology around UFO files, but more use
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ The result is less sensational than the mythology around UFO files, but more use
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ The result is less sensational than the mythology around UFO files, but more use
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ The result is less sensational than the mythology around UFO files, but more use
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ The result is less sensational than the mythology around UFO files, but more use
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,160 +701,160 @@ The result is less sensational than the mythology around UFO files, but more use
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gc.ca  
    Title: report sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Canada's UFO survey results released  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Canada? Government urged to start tracking | The Current...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Canada? Government urged to start tracking | The Current...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 05 canada foia part 05 pages 1201 1500  
-   Link: <a href="https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages-1201-1500" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages-1201-1500</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCanada UFO FOIA Release, Part 05 (Pages 1201–1500), Department of National Defence / RCMP / National Research Council · 2...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-05-canada-foia-part-05-pages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCanada UFO FOIA Release, Part 05 (Pages 1201–1500), Department of National Defence / RCMP / National Research Council · 2...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 11 Pages 3001 3300  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 26 Pages 7501 7800  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2026%20-%20Pages%207501-7800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2026%20-%20Pages%207501-7800.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2026%20-%20Pages%207501-7800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2026%20-%20Pages%207501-7800.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 27 Pages 7801 8100  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 29 Pages 8401 8759  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 14 Pages 3901 4200  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 13 Pages 3601 3901  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 23 Pages 6601 6900  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 10 Pages 2701 3000  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2010%20-%20Pages%202701-3000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2010%20-%20Pages%202701-3000.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2010%20-%20Pages%202701-3000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2010%20-%20Pages%202701-3000.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bluebookfiles.org  
    Title: Canada UF O  
-   Link: <a href="https://bluebookfiles.org/doc/11292" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11292</a>  
+   Link:<a href="https://bluebookfiles.org/doc/11292" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11292</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sites.google.com  
    Title: national research council  
-   Link: <a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
+   Link:<a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
    Title: Canada FOIA Part 06 Pages 1501 1800 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Canada FOIA Part 19 Pages 5401 5700 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: noufors.com  
-   Link: <a href="https://noufors.com/Documents/Canadian%20UFO%20Documents%20Archive/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/Canadian%20UFO%20Documents%20Archive/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf</a>  
+   Link:<a href="https://noufors.com/Documents/Canadian%20UFO%20Documents%20Archive/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/Canadian%20UFO%20Documents%20Archive/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_</a>  
+   Link:<a href="https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html</a>  
+   Link:<a href="https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
+   Link:<a href="https://www.scribd.com/document/640223543/Untitled" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/640223543/Untitled</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sis.agr.gc.ca  
-   Link: <a href="https://sis.agr.gc.ca/cansis/publications/surveys/yt/ytps/ytps_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sis.agr.gc.ca/cansis/publications/surveys/yt/ytps/ytps_report.pdf</a>  
+   Link:<a href="https://sis.agr.gc.ca/cansis/publications/surveys/yt/ytps/ytps_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sis.agr.gc.ca/cansis/publications/surveys/yt/ytps/ytps_report.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PhantomsMonstersRadio/posts/the-great-canadian-flying-saucer-flap-of-1970-ufo-occupants-solid-light-beams-an/1609680314490540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhantomsMonstersRadio/posts/the-great-canadian-flying-saucer-flap-of-1970-ufo-occupants-solid-light-beams-an/1609680314490540/</a>  
+   Link:<a href="https://www.facebook.com/PhantomsMonstersRadio/posts/the-great-canadian-flying-saucer-flap-of-1970-ufo-occupants-solid-light-beams-an/1609680314490540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhantomsMonstersRadio/posts/the-great-canadian-flying-saucer-flap-of-1970-ufo-occupants-solid-light-beams-an/1609680314490540/</a>  

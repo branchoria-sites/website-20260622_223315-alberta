@@ -256,7 +256,7 @@ image: /assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_o
 
 ## Introduction
 
-The missing McLeod Hill file is one of the clearest examples of a recurring problem in Canadian UFO history: a local story can become associated with official investigation even when no identifiable government record has been located. For the reported 1965 [McLeod Hill trace]({{ 'mc-leod-hill/' | relative_url }}) incident near Fredericton, later accounts describe witnesses, ground marks and follow-up interest, yet researchers have not produced a specific federal case file, police report, military investigation or archival document that can be tied securely to the event. That absence matters because Canadian UFO records are unusually well preserved by international standards. Thousands of government documents survive, making it possible to check many historical claims against actual archives. When a file cannot be found, that does not prove an event never happened, but it does weaken arguments that the case received significant official scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+The missing McLeod Hill file is one of the clearest examples of a recurring problem in Canadian UFO history: a local story can become associated with official investigation even when no identifiable government record has been located. For the reported 1965 [McLeod Hill trace]({{ 'mc-leod-hill/' | relative_url }}) incident near Fredericton, later accounts describe witnesses, ground marks and follow-up interest, yet researchers have not produced a specific federal case file, police report, military investigation or archival document that can be tied securely to the event. That absence matters because Canadian UFO records are unusually well preserved by international standards. Thousands of government documents survive, making it possible to check many historical claims against actual archives. When a file cannot be found, that does not prove an event never happened, but it does weaken arguments that the case received significant official scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-1-dark.svg" | relative_url }}" alt="Missing file illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -266,11 +266,11 @@ Within the wider McLeod Hill evidence gap, the archive question is therefore cen
 
 The strongest reason for caution is simple: no publicly identified government document has yet been linked directly to the McLeod Hill incident.
 
-[Later retellings]({{ 'later-retelling/' | relative_url }}) connect the story to the Walter Lint farm and to local efforts to reconstruct what happened decades after the event. Those accounts suggest that people in the Fredericton area discussed the case and that informal investigation occurred. However, they do not provide a file number, archival reference, police report, Department of National Defence document, or Transport Canada record that can be independently examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</span></span></span>
+[Later retellings]({{ 'later-retelling/' | relative_url }}) connect the story to the Walter Lint farm and to local efforts to reconstruct what happened decades after the event. Those accounts suggest that people in the Fredericton area discussed the case and that informal investigation occurred. However, they do not provide a file number, archival reference, police report, Department of National Defence document, or Transport Canada record that can be independently examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</span></span></span>
 
 This creates an important distinction. A story may be genuine local history without being a documented government case. In UFO research, those are not the same thing. The McLeod Hill claim is often cited because of the reported ground traces, but the documentary trail remains much thinner than the physical-trace cases that can be connected to surviving [federal records]({{ 'federal-records/' | relative_url }}).
 
-The lack of a clear file is especially notable because Canadian researchers have spent decades examining declassified UFO material. Federal investigations generated thousands of pages of records from the early Cold War onward, and many of those records are now publicly searchable. If McLeod Hill had prompted a substantial official investigation, one would reasonably expect some documentary footprint to have surfaced by now. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</span></span></span>
+The lack of a clear file is especially notable because Canadian researchers have spent decades examining declassified UFO material. Federal investigations generated thousands of pages of records from the early Cold War onward, and many of those records are now publicly searchable. If McLeod Hill had prompted a substantial official investigation, one would reasonably expect some documentary footprint to have surfaced by now.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CS2z-V6Qjsg" title="UFOs Part 1 — Canadian Reports, Research &amp; Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer">UFOs Part 1 — Canadian Reports, Research &amp; Disclosure</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 89 &middot; Uploaded: January 2024 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CS2z-V6Qjsg">Open on YouTube</a></p></div></div></div>
@@ -287,11 +287,11 @@ There was never a single Canadian UFO agency with complete responsibility for ev
 * The Department of National Defence (DND).
 * The Department of Transport.
 * The Royal Canadian Mounted Police (RCMP).
-* The National Research Council (NRC), particularly through its collection of "non-meteoric" sighting reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+* The National Research Council (NRC), particularly through its collection of "non-meteoric" sighting reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 </div>
 
-Earlier federal initiatives such as Project Magnet and Project Second Storey examined UFO reports during the 1950s, but these programmes ended long before the reported McLeod Hill event of 1965. By the mid-1960s, reporting and record-keeping were more fragmented, with information often passing among departments rather than being concentrated in a single investigative body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revenantjournal.com">[Revenant Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revenantjournal.com</span><span class="citation-popover-snippet">Revenant JournalCanada&#x27;s UFO files and the Rise of Conspiracy Theory...During the early part of the Cold War, Canada launched two overla...</span></span></span>
+Earlier federal initiatives such as Project Magnet and Project Second Storey examined UFO reports during the 1950s, but these programmes ended long before the reported McLeod Hill event of 1965. By the mid-1960s, reporting and record-keeping were more fragmented, with information often passing among departments rather than being concentrated in a single investigative body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revenantjournal.com">[Revenant Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revenantjournal.com</span><span class="citation-popover-snippet">Revenant JournalCanada&#x27;s UFO files and the Rise of Conspiracy Theory...During the early part of the Cold War, Canada launched two overla...</span></span></span>
 
 That fragmentation is important. A missing file does not necessarily mean a cover-up. It may mean a report never entered federal channels, was logged under a different location or date, was handled locally without creating a substantial record, or was never formally investigated.
 
@@ -309,7 +309,7 @@ Researchers searching for historical cases face several practical problems:
 
 **Witness names may be absent.** Many government UFO reports contain only minimal identifying information.
 
-**Not every report survived.** Canadian UFO records are substantial but incomplete. Some files were retained while others were lost, dispersed, or never formally created. The surviving collections are uneven across agencies and time periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</span></span></span>
+**Not every report survived.** Canadian UFO records are substantial but incomplete. Some files were retained while others were lost, dispersed, or never formally created. The surviving collections are uneven across agencies and time periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</span></span></span>
 
 **Local stories often remained local.** A newspaper tip, conversation with police, or report to a civilian investigator could leave little or no federal documentary trace.
 
@@ -336,7 +336,7 @@ For the McLeod Hill case to gain stronger evidential status within [New Brunswic
 
 Such material would not prove an extraordinary explanation. It would, however, establish that the event entered an official reporting system and would allow historians to evaluate what investigators observed at the time.
 
-Without that documentation, McLeod Hill remains a reported incident rather than a documented government case. The distinction may seem technical, but it is crucial. Canadian UFO archives contain many reports that can be traced through file numbers, departmental correspondence and preserved records. McLeod Hill's problem is not that investigators reached the wrong conclusion; it is that no clearly identifiable official file has yet been produced for scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Without that documentation, McLeod Hill remains a reported incident rather than a documented government case. The distinction may seem technical, but it is crucial. Canadian UFO archives contain many reports that can be traced through file numbers, departmental correspondence and preserved records. McLeod Hill's problem is not that investigators reached the wrong conclusion; it is that no clearly identifiable official file has yet been produced for scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-3-dark.svg" | relative_url }}" alt="Missing file illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,203 +344,203 @@ Without that documentation, McLeod Hill remains a reported incident rather than 
 
 The absence of a clear official record neither validates nor disproves the McLeod Hill story. Instead, it limits how confidently historians can treat it.
 
-Within New Brunswick's UFO history, McLeod Hill remains notable because it is associated with an alleged physical trace rather than a simple light in the sky. Yet its evidential standing is constrained by the same issue that has followed the case for decades: the strongest versions of the story depend on later recollections, while the expected documentary support has not been located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</span></span></span>
+Within New Brunswick's UFO history, McLeod Hill remains notable because it is associated with an alleged physical trace rather than a simple light in the sky. Yet its evidential standing is constrained by the same issue that has followed the case for decades: the strongest versions of the story depend on later recollections, while the expected documentary support has not been located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</span></span></span>
 
-As a result, the case serves less as evidence of an unexplained landing and more as a lesson in archival standards. Canadian government UFO collections demonstrate that many historical reports did leave a paper trail. Until a specific McLeod Hill file is identified and examined, the claim should be treated as an interesting local report with an unresolved documentation problem rather than as a confirmed official UFO investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2thecanadianencyclopedia.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+As a result, the case serves less as evidence of an unexplained landing and more as a lesson in archival standards. Canadian government UFO collections demonstrate that many historical reports did leave a paper trail. Until a specific McLeod Hill file is identified and examined, the claim should be treated as an interesting local report with an unresolved documentation problem rather than as a confirmed official UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2thecanadianencyclopedia.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g3rYRbSmgsY" title="The Falcon Lake Incident: Canada&#x27;s Most Documented UFO Case #audible #podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g3rYRbSmgsY" target="_blank" rel="noopener noreferrer">The Falcon Lake Incident: Canada&#x27;s Most Documented UFO Case #audible #podcast</a></p><p class="youtube-embed-meta">Channel: Vanishing Threads</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g3rYRbSmgsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g3rYRbSmgsY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why is there no clear official file?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why is there no clear official file?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases, official records, and the evidentiary standards needed when assessing claims of government involvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases, official records, and the evidentiary standards needed when assessing claims of government involvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reported sightings were investigated and how official case documentation can support or weaken claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reported sightings were investigated and how official case documentation can support or weaken claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly examines government handling of UFO reports and the archival record behind historical cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines government handling of UFO reports and the archival record behind historical cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for evaluating older UFO cases, source quality, and the documentary trail behind reported events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating older UFO cases, source quality, and the documentary trail behind reported events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="{{ '/assets/images/marketplace-covers/f78134edf861d5e1c812.jpg' | relative_url }}" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL"><img src="{{ '/assets/images/marketplace-covers/f78134edf861d5e1c812.jpg' | relative_url }}" alt="Listing image for PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">PROMOTIONAL MARCONI MARECS MARINE COASTAL SATELLITE DIORAMA MODEL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="{{ '/assets/images/marketplace-covers/6eaeff2dc063de64b318.jpg' | relative_url }}" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="{{ '/assets/images/marketplace-covers/6eaeff2dc063de64b318.jpg' | relative_url }}" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="missing-file-why-is-there-no-clear-official-file-new-brunswick-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ As a result, the case serves less as evidence of an unexplained landing and more
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ As a result, the case serves less as evidence of an unexplained landing and more
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ As a result, the case serves less as evidence of an unexplained landing and more
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ As a result, the case serves less as evidence of an unexplained landing and more
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ As a result, the case serves less as evidence of an unexplained landing and more
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,162 +746,162 @@ As a result, the case serves less as evidence of an unexplained landing and more
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — A digitized collection of the federal government&#x27;s UFO documents is available on the Library and Archives Canada website. T...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — A digitized collection of the federal government&#x27;s UFO documents is available on the Library and Archives Canada website. T...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Canada FOIA Part 17 Pages 4801 5100 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...The CFHQ UFO file is classified as this file con- tains such Confidential materi...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...The CFHQ UFO file is classified as this file con- tains such Confidential materi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19660619/1966_06_19_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19660619/1966_06_19_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1966-06-19)&quot;Full text of &quot;The Daily Colonist (1966-06-19)&quot;. See other formats. Home Telephone 383-4111...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19660619/1966_06_19_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19660619/1966_06_19_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1966-06-19)&quot;Full text of &quot;The Daily Colonist (1966-06-19)&quot;. See other formats. Home Telephone 383-4111...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Canada FOIA Part 23 Pages 6601 6900 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2023%20-%20Pages%206601-6900_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: thecharleton21carl djvu.txt  
-   Link: <a href="https://archive.org/stream/thecharleton21carl/thecharleton21carl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/thecharleton21carl/thecharleton21carl_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Charlatan 1991-92&quot;... Aliens, the norm is to depict women as the objects, of men&#x27;s vio- lence. Luc Besson&#x27;s recent thri...</p></details>
+   Link:<a href="https://archive.org/stream/thecharleton21carl/thecharleton21carl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/thecharleton21carl/thecharleton21carl_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Charlatan 1991-92&quot;... Aliens, the norm is to depict women as the objects, of men&#x27;s vio- lence. Luc Besson&#x27;s recent thri...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: Nov 09 1989, Financial Times, #30994, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/FinancialTimes1989UKEnglish/Nov%2009%201989%2C%20Financial%20Times%2C%20%2330994%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1989UKEnglish/Nov%2009%201989%2C%20Financial%20Times%2C%20%2330994%2C%20UK%20%28en%29_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien. New York Stories attempts to plant the loss of life an the anthology film: that once-feghiopabte form (see Boccaccio 7% Booth pag...</p></details>
+   Link:<a href="https://archive.org/stream/FinancialTimes1989UKEnglish/Nov%2009%201989%2C%20Financial%20Times%2C%20%2330994%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1989UKEnglish/Nov%2009%201989%2C%20Financial%20Times%2C%20%2330994%2C%20UK%20%28en%29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien. New York Stories attempts to plant the loss of life an the anthology film: that once-feghiopabte form (see Boccaccio 7% Booth pag...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canada.ca  
    Title: episode 054  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — I visited Library and Archives Canada many times over the course of my UFO res...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — I visited Library and Archives Canada many times over the course of my UFO res...</p></details>
    Published: May 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: batadora.trentu.ca  
    Title: etd 776  
-   Link: <a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</p></details>
+   Link:<a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon of unidenti...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jimlawrenceavondale.wordpress.com  
    Title: frederictonnb canada multi ufo sightings of the 1960s  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</p></details>
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jimlawrenceavondale.wordpress.com  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jimlawrenceavondale23 Jan 2022 — The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO...</p></details>
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jimlawrenceavondale23 Jan 2022 — The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...5 days ago — Some reports from the years 1965 to 1981 have bee...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...5 days ago — Some reports from the years 1965 to 1981 have bee...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: revenantjournal.com  
-   Link: <a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenant JournalCanada&#x27;s UFO files and the Rise of Conspiracy Theory...During the early part of the Cold War, Canada launched two overla...</p></details>
+   Link:<a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revenant JournalCanada&#x27;s UFO files and the Rise of Conspiracy Theory...During the early part of the Cold War, Canada launched two overla...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Despite Millman&#x27;s hopes for the value of an unclassifie...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Despite Millman&#x27;s hopes for the value of an unclassifie...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.caNon-meteoric sighting reports gathered by the Herzberg...Some reports from the years 1965 to 1981 have been digitized and a...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.caNon-meteoric sighting reports gathered by the Herzberg...Some reports from the years 1965 to 1981 have been digitized and a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Journey with Rutkowski on a guided tour of the UFO files contained within Library and Archives C...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Journey with Rutkowski on a guided tour of the UFO files contained within Library and Archives C...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: 8000 pages of declassified ufo documents from  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaI made a fully searchable archive of the recent UFO files. (OCR... r/UFOs - New UFO Files Released Today Pentagon Release 02 May 2...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaI made a fully searchable archive of the recent UFO files. (OCR... r/UFOs - New UFO Files Released Today Pentagon Release 02 May 2...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: github.com  
-   Link: <a href="https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json" target="_blank" rel="noopener noreferrer nofollow">https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Input_Method_auto-Modifier/EnWordBase.json at masterUse saved searches to filter your results more quickly · Code · Issues · Pull request...</p></details>
+   Link:<a href="https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json" target="_blank" rel="noopener noreferrer nofollow">https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Input_Method_auto-Modifier/EnWordBase.json at masterUse saved searches to filter your results more quickly · Code · Issues · Pull request...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: courses.cs.duke.edu  
-   Link: <a href="https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>duke.eduwords.txt... archive archived archiver archivers archives archiving archivist archly... daily daimler daintily daintiness dainty...</p></details>
+   Link:<a href="https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>duke.eduwords.txt... archive archived archiver archivers archives archiving archivist archly... daily daimler daintily daintiness dainty...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: we may not be area 51 but did you know that we hold a vast collection of ufo fil  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaThese include more than 20,000 separate UFO reports filed with various agencies since 1989, almost 10,000 Cana...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaThese include more than 20,000 separate UFO reports filed with various agencies since 1989, almost 10,000 Cana...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BEST&amp;NDSLISTA 1983... ALIENS IN THE SKIES: THE NEW UFO BATTLE OF THE SCIENTISTS. New York: G.P....Read more...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BEST&amp;NDSLISTA 1983... ALIENS IN THE SKIES: THE NEW UFO BATTLE OF THE SCIENTISTS. New York: G.P....Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: twz.com  
    Title: the newly released government ufo archives will leave you shrugging  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/c/clam%2Btegillarca%2Bgranosa" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/c/clam%2Btegillarca%2Bgranosa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bicula fluminea. Several studies have shown that C...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/c/clam%2Btegillarca%2Bgranosa" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/c/clam%2Btegillarca%2Bgranosa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bicula fluminea. Several studies have shown that C...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Are aliens here? Trump orders release of UFO documents | Reaction  
-   Link: <a href="http://www.youtube.com/watch?v=KnaiKnaws6U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KnaiKnaws6U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives Canada UFO records Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press) McNally Robinson Onlin...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KnaiKnaws6U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KnaiKnaws6U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives Canada UFO records Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press) McNally Robinson Onlin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search fo...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search fo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tile.loc.gov  
    Title: newyorkgenealog29newy bw  
-   Link: <a href="https://tile.loc.gov/storage-services/public/gdcmassbookdig/newyorkgenealog29newy/newyorkgenealog29newy_bw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/public/gdcmassbookdig/newyorkgenealog29newy/newyorkgenealog29newy_bw.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York genealogical and biographical record - LocThe ruins of this historical fort were standing in 1802.. In the meantime several garr...</p></details>
+   Link:<a href="https://tile.loc.gov/storage-services/public/gdcmassbookdig/newyorkgenealog29newy/newyorkgenealog29newy_bw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/public/gdcmassbookdig/newyorkgenealog29newy/newyorkgenealog29newy_bw.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York genealogical and biographical record - LocThe ruins of this historical fort were standing in 1802.. In the meantime several garr...</p></details>

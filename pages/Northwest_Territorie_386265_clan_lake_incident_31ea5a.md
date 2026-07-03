@@ -274,15 +274,15 @@ image: /assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-over
 
 ## Introduction
 
-The Clan Lake incident is the [Northwest Territories]({{ 'northwest-territories/' | relative_url }})’ strongest historical UFO case not because it proves an extraordinary craft crashed there, but because it moved beyond a distant light in the sky. In June 1960, a camper near Clan Lake, north of Yellowknife, reported a growing aircraft-like sound, a splash, a rotating object in the water, damaged vegetation, and what looked like a channel cut through lake grass. The Royal Canadian Mounted Police took the report seriously enough to inspect the site from the air, return for a closer search, probe the lake bottom, use a Geiger counter, consider a magnetometer survey, and ask whether the Royal Canadian Air Force should become involved. The result was intriguing but inconclusive: officials found signs consistent with something having struck the lake, but no object, radiation, metal trace, or recovered fragment was found. The Experiencer Support Association+3digitalcollections.trentu.ca+3digitalcollections.trentu.ca <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+The Clan Lake incident is the [Northwest Territories]({{ 'northwest-territories/' | relative_url }})’ strongest historical UFO case not because it proves an extraordinary craft crashed there, but because it moved beyond a distant light in the sky. In June 1960, a camper near Clan Lake, north of Yellowknife, reported a growing aircraft-like sound, a splash, a rotating object in the water, damaged vegetation, and what looked like a channel cut through lake grass. The Royal Canadian Mounted Police took the report seriously enough to inspect the site from the air, return for a closer search, probe the lake bottom, use a Geiger counter, consider a magnetometer survey, and ask whether the Royal Canadian Air Force should become involved. The result was intriguing but inconclusive: officials found signs consistent with something having struck the lake, but no object, radiation, metal trace, or recovered fragment was found. The Experiencer Support Association+3digitalcollections.trentu.ca+3digitalcollections.trentu.ca<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-overview.webp" | relative_url }}" alt="Overview image for Clan Lake" loading="eager" decoding="sync" fetchpriority="high">
 ## What the witnesses said happened
 
-The central account comes from an RCMP file later preserved in Canada’s federal UFO records. According to the archival summary, at about 6:00 pm on 22 June 1960 a camper at Clan Lake heard a sound from the sky “like a big plane in the distance”. He looked up but could not see the source. The sound grew louder, then he heard something strike the water. In his statement to the RCMP, he said he turned and saw a splash and what appeared to be an object with arms or spokes rotating in the lake. It then slowed and sank below the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+The central account comes from an RCMP file later preserved in Canada’s federal UFO records. According to the archival summary, at about 6:00 pm on 22 June 1960 a camper at Clan Lake heard a sound from the sky “like a big plane in the distance”. He looked up but could not see the source. The sound grew louder, then he heard something strike the water. In his statement to the RCMP, he said he turned and saw a splash and what appeared to be an object with arms or spokes rotating in the lake. It then slowed and sank below the surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
-The claim became more interesting when the witness and his partner paddled to the spot. They reported a section of burnt grass and a channel that appeared to match a cut path through the grass. That detail is important because it changed the case from a purely visual report into a possible physical-evidence case. The witness was not treated in the file as a random fantasist: the RCMP noted that he was well known in the region, had lived around Yellowknife for many years, worked as a prospector and woodcutter, knew bush life, and was considered very reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+The claim became more interesting when the witness and his partner paddled to the spot. They reported a section of burnt grass and a channel that appeared to match a cut path through the grass. That detail is important because it changed the case from a purely visual report into a possible physical-evidence case. The witness was not treated in the file as a random fantasist: the RCMP noted that he was well known in the region, had lived around Yellowknife for many years, worked as a prospector and woodcutter, knew bush life, and was considered very reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
 That said, the account was still a witness account. The strongest parts were the immediate description of sound, splash, movement in the water, and disturbed vegetation. The weakest parts were the exact nature of the object, its size, its speed, and whether the marks on the lake vegetation truly came from the same thing the men believed they had seen. This is the recurring difficulty with Clan Lake: the report had enough detail to deserve investigation, but not enough independent measurement to settle what happened.
 
@@ -290,20 +290,20 @@ That said, the account was still a witness account. The strongest parts were the
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-1-dark.svg" | relative_url }}" alt="Clan Lake illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the RCMP took it seriously
 
-The RCMP response was not a perfunctory dismissal. A 19 July 1960 aerial patrol went to the scene and reported that, from observations from the air and from the plane’s pontoons, it appeared that an object had landed on the east side of Clan Lake, although nothing could be found. The patrol described a cove with water reeds and a clear space about twelve feet wide and forty feet long where the reeds were gone and the water was slightly deeper. The lake bottom there was described as soft black mud of considerable depth, meaning that any object hitting it might have penetrated deeply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
+The RCMP response was not a perfunctory dismissal. A 19 July 1960 aerial patrol went to the scene and reported that, from observations from the air and from the plane’s pontoons, it appeared that an object had landed on the east side of Clan Lake, although nothing could be found. The patrol described a cove with water reeds and a clear space about twelve feet wide and forty feet long where the reeds were gone and the water was slightly deeper. The lake bottom there was described as soft black mud of considerable depth, meaning that any object hitting it might have penetrated deeply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
 
-The same report shows why northern geography mattered. A canoe patrol was considered, but local prospectors advised against it because of the frequency and length of portages. In other words, even when police wanted to inspect a site, the terrain and access problems made an ordinary search more complicated than it would have been near a road or town. The RCMP then planned a further visit with a Geiger counter and probing rod, and considered a magnetometer check after freeze-up if nothing was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
+The same report shows why northern geography mattered. A canoe patrol was considered, but local prospectors advised against it because of the frequency and length of portages. In other words, even when police wanted to inspect a site, the terrain and access problems made an ordinary search more complicated than it would have been near a road or town. The RCMP then planned a further visit with a Geiger counter and probing rod, and considered a magnetometer check after freeze-up if nothing was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
 
-By August, the case had been passed upward. An RCMP memo to the Royal Canadian Air Force said the matter seemed more suited to RCAF interest than RCMP interest, especially if there were plans to locate the object in the Yellowknife area. The memo is striking because it says the RCMP were “quite impressed” with the original information from the informant. That does not mean the RCMP believed a flying saucer had crashed. It means the report had enough apparent reliability and enough possible physical evidence to make officials wonder whether a military or technical search was more appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august-16-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 16, 1960 &#124; The Experiencer Support Association...</span><span class="citation-popover-meta">Published: August 16, 1960</span></span></span>
+By August, the case had been passed upward. An RCMP memo to the Royal Canadian Air Force said the matter seemed more suited to RCAF interest than RCMP interest, especially if there were plans to locate the object in the Yellowknife area. The memo is striking because it says the RCMP were “quite impressed” with the original information from the informant. That does not mean the RCMP believed a flying saucer had crashed. It means the report had enough apparent reliability and enough possible physical evidence to make officials wonder whether a military or technical search was more appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 16, 1960 &#124; The Experiencer Support Association...</span><span class="citation-popover-meta">Published: August 16, 1960</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hrxW9jrbtmM" title="UFOs over Canada? Government urged to start tracking | The Current" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hrxW9jrbtmM" target="_blank" rel="noopener noreferrer">UFOs over Canada? Government urged to start tracking | The Current</a></p><p class="youtube-embed-meta">Channel: CBC News &middot; Views: 13.2K &middot; Uploaded: July 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hrxW9jrbtmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hrxW9jrbtmM">Open on YouTube</a></p></div></div></div>
 
 ## What the physical search found
 
-The follow-up search is the heart of the “physical evidence” question. On 15 August 1960, a patrol returned to the site by aircraft. The water level had dropped since the July patrol, leaving only about a foot of water at the suspected impact point. Investigators described about eighteen inches of loose black silt over very hard clay. They waded much of the area and probed with 3/8-inch metal rods, but the clay made deep probing difficult; the greatest depth reached was about five feet. They detected nothing. A Geiger counter check was also negative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
+The follow-up search is the heart of the “physical evidence” question. On 15 August 1960, a patrol returned to the site by aircraft. The water level had dropped since the July patrol, leaving only about a foot of water at the suspected impact point. Investigators described about eighteen inches of loose black silt over very hard clay. They waded much of the area and probed with 3/8-inch metal rods, but the clay made deep probing difficult; the greatest depth reached was about five feet. They detected nothing. A Geiger counter check was also negative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
 
-The investigators did not simply walk away after failing to find an object. They marked the area by placing trees upright in the mud so the spot could be found above the snow in winter if a later magnetometer search was authorised. A local geologist, Gordon Brown of Yellowknife, who was in charge of fieldwork in the area for Giant Gold Mines, said he would be willing to conduct a magnetometer check after freeze-up if transport was supplied; he would provide the instrument himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
+The investigators did not simply walk away after failing to find an object. They marked the area by placing trees upright in the mud so the spot could be found above the snow in winter if a later magnetometer search was authorised. A local geologist, Gordon Brown of Yellowknife, who was in charge of fieldwork in the area for Giant Gold Mines, said he would be willing to conduct a magnetometer check after freeze-up if transport was supplied; he would provide the instrument himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
 
 Those details make Clan Lake stand out in the Northwest Territories record. There was a named site, visible disturbance, an official site visit, a second search, radiation testing, probing, and a proposed magnetic survey. But each element stops short of proof. Missing reeds and deeper water could indicate impact, but they could also have more ordinary causes. A negative Geiger counter result rules against an obvious radiation anomaly, but not against a non-radioactive object or natural event. Probing to five feet in silt and clay was a serious effort, but not a full excavation or professional underwater recovery.
 
@@ -311,9 +311,9 @@ Those details make Clan Lake stand out in the Northwest Territories record. Ther
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-2-dark.svg" | relative_url }}" alt="Clan Lake illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a meteor became the preferred explanation
 
-A later historical analysis of Canada’s UFO investigations reports that the Department of National Defence eventually leaned toward a natural explanation: the object was likely a meteorite that had disintegrated as it fell. A September 1960 DND memo to the RCMP said that, on the strength of investigations to that point, the object was not considered significant for National Defence. By May 1961, the RCMP had followed up again: they had not found a qualified person to carry out the magnetometer reading, and Ian Halliday, a National Research Council scientist, had concurred that the object was likely a meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+A later historical analysis of Canada’s UFO investigations reports that the Department of National Defence eventually leaned toward a natural explanation: the object was likely a meteorite that had disintegrated as it fell. A September 1960 DND memo to the RCMP said that, on the strength of investigations to that point, the object was not considered significant for National Defence. By May 1961, the RCMP had followed up again: they had not found a qualified person to carry out the magnetometer reading, and Ian Halliday, a National Research Council scientist, had concurred that the object was likely a meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
-That explanation fits some of the case but not all of it. A meteor or bolide can produce a loud sound, a dramatic descent, and a splash if material reaches water. It would also explain why defence officials lost interest once they no longer saw the matter as a possible aircraft, rocket part, satellite fragment, or foreign object. But the witness’s description of arms or spokes rotating in the water is harder to reconcile with a simple meteorite, unless it was a misperception of splashing debris, turbulence, reeds, bubbles, or a fragmented object at the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+That explanation fits some of the case but not all of it. A meteor or bolide can produce a loud sound, a dramatic descent, and a splash if material reaches water. It would also explain why defence officials lost interest once they no longer saw the matter as a possible aircraft, rocket part, satellite fragment, or foreign object. But the witness’s description of arms or spokes rotating in the water is harder to reconcile with a simple meteorite, unless it was a misperception of splashing debris, turbulence, reeds, bubbles, or a fragmented object at the surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
 There is also a timing problem in many UFO-water-impact cases: witnesses often see a brief, confusing event and then interpret physical marks after the fact. At Clan Lake, the disturbed reeds and channel are genuinely interesting, but the records do not establish that the marks were freshly made by the same event, nor do they document samples, photographs, measurements over time, or independent scientific examination of the vegetation. The meteor explanation is plausible, but the surviving record does not prove it.
 
@@ -322,9 +322,9 @@ There is also a timing problem in many UFO-water-impact cases: witnesses often s
 
 ## What remains unresolved
 
-The unresolved part of Clan Lake is narrow but real. It is not “did officials secretly recover a craft?” The available record points the other way: the RCMP searched, found no object, obtained no radiation reading, and appears to have ended the investigation after the meteor explanation gained support. The unresolved question is whether the witness and the first RCMP observers were looking at the aftermath of a real impact, and if so, what kind. The Experiencer Support Association+2The Experiencer Support Association <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[experiencersupport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
+The unresolved part of Clan Lake is narrow but real. It is not “did officials secretly recover a craft?” The available record points the other way: the RCMP searched, found no object, obtained no radiation reading, and appears to have ended the investigation after the meteor explanation gained support. The unresolved question is whether the witness and the first RCMP observers were looking at the aftermath of a real impact, and if so, what kind. The Experiencer Support Association+2The Experiencer Support Association<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[experiencersupport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) &#124;...</span></span></span>
 
-The case remains open in a historical sense because the best evidence was perishable. Water levels changed, reeds could regrow or shift, mud could swallow small material, and winter access plans depended on transport and specialist availability. The most decisive proposed test, a magnetometer survey after freeze-up, apparently did not happen. Once the object was judged unlikely to matter to National Defence, the incentive to spend more money and effort declined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
+The case remains open in a historical sense because the best evidence was perishable. Water levels changed, reeds could regrow or shift, mud could swallow small material, and winter access plans depended on transport and specialist availability. The most decisive proposed test, a magnetometer survey after freeze-up, apparently did not happen. Once the object was judged unlikely to matter to National Defence, the incentive to spend more money and effort declined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</span></span></span>
 
 For readers assessing the case today, the fairest classification is “unresolved but not evidentially strong enough to support an exotic claim”. It is stronger than a simple anecdotal sky sighting because officials found a disturbed area and attempted a physical search. It is weaker than a confirmed crash, meteorite fall, or recovered-object case because nothing was retrieved and no physical sample tied the disturbance to the witness’s report.
 
@@ -332,11 +332,11 @@ For readers assessing the case today, the fairest classification is “unresolve
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-3-dark.svg" | relative_url }}" alt="Clan Lake illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Clan Lake still matters in Northwest Territories UFO history
 
-Clan Lake matters because it shows how a northern UFO case could become serious without becoming sensational. The RCMP did not need to believe in extraterrestrial visitors to investigate. A possible object entering a lake in the Northwest Territories could have been a meteorite, aircraft debris, rocket hardware, satellite material, or something with national-security relevance. That practical uncertainty explains why the case moved through police, military, and scientific channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august-16-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 16, 1960 &#124; The Experiencer Support Association...</span><span class="citation-popover-meta">Published: August 16, 1960</span></span></span>
+Clan Lake matters because it shows how a northern UFO case could become serious without becoming sensational. The RCMP did not need to believe in extraterrestrial visitors to investigate. A possible object entering a lake in the Northwest Territories could have been a meteorite, aircraft debris, rocket hardware, satellite material, or something with national-security relevance. That practical uncertainty explains why the case moved through police, military, and scientific channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 16, 1960 &#124; The Experiencer Support Association...</span><span class="citation-popover-meta">Published: August 16, 1960</span></span></span>
 
-It also illustrates a wider Canadian pattern. Library and Archives Canada describes Canada’s digitised UFO collection as roughly 9,500 documents accumulated from 1947 into the early 1980s, including correspondence, reports, memos, procedures, and records connected to specific sightings. The Clan Lake files sit within that broader archive of federal uncertainty: Canadian agencies often recorded reports, passed them between departments, and looked for [ordinary explanations]({{ 'explanations/' | relative_url }}), but they did not maintain a single clear investigative system for every kind of UFO claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+It also illustrates a wider Canadian pattern. Library and Archives Canada describes Canada’s digitised UFO collection as roughly 9,500 documents accumulated from 1947 into the early 1980s, including correspondence, reports, memos, procedures, and records connected to specific sightings. The Clan Lake files sit within that broader archive of federal uncertainty: Canadian agencies often recorded reports, passed them between departments, and looked for [ordinary explanations]({{ 'explanations/' | relative_url }}), but they did not maintain a single clear investigative system for every kind of UFO claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-That point remains relevant because modern Canadian UAP policy discussions have shifted from proving or disproving individual mysteries to improving reporting and triage. The Sky Canada Project, led by the Office of the Chief Science Advisor, was created to review how public UAP reports are managed in Canada; its preview report explicitly says it focuses on reporting services and processes, not on determining what UAPs “are”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">sky canada project</span><span class="citation-popover-snippet">ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project, led by the Office of the Chief Science Advisor of Canada (OCSA), was in...</span></span></span>
+That point remains relevant because modern Canadian UAP policy discussions have shifted from proving or disproving individual mysteries to improving reporting and triage. The Sky Canada Project, led by the Office of the Chief Science Advisor, was created to review how public UAP reports are managed in Canada; its preview report explicitly says it focuses on reporting services and processes, not on determining what UAPs “are”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">sky canada project</span><span class="citation-popover-snippet">ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project, led by the Office of the Chief Science Advisor of Canada (OCSA), was in...</span></span></span>
 
 Clan Lake is therefore best remembered as a careful-evidence case, not a certainty case. It contains a credible witness report, official concern, field investigation, and physical clues that were intriguing enough to pursue. It also contains the limits that matter most: no recovered object, no radiation anomaly, no completed magnetometer survey, and a later official preference for a meteor explanation. In the Northwest Territories UFO record, that combination makes it the strongest historical case and a useful warning against both dismissal and exaggeration.
 
@@ -345,194 +345,194 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Something Strike Clan Lake in 1960?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Something Strike Clan Lake in 1960?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Closest commercial match to a historic Canadian UFO case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest commercial match to a historic Canadian UFO case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on cases investigated by officials and witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cases investigated by officials and witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating physical-trace and witness cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating physical-trace and witness cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="clan-lake-did-something-strike-clan-lake-in-1960-northwest-territories-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,135 +738,135 @@ Clan Lake is therefore best remembered as a careful-evidence case, not a certain
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project, led by the Office of the Chief Science Advisor of Canada (OCSA), was in...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project, led by the Office of the Chief Science Advisor of Canada (OCSA), was in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Canada FOIA Part 29 Pages 8401 8759  
-   Link: <a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
+   Link:<a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-25-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-25-1960</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) |...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – July 25 1960 (Report 2) |...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support Association RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – August 25 1960 (Report 3)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august-16-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august-16-1960</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 1960 | The Experiencer Support Association...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-send-memo-to-rcaf-for-assist-on-clan-lake-incident-august</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 1960 | The Experiencer Support Association...</p></details>
    Published: August 16, 1960  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960</a>  
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/points-of-interest" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/points-of-interest</a>  
+   Link:<a href="https://www.experiencersupport.org/points-of-interest" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/points-of-interest</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified_place/yellowknife" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified_place/yellowknife</a>  
+   Link:<a href="https://www.experiencersupport.org/declassified_place/yellowknife" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified_place/yellowknife</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified_organization/security-and-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified_organization/security-and-intelligence</a>  
+   Link:<a href="https://www.experiencersupport.org/declassified_organization/security-and-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified_organization/security-and-intelligence</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 25 Pages 7201 7500  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 29 Pages 8401 8759  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sites.google.com  
    Title: national research council  
-   Link: <a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
+   Link:<a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading of the site, but Ian Halliday, an nrc scientist, concurred with the...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading of the site, but Ian Halliday, an nrc scientist, concurred with the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: One of Canada's Strangest Sightings (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake Incident: The Most Credible UFO Case in History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake Incident: The Most Credible UFO Case in History...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nwtgeoscience.ca  
-   Link: <a href="https://www.nwtgeoscience.ca/gsforum/sites/gsforum/files/resources/yk_geoscience_forum_2011_abstracts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nwtgeoscience.ca/gsforum/sites/gsforum/files/resources/yk_geoscience_forum_2011_abstracts.pdf</a>  
+   Link:<a href="https://www.nwtgeoscience.ca/gsforum/sites/gsforum/files/resources/yk_geoscience_forum_2011_abstracts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nwtgeoscience.ca/gsforum/sites/gsforum/files/resources/yk_geoscience_forum_2011_abstracts.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: protectadks.org  
-   Link: <a href="https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf</a>  
+   Link:<a href="https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2008/dfo-mpo/Fs75-104-2007E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2008/dfo-mpo/Fs75-104-2007E.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2008/dfo-mpo/Fs75-104-2007E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2008/dfo-mpo/Fs75-104-2007E.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/icepilotsnwt/posts/mikey-mcbryans-newest-video-did-a-ufo-crash-into-clan-lake/10159183559072642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/icepilotsnwt/posts/mikey-mcbryans-newest-video-did-a-ufo-crash-into-clan-lake/10159183559072642/</a>  
+   Link:<a href="https://www.facebook.com/icepilotsnwt/posts/mikey-mcbryans-newest-video-did-a-ufo-crash-into-clan-lake/10159183559072642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/icepilotsnwt/posts/mikey-mcbryans-newest-video-did-a-ufo-crash-into-clan-lake/10159183559072642/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
+   Link:<a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UFOCreaturesPhenomenons/posts/1284912126967351/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOCreaturesPhenomenons/posts/1284912126967351/</a>  
+   Link:<a href="https://www.facebook.com/UFOCreaturesPhenomenons/posts/1284912126967351/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOCreaturesPhenomenons/posts/1284912126967351/</a>  

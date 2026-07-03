@@ -262,22 +262,22 @@ image: /assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_
 
 ## Introduction
 
-The short answer is that a hobby balloon is one of the most plausible explanations for the object shot down over [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) on 11 February 2023, but it has never been conclusively identified as one. No debris was recovered and no government investigation publicly tied the object to a specific balloon owner. What changed over time was not the discovery of definitive proof, but the gradual accumulation of clues that made an ordinary balloon explanation look more credible than many of the early speculations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
+The short answer is that a hobby balloon is one of the most plausible explanations for the object shot down over [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) on 11 February 2023, but it has never been conclusively identified as one. No debris was recovered and no government investigation publicly tied the object to a specific balloon owner. What changed over time was not the discovery of definitive proof, but the gradual accumulation of clues that made an ordinary balloon explanation look more credible than many of the early speculations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-1-dark.svg" | relative_url }}" alt="Balloon theory illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Yukon’s modern UFO history, this matters because the case illustrates how an object can remain officially unidentified even when the leading explanation becomes increasingly mundane. The debate shifted away from extraterrestrial claims and towards questions about amateur high-altitude balloons, military threat assessment, and the difficulties of identifying small objects detected in northern airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of high altitude object events in 2023</span><span class="citation-popover-snippet">List of high altitude object events in 2023</span></span></span>
+Within Yukon’s modern UFO history, this matters because the case illustrates how an object can remain officially unidentified even when the leading explanation becomes increasingly mundane. The debate shifted away from extraterrestrial claims and towards questions about amateur high-altitude balloons, military threat assessment, and the difficulties of identifying small objects detected in northern airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of high altitude object events in 2023</span><span class="citation-popover-snippet">List of high altitude object events in 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/scwi2KFVSmw" title="US Fighter Jet Shoots Down Unidentified Object Over Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=scwi2KFVSmw" target="_blank" rel="noopener noreferrer">US Fighter Jet Shoots Down Unidentified Object Over Canada</a></p><p class="youtube-embed-meta">Channel: TVC News Nigeria</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=scwi2KFVSmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=scwi2KFVSmw">Open on YouTube</a></p></div></div></div>
 
 ## Why the balloon-like image changed the debate
 
-For more than a year after the Yukon shootdown, the public had little visual evidence of what military pilots had actually seen. That changed in 2024 when a grainy image obtained through Canadian access-to-information requests was released by journalists. The photograph was poor quality, but many observers noted that it appeared consistent with a small balloon-like object rather than a large structured craft. Internal Canadian correspondence reportedly described it as a “suspected balloon”, and officials had previously discussed releasing the image before deciding against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</span></span></span>
+For more than a year after the Yukon shootdown, the public had little visual evidence of what military pilots had actually seen. That changed in 2024 when a grainy image obtained through Canadian access-to-information requests was released by journalists. The photograph was poor quality, but many observers noted that it appeared consistent with a small balloon-like object rather than a large structured craft. Internal Canadian correspondence reportedly described it as a “suspected balloon”, and officials had previously discussed releasing the image before deciding against it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</span></span></span>
 
-The image did not identify the object, but it influenced how the incident was interpreted. Earlier public descriptions had emphasised an unidentified object flying at roughly 40,000 feet. Once a photograph became available, discussion increasingly centred on whether the object resembled the kind of small balloon systems used by researchers, private operators, or amateur radio enthusiasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">El objeto, descrito como un “globo metálico con una carga atada”, se encontraba a 40,000 pies sobre el Yukon antes de ser derribado por u...</span></span></span>
+The image did not identify the object, but it influenced how the incident was interpreted. Earlier public descriptions had emphasised an unidentified object flying at roughly 40,000 feet. Once a photograph became available, discussion increasingly centred on whether the object resembled the kind of small balloon systems used by researchers, private operators, or amateur radio enthusiasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">El objeto, descrito como un “globo metálico con una carga atada”, se encontraba a 40,000 pies sobre el Yukon antes de ser derribado por u...</span></span></span>
 
-This was also broadly consistent with comments made by North American officials in the days after the incident. US officials said investigators were considering whether the objects shot down during the February 2023 airspace alerts could have been linked to commercial, research, or other benign activities rather than foreign surveillance programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of high altitude object events in 2023</span><span class="citation-popover-snippet">List of high altitude object events in 2023</span></span></span>
+This was also broadly consistent with comments made by North American officials in the days after the incident. US officials said investigators were considering whether the objects shot down during the February 2023 airspace alerts could have been linked to commercial, research, or other benign activities rather than foreign surveillance programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of high altitude object events in 2023</span><span class="citation-popover-snippet">List of high altitude object events in 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w1G-ThTMFU8" title="U.S. fighter jet shot down unidentified object in northern Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w1G-ThTMFU8" target="_blank" rel="noopener noreferrer">U.S. fighter jet shot down unidentified object in northern Canada</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w1G-ThTMFU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w1G-ThTMFU8">Open on YouTube</a></p></div></div></div>
@@ -286,23 +286,23 @@ This was also broadly consistent with comments made by North American officials 
 
 The best-known hobby-balloon theory focuses on a tiny amateur-radio balloon known as K9YO-15.
 
-K9YO-15 belonged to members of the Northern Illinois Bottlecap Balloon Brigade, a group that launches ultra-light “pico balloons”. These balloons are remarkably small compared with weather balloons or military surveillance balloons. They can remain airborne for months, drift around the world on high-altitude winds, and carry lightweight radio transmitters powered by solar energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
+K9YO-15 belonged to members of the Northern Illinois Bottlecap Balloon Brigade, a group that launches ultra-light “pico balloons”. These balloons are remarkably small compared with weather balloons or military surveillance balloons. They can remain airborne for months, drift around the world on high-altitude winds, and carry lightweight radio transmitters powered by solar energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
 
 Interest in K9YO-15 arose because:
 
 * The balloon disappeared from tracking systems at roughly the same time as the Yukon incident.
 * Its projected path placed it in the broad region where the military encounter occurred.
-* It had already completed multiple circumnavigations of the globe and had been aloft for more than 100 days, demonstrating that such small balloons can survive for long periods in the upper atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
+* It had already completed multiple circumnavigations of the globe and had been aloft for more than 100 days, demonstrating that such small balloons can survive for long periods in the upper atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
 
-News reports in February 2023 quickly highlighted the coincidence. Some balloon enthusiasts suggested that the military might have destroyed an innocuous amateur balloon during a period of heightened alert following the Chinese surveillance-balloon incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Object downed by US missile may have been amateur</span><span class="citation-popover-snippet">The GuardianObject downed by US missile may have been amateur...February 17, 2023 — 17 Feb 2023 — A group of amateur balloon enthusiasts...</span><span class="citation-popover-meta">Published: February 17, 2023</span></span></span>
+News reports in February 2023 quickly highlighted the coincidence. Some balloon enthusiasts suggested that the military might have destroyed an innocuous amateur balloon during a period of heightened alert following the Chinese surveillance-balloon incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Object downed by US missile may have been amateur</span><span class="citation-popover-snippet">The GuardianObject downed by US missile may have been amateur...February 17, 2023 — 17 Feb 2023 — A group of amateur balloon enthusiasts...</span><span class="citation-popover-meta">Published: February 17, 2023</span></span></span>
 
-The theory gained additional attention because the Yukon object had been described as much smaller than the Chinese balloon that dominated headlines a week earlier. A small metallic balloon carrying a lightweight payload would fit that distinction far better than another large surveillance platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
+The theory gained additional attention because the Yukon object had been described as much smaller than the Chinese balloon that dominated headlines a week earlier. A small metallic balloon carrying a lightweight payload would fit that distinction far better than another large surveillance platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-2-dark.svg" | relative_url }}" alt="Balloon theory illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why plausibility is not the same as identification
 
-The strongest argument for the hobby-balloon explanation is that it matches several known facts. A balloon was known to be operating in the region. The timing was suggestive. Officials later indicated that balloon-like explanations were being considered. The released image did not obviously contradict that possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
+The strongest argument for the hobby-balloon explanation is that it matches several known facts. A balloon was known to be operating in the region. The timing was suggestive. Officials later indicated that balloon-like explanations were being considered. The released image did not obviously contradict that possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Mystery object shot down over Yukon may have been &#x27;pico</span><span class="citation-popover-snippet">The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</span></span></span>
 
 However, none of those points proves that K9YO-15 was the object that NORAD engaged.
 
@@ -311,215 +311,215 @@ Several important gaps remain:
 * No wreckage was recovered and publicly identified.
 * No serial number, transmitter, or payload was linked to the Yukon object.
 * NORAD and Canadian authorities never publicly announced that K9YO-15 had been the target.
-* Even the balloon club itself cautioned that claims connecting its balloon to the shootdown were unsupported without recovered evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
+* Even the balloon club itself cautioned that claims connecting its balloon to the shootdown were unsupported without recovered evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
 
-The Northern Illinois Bottlecap Balloon Brigade was notably careful in its public statements. Rather than claiming its balloon had been shot down, the group emphasised that no such conclusion could be reached until debris was recovered and positively identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
+The Northern Illinois Bottlecap Balloon Brigade was notably careful in its public statements. Rather than claiming its balloon had been shot down, the group emphasised that no such conclusion could be reached until debris was recovered and positively identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
 
-That distinction is important. A plausible match is not the same thing as a confirmed match. In aviation investigations, coincidence of time and location can generate strong hypotheses, but identification normally requires physical evidence, telemetry records, or official confirmation. None of those emerged in the Yukon case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
+That distinction is important. A plausible match is not the same thing as a confirmed match. In aviation investigations, coincidence of time and location can generate strong hypotheses, but identification normally requires physical evidence, telemetry records, or official confirmation. None of those emerged in the Yukon case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nibbb.org">[NIBB Balloon Brigade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nibbb.org</span><span class="citation-popover-title">a statement from the nibbb on current events</span><span class="citation-popover-snippet">NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uNUfdpfHyFc" title="US fighter jet shoots down &#x27;unidentified object&#x27; over Canada | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer">US fighter jet shoots down &#x27;unidentified object&#x27; over Canada | DW News</a></p><p class="youtube-embed-meta">Channel: DW News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uNUfdpfHyFc">Open on YouTube</a></p></div></div></div>
 
 ## What the balloon theory means for the Yukon case
 
-The hobby-balloon explanation has arguably weakened the more extraordinary interpretations of the Yukon object. The release of imagery, the known presence of pico-balloon activity, and the absence of recovered debris all make a mundane airborne object easier to envision than an unknown advanced craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</span></span></span>
+The hobby-balloon explanation has arguably weakened the more extraordinary interpretations of the Yukon object. The release of imagery, the known presence of pico-balloon activity, and the absence of recovered debris all make a mundane airborne object easier to envision than an unknown advanced craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</span></span></span>
 
-At the same time, the theory has not fully resolved the incident. Because the object was destroyed in a remote part of Yukon and the search was ultimately unsuccessful, the case remains officially unidentified. The result is an unusual middle ground: a UFO case where the leading explanation is relatively ordinary, yet where the available evidence falls short of a definitive identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
+At the same time, the theory has not fully resolved the incident. Because the object was destroyed in a remote part of Yukon and the search was ultimately unsuccessful, the case remains officially unidentified. The result is an unusual middle ground: a UFO case where the leading explanation is relatively ordinary, yet where the available evidence falls short of a definitive identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
 
-For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]({{ '2023-object/' | relative_url }}) demonstrates that “unidentified” does not necessarily mean mysterious in the extraordinary sense. Sometimes it means that the most likely answer cannot be proven because the key evidence was never recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
+For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]({{ '2023-object/' | relative_url }}) demonstrates that “unidentified” does not necessarily mean mysterious in the extraordinary sense. Sometimes it means that the most likely answer cannot be proven because the key evidence was never recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Yukon high altitude object</span><span class="citation-popover-snippet">2023 Yukon high altitude object</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-3-dark.svg" | relative_url }}" alt="Balloon theory illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was It Just a Hobby Balloon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was It Just a Hobby Balloon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context on how governments and militaries assess unidentified aerial objects and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how governments and militaries assess unidentified aerial objects and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, investigation, and the difference between unexplained and identified sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, investigation, and the difference between unexplained and identified sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate competing explanations, evidence quality, and claims surrounding unidentified objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate competing explanations, evidence quality, and claims surrounding unidentified objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores military aerospace secrecy, surveillance, and how extraordinary aerial stories develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military aerospace secrecy, surveillance, and how extraordinary aerial stories develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-theory-was-it-just-a-hobby-balloon-yukon-ufo-poster-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,103 +725,103 @@ For Yukon’s UFO history, that may be the most useful lesson. The [2023 object]
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Mystery object shot down over Yukon may have been 'pico  
-   Link: <a href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</p></details>
+   Link:<a href="https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/mystery-object-shot-down-yukon-amateur-ballloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 32-inch-wide amateur balloon K9YO-15 was in the area and went missing shortly thereafter...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of high altitude object events in 2023  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_high-altitude_object_events_in_2023</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: image released of mysterious object shot down over yukon in 2023.13668  
-   Link: <a href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image released of mysterious object shot down over Yukon...24 Sept 2024 — An image of the unidentified object shot down over Can...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2023 Yukon high altitude object  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nibbb.org  
    Title: a statement from the nibbb on current events  
-   Link: <a href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow">https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</p></details>
+   Link:<a href="https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/" target="_blank" rel="noopener noreferrer nofollow">https://nibbb.org/2023/02/17/a-statement-from-the-nibbb-on-current-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIBB Balloon BrigadeA statement from the NIBBB on current events17 Feb 2023 — As has been widely reported, no part of the object shot dow...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El objeto, descrito como un “globo metálico con una carga atada”, se encontraba a 40,000 pies sobre el Yukon antes de ser derribado por u...</p></details>
+   Link:<a href="https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/09/25/us-news/ufo-flying-over-canada-shot-down-by-us-in-feb-2023-seen-in-new-picture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El objeto, descrito como un “globo metálico con una carga atada”, se encontraba a 40,000 pies sobre el Yukon antes de ser derribado por u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: leonarddavid.com  
    Title: pop goes the pico balloon flying object shoot down identified  
-   Link: <a href="https://www.leonarddavid.com/pop-goes-the-pico-balloon-flying-object-shoot-down-identified/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/pop-goes-the-pico-balloon-flying-object-shoot-down-identified/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pop Goes the Pico Balloon: Flying Object Shoot Down...17 Feb 2023 — The object blasted out of the sky over Canada, Yukon by a US Air For...</p></details>
+   Link:<a href="https://www.leonarddavid.com/pop-goes-the-pico-balloon-flying-object-shoot-down-identified/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/pop-goes-the-pico-balloon-flying-object-shoot-down-identified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pop Goes the Pico Balloon: Flying Object Shoot Down...17 Feb 2023 — The object blasted out of the sky over Canada, Yukon by a US Air For...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Object downed by US missile may have been amateur  
-   Link: <a href="https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianObject downed by US missile may have been amateur...February 17, 2023 — 17 Feb 2023 — A group of amateur balloon enthusiasts...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/feb/17/object-us-military-shot-down-amateur-hobbyists-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianObject downed by US missile may have been amateur...February 17, 2023 — 17 Feb 2023 — A group of amateur balloon enthusiasts...</p></details>
    Published: February 17, 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/amateurradio/comments/111ksvv/anyone_else_concerned_about_k9yo15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/amateurradio/comments/111ksvv/anyone_else_concerned_about_k9yo15/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else concerned about K9YO-15?: r/amateurradioHam Radio club of Illinois has declared their K9YO balloon &quot;missing in action&quot; after...</p></details>
+   Link:<a href="https://www.reddit.com/r/amateurradio/comments/111ksvv/anyone_else_concerned_about_k9yo15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/amateurradio/comments/111ksvv/anyone_else_concerned_about_k9yo15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else concerned about K9YO-15?: r/amateurradioHam Radio club of Illinois has declared their K9YO balloon &quot;missing in action&quot; after...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkyNewsAustralia/posts/one-of-the-balloons-shot-down-in-the-us-with-a-500000-missile-was-a-hobby-balloo/10159546917946728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/one-of-the-balloons-shot-down-in-the-us-with-a-500000-missile-was-a-hobby-balloo/10159546917946728/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the balloons shot down in the US with...NIBBB said its &#x27;K9YO&#x27; balloon last reported its location shortly before 1am GMT on Saturd...</p></details>
+   Link:<a href="https://www.facebook.com/SkyNewsAustralia/posts/one-of-the-balloons-shot-down-in-the-us-with-a-500000-missile-was-a-hobby-balloo/10159546917946728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/one-of-the-balloons-shot-down-in-the-us-with-a-500000-missile-was-a-hobby-balloo/10159546917946728/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the balloons shot down in the US with...NIBBB said its &#x27;K9YO&#x27; balloon last reported its location shortly before 1am GMT on Saturd...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/unidentified-object-alaska-balloonist-northern-illinois-bottlecap-balloon-brigade-alaksa-shot-down/12832498/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/unidentified-object-alaska-balloonist-northern-illinois-bottlecap-balloon-brigade-alaksa-shot-down/12832498/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amateur Illinois balloonist group says small balloon last...17 Feb 2023 — A club of amateur balloonists says one of its small balloons i...</p></details>
+   Link:<a href="https://abc7chicago.com/post/unidentified-object-alaska-balloonist-northern-illinois-bottlecap-balloon-brigade-alaksa-shot-down/12832498/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/unidentified-object-alaska-balloonist-northern-illinois-bottlecap-balloon-brigade-alaksa-shot-down/12832498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amateur Illinois balloonist group says small balloon last...17 Feb 2023 — A club of amateur balloonists says one of its small balloons i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/95834e5c5e8778dd0cfd1cf147b4a318" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/95834e5c5e8778dd0cfd1cf147b4a318</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These actions have brought attention to amateur balloonists, who argue that their balloons pose no threat. The objects, likely belonging...</p></details>
+   Link:<a href="https://apnews.com/article/95834e5c5e8778dd0cfd1cf147b4a318" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/95834e5c5e8778dd0cfd1cf147b4a318</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These actions have brought attention to amateur balloonists, who argue that their balloons pose no threat. The objects, likely belonging...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nbcchicago.com  
-   Link: <a href="https://www.nbcchicago.com/news/local/illinois-groups-balloon-missing-in-action-over-alaska-fueling-speculation-after-us-shot-down-object/3075421/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcchicago.com/news/local/illinois-groups-balloon-missing-in-action-over-alaska-fueling-speculation-after-us-shot-down-object/3075421/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois Group&#x27;s Balloon &#x27;Missing in Action&#x27; Over Alaska...17 Feb 2023 — An Illinois group says one of its pico balloons is &quot;missing in...</p></details>
+   Link:<a href="https://www.nbcchicago.com/news/local/illinois-groups-balloon-missing-in-action-over-alaska-fueling-speculation-after-us-shot-down-object/3075421/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcchicago.com/news/local/illinois-groups-balloon-missing-in-action-over-alaska-fueling-speculation-after-us-shot-down-object/3075421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois Group&#x27;s Balloon &#x27;Missing in Action&#x27; Over Alaska...17 Feb 2023 — An Illinois group says one of its pico balloons is &quot;missing in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ketv7/posts/a-local-amateur-radio-operator-sheds-light-on-what-could-be-one-of-the-unidentif/567268312099479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ketv7/posts/a-local-amateur-radio-operator-sheds-light-on-what-could-be-one-of-the-unidentif/567268312099479/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Ham Radio Prep Published on February 17, 2023 A balloon launched... The UAF shot down over the Yukon was a hobby balloon...</p></details>
+   Link:<a href="https://www.facebook.com/ketv7/posts/a-local-amateur-radio-operator-sheds-light-on-what-could-be-one-of-the-unidentif/567268312099479/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ketv7/posts/a-local-amateur-radio-operator-sheds-light-on-what-could-be-one-of-the-unidentif/567268312099479/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Ham Radio Prep Published on February 17, 2023 A balloon launched... The UAF shot down over the Yukon was a hobby balloon...</p></details>
    Published: February 17, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kuow.org  
    Title: did an f 22 shoot down an illinois hobby group s small radio balloon  
-   Link: <a href="https://www.kuow.org/stories/did-an-f-22-shoot-down-an-illinois-hobby-group-s-small-radio-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/did-an-f-22-shoot-down-an-illinois-hobby-group-s-small-radio-balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did an F-22 shoot down an Illinois hobby group&#x27;s small...18 Feb 2023 — But the hobbyist club&#x27;s members are warning that while their ball...</p></details>
+   Link:<a href="https://www.kuow.org/stories/did-an-f-22-shoot-down-an-illinois-hobby-group-s-small-radio-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/did-an-f-22-shoot-down-an-illinois-hobby-group-s-small-radio-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did an F-22 shoot down an Illinois hobby group&#x27;s small...18 Feb 2023 — But the hobbyist club&#x27;s members are warning that while their ball...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ched by a club it was still classified as &quot;UAP&quot;. 21/pico-balloon-k...</p></details>
+   Link:<a href="https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ched by a club it was still classified as &quot;UAP&quot;. 21/pico-balloon-k...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News4SA/posts/the-northern-illinois-bottlecap-balloon-brigade-declared-a-pico-balloon-missing-/10160883022062445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News4SA/posts/the-northern-illinois-bottlecap-balloon-brigade-declared-a-pico-balloon-missing-/10160883022062445/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amateur radio pico balloon — specifically, a 33-inch-wide one...</p></details>
+   Link:<a href="https://www.facebook.com/News4SA/posts/the-northern-illinois-bottlecap-balloon-brigade-declared-a-pico-balloon-missing-/10160883022062445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News4SA/posts/the-northern-illinois-bottlecap-balloon-brigade-declared-a-pico-balloon-missing-/10160883022062445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amateur radio pico balloon — specifically, a 33-inch-wide one...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: washingtonpost.com  
    Title: illinois hobbyist balloon missing yukon  
-   Link: <a href="https://www.washingtonpost.com/national-security/2023/02/17/illinois-hobbyist-balloon-missing-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/02/17/illinois-hobbyist-balloon-missing-yukon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hobbyists are missing a &#x27;pico balloon.&#x27; Did a U.S. fighter jet...17 Feb 2023 — Balloon hobbyists have said it was possible the object bl...</p></details>
+   Link:<a href="https://www.washingtonpost.com/national-security/2023/02/17/illinois-hobbyist-balloon-missing-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/02/17/illinois-hobbyist-balloon-missing-yukon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hobbyists are missing a &#x27;pico balloon.&#x27; Did a U.S. fighter jet...17 Feb 2023 — Balloon hobbyists have said it was possible the object bl...</p></details>

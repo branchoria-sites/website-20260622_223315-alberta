@@ -256,31 +256,31 @@ image: /assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1
 
 ## Introduction
 
-One of the most important corrections in the wider Shelburne–[Shag Harbour]({{ 'shag-harbour/' | relative_url }}) story is that some of the most dramatic underwater claims may not belong to the 1967 Shag Harbour incident at all. Later UFO researchers, particularly Chris Styles, concluded that testimony describing naval divers encountering unusual objects during a NATO operation was linked to a separate event in 1960 rather than to the famous October 1967 sighting near Shag Harbour. If that dating is correct, it weakens attempts to use the Shelburne accounts as direct evidence for what happened in 1967. Instead of one continuous mystery stretching from Shag Harbour to Shelburne, there may be two distinct stories that were later blended together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+One of the most important corrections in the wider Shelburne–[Shag Harbour]({{ 'shag-harbour/' | relative_url }}) story is that some of the most dramatic underwater claims may not belong to the 1967 Shag Harbour incident at all. Later UFO researchers, particularly Chris Styles, concluded that testimony describing naval divers encountering unusual objects during a NATO operation was linked to a separate event in 1960 rather than to the famous October 1967 sighting near Shag Harbour. If that dating is correct, it weakens attempts to use the Shelburne accounts as direct evidence for what happened in 1967. Instead of one continuous mystery stretching from Shag Harbour to Shelburne, there may be two distinct stories that were later blended together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-1-dark.svg" | relative_url }}" alt="1960 Split illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because the documented 1967 case is supported by contemporary police, military and government records, whereas the 1960 Shelburne story rests largely on retrospective testimony collected decades later. Separating the two does not resolve either mystery, but it changes how historians and investigators evaluate the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+This distinction matters because the documented 1967 case is supported by contemporary police, military and government records, whereas the 1960 Shelburne story rests largely on retrospective testimony collected decades later. Separating the two does not resolve either mystery, but it changes how historians and investigators evaluate the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bZm0XudH5UA" title="Ep. 1838 Chris Styles: Shag Harbor: Canada&#x27;s Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bZm0XudH5UA" target="_blank" rel="noopener noreferrer">Ep. 1838 Chris Styles: Shag Harbor: Canada&#x27;s Roswell</a></p><p class="youtube-embed-meta">Channel: FADE TO BLACK Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bZm0XudH5UA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bZm0XudH5UA">Open on YouTube</a></p></div></div></div>
 
 ## Was Shelburne really a separate 1960 case?
 
-The version that emerged in later years centres on a NATO minesweeping exercise conducted off [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) during the Cold War. According to accounts collected by Styles from former military personnel, divers were deployed after unusual underwater contacts were detected during the exercise. Some witnesses later described seeing unconventional objects on or near the seabed and recalled an unusually intense military response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+The version that emerged in later years centres on a NATO minesweeping exercise conducted off [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) during the Cold War. According to accounts collected by Styles from former military personnel, divers were deployed after unusual underwater contacts were detected during the exercise. Some witnesses later described seeing unconventional objects on or near the seabed and recalled an unusually intense military response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
-A key development came when Styles reportedly concluded that these memories did not originate from the 1967 Shag Harbour incident at all. Instead, he traced them to a NATO minesweeping operation in October 1960. In his later retellings, the exercise involved Canadian and American naval units conducting mine warfare training, after which divers were sent below to investigate unexpected contacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics+2AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+A key development came when Styles reportedly concluded that these memories did not originate from the 1967 Shag Harbour incident at all. Instead, he traced them to a NATO minesweeping operation in October 1960. In his later retellings, the exercise involved Canadian and American naval units conducting mine warfare training, after which divers were sent below to investigate unexpected contacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics+2AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
-This revision created a significant chronological problem for those who had linked the underwater-diver testimony to Shag Harbour. If the divers were recalling a 1960 operation, then their stories could not serve as eyewitness evidence for events in 1967. The dramatic elements remained interesting in their own right, but they no longer functioned as direct corroboration of the Shag Harbour case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+This revision created a significant chronological problem for those who had linked the underwater-diver testimony to Shag Harbour. If the divers were recalling a 1960 operation, then their stories could not serve as eyewitness evidence for events in 1967. The dramatic elements remained interesting in their own right, but they no longer functioned as direct corroboration of the Shag Harbour case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JeJ7ioeN1aQ" title="The Outer Realm Welcomes Chris Styles, May 25th, 2023- Sweep clear 5- Nato&#x27;s UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JeJ7ioeN1aQ" target="_blank" rel="noopener noreferrer">The Outer Realm Welcomes Chris Styles, May 25th, 2023- Sweep clear 5- Nato&#x27;s UFO Encounter</a></p><p class="youtube-embed-meta">Channel: UFO GODS &amp; EXTRATERRESTRIALS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JeJ7ioeN1aQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JeJ7ioeN1aQ">Open on YouTube</a></p></div></div></div>
 
 ### The NATO minesweeping version
 
-In the NATO-exercise narrative, the setting is a Cold War naval training environment rather than a response to a reported crash near Shag Harbour. Accounts describe minesweeping vessels, divers and anti-submarine activity operating in waters associated with the Shelburne area. The military context is plausible in a general sense because Shelburne was an important naval and undersea-surveillance location during the Cold War, including facilities connected with submarine detection and NATO maritime operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
+In the NATO-exercise narrative, the setting is a Cold War naval training environment rather than a response to a reported crash near Shag Harbour. Accounts describe minesweeping vessels, divers and anti-submarine activity operating in waters associated with the Shelburne area. The military context is plausible in a general sense because Shelburne was an important naval and undersea-surveillance location during the Cold War, including facilities connected with submarine detection and NATO maritime operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
 
-However, the extraordinary claims within the story are supported mainly by interviews conducted decades after the alleged event. Publicly available contemporary documentation confirming the more sensational details has not emerged. As a result, the historical existence of a NATO exercise is far easier to establish than the reported encounter itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
+However, the extraordinary claims within the story are supported mainly by interviews conducted decades after the alleged event. Publicly available contemporary documentation confirming the more sensational details has not emerged. As a result, the historical existence of a NATO exercise is far easier to establish than the reported encounter itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-2-dark.svg" | relative_url }}" alt="1960 Split illustration 2" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -288,11 +288,11 @@ However, the extraordinary claims within the story are supported mainly by inter
 
 The correction from 1967 to 1960 is not a minor detail. It affects how the evidence should be weighed.
 
-The documented Shag Harbour case has a relatively strong historical foundation. Witnesses reported an object descending into the water, the RCMP responded, rescue efforts were launched, and Canadian military divers searched the seabed without finding wreckage. These events appear in contemporary records and later archival summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The documented Shag Harbour case has a relatively strong historical foundation. Witnesses reported an object descending into the water, the RCMP responded, rescue efforts were launched, and Canadian military divers searched the seabed without finding wreckage. These events appear in contemporary records and later archival summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The Shelburne underwater narrative follows a different evidential path. Most of its distinctive claims entered the public record much later through interviews, books and documentaries. Once the key testimony was reassigned to 1960, the argument that Shag Harbour involved a tracked underwater object moving towards Shelburne became less secure. What had sometimes been presented as a continuation of the 1967 event instead looked more like a fusion of separate stories from different years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+The Shelburne underwater narrative follows a different evidential path. Most of its distinctive claims entered the public record much later through interviews, books and documentaries. Once the key testimony was reassigned to 1960, the argument that Shag Harbour involved a tracked underwater object moving towards Shelburne became less secure. What had sometimes been presented as a continuation of the 1967 event instead looked more like a fusion of separate stories from different years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
-For researchers, this is a reminder that chronology matters. A dramatic witness account can appear highly persuasive until it is discovered to belong to another incident entirely. In UFO history, where narratives are often reconstructed from memories many years after the fact, dating errors can significantly alter a case's apparent strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+For researchers, this is a reminder that chronology matters. A dramatic witness account can appear highly persuasive until it is discovered to belong to another incident entirely. In UFO history, where narratives are often reconstructed from memories many years after the fact, dating errors can significantly alter a case's apparent strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hI4eLBdkTaQ" title="Chris Styles on the 1967 Shag Harbor Incident &amp; Hidden Government Records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hI4eLBdkTaQ" target="_blank" rel="noopener noreferrer">Chris Styles on the 1967 Shag Harbor Incident &amp; Hidden Government Records</a></p><p class="youtube-embed-meta">Channel: High Strangeness</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hI4eLBdkTaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hI4eLBdkTaQ">Open on YouTube</a></p></div></div></div>
@@ -301,204 +301,204 @@ For researchers, this is a reminder that chronology matters. A dramatic witness 
 
 Even after the 1960 and 1967 stories are separated, several questions remain open.
 
-First, the original Shag Harbour incident is still unresolved. Canadian authorities investigated a reported impact into the water and found no conventional explanation, but they also found no physical evidence identifying what entered the harbour. The absence of a recovered object leaves the case unexplained rather than confirmed as anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+First, the original Shag Harbour incident is still unresolved. Canadian authorities investigated a reported impact into the water and found no conventional explanation, but they also found no physical evidence identifying what entered the harbour. The absence of a recovered object leaves the case unexplained rather than confirmed as anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Second, the 1960 Shelburne story remains difficult to evaluate. The broader military setting is credible because NATO naval exercises occurred in the region and Shelburne was closely tied to Cold War undersea operations. Yet the most remarkable elements depend heavily on late recollections rather than publicly available contemporary records. That does not prove the witnesses were mistaken, but it means the claims cannot be assessed in the same way as documented military reports created at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
+Second, the 1960 Shelburne story remains difficult to evaluate. The broader military setting is credible because NATO naval exercises occurred in the region and Shelburne was closely tied to Cold War undersea operations. Yet the most remarkable elements depend heavily on late recollections rather than publicly available contemporary records. That does not prove the witnesses were mistaken, but it means the claims cannot be assessed in the same way as documented military reports created at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">CFS Shelburne</span><span class="citation-popover-snippet">CFS Shelburne</span></span></span>
 
-Finally, the separation of the cases removes one of the strongest narrative bridges between Shelburne and Shag Harbour. The famous 1967 incident does not automatically gain credibility from the later NATO-diver accounts if those accounts belong to a different year and a different operational context. What remains is a documented 1967 mystery and a separate, much more controversial 1960 story whose evidential basis is still debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
+Finally, the separation of the cases removes one of the strongest narrative bridges between Shelburne and Shag Harbour. The famous 1967 incident does not automatically gain credibility from the later NATO-diver accounts if those accounts belong to a different year and a different operational context. What remains is a documented 1967 mystery and a separate, much more controversial 1960 story whose evidential basis is still debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-3-dark.svg" | relative_url }}" alt="1960 Split illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Shelburne really a separate 1960 case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Shelburne really a separate 1960 case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating military and government testimony, a central issue in the Shelburne and Shag Harbour discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating military and government testimony, a central issue in the Shelburne and Shag Harbour discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers assess evidence quality, witness testimony, and case classification in disputed historical incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess evidence quality, witness testimony, and case classification in disputed historical incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers historical context for analyzing reported military encounters, retrospective testimony, and unresolved UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for analyzing reported military encounters, retrospective testimony, and unresolved UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating military and government testimony, a central issue in the Shelburne and Shag Harbour discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating military and government testimony, a central issue in the Shelburne and Shag Harbour discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence"><img src="{{ '/assets/images/marketplace-covers/9b32f8294db4f64cafd1.jpg' | relative_url }}" alt="Listing image for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence"><img src="{{ '/assets/images/marketplace-covers/9b32f8294db4f64cafd1.jpg' | relative_url }}" alt="Listing image for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="1960-split-was-shelburne-really-a-separate-1960-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ Finally, the separation of the cases removes one of the strongest narrative brid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ Finally, the separation of the cases removes one of the strongest narrative brid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ Finally, the separation of the cases removes one of the strongest narrative brid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ Finally, the separation of the cases removes one of the strongest narrative brid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ Finally, the separation of the cases removes one of the strongest narrative brid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,81 +704,81 @@ Finally, the separation of the cases removes one of the strongest narrative brid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aol.com  
    Title: military divers claimed found ufo 220800901  
-   Link: <a href="https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Divers Claimed They Found a UFO Crash Site...Styles realized the &quot;Shelburne&quot; incident referred to a 1960s NATO minesweeping...</p></details>
+   Link:<a href="https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/military-divers-claimed-found-ufo-220800901.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Divers Claimed They Found a UFO Crash Site...Styles realized the &quot;Shelburne&quot; incident referred to a 1960s NATO minesweeping...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: CFS Shelburne  
-   Link: <a href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFS_Shelburne</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/CFS_Shelburne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFS_Shelburne</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast Guard#UFO #Aliens #Extraterrestrials #UFOSightings #CrashRetrieval #Disclosure #AlienEncounters #UAP #SpaceCraft #UFOSight...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast Guard#UFO #Aliens #Extraterrestrials #UFOSightings #CrashRetrieval #Disclosure #AlienEncounters #UAP #SpaceCraft #UFOSight...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: What Was Underneath the Surface of Shelburne Harbour?On  
-   Link: <a href="https://www.facebook.com/proudtobeabluenoser/videos/what-was-underneath-the-surface-of-shelburne-harbour/1605127547178343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/proudtobeabluenoser/videos/what-was-underneath-the-surface-of-shelburne-harbour/1605127547178343/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 1960, during a NATO exercise in Shelburne Harbour, something beneath the water triggered an extraordinary response. the 1967...</p></details>
+   Link:<a href="https://www.facebook.com/proudtobeabluenoser/videos/what-was-underneath-the-surface-of-shelburne-harbour/1605127547178343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/proudtobeabluenoser/videos/what-was-underneath-the-surface-of-shelburne-harbour/1605127547178343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 12, 1960, during a NATO exercise in Shelburne Harbour, something beneath the water triggered an extraordinary response. the 1967...</p></details>
    Published: October 12, 1960  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Tim Gallaudet Discusses "Shag Harbour" & "Shelburne" UFO Incidents  
-   Link: <a href="https://www.youtube.com/watch?v=W0WWyknAuU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0WWyknAuU0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Styles Shag Harbour Shelburne 1960 UFO Chris Styles on the 1967 Shag Harbor Incident &amp; Hidden Government Records High Strangeness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W0WWyknAuU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0WWyknAuU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Styles Shag Harbour Shelburne 1960 UFO Chris Styles on the 1967 Shag Harbor Incident &amp; Hidden Government Records High Strangeness...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/quarrelsomeyeti/posts/my-glow-in-the-dark-shag-harbour-ufo-incident-t-is-re-stocked/1428166662661163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/quarrelsomeyeti/posts/my-glow-in-the-dark-shag-harbour-ufo-incident-t-is-re-stocked/1428166662661163/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nclusion to the famous 1967 Shag Harbour Incident. Shelburne...</p></details>
+   Link:<a href="https://www.facebook.com/quarrelsomeyeti/posts/my-glow-in-the-dark-shag-harbour-ufo-incident-t-is-re-stocked/1428166662661163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/quarrelsomeyeti/posts/my-glow-in-the-dark-shag-harbour-ufo-incident-t-is-re-stocked/1428166662661163/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nclusion to the famous 1967 Shag Harbour Incident. Shelburne...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astonishinglegends.com  
    Title: ep 321 the shag harbor incident  
-   Link: <a href="https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 321: The Shag Harbor Incident18 Jan 2026 — On October 4, 1967, secret NATO exercises. Chris Styles, this episode explores the possibil...</p></details>
+   Link:<a href="https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 321: The Shag Harbor Incident18 Jan 2026 — On October 4, 1967, secret NATO exercises. Chris Styles, this episode explores the possibil...</p></details>
    Published: October 4, 1967  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: Nova Scotia Memories Of Days Gone By  
-   Link: <a href="https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/3784589665108670/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/3784589665108670/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shelburne harbour 1960 with Cape Scott and minesweepersSHELBURNE HARBOUR SOMETIME IN 1960. Mobile repair ship Cape Scott with four little...</p></details>
+   Link:<a href="https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/3784589665108670/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NovaScotiaMemoriesOfDaysGoneBy/posts/3784589665108670/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shelburne harbour 1960 with Cape Scott and minesweepersSHELBURNE HARBOUR SOMETIME IN 1960. Mobile repair ship Cape Scott with four little...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/1iG6Ew9wFHU2laOWvgRkZN?context=spotify%3Ashow%3A2osdzDzSf5QrsjlrJkj3Ki&amp;si=mHBdaMFSQDmsxGJQgq08Zg&amp;t=5387" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1iG6Ew9wFHU2laOWvgRkZN?context=spotify%3Ashow%3A2osdzDzSf5QrsjlrJkj3Ki&amp;si=mHBdaMFSQDmsxGJQgq08Zg&amp;t=5387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - UFOs and the Shelburne USOs with Chris Styles22 Feb 2023 — Join Elliott Van Dusen as he discusses unidentified flying objects, the 19...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1iG6Ew9wFHU2laOWvgRkZN?context=spotify%3Ashow%3A2osdzDzSf5QrsjlrJkj3Ki&amp;si=mHBdaMFSQDmsxGJQgq08Zg&amp;t=5387" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1iG6Ew9wFHU2laOWvgRkZN?context=spotify%3Ashow%3A2osdzDzSf5QrsjlrJkj3Ki&amp;si=mHBdaMFSQDmsxGJQgq08Zg&amp;t=5387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 - UFOs and the Shelburne USOs with Chris Styles22 Feb 2023 — Join Elliott Van Dusen as he discusses unidentified flying objects, the 19...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ChilluminatiPod/comments/1nsbbs5/an_interesting_alien_story_from_my_home_province/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChilluminatiPod/comments/1nsbbs5/an_interesting_alien_story_from_my_home_province/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - UFO Sightings and Alien Encounters in Nova Scotia Canada.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ChilluminatiPod/comments/1nsbbs5/an_interesting_alien_story_from_my_home_province/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChilluminatiPod/comments/1nsbbs5/an_interesting_alien_story_from_my_home_province/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - UFO Sightings and Alien Encounters in Nova Scotia Canada.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fshelburne-harbour-incident-nova-scotia-1960.72269%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshelburne-harbour-incident-nova-scotia-1960.72269%2F=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO&#x27;s UFO Encounter, quoting three Royal Canadian divers. “There were UFOs sitting on the seabed. They were occupied and there was still...</p></details>
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fshelburne-harbour-incident-nova-scotia-1960.72269%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshelburne-harbour-incident-nova-scotia-1960.72269%2F=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO&#x27;s UFO Encounter, quoting three Royal Canadian divers. “There were UFOs sitting on the seabed. They were occupied and there was still...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/1ge0idr/the_shag_harbour_ufo_incident_discover_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1ge0idr/the_shag_harbour_ufo_incident_discover_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident, Discover the Mystery...What&#x27;s more crazy is that a book just came out tying this event to a NATO exercise...</p></details>
+   Link:<a href="https://www.reddit.com/r/canada/comments/1ge0idr/the_shag_harbour_ufo_incident_discover_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1ge0idr/the_shag_harbour_ufo_incident_discover_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident, Discover the Mystery...What&#x27;s more crazy is that a book just came out tying this event to a NATO exercise...</p></details>

@@ -262,7 +262,7 @@ image: /assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne
 
 ## Introduction
 
-The key fact about [Campbellton]({{ 'campbellton/' | relative_url }})’s 1989 triangle sighting is not that the story is dramatic, but that the surviving evidence is surprisingly thin. Modern accounts describe two sisters on Van Horne Crescent watching three large, silent triangular objects above Sugarloaf Mountain in November 1989. The objects reportedly hovered, manoeuvred in unusual ways, and then accelerated out of view. Yet despite the story’s prominence in [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO folklore, researchers today face a basic problem: most publicly available descriptions appear to trace back to recent retellings rather than easily accessible contemporary reports, investigative files, newspaper coverage, or official records from 1989 itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+The key fact about [Campbellton]({{ 'campbellton/' | relative_url }})’s 1989 triangle sighting is not that the story is dramatic, but that the surviving evidence is surprisingly thin. Modern accounts describe two sisters on Van Horne Crescent watching three large, silent triangular objects above Sugarloaf Mountain in November 1989. The objects reportedly hovered, manoeuvred in unusual ways, and then accelerated out of view. Yet despite the story’s prominence in [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO folklore, researchers today face a basic problem: most publicly available descriptions appear to trace back to recent retellings rather than easily accessible contemporary reports, investigative files, newspaper coverage, or official records from 1989 itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-1-dark.svg" | relative_url }}" alt="1989 Gap illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,9 +270,9 @@ That evidence gap matters because it changes how the case should be evaluated. T
 
 ## What the modern 1989 account claims
 
-The version most often repeated today centres on two sisters who were reportedly outside on Van Horne Crescent in Campbellton and looking towards [Sugarloaf]({{ 'sugarloaf/' | relative_url }}) Mountain. According to these later accounts, they observed three triangular craft-like objects with lights, hovering silently and moving in ways they considered impossible for conventional aircraft. The objects were said to reverse direction, accelerate rapidly, and eventually disappear into the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+The version most often repeated today centres on two sisters who were reportedly outside on Van Horne Crescent in Campbellton and looking towards [Sugarloaf]({{ 'sugarloaf/' | relative_url }}) Mountain. According to these later accounts, they observed three triangular craft-like objects with lights, hovering silently and moving in ways they considered impossible for conventional aircraft. The objects were said to reverse direction, accelerate rapidly, and eventually disappear into the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
 
-Some modern retellings go further, stating that authorities were contacted, that the Royal Canadian Mounted Police regarded the event as unexplained, and that NORAD found no relevant military activity in the area. These claims are widely repeated in contemporary UFO media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+Some modern retellings go further, stating that authorities were contacted, that the Royal Canadian Mounted Police regarded the event as unexplained, and that NORAD found no relevant military activity in the area. These claims are widely repeated in contemporary UFO media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
 
 The difficulty is that these additional details are often presented without accompanying scans of original reports, quotations from investigators, or links to primary documentation. Readers therefore encounter a polished narrative but have limited ability to independently check how much of it comes from original testimony and how much comes from [later retelling]({{ 'later-retelling/' | relative_url }}).
 
@@ -298,13 +298,13 @@ The most significant missing elements include:
 
 This absence does not prove the sighting did not occur. It simply means that the evidential foundation available to modern readers is much narrower than the story’s reputation suggests.
 
-A useful comparison comes from the earlier 1971 Sugarloaf Mountain flap near Campbellton. That episode can be connected to identifiable archival records and government files preserved through Library and Archives Canada. Researchers can therefore inspect at least part of the documentary trail. The 1989 triangle case has not achieved the same level of documentary transparency in publicly accessible sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
+A useful comparison comes from the earlier 1971 Sugarloaf Mountain flap near Campbellton. That episode can be connected to identifiable archival records and government files preserved through Library and Archives Canada. Researchers can therefore inspect at least part of the documentary trail. The 1989 triangle case has not achieved the same level of documentary transparency in publicly accessible sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-2-dark.svg" | relative_url }}" alt="1989 Gap illustration 2" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why later retellings became the main source
 
-The modern understanding of the Campbellton triangle sighting appears to depend heavily on retrospective accounts. Recent podcasts, websites, and UFO compilations repeat a broadly consistent story, but consistency alone does not establish the quality of the underlying evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.spotify.com">[Spotify+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.spotify.com</span><span class="citation-popover-title">Campbellton UFO with Franky Corcoran</span><span class="citation-popover-snippet">Campbellton UFO with Franky Corcoran - Static RadioJanuary 2, 2026 — 2 Jan 2026 — In November 1989, a notable UFO sighting occurre...</span><span class="citation-popover-meta">Published: January 2, 2026</span></span></span>
+The modern understanding of the Campbellton triangle sighting appears to depend heavily on retrospective accounts. Recent podcasts, websites, and UFO compilations repeat a broadly consistent story, but consistency alone does not establish the quality of the underlying evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.spotify.com">[Spotify+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.spotify.com</span><span class="citation-popover-title">Campbellton UFO with Franky Corcoran</span><span class="citation-popover-snippet">Campbellton UFO with Franky Corcoran - Static RadioJanuary 2, 2026 — 2 Jan 2026 — In November 1989, a notable UFO sighting occurre...</span><span class="citation-popover-meta">Published: January 2, 2026</span></span></span>
 
 This pattern is not unusual in local UFO history. A memorable event can survive through community memory long after the original paperwork becomes difficult to find. As years pass, researchers often inherit a narrative rather than a complete case file.
 
@@ -321,8 +321,8 @@ The 1989 triangle account sits in an awkward middle ground between dismissal and
 
 A balanced reading recognises several points at once:
 
-* The story has persisted for decades and appears to be based on named witnesses rather than an anonymous rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
-* The reported behaviour of the objects is striking and is one reason the case remains part of Campbellton's UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+* The story has persisted for decades and appears to be based on named witnesses rather than an anonymous rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+* The reported behaviour of the objects is striking and is one reason the case remains part of Campbellton's UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,13 +332,13 @@ A balanced reading recognises several points at once:
 
 </div>
 
-Another reason for caution is timing. The late 1980s and early 1990s saw widespread international reporting of triangular UFOs, most famously during the Belgian UFO wave. The presence of triangle-shaped reports elsewhere does not explain the Campbellton sighting, but it does remind researchers that triangular UFO descriptions were becoming culturally familiar during the same period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">December 23, 2007 — The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to A...</span><span class="citation-popover-meta">Published: December 23, 2007</span></span></span>
+Another reason for caution is timing. The late 1980s and early 1990s saw widespread international reporting of triangular UFOs, most famously during the Belgian UFO wave. The presence of triangle-shaped reports elsewhere does not explain the Campbellton sighting, but it does remind researchers that triangular UFO descriptions were becoming culturally familiar during the same period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">December 23, 2007 — The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to A...</span><span class="citation-popover-meta">Published: December 23, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-3-dark.svg" | relative_url }}" alt="1989 Gap illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence gap means for New Brunswick UFO history
 
-Within New Brunswick UFO history, the Van Horne Crescent sighting is important less because of what can be conclusively proved and more because of what it reveals about local memory. It remains one of the province's best-known triangle stories, yet its modern profile exceeds the strength of its publicly available documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
+Within New Brunswick UFO history, the Van Horne Crescent sighting is important less because of what can be conclusively proved and more because of what it reveals about local memory. It remains one of the province's best-known triangle stories, yet its modern profile exceeds the strength of its publicly available documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-snippet">Static RadioCampbellton UFO with Franky Corcoran &#124; Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</span></span></span>
 
 That does not make the witnesses unreliable, nor does it automatically reduce the event to misidentification. Instead, it places the case in a category familiar to historians of anomalous reports: a memorable sighting that survives primarily through retelling rather than through a fully traceable evidential record.
 
@@ -349,194 +349,194 @@ For readers examining Campbellton's triangle sightings and local memory, that di
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How strong is the 1989 triangle record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How strong is the 1989 triangle record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reports, evidence quality, and methods for evaluating unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reports, evidence quality, and methods for evaluating unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Readers assessing a reported unexplained sighting often seek wider context on how UFO cases are documented and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers assessing a reported unexplained sighting often seek wider context on how UFO cases are documented and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers assess extraordinary claims when documentation and evidence are limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess extraordinary claims when documentation and evidence are limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people interpret unusual experiences and form beliefs about unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people interpret unusual experiences and form beliefs about unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign"><img src="{{ '/assets/images/marketplace-covers/bc1cbbbb4763b760c913.jpg' | relative_url }}" alt="Listing image for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign"><img src="{{ '/assets/images/marketplace-covers/bc1cbbbb4763b760c913.jpg' | relative_url }}" alt="Listing image for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/44d3121f3b80e7f6dbec.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/44d3121f3b80e7f6dbec.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="1989-gap-how-strong-is-the-1989-triangle-record-new-brunswick-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ For readers examining Campbellton's triangle sightings and local memory, that di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ For readers examining Campbellton's triangle sightings and local memory, that di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ For readers examining Campbellton's triangle sightings and local memory, that di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ For readers examining Campbellton's triangle sightings and local memory, that di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ For readers examining Campbellton's triangle sightings and local memory, that di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,95 +742,95 @@ For readers examining Campbellton's triangle sightings and local memory, that di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: open.spotify.com  
    Title: Campbellton UFO with Franky Corcoran  
-   Link: <a href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO with Franky Corcoran - Static RadioJanuary 2, 2026 — 2 Jan 2026 — In November 1989, a notable UFO sighting occurre...</p></details>
+   Link:<a href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO with Franky Corcoran - Static RadioJanuary 2, 2026 — 2 Jan 2026 — In November 1989, a notable UFO sighting occurre...</p></details>
    Published: January 2, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 23, 2007 — The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to A...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 23, 2007 — The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to A...</p></details>
    Published: December 23, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Canada... Van Horne Crescent witnessed 3 triangular UFOs hovering just over Sugarloaf Mountain.... &quot;&#x27;Something came...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Canada... Van Horne Crescent witnessed 3 triangular UFOs hovering just over Sugarloaf Mountain.... &quot;&#x27;Something came...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=311" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=311</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.lac-bac.gc.ca/databases/ufo/001057-110...No](https://www.lac-bac.gc.ca/databases/ufo/001057-110...No) information is available for this page...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=311" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=311</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.lac-bac.gc.ca/databases/ufo/001057-110...No](https://www.lac-bac.gc.ca/databases/ufo/001057-110...No) information is available for this page...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: staticradio.com  
-   Link: <a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Static RadioCampbellton UFO with Franky Corcoran | Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</p></details>
+   Link:<a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Static RadioCampbellton UFO with Franky Corcoran | Static Radio2 Jan 2026 — While the sisters were on Van Horne Crescent, they observed t...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/newbrunswickcanada/comments/ik9agx/ufo_sightings_in_new_brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newbrunswickcanada/comments/ik9agx/ufo_sightings_in_new_brunswick/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in New Brunswick?: r/newbrunswickcanadaWas wondering if anyone had any information on UFO sightings in the province dating...</p></details>
+   Link:<a href="https://www.reddit.com/r/newbrunswickcanada/comments/ik9agx/ufo_sightings_in_new_brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newbrunswickcanada/comments/ik9agx/ufo_sightings_in_new_brunswick/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in New Brunswick?: r/newbrunswickcanadaWas wondering if anyone had any information on UFO sightings in the province dating...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: businessdoceurope.com  
-   Link: <a href="https://businessdoceurope.com/connext-series-project-the-mysterious-case-of-the-belgian-triangle-by-bram-conjaerts/" target="_blank" rel="noopener noreferrer nofollow">https://businessdoceurope.com/connext-series-project-the-mysterious-case-of-the-belgian-triangle-by-bram-conjaerts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONNEXT series project: The Mysterious Case of...9 Oct 2023 — The first glimpse of what might have been the extraterrestrial visitors wa...</p></details>
+   Link:<a href="https://businessdoceurope.com/connext-series-project-the-mysterious-case-of-the-belgian-triangle-by-bram-conjaerts/" target="_blank" rel="noopener noreferrer nofollow">https://businessdoceurope.com/connext-series-project-the-mysterious-case-of-the-belgian-triangle-by-bram-conjaerts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONNEXT series project: The Mysterious Case of...9 Oct 2023 — The first glimpse of what might have been the extraterrestrial visitors wa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: a quick piece of campbellton new brunswick history before 1833 this place went b  
-   Link: <a href="https://www.facebook.com/heronbaymarketing/videos/a-quick-piece-of-campbellton-new-brunswick-history-before-1833-this-place-went-b/2420222135080221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heronbaymarketing/videos/a-quick-piece-of-campbellton-new-brunswick-history-before-1833-this-place-went-b/2420222135080221/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A quick piece of Campbellton, New Brunswick history: before...A quick piece of Campbellton, New Brunswick history: before 1833, this pla...</p></details>
+   Link:<a href="https://www.facebook.com/heronbaymarketing/videos/a-quick-piece-of-campbellton-new-brunswick-history-before-1833-this-place-went-b/2420222135080221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heronbaymarketing/videos/a-quick-piece-of-campbellton-new-brunswick-history-before-1833-this-place-went-b/2420222135080221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A quick piece of Campbellton, New Brunswick history: before...A quick piece of Campbellton, New Brunswick history: before 1833, this pla...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
+   Link:<a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 29, 1989, when over thirty different groups of witnesses, including police officers, reported seeing a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 29, 1989, when over thirty different groups of witnesses, including police officers, reported seeing a...Read more...</p></details>
    Published: November 29, 1989  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/703924137/Place-Entity12" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/703924137/Place-Entity12</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geographic Locations and Features Overview | PDF | TravelUFO sightings in Mexico Blaisy-Bas Houses in Delaware County, Pennsylvania... S...</p></details>
+   Link:<a href="https://www.scribd.com/document/703924137/Place-Entity12" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/703924137/Place-Entity12</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geographic Locations and Features Overview | PDF | TravelUFO sightings in Mexico Blaisy-Bas Houses in Delaware County, Pennsylvania... S...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: some of the most credible and widespread  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the most credible and widespread sightings of UFO were made in 1989 in Belgium. It was later titled &quot;The Belgian UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the most credible and widespread sightings of UFO were made in 1989 in Belgium. It was later titled &quot;The Belgian UFO...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dlg.usg.edu  
    Title: dlg ggpd y ga bi500 pt6 bs1 bg3 b1993  
-   Link: <a href="https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b1993" target="_blank" rel="noopener noreferrer nofollow">https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b1993</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on my mind: 1993 travel guideYonah Mountain, tallest mountain in White County at 3,156 ft. above sea... Alien Rd. Built 1893 ofTown Latt...</p></details>
+   Link:<a href="https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b1993" target="_blank" rel="noopener noreferrer nofollow">https://dlg.usg.edu/record/dlg_ggpd_y-ga-bi500-pt6-bs1-bg3-b1993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on my mind: 1993 travel guideYonah Mountain, tallest mountain in White County at 3,156 ft. above sea... Alien Rd. Built 1893 ofTown Latt...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: backyardhistory.ca  
    Title: the story behind the crosses on sugarloaf mountain in campbellton  
-   Link: <a href="https://backyardhistory.ca/long-reads/f/the-story-behind-the-crosses-on-sugarloaf-mountain-in-campbellton" target="_blank" rel="noopener noreferrer nofollow">https://backyardhistory.ca/long-reads/f/the-story-behind-the-crosses-on-sugarloaf-mountain-in-campbellton</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When two sisters, Dorval McLean and Lottie Ramsay, climbed Sugarloaf –whose Mi&#x27;...Read more...</p></details>
+   Link:<a href="https://backyardhistory.ca/long-reads/f/the-story-behind-the-crosses-on-sugarloaf-mountain-in-campbellton" target="_blank" rel="noopener noreferrer nofollow">https://backyardhistory.ca/long-reads/f/the-story-behind-the-crosses-on-sugarloaf-mountain-in-campbellton</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When two sisters, Dorval McLean and Lottie Ramsay, climbed Sugarloaf –whose Mi&#x27;...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/cihm_45270/cihm_45270.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/cihm_45270/cihm_45270.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and inherited privileges. The blood of the white...</p></details>
+   Link:<a href="https://archive.org/download/cihm_45270/cihm_45270.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/cihm_45270/cihm_45270.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and inherited privileges. The blood of the white...</p></details>

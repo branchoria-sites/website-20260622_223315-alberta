@@ -274,7 +274,7 @@ image: /assets/images/Quebec_51603e_quebec_report_patter_050d5d-overview-social.
 
 ## Introduction
 
-[Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) reports a large number of UFOs because it has a large population, several active reporting channels, a strong French-language UFO culture, and major urban centres where many people are looking at the same skies. The numbers do not show that Quebec is uniquely “visited”. They show something more ordinary but still useful: Quebec is consistently one of Canada’s main sources of UFO reports, and most of those reports resemble the national pattern — lights seen at night, incomplete witness data, and only a small unexplained remainder after review. In the 2025 Canadian UFO Survey, Quebec accounted for about 20 per cent of Canada’s 1,052 reports, or 210 cases, second after Ontario. Montreal also appeared among the leading metropolitan reporting areas, with 30 reports in the wider metropolitan count and 12 in the city-only list. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images+2WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+[Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) reports a large number of UFOs because it has a large population, several active reporting channels, a strong French-language UFO culture, and major urban centres where many people are looking at the same skies. The numbers do not show that Quebec is uniquely “visited”. They show something more ordinary but still useful: Quebec is consistently one of Canada’s main sources of UFO reports, and most of those reports resemble the national pattern — lights seen at night, incomplete witness data, and only a small unexplained remainder after review. In the 2025 Canadian UFO Survey, Quebec accounted for about 20 per cent of Canada’s 1,052 reports, or 210 cases, second after Ontario. Montreal also appeared among the leading metropolitan reporting areas, with 30 reports in the wider metropolitan count and 12 in the city-only list.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images+2WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-overview.webp" | relative_url }}" alt="Overview image for Report Patterns" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,13 +282,13 @@ That makes Quebec important to Canadian UFO history, but not in the simplest “
 
 ## Quebec’s share of Canadian UFO reports
 
-Quebec regularly sits near the top of Canadian UFO reporting tables. In the 2025 survey, Ontario led with 307 reports, Quebec followed with 210, British Columbia had 131, Nova Scotia 117, and Alberta 111. The survey’s own interpretation is cautious: larger provinces generally produce more UFO reports, and Quebec’s roughly 20 per cent share was described as “very much in line” with population distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+Quebec regularly sits near the top of Canadian UFO reporting tables. In the 2025 survey, Ontario led with 307 reports, Quebec followed with 210, British Columbia had 131, Nova Scotia 117, and Alberta 111. The survey’s own interpretation is cautious: larger provinces generally produce more UFO reports, and Quebec’s roughly 20 per cent share was described as “very much in line” with population distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
-The previous year looked similar. The 2024 Canadian UFO Survey recorded 1,008 Canadian reports, with Ontario, Quebec and British Columbia leading the country; Quebec accounted for 21.5 per cent of all reports, again treated by the survey as broadly consistent with population rather than as proof of an exceptional anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+The previous year looked similar. The 2024 Canadian UFO Survey recorded 1,008 Canadian reports, with Ontario, Quebec and British Columbia leading the country; Quebec accounted for 21.5 per cent of all reports, again treated by the survey as broadly consistent with population rather than as proof of an exceptional anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
 This is the first lesson of the numbers: raw totals reward population, internet access, reporting culture and media attention. A province with Montreal, Quebec City, Laval, Gatineau, Sherbrooke and large suburban corridors will naturally generate more reports than a smaller or less densely populated jurisdiction. The same sky event may be seen by many more people in an urban corridor than over a remote lake or boreal forest.
 
-Still, Quebec is not merely a passive reflection of population. Its reporting history has noticeable spikes. In 2015, the Canadian UFO Survey found that Quebec led Canada, accounting for about 35 per cent of national reports, far above the five to 15 per cent range reported in earlier years. Montreal alone produced 97 reports that year, more than Toronto or Vancouver. The same Canadian Press report noted that more than half of the 2015 reports were simple lights in the sky, which is important because the Quebec spike did not automatically mean a spike in strong, instrument-backed cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kitchener.citynews.ca">[CityNews Kitchener]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kitchener.citynews.ca</span><span class="citation-popover-snippet">Open source on citynews.ca.</span></span></span>
+Still, Quebec is not merely a passive reflection of population. Its reporting history has noticeable spikes. In 2015, the Canadian UFO Survey found that Quebec led Canada, accounting for about 35 per cent of national reports, far above the five to 15 per cent range reported in earlier years. Montreal alone produced 97 reports that year, more than Toronto or Vancouver. The same Canadian Press report noted that more than half of the 2015 reports were simple lights in the sky, which is important because the Quebec spike did not automatically mean a spike in strong, instrument-backed cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kitchener.citynews.ca">[CityNews Kitchener]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kitchener.citynews.ca</span><span class="citation-popover-snippet">Open source on citynews.ca.</span></span></span>
 
 Those figures make Quebec a useful test case for Canadian UFO analysis. A year can look dramatic in the headlines while still being dominated by the same low-detail categories that dominate ordinary years.
 
@@ -298,7 +298,7 @@ Those figures make Quebec a useful test case for Canadian UFO analysis. A year c
 
 Quebec’s numbers are not evenly spread across the province. They lean towards cities and metropolitan regions, where there are more potential [witnesses]({{ 'witnesses-fb3e02/' | relative_url }}), more light pollution, more aircraft, more drones, more satellites visible near the horizon, and more people likely to submit a report online.
 
-Montreal is the main anchor. In 2024, the survey listed Montreal as the third-highest metropolitan area in Canada with 30 reports, behind Toronto and Vancouver; Sherbrooke also appeared in the top metropolitan list with 12. In 2025, the metropolitan table again put Montreal third, with 30 reports, behind Toronto and Vancouver. A separate city-only table for 2025 listed both Gatineau and Montreal at 12 reports each. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+Montreal is the main anchor. In 2024, the survey listed Montreal as the third-highest metropolitan area in Canada with 30 reports, behind Toronto and Vancouver; Sherbrooke also appeared in the top metropolitan list with 12. In 2025, the metropolitan table again put Montreal third, with 30 reports, behind Toronto and Vancouver. A separate city-only table for 2025 listed both Gatineau and Montreal at 12 reports each.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
 This split between “metropolitan” and “city” counts matters. Montreal’s UFO footprint is not just the municipal island or downtown skyline. Reports may come from the wider region: suburbs, airport approaches, commuter corridors, and places where people see aircraft descending, satellites crossing twilight skies, or bright planets through haze. Gatineau’s appearance also fits a wider urban pattern, because it sits in the National Capital Region beside Ottawa, under busy aviation routes and near a population used to looking across a shared metropolitan sky.
 
@@ -306,15 +306,15 @@ Quebec’s geography can also complicate interpretation. A light over the St Law
 
 ## Nocturnal lights dominate the pattern
 
-The strongest pattern in Quebec’s numbers is the national pattern: most UFO reports are not structured craft seen at close range, but lights in the sky. The Canadian UFO Survey uses the Modified Hynek classification system, including “Nocturnal Light” for a light source in the night sky, “Nocturnal Disc” for a night object that appears to have a definite shape, and “Daylight Disc” for a daytime unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+The strongest pattern in Quebec’s numbers is the national pattern: most UFO reports are not structured craft seen at close range, but lights in the sky. The Canadian UFO Survey uses the Modified Hynek classification system, including “Nocturnal Light” for a light source in the night sky, “Nocturnal Disc” for a night object that appears to have a definite shape, and “Daylight Disc” for a daytime unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
-In 2025, Nocturnal Lights made up 50.24 per cent of Canadian cases. The survey also reported that white and multi-coloured objects were the most common colours, and that the most common shape was a simple point source of light at 52 per cent. In other words, the most common Canadian UFO in the dataset was not a detailed saucer, triangle or close encounter; it was a light, often white, often at night, and often without enough visual structure to identify confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+In 2025, Nocturnal Lights made up 50.24 per cent of Canadian cases. The survey also reported that white and multi-coloured objects were the most common colours, and that the most common shape was a simple point source of light at 52 per cent. In other words, the most common Canadian UFO in the dataset was not a detailed saucer, triangle or close encounter; it was a light, often white, often at night, and often without enough visual structure to identify confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
-The same shape of evidence appears in 2024. That year, Nocturnal Lights accounted for 45.2 per cent of cases, the most common shape was a point source of light, and close encounters made up less than 1.5 per cent of the total. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+The same shape of evidence appears in 2024. That year, Nocturnal Lights accounted for 45.2 per cent of cases, the most common shape was a point source of light, and close encounters made up less than 1.5 per cent of the total.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
 For Quebec readers, this changes how the numbers should be understood. A high provincial count does not mean hundreds of strong close-range cases. It means many people reported things they could not identify, and the largest bucket was the easiest kind of sighting to misread: a distant light with little depth, scale or speed information.
 
-The survey’s time-of-day pattern reinforces that point. In 2025, sightings peaked around 2200 local time and were lowest around 0900. The survey explains this as the product of two ordinary factors: darkness and the number of possible observers still awake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+The survey’s time-of-day pattern reinforces that point. In 2025, sightings peaked around 2200 local time and were lowest around 0900. The survey explains this as the product of two ordinary factors: darkness and the number of possible observers still awake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
 That does not make every night-light report worthless. Some pilot cases, multi-witness cases or repeated reports can be worth examining carefully. But it does mean that Quebec’s high total must be filtered through the basic conditions of observation: night, distance, short viewing time, uncertain scale, and a sky increasingly filled with aircraft, drones and satellite constellations.
 
@@ -323,13 +323,13 @@ That does not make every night-light report worthless. Some pilot cases, multi-w
 
 ## Weak data is part of the story
 
-The most important number in the Canadian UFO Survey is not always the total count. It is the proportion of cases that cannot be assessed properly. In 2025, only 3.42 per cent of Canadian cases were classified as unexplained, while 16.83 per cent were explained, about 34 per cent had a probable explanation, and about 46 per cent were marked as insufficient information. The survey stresses that “unknown” does not mean alien visitation and that cases may still have conventional explanations after further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+The most important number in the Canadian UFO Survey is not always the total count. It is the proportion of cases that cannot be assessed properly. In 2025, only 3.42 per cent of Canadian cases were classified as unexplained, while 16.83 per cent were explained, about 34 per cent had a probable explanation, and about 46 per cent were marked as insufficient information. The survey stresses that “unknown” does not mean alien visitation and that cases may still have conventional explanations after further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
-The 2024 survey told a similar story. It found 3.77 per cent unexplained, 14 per cent explained, 34 per cent probable explanation, and 49 per cent insufficient information. It attributed the high insufficient-information share partly to more rigorous evaluation of raw reports during data entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+The 2024 survey told a similar story. It found 3.77 per cent unexplained, 14 per cent explained, 34 per cent probable explanation, and 49 per cent insufficient information. It attributed the high insufficient-information share partly to more rigorous evaluation of raw reports during data entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
 This matters for Quebec because the province’s high reporting volume can look more persuasive than the underlying data really is. A report may lack exact time, direction, elevation, duration, weather conditions, aircraft checks, photographs, radar correlation or follow-up interviews. Without those details, investigators may be unable to distinguish between a genuinely puzzling observation and a routine object seen under confusing conditions.
 
-The data pipeline itself is fragmented. Ufology Research says reports are drawn from participating researchers, direct witness submissions, existing databases, web pages, social media and other online sources, then coded into fields such as location, province, type, duration, colour, number of witnesses, shape, strangeness, reliability, source and evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report Canadian UFO Survey Data</span><span class="citation-popover-snippet">Canadian UFO Report Canadian UFO Survey Data</span></span></span>
+The data pipeline itself is fragmented. Ufology Research says reports are drawn from participating researchers, direct witness submissions, existing databases, web pages, social media and other online sources, then coded into fields such as location, province, type, duration, colour, number of witnesses, shape, strangeness, reliability, source and evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report Canadian UFO Survey Data</span><span class="citation-popover-snippet">Canadian UFO Report Canadian UFO Survey Data</span></span></span>
 
 That creates a useful national dataset, but it is not the same as a controlled scientific observing network. A Facebook post, a pilot aviation report, a civilian UFO form and a police call do not all carry the same evidential weight. A serious reading of Quebec’s numbers therefore asks not only “how many?” but “how complete, how independent, and how well investigated?”
 
@@ -337,11 +337,11 @@ That creates a useful national dataset, but it is not the same as a controlled s
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-2-dark.svg" | relative_url }}" alt="Report Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation reports add credibility, but not certainty
 
-Quebec also appears in Canada’s aviation-related UAP record. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, collects aviation occurrence information, including some UAP reports from pilots, air traffic control and the public when they meet aviation-reporting criteria. The Sky Canada Project notes that pilot reports usually move through NAV CANADA to Transport Canada, where they may be entered into CADORS under categories that include weather balloons, meteors, rockets, UFOs and intelligence sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Quebec also appears in Canada’s aviation-related UAP record. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, collects aviation occurrence information, including some UAP reports from pilots, air traffic control and the public when they meet aviation-reporting criteria. The Sky Canada Project notes that pilot reports usually move through NAV CANADA to Transport Canada, where they may be entered into CADORS under categories that include weather balloons, meteors, rockets, UFOs and intelligence sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-That matters because aviation witnesses can provide more disciplined observations than casual observers, especially when multiple crews report a similar event. But aviation reports are still not automatic proof of a mysterious craft. Transport Canada has explicitly cautioned that “UFO” in CADORS can include drones, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings. Reporting System (CADO...</span></span></span>
+That matters because aviation witnesses can provide more disciplined observations than casual observers, especially when multiple crews report a similar event. But aviation reports are still not automatic proof of a mysterious craft. Transport Canada has explicitly cautioned that “UFO” in CADORS can include drones, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings. Reporting System (CADO...</span></span></span>
 
-A useful Quebec example comes from 12 February 2023, when several aircraft near Sherbrooke reportedly observed unusual lights. The event drew public attention because it involved pilots rather than a single ground witness. It also illustrates the limits of the record: without instrument confirmation, optical context and a full reconstruction of the sky at the time, even credible aviation reports can remain difficult to classify. The Office of the Chief Science Advisor later cited CTV’s reporting on multiple Quebec flight reports in its discussion of CADORS and UAP reporting, while also noting that such reports are rare within the overall aviation occurrence system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+A useful Quebec example comes from 12 February 2023, when several aircraft near Sherbrooke reportedly observed unusual lights. The event drew public attention because it involved pilots rather than a single ground witness. It also illustrates the limits of the record: without instrument confirmation, optical context and a full reconstruction of the sky at the time, even credible aviation reports can remain difficult to classify. The Office of the Chief Science Advisor later cited CTV’s reporting on multiple Quebec flight reports in its discussion of CADORS and UAP reporting, while also noting that such reports are rare within the overall aviation occurrence system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 The balanced position is therefore neither dismissal nor overstatement. Pilot reports deserve attention, particularly when safety is involved. But they belong in the same evidence hierarchy as other cases: stronger than vague social-media posts, weaker than a case with calibrated imagery, radar correlation, multiple independent sensors and a clear chain of investigation.
 
@@ -352,13 +352,13 @@ The balanced position is therefore neither dismissal nor overstatement. Pilot re
 
 Quebec can look like a UFO hotspot for several overlapping reasons, most of which do not require an exotic explanation.
 
-First, population size matters. The survey itself says larger provinces tend to produce more reports. Quebec’s share in 2024 and 2025 closely tracked its role as one of Canada’s most populous provinces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+First, population size matters. The survey itself says larger provinces tend to produce more reports. Quebec’s share in 2024 and 2025 closely tracked its role as one of Canada’s most populous provinces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
-Second, reporting culture matters. Quebec has active civilian UFO investigators and French-language UFO discussion, including groups such as GARPAN, which was listed among sources for the 2024 and 2025 Canadian UFO Survey data. GARPAN has also helped circulate Canadian UFO survey material in French, including a French presentation of the long-term Canadian statistical study covering 1989 to 2013. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images+2WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
+Second, reporting culture matters. Quebec has active civilian UFO investigators and French-language UFO discussion, including groups such as GARPAN, which was listed among sources for the 2024 and 2025 Canadian UFO Survey data. GARPAN has also helped circulate Canadian UFO survey material in French, including a French presentation of the long-term Canadian statistical study covering 1989 to 2013.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images+2WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">WSI Images Microsoft Word</span><span class="citation-popover-snippet">WSI ImagesMicrosoft Word - 2024Surveyessay...</span></span></span>
 
 Third, media attention changes reporting behaviour. A famous case such as the 1990 Place [Bonaventure sighting]({{ 'bonaventure/' | relative_url }}) can make Quebec feel especially prominent in UFO memory, even though the statistical record is dominated by ordinary night-light reports. Major stories can also encourage people to submit old sightings or interpret current sky events through a UFO frame.
 
-Fourth, modern sky traffic has changed. [Starlink]({{ 'starlink/' | relative_url }}) and other low-Earth-orbit satellites have made strings, clusters and bright moving points more common in night skies. Astronomical studies of Starlink satellites show that some are bright enough to be visible to the naked eye under the right conditions, and that their brightness varies with design, orbit and viewing geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Photometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</span></span></span>
+Fourth, modern sky traffic has changed. [Starlink]({{ 'starlink/' | relative_url }}) and other low-Earth-orbit satellites have made strings, clusters and bright moving points more common in night skies. Astronomical studies of Starlink satellites show that some are bright enough to be visible to the naked eye under the right conditions, and that their brightness varies with design, orbit and viewing geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Photometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</span></span></span>
 
 Finally, Quebec has many places where ordinary lights can look strange: airport approaches around Montreal and Quebec City, river corridors, winter haze, reflections from low cloud, rural dark-sky areas, and urban light pollution that can distort scale and distance. These factors do not explain every report, but they explain why a high-reporting province can produce many sincere sightings without producing many strong unknowns.
 
@@ -369,11 +369,11 @@ Finally, Quebec has many places where ordinary lights can look strange: airport 
 
 The numbers prove that Quebec is a major contributor to Canada’s UFO reporting record. They also prove that the province’s reports follow a pattern familiar across the country: most are low-detail observations of lights, many are likely ordinary objects, and a large share cannot be assessed because the information is incomplete.
 
-The numbers do not prove that Quebec is experiencing an unusual concentration of alien craft, secret aircraft or unknown natural phenomena. Even the Canadian UFO Survey, which is sympathetic to continued investigation, states that unexplained cases are not proof of extraterrestrial intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
+The numbers do not prove that Quebec is experiencing an unusual concentration of alien craft, secret aircraft or unknown natural phenomena. Even the Canadian UFO Survey, which is sympathetic to continued investigation, states that unexplained cases are not proof of extraterrestrial intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-snippet">WSI Images</span></span></span>
 
 They also do not prove that the subject is pointless. A large dataset can still be useful if read carefully. It can show when reports cluster by month, city, time of night, shape, colour or source. It can identify waves worth checking against satellite launches, meteor showers, military exercises, drone activity, media coverage or reporting-platform changes. It can also show where the evidence breaks down.
 
-The Sky Canada Project reached a similar conclusion from the institutional side. It found that Canadian UAP reporting is fragmented, with sightings reaching federal agencies, police, aviation systems, civilian groups and informal channels in inconsistent ways. It also noted that Canada lacks a cohesive, standardised reporting and follow-up system, which makes trend analysis difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The Sky Canada Project reached a similar conclusion from the institutional side. It found that Canadian UAP reporting is fragmented, with sightings reaching federal agencies, police, aviation systems, civilian groups and informal channels in inconsistent ways. It also noted that Canada lacks a cohesive, standardised reporting and follow-up system, which makes trend analysis difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For Quebec, the practical takeaway is clear. The province’s high count is historically significant, but the best question is not “Why are there so many UFOs over Quebec?” It is “Why are so many Quebec observations reported as unidentified, and what kind of evidence would move a case from interesting to genuinely strong?” At present, most Quebec reports remain part of a broad Canadian pattern of ordinary skywatching, incomplete data and a small unexplained residue that is worth tracking but not overstating.
 
@@ -381,194 +381,194 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-3-dark.svg" | relative_url }}" alt="Report Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Quebec Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Quebec Report So Many UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and analysis of UFO sightings, directly relevant to understanding reporting statistics and case categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and analysis of UFO sightings, directly relevant to understanding reporting statistics and case categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines UFO reports, evidence quality, and how cases are evaluated, matching discussion of report patterns and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports, evidence quality, and how cases are evaluated, matching discussion of report patterns and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides modern context for large-scale reporting trends and debates about unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for large-scale reporting trends and debates about unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explores how reports are collected, investigated, and interpreted, echoing the article’s emphasis on what UFO numbers can and cannot prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports are collected, investigated, and interpreted, echoing the article’s emphasis on what UFO numbers can and cannot prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="report-patterns-why-does-quebec-report-so-many-ufos-quebec-ufo-poster-book-books-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,179 +774,179 @@ For Quebec, the practical takeaway is clear. The province’s high count is hist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: img1.wsimg.com  
    Title: WSI Images  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323</a>  
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kitchener.citynews.ca  
-   Link: <a href="https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/</a>  
+   Link:<a href="https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://kitchener.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings. Reporting System (CADO...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings. Reporting System (CADO...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: garpan.ca  
    Title: letude statistique ovnis canada 1989 2013 traduite francais extraits  
-   Link: <a href="https://garpan.ca/en/letude-statistique-ovnis-canada-1989-2013-traduite-francais-extraits/" target="_blank" rel="noopener noreferrer nofollow">https://garpan.ca/en/letude-statistique-ovnis-canada-1989-2013-traduite-francais-extraits/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;étude statistique « Les ovnis au Canada (1989-2013... - GARPANThe Garpan Publishing is proud to publish the French version of th...</p></details>
+   Link:<a href="https://garpan.ca/en/letude-statistique-ovnis-canada-1989-2013-traduite-francais-extraits/" target="_blank" rel="noopener noreferrer nofollow">https://garpan.ca/en/letude-statistique-ovnis-canada-1989-2013-traduite-francais-extraits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;étude statistique « Les ovnis au Canada (1989-2013... - GARPANThe Garpan Publishing is proud to publish the French version of th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</p></details>
+   Link:<a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photometric Characterization and Trajectory Accuracy of Starlink Satellites: Implications for Ground-Based Astronomical SurveysAugus...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Plaskett 1.8 metre Observations of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2109.12494" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.12494</a>  
+   Link:<a href="https://arxiv.org/abs/2109.12494" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.12494</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/photos/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497325049069093/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/photos/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497325049069093/</a>  
+   Link:<a href="https://www.facebook.com/truecanadalovers/photos/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497325049069093/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/photos/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497325049069093/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1109422486686152/posts/1957101361918256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1109422486686152/posts/1957101361918256/</a>  
+   Link:<a href="https://www.facebook.com/groups/1109422486686152/posts/1957101361918256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1109422486686152/posts/1957101361918256/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacemansluck/posts/3854470674792958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/3854470674792958/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacemansluck/posts/3854470674792958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/3854470674792958/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
+   Link:<a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: from very strange to intense lights pilots with airlines like westjet air france  
-   Link: <a href="https://www.facebook.com/CTVbarrie/posts/from-very-strange-to-intense-lights-pilots-with-airlines-like-westjet-air-france/773630931457276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVbarrie/posts/from-very-strange-to-intense-lights-pilots-with-airlines-like-westjet-air-france/773630931457276/</a>  
+   Link:<a href="https://www.facebook.com/CTVbarrie/posts/from-very-strange-to-intense-lights-pilots-with-airlines-like-westjet-air-france/773630931457276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVbarrie/posts/from-very-strange-to-intense-lights-pilots-with-airlines-like-westjet-air-france/773630931457276/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
+   Link:<a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/</a>  
+   Link:<a href="https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OfficialSection51/posts/multiple-flights-reported-strange-lights-in-the-sky-over-quebec-during-one-day-i/970275571300672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialSection51/posts/multiple-flights-reported-strange-lights-in-the-sky-over-quebec-during-one-day-i/970275571300672/</a>  
+   Link:<a href="https://www.facebook.com/OfficialSection51/posts/multiple-flights-reported-strange-lights-in-the-sky-over-quebec-during-one-day-i/970275571300672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialSection51/posts/multiple-flights-reported-strange-lights-in-the-sky-over-quebec-during-one-day-i/970275571300672/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ottawa.citynews.ca  
    Title: bright lights light fingered aliens all part of annual report on ufo sightings  
-   Link: <a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
+   Link:<a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.gc.ca  
    Title: gestion signalements publics phenomenes aeriens non identifies canada  
-   Link: <a href="https://science.gc.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: img1.wsimg.com  
    Title: WSI Images Microsoft Word  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WSI ImagesMicrosoft Word - 2024Surveyessay...</p></details>
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/f3f036eb-eed3-413b-af97-353cf4dbd260/2024%20Canadian%20UFO%20Survey.pdf?ver=1778298791353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WSI ImagesMicrosoft Word - 2024Surveyessay...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report Canadian UFO Survey Data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: canadianuforeport.ca  
    Title: ANNUA L SURVEYS  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2023On Feb. 12, 2023 at approximately 0800 z, several aircraft near Sherbrooke, Quebec &quot;reported seeing two or three very strange lig...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2023On Feb. 12, 2023 at approximately 0800 z, several aircraft near Sherbrooke, Quebec &quot;reported seeing two or three very strange lig...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/daniel-otis_multiple-flights-reported-strange-lights-activity-7156672190694801408-B4t9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daniel-otis_multiple-flights-reported-strange-lights-activity-7156672190694801408-B4t9</a>  
+   Link:<a href="https://www.linkedin.com/posts/daniel-otis_multiple-flights-reported-strange-lights-activity-7156672190694801408-B4t9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/daniel-otis_multiple-flights-reported-strange-lights-activity-7156672190694801408-B4t9</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ad0zyi/local_media_report_regarding_recent_canadian_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ad0zyi/local_media_report_regarding_recent_canadian_uap/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ad0zyi/local_media_report_regarding_recent_canadian_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ad0zyi/local_media_report_regarding_recent_canadian_uap/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tourismwinnipeg.com  
-   Link: <a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
+   Link:<a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: qub.ca  
-   Link: <a href="https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272</a>  
+   Link:<a href="https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fsyMddjvIs0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fsyMddjvIs0</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nelsonstar.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+   Link:<a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  

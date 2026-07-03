@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-light-explana/
 description: Focused pages that expand on Explanations.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_light_explana_929266
 parent_title: Explanations
@@ -16,7 +16,7 @@ parent_permalink: /explanations-344909/
 
 # Explore Topics in Explanations
 
-The following pages expand on the main **[Explanations]({{ '/explanations-344909/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Explanations]({{ '/explanations-344909/' | relative_url }})** page and cover its key branches in.
 
 - [Helicopters]({{ '/helicopters/' | relative_url }})
 - [Sky Checks]({{ '/sky-checks/' | relative_url }})

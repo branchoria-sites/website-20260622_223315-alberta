@@ -256,7 +256,7 @@ image: /assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_r
 
 ## Introduction
 
-The most important fact about the November 2018 Baffin Island sighting is also the easiest to overlook: the public record contains only a very short description of what the Nolinor Aviation crew actually saw. Despite later headlines about a “UFO”, the known witness account amounts to a professional cockpit observation of a bright light that appeared to change colour while the aircraft was flying toward the Mary River mine area in northern Baffin Island. The report is noteworthy because it came from airline pilots operating in a remote Arctic environment, but the publicly available details remain limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+The most important fact about the November 2018 Baffin Island sighting is also the easiest to overlook: the public record contains only a very short description of what the Nolinor Aviation crew actually saw. Despite later headlines about a “UFO”, the known witness account amounts to a professional cockpit observation of a bright light that appeared to change colour while the aircraft was flying toward the Mary River mine area in northern Baffin Island. The report is noteworthy because it came from airline pilots operating in a remote Arctic environment, but the publicly available details remain limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Report illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,22 +267,22 @@ Understanding exactly what was reported—and what was not reported—is essenti
 
 ## Flight Route and Timing Near Mary River
 
-The sighting occurred on 24 November 2018 during a Nolinor Aviation Boeing 737-200 flight travelling from Iqaluit toward the Mary River mine. According to reporting based on the aviation occurrence record, the crew observed the light at about 8:30 p.m. local time while operating over the remote northern part of Baffin Island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+The sighting occurred on 24 November 2018 during a Nolinor Aviation Boeing 737-200 flight travelling from Iqaluit toward the Mary River mine. According to reporting based on the aviation occurrence record, the crew observed the light at about 8:30 p.m. local time while operating over the remote northern part of Baffin Island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
-The location matters because the flight was not operating in one of Canada's busiest air corridors. The Mary River region is a sparsely populated Arctic area where there are relatively few ground witnesses and little opportunity for immediate independent confirmation. As a result, the cockpit observation itself became the central piece of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+The location matters because the flight was not operating in one of Canada's busiest air corridors. The Mary River region is a sparsely populated Arctic area where there are relatively few ground witnesses and little opportunity for immediate independent confirmation. As a result, the cockpit observation itself became the central piece of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
-Public reports do not indicate that the crew reported a collision risk, evasive manoeuvre, loss of separation from another aircraft, or any operational emergency. The sighting entered the aviation reporting system, but the available descriptions focus on the unusual light rather than on any direct threat to the flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+Public reports do not indicate that the crew reported a collision risk, evasive manoeuvre, loss of separation from another aircraft, or any operational emergency. The sighting entered the aviation reporting system, but the available descriptions focus on the unusual light rather than on any direct threat to the flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.1K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
 
 ## The Red, Green and White Light Description
 
-The most detailed public account came from comments relayed by Nolinor vice-president Marco Prud'homme after speaking with the pilot. According to Prud'homme, the pilot described a shining light that changed from red to green to white. That colour-changing behaviour is the single most specific observational detail that reached the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+The most detailed public account came from comments relayed by Nolinor vice-president Marco Prud'homme after speaking with the pilot. According to Prud'homme, the pilot described a shining light that changed from red to green to white. That colour-changing behaviour is the single most specific observational detail that reached the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
-Importantly, the pilot did not publicly describe a structured craft, visible wings, a disc-shaped object, occupants, or any other dramatic feature often associated with popular UFO stories. The known description concerns a light rather than a clearly observed object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+Importantly, the pilot did not publicly describe a structured craft, visible wings, a disc-shaped object, occupants, or any other dramatic feature often associated with popular UFO stories. The known description concerns a light rather than a clearly observed object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
-Prud'homme also stated that the pilot considered ordinary [explanations]({{ 'explanations-f6c4b5/' | relative_url }}) possible. He said the light may have been a star or a meteorite and suggested it was “probably something natural.” That comment is significant because it came from the airline's own account of the witness conversation rather than from outside sceptics attempting to explain the sighting after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+Prud'homme also stated that the pilot considered ordinary [explanations]({{ 'explanations-f6c4b5/' | relative_url }}) possible. He said the light may have been a star or a meteorite and suggested it was “probably something natural.” That comment is significant because it came from the airline's own account of the witness conversation rather than from outside sceptics attempting to explain the sighting after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
 This leaves the core observation in a relatively narrow form:
 
@@ -292,7 +292,7 @@ This leaves the core observation in a relatively narrow form:
 * A bright or shining light was seen from the cockpit.
 * The light appeared to change colour from red to green to white.
 * The sighting occurred during a night flight near the Mary River area.
-* The pilot himself apparently considered natural explanations possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+* The pilot himself apparently considered natural explanations possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
 </div>
 
@@ -300,7 +300,7 @@ This leaves the core observation in a relatively narrow form:
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Report illustration 2" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Report Leaves Unmeasured
 
-The weakness of the public evidence is not that the pilots lacked credibility. Professional flight crews are trained observers, which is one reason the case attracted attention. The problem is that the public description lacks many of the measurements investigators would normally want. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+The weakness of the public evidence is not that the pilots lacked credibility. Professional flight crews are trained observers, which is one reason the case attracted attention. The problem is that the public description lacks many of the measurements investigators would normally want.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
 No publicly available account provides reliable information about:
 
@@ -314,213 +314,213 @@ No publicly available account provides reliable information about:
 * Its direction of travel.
 * Whether it appeared stationary or moving.
 * Whether it was tracked by radar.
-* Whether photographs were taken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+* Whether photographs were taken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">pilots report ufo sighting over nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
 </div>
 
-Those missing details make it difficult to distinguish between very different possibilities. A distant astronomical object near the horizon, a meteor, an atmospheric effect, another aircraft, or something genuinely unidentified can all appear as unusual lights under certain viewing conditions. Without distance or motion data, the colour changes alone are not enough to determine which explanation is most likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+Those missing details make it difficult to distinguish between very different possibilities. A distant astronomical object near the horizon, a meteor, an atmospheric effect, another aircraft, or something genuinely unidentified can all appear as unusual lights under certain viewing conditions. Without distance or motion data, the colour changes alone are not enough to determine which explanation is most likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SGtrOH2yXOE" title="Again Multiple UFO/UAP Reports by Pilots | &quot;They moving at Extreme Speeds!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SGtrOH2yXOE" target="_blank" rel="noopener noreferrer">Again Multiple UFO/UAP Reports by Pilots | &quot;They moving at Extreme Speeds!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 37.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SGtrOH2yXOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SGtrOH2yXOE">Open on YouTube</a></p></div></div></div>
 
 ## Why the Witness Account Remains Important
 
-The Nolinor report remains one of Nunavut's better-known aviation UFO cases precisely because the source was a commercial flight crew rather than an anonymous witness. Yet the actual observation is much more modest than later retellings sometimes imply. The strongest claim supported by the public evidence is that experienced pilots reported seeing an unusual light whose apparent colour changed from red to green to white during a night flight over northern Baffin Island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+The Nolinor report remains one of Nunavut's better-known aviation UFO cases precisely because the source was a commercial flight crew rather than an anonymous witness. Yet the actual observation is much more modest than later retellings sometimes imply. The strongest claim supported by the public evidence is that experienced pilots reported seeing an unusual light whose apparent colour changed from red to green to white during a night flight over northern Baffin Island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
-What keeps the case unresolved is not the presence of extraordinary evidence, but the absence of enough detail to reach a confident conclusion. The report is credible as a record of what the crew believed they observed, while remaining too limited to establish exactly what produced the light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
+What keeps the case unresolved is not the presence of extraordinary evidence, but the absence of enough detail to reach a confident conclusion. The report is credible as a record of what the crew believed they observed, while remaining too limited to establish exactly what produced the light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">our top 10 stories of 2018</span><span class="citation-popover-snippet">Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Report illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Nolinor Crew See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Nolinor Crew See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with the page&#x27;s focus on a professional pilot observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with the page&#x27;s focus on a professional pilot observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Analyzes witness reports and classification of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Analyzes witness reports and classification of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses how official reports are gathered, interpreted, and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how official reports are gathered, interpreted, and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides aviation and aerospace context useful when considering unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides aviation and aerospace context useful when considering unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089"><img src="{{ '/assets/images/marketplace-covers/7e0198004bfd23cca203.jpg' | relative_url }}" alt="Listing image for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089"><img src="{{ '/assets/images/marketplace-covers/7e0198004bfd23cca203.jpg' | relative_url }}" alt="Listing image for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="pilot-report-what-did-the-nolinor-crew-see-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,75 +726,75 @@ What keeps the case unresolved is not the presence of extraordinary evidence, bu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nunatsiaq.com  
    Title: pilots report ufo sighting over nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...27 Nov 2018 — The pilot told him that he saw a shining light, which changed...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...27 Nov 2018 — The pilot told him that he saw a shining light, which changed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nunatsiaq.com  
    Title: our top 10 stories of 2018  
-   Link: <a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nunatsiaq NewsOur top 10 stories of 201831 Dec 2018 — Marco Prud&#x27;homme, Nolinor&#x27;s vice-president, said the pilot told him that he saw a s...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/908.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/908.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seventeenth Report by the UK Airprox BoardThe primary purpose of this, the seventeenth Report from the UK Airprox Board, is to promote ai...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/908.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/908.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seventeenth Report by the UK Airprox BoardThe primary purpose of this, the seventeenth Report from the UK Airprox Board, is to promote ai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/canadian-airline-nolinor-purchases-production-slots-for-natilus-kona-cargo-aircraft-302366920.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/canadian-airline-nolinor-purchases-production-slots-for-natilus-kona-cargo-aircraft-302366920.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Airline Nolinor Purchases Production Slots for...4 Feb 2025 — Nolinor Aviation, Canada&#x27;s largest commercial charter airline, an...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/canadian-airline-nolinor-purchases-production-slots-for-natilus-kona-cargo-aircraft-302366920.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/canadian-airline-nolinor-purchases-production-slots-for-natilus-kona-cargo-aircraft-302366920.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Airline Nolinor Purchases Production Slots for...4 Feb 2025 — Nolinor Aviation, Canada&#x27;s largest commercial charter airline, an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5422fa73ed915d137400079d/2-1989_G-AYWB_and_EI-BIZ_Append.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422fa73ed915d137400079d/2-1989_G-AYWB_and_EI-BIZ_Append.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8Taxiing guidance system: Green centre-line lighting with selective switching on all taxiway routes except the maintenance taxiway. Refle...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5422fa73ed915d137400079d/2-1989_G-AYWB_and_EI-BIZ_Append.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422fa73ed915d137400079d/2-1989_G-AYWB_and_EI-BIZ_Append.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8Taxiing guidance system: Green centre-line lighting with selective switching on all taxiway routes except the maintenance taxiway. Refle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sudbury.com  
    Title: safety board calls for changes after deadly helicopter crash in nunavut 8310432  
-   Link: <a href="https://www.sudbury.com/national/safety-board-calls-for-changes-after-deadly-helicopter-crash-in-nunavut-8310432" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/national/safety-board-calls-for-changes-after-deadly-helicopter-crash-in-nunavut-8310432</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety board calls for changes after deadly helicopter crash...15 Feb 2024 — The board said there have been 13 investigations involving...</p></details>
+   Link:<a href="https://www.sudbury.com/national/safety-board-calls-for-changes-after-deadly-helicopter-crash-in-nunavut-8310432" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/national/safety-board-calls-for-changes-after-deadly-helicopter-crash-in-nunavut-8310432</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety board calls for changes after deadly helicopter crash...15 Feb 2024 — The board said there have been 13 investigations involving...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newswire.ca  
    Title: nolinor ramps up capacity for rising northern demand 832715291  
-   Link: <a href="https://www.newswire.ca/news-releases/nolinor-ramps-up-capacity-for-rising-northern-demand-832715291.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/nolinor-ramps-up-capacity-for-rising-northern-demand-832715291.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nolinor Ramps Up Capacity for Rising Northern Demand13 Feb 2024 — Nolinor Aviation has announced the reintroduction of a Boeing 737-200 a...</p></details>
+   Link:<a href="https://www.newswire.ca/news-releases/nolinor-ramps-up-capacity-for-rising-northern-demand-832715291.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/nolinor-ramps-up-capacity-for-rising-northern-demand-832715291.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nolinor Ramps Up Capacity for Rising Northern Demand13 Feb 2024 — Nolinor Aviation has announced the reintroduction of a Boeing 737-200 a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aerotime.aero  
    Title: 22481 lion air cvc content leaks pilots scoured handbook  
-   Link: <a href="https://www.aerotime.aero/articles/22481-lion-air-cvc-content-leaks-pilots-scoured-handbook" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/22481-lion-air-cvc-content-leaks-pilots-scoured-handbook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lion Air CVC content leaks: pilots scoured handbook?20 Mar 2019 — The preliminary report into Lion Air Flight JT610 crash, published by I...</p></details>
+   Link:<a href="https://www.aerotime.aero/articles/22481-lion-air-cvc-content-leaks-pilots-scoured-handbook" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/22481-lion-air-cvc-content-leaks-pilots-scoured-handbook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lion Air CVC content leaks: pilots scoured handbook?20 Mar 2019 — The preliminary report into Lion Air Flight JT610 crash, published by I...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTz7VEyDGmm/?hl=el&amp;img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTz7VEyDGmm/?hl=el&amp;img_index=4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Germany, the sky suddenly came alive in shades of green...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DTz7VEyDGmm/?hl=el&amp;img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTz7VEyDGmm/?hl=el&amp;img_index=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Germany, the sky suddenly came alive in shades of green...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: a brief look at what happened in aviation in 2018  
-   Link: <a href="https://www.facebook.com/flightradar24/posts/a-brief-look-at-what-happened-in-aviation-in-2018/2083272831712129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightradar24/posts/a-brief-look-at-what-happened-in-aviation-in-2018/2083272831712129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>course, grounding of the Boeing 737 MAX aircraft has greatly shaken the clear sky within the industry. Multiple troubles, str...</p></details>
+   Link:<a href="https://www.facebook.com/flightradar24/posts/a-brief-look-at-what-happened-in-aviation-in-2018/2083272831712129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightradar24/posts/a-brief-look-at-what-happened-in-aviation-in-2018/2083272831712129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>course, grounding of the Boeing 737 MAX aircraft has greatly shaken the clear sky within the industry. Multiple troubles, str...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>white light, just red. The size of a small plane, and going...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>white light, just red. The size of a small plane, and going...Read more...</p></details>

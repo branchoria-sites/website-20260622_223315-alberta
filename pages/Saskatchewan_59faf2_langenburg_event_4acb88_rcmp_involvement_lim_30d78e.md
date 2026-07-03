@@ -256,7 +256,7 @@ image: /assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involveme
 
 ## Introduction
 
-The short answer is no: the Royal Canadian Mounted Police (RCMP) did not prove that extraordinary craft visited a farm near Langenburg in 1974. What the RCMP did provide was something more limited but still important. A local officer treated the report seriously enough to visit the site, record observations, photograph and measure the marks left in the field, and pass information into official channels. That moved the incident beyond rumour and local folklore. It did not, however, establish what caused the reported objects or the circles found in the grass. The distinction is crucial when assessing the evidence and doubts surrounding the [Langenburg event]({{ 'langenburg/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
+The short answer is no: the Royal Canadian Mounted Police (RCMP) did not prove that extraordinary craft visited a farm near Langenburg in 1974. What the RCMP did provide was something more limited but still important. A local officer treated the report seriously enough to visit the site, record observations, photograph and measure the marks left in the field, and pass information into official channels. That moved the incident beyond rumour and local folklore. It did not, however, establish what caused the reported objects or the circles found in the grass. The distinction is crucial when assessing the evidence and doubts surrounding the [Langenburg event]({{ 'langenburg/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-1-dark.svg" | relative_url }}" alt="RCMP file illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,9 +267,9 @@ Within [Saskatchewan UFO]({{ 'explanations-051262/' | relative_url }}) history, 
 
 ## What Constable Ron Morier reportedly recorded
 
-The RCMP officer most closely associated with the case was Constable Ron Morier of the Langenburg detachment. According to contemporary and later accounts, Morier became involved after hearing about Edwin Fuhr’s report and then attended the site where the alleged objects had been seen. He reportedly examined the circular impressions in the grass, took photographs, measured the rings, and recorded details of the witness account. Later retellings consistently describe him as finding no obvious signs of a hoax such as tracks leading into or out of the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greysheet.com">[Greysheet+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greysheet.com</span><span class="citation-popover-snippet">Canada: Popular Unexplained Phenomena Silver Ingot-...26 Sept 2024 —... police had fielded any UFO reports. Ron Morier, then a...</span></span></span>
+The RCMP officer most closely associated with the case was Constable Ron Morier of the Langenburg detachment. According to contemporary and later accounts, Morier became involved after hearing about Edwin Fuhr’s report and then attended the site where the alleged objects had been seen. He reportedly examined the circular impressions in the grass, took photographs, measured the rings, and recorded details of the witness account. Later retellings consistently describe him as finding no obvious signs of a hoax such as tracks leading into or out of the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greysheet.com">[Greysheet+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greysheet.com</span><span class="citation-popover-snippet">Canada: Popular Unexplained Phenomena Silver Ingot-...26 Sept 2024 —... police had fielded any UFO reports. Ron Morier, then a...</span></span></span>
 
-This is one reason the case remains notable. Many UFO stories consist solely of a witness recollection. In the Langenburg case, there was at least some contemporaneous documentation by a police officer. The existence of measurements and photographs gave later researchers a physical site to discuss rather than only a verbal narrative. Accounts reproduced from the period also indicate that Morier considered Fuhr sincere and apparently unsettled by what he claimed to have witnessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/2010/fuhr1974.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">From the Star Phoenix</span><span class="citation-popover-snippet">UFO CasebookFarmer Edwin Fuhr&#x27;s Strange Sighting in Saskatoon...30 Jun 2004 — About three years ago, there was a report of two UFOs that...</span></span></span>
+This is one reason the case remains notable. Many UFO stories consist solely of a witness recollection. In the Langenburg case, there was at least some contemporaneous documentation by a police officer. The existence of measurements and photographs gave later researchers a physical site to discuss rather than only a verbal narrative. Accounts reproduced from the period also indicate that Morier considered Fuhr sincere and apparently unsettled by what he claimed to have witnessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/2010/fuhr1974.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-title">From the Star Phoenix</span><span class="citation-popover-snippet">UFO CasebookFarmer Edwin Fuhr&#x27;s Strange Sighting in Saskatoon...30 Jun 2004 — About three years ago, there was a report of two UFOs that...</span></span></span>
 
 Yet it is important to recognise what those observations actually established. Morier could verify that unusual circular markings existed. He could verify that Fuhr reported seeing objects. He could not verify that the circles were created by airborne craft, nor could he independently confirm the appearance, origin or nature of the reported objects.
 
@@ -280,9 +280,9 @@ Yet it is important to recognise what those observations actually established. M
 
 One of the most persistent misunderstandings about the Langenburg event is the assumption that police involvement amounted to an endorsement of the UFO claim.
 
-Police officers investigate many reports without validating the explanations offered by witnesses. In rural [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) during the 1970s, an RCMP detachment might record unusual events simply because there was no other local authority to contact. A police file demonstrates that a complaint or report existed and was considered worthy of documentation. It does not automatically transform a claim into an established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Police officers investigate many reports without validating the explanations offered by witnesses. In rural [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) during the 1970s, an RCMP detachment might record unusual events simply because there was no other local authority to contact. A police file demonstrates that a complaint or report existed and was considered worthy of documentation. It does not automatically transform a claim into an established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
-The wider Canadian UFO record shows the same pattern. Government departments, the RCMP, the Department of Transport, the Department of National Defence and the National Research Council all accumulated UFO reports over decades. Their involvement generally reflected information gathering rather than conclusions that extraterrestrial craft or unknown technologies had been identified. Library and Archives Canada preserves many such [records]({{ 'records-f9e6ac/' | relative_url }}) precisely because reports were logged and forwarded, not because they were solved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+The wider Canadian UFO record shows the same pattern. Government departments, the RCMP, the Department of Transport, the Department of National Defence and the National Research Council all accumulated UFO reports over decades. Their involvement generally reflected information gathering rather than conclusions that extraterrestrial craft or unknown technologies had been identified. Library and Archives Canada preserves many such [records]({{ 'records-f9e6ac/' | relative_url }}) precisely because reports were logged and forwarded, not because they were solved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 For readers evaluating the Langenburg case, the key point is that RCMP attention raises the evidential value of the report compared with a completely undocumented story. It does not remove the central weakness of the case: only one person claimed to have directly observed the five objects. The physical traces were real enough to be recorded, but the link between those traces and extraordinary craft remains an interpretation rather than a proven fact.
 
@@ -292,9 +292,9 @@ For readers evaluating the Langenburg case, the key point is that RCMP attention
 
 Another claim frequently repeated in discussions of the Langenburg event is that the case was “investigated by the National Research Council” (NRC). That statement can be misleading unless carefully explained.
 
-Contemporary reporting indicates that information collected by Morier was forwarded to the National Research Council in Ottawa. Archival records confirm that a Langenburg UFO report entered the NRC's UFO-related files, with a sighting date of 1 September 1974 and a document date of 3 September 1974. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
+Contemporary reporting indicates that information collected by Morier was forwarded to the National Research Council in Ottawa. Archival records confirm that a Langenburg UFO report entered the NRC's UFO-related files, with a sighting date of 1 September 1974 and a document date of 3 September 1974.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
 
-What this demonstrates is that the report entered a federal reporting system. It does not necessarily mean that NRC scientists conducted a detailed field investigation, carried out laboratory testing, or reached a definitive conclusion about the event. Canadian UFO reporting procedures often involved forwarding information to federal agencies for record-keeping and evaluation. Many reports remained unexplained, while others lacked sufficient evidence for any firm determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+What this demonstrates is that the report entered a federal reporting system. It does not necessarily mean that NRC scientists conducted a detailed field investigation, carried out laboratory testing, or reached a definitive conclusion about the event. Canadian UFO reporting procedures often involved forwarding information to federal agencies for record-keeping and evaluation. Many reports remained unexplained, while others lacked sufficient evidence for any firm determination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 The distinction matters because later retellings sometimes compress several steps into a stronger claim than the evidence supports. “The report was sent to the NRC” is well supported by the historical record. “The NRC confirmed a UFO landing” is not.
 
@@ -305,9 +305,9 @@ The distinction matters because later retellings sometimes compress several step
 
 The RCMP file strengthens the Langenburg story in three specific ways.
 
-First, it establishes that the report was made immediately rather than decades later from memory. Second, it shows that an independent observer documented physical marks at the location. Third, it demonstrates that the incident entered official Canadian reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
+First, it establishes that the report was made immediately rather than decades later from memory. Second, it shows that an independent observer documented physical marks at the location. Third, it demonstrates that the incident entered official Canadian reporting channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
 
-At the same time, the file has clear limits. It does not provide an identified object, a recovered material sample, multiple direct witnesses to the craft, or a scientific explanation for the circles. The police role was primarily observational and administrative. Morier recorded what he found and passed it on. The surviving record supports the existence of a reported event and a documented site, but it does not settle the larger question of what Edwin Fuhr actually saw. Library and Archives Canada+2Library and Archives Canada <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
+At the same time, the file has clear limits. It does not provide an identified object, a recovered material sample, multiple direct witnesses to the craft, or a scientific explanation for the circles. The police role was primarily observational and administrative. Morier recorded what he found and passed it on. The surviving record supports the existence of a reported event and a documented site, but it does not settle the larger question of what Edwin Fuhr actually saw. Library and Archives Canada+2Library and Archives Canada<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Item Display</span><span class="citation-popover-snippet">Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</span></span></span>
 
 That balance explains why RCMP involvement remains significant in discussions of the Langenburg event while falling short of proof. It makes the case harder to dismiss as mere folklore, yet it leaves the central mystery unresolved.
 
@@ -315,194 +315,194 @@ That balance explains why RCMP involvement remains significant in discussions of
 <img src="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-3-dark.svg" | relative_url }}" alt="RCMP file illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the RCMP prove anything at Langenburg?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the RCMP prove anything at Langenburg?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on government, military, and official responses to unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government, military, and official responses to unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reported sightings are evaluated and why documentation does not equal proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reported sightings are evaluated and why documentation does not equal proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how authorities document, assess, and often leave cases unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how authorities document, assess, and often leave cases unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores alternative interpretations of UFO reports and the challenges of drawing firm conclusions from witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores alternative interpretations of UFO reports and the challenges of drawing firm conclusions from witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="rcmp-file-did-the-rcmp-prove-anything-at-langenburg-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ That balance explains why RCMP involvement remains significant in discussions of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ That balance explains why RCMP involvement remains significant in discussions of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ That balance explains why RCMP involvement remains significant in discussions of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ That balance explains why RCMP involvement remains significant in discussions of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ That balance explains why RCMP involvement remains significant in discussions of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,101 +708,101 @@ That balance explains why RCMP involvement remains significant in discussions of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: greysheet.com  
-   Link: <a href="https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event" target="_blank" rel="noopener noreferrer nofollow">https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada: Popular Unexplained Phenomena Silver Ingot-...26 Sept 2024 —... police had fielded any UFO reports. Ron Morier, then a...</p></details>
+   Link:<a href="https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event" target="_blank" rel="noopener noreferrer nofollow">https://www.greysheet.com/news/story/canada-popular-unexplained-phenomena-silver-ingot-shaped-coin-series-continues-with-the-langenburg-event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada: Popular Unexplained Phenomena Silver Ingot-...26 Sept 2024 —... police had fielded any UFO reports. Ron Morier, then a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: langenburg ufo 1974.13193  
-   Link: <a href="https://www.metabunk.org/threads/langenburg-ufo-1974.13193/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/langenburg-ufo-1974.13193/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Langenburg UFO 197430 Sept 2023 — Later that night, Ron Morier, then a 27-year-old RCMP constable, got a phone call at the Langenburg det...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/langenburg-ufo-1974.13193/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/langenburg-ufo-1974.13193/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Langenburg UFO 197430 Sept 2023 — Later that night, Ron Morier, then a 27-year-old RCMP constable, got a phone call at the Langenburg det...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: langenburg.ca  
    Title: ufo [sightings](&#123;&#123; 'sightings-3aa7bd/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.langenburg.ca/p/ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</p></details>
+   Link:<a href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.langenburg.ca/p/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada Item Display  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=d7l231havodc0vqf9kgo1bni5iag4qkmlokf6vhq5dn6thahbvb1&amp;interval=20&amp;isn_id_nbr=4690&amp;record_id=4690-6399-11554</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports on non-meteoric sightings, unidentified flying objects, UFO&#x27;s. Sighting Date: 9/1/1974. Document Date: 9/3/1974. Location: Langen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada ARCHIVED  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1511" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1511</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1511" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1511</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufocasebook.com  
    Title: From the Star Phoenix  
-   Link: <a href="https://www.ufocasebook.com/2010/fuhr1974.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/2010/fuhr1974.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookFarmer Edwin Fuhr&#x27;s Strange Sighting in Saskatoon...30 Jun 2004 — About three years ago, there was a report of two UFOs that...</p></details>
+   Link:<a href="https://www.ufocasebook.com/2010/fuhr1974.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/2010/fuhr1974.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookFarmer Edwin Fuhr&#x27;s Strange Sighting in Saskatoon...30 Jun 2004 — About three years ago, there was a report of two UFOs that...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/edwin-fuhr-saw-5-metallic-saucers-hovering-over-his-langenburg-saskatchewan-farm/1260844109379165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/edwin-fuhr-saw-5-metallic-saucers-hovering-over-his-langenburg-saskatchewan-farm/1260844109379165/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwin Fuhr saw 5 metallic saucers hovering over his...CHARLIE RED STAR CANADIAN UFO ATTACKS AT NUCLEAR PLANTS These sightings included t...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/edwin-fuhr-saw-5-metallic-saucers-hovering-over-his-langenburg-saskatchewan-farm/1260844109379165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/edwin-fuhr-saw-5-metallic-saucers-hovering-over-his-langenburg-saskatchewan-farm/1260844109379165/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edwin Fuhr saw 5 metallic saucers hovering over his...CHARLIE RED STAR CANADIAN UFO ATTACKS AT NUCLEAR PLANTS These sightings included t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/472456403800111/posts/1589269568785450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472456403800111/posts/1589269568785450/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Langenburg? | Moose Jaw, SKUFO&#x27;s at Langenburg? I know this incident has been covered here before but it is an incredibl...</p></details>
+   Link:<a href="https://www.facebook.com/groups/472456403800111/posts/1589269568785450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472456403800111/posts/1589269568785450/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Langenburg? | Moose Jaw, SKUFO&#x27;s at Langenburg? I know this incident has been covered here before but it is an incredibl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/pdffiles1/nij/grants/233980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/233980.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d to the principles of friction ridge identification and the formation of the IAI...Read more...</p></details>
+   Link:<a href="https://www.ojp.gov/pdffiles1/nij/grants/233980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/233980.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d to the principles of friction ridge identification and the formation of the IAI...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
    Title: bac-lac.gc.ca The Shag Harbour UFO Incident  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection searchThis documentary is about the unexplained incident in October 1967, when two unidentified fl...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection searchThis documentary is about the unexplained incident in October 1967, when two unidentified fl...</p></details>
    Published: October 1967  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l5Z28yLjcfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5Z28yLjcfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New coin reignites interest in 50-year-old Canadian UFO story CBC News: The National · 16K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l5Z28yLjcfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5Z28yLjcfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New coin reignites interest in 50-year-old Canadian UFO story CBC News: The National · 16K views...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vice.com  
    Title: in search of the truth behind canadas most infamous ufo sighting  
-   Link: <a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous...4 Oct 2017 — The first time I heard about the Shag Harbour UFO incident was about...</p></details>
+   Link:<a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous...4 Oct 2017 — The first time I heard about the Shag Harbour UFO incident was about...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: bac-lac.gc.ca Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
    Published: October 1967  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search for the Unknown.Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search for the Unknown.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: macleans.ca  
    Title: the shag harbour ufo incident  
-   Link: <a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</p></details>
+   Link:<a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blog.colonialacres.com  
-   Link: <a href="https://blog.colonialacres.com/the-mystery-of-the-langenburg-event-with-the-2024-rcm-20-coin/" target="_blank" rel="noopener noreferrer nofollow">https://blog.colonialacres.com/the-mystery-of-the-langenburg-event-with-the-2024-rcm-20-coin/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>colonialacres.comCanada&#x27;s Unexplained Phenomena: The Langenburg EventSep 19, 2024 — The Langenburg Event is an important part of Canada&#x27;s...</p></details>
+   Link:<a href="https://blog.colonialacres.com/the-mystery-of-the-langenburg-event-with-the-2024-rcm-20-coin/" target="_blank" rel="noopener noreferrer nofollow">https://blog.colonialacres.com/the-mystery-of-the-langenburg-event-with-the-2024-rcm-20-coin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>colonialacres.comCanada&#x27;s Unexplained Phenomena: The Langenburg EventSep 19, 2024 — The Langenburg Event is an important part of Canada&#x27;s...</p></details>

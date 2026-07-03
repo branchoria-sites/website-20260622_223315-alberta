@@ -274,29 +274,29 @@ image: /assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-overview-
 
 ## Introduction
 
-The Campbellton triangle story is best understood as a piece of northern [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO memory rather than as a tightly documented official case. The usual modern version says that in November 1989, two sisters on Van Horne Crescent in Campbellton saw three large, silent triangular objects over [Sugarloaf]({{ 'sugarloaf/' | relative_url }}) Mountain, moving in ways they could not explain before disappearing. The problem is that the surviving public trail is thin: recent retellings preserve the shape, setting and witness outline, but the strongest easily traceable government paperwork for Campbellton points back to an earlier Sugarloaf Mountain flap in 1971, not clearly to the 1989 triangle account. That tension is exactly why the story matters. It shows how a dramatic local sighting can remain vivid in community memory even when the documentary base has become hard to check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio+2Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-title">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span><span class="citation-popover-snippet">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span></span></span>
+The Campbellton triangle story is best understood as a piece of northern [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO memory rather than as a tightly documented official case. The usual modern version says that in November 1989, two sisters on Van Horne Crescent in Campbellton saw three large, silent triangular objects over [Sugarloaf]({{ 'sugarloaf/' | relative_url }}) Mountain, moving in ways they could not explain before disappearing. The problem is that the surviving public trail is thin: recent retellings preserve the shape, setting and witness outline, but the strongest easily traceable government paperwork for Campbellton points back to an earlier Sugarloaf Mountain flap in 1971, not clearly to the 1989 triangle account. That tension is exactly why the story matters. It shows how a dramatic local sighting can remain vivid in community memory even when the documentary base has become hard to check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio+2Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-title">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span><span class="citation-popover-snippet">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-overview.webp" | relative_url }}" alt="Overview image for Campbellton" loading="eager" decoding="sync" fetchpriority="high">
 ## The Sugarloaf Mountain account
 
-Sugarloaf Mountain gives the Campbellton story its staying power. It is not an anonymous patch of sky: it is the landmark above town, visible from neighbourhood streets, park trails and the Restigouche River valley. New Brunswick Parks describes Sugarloaf Provincial Park as sitting in the province’s Appalachian Mountain region, with a 305-metre summit overlooking Campbellton, Chaleur Bay, the Restigouche River and the Gaspé Peninsula across the water. That matters for UFO history because a prominent local landmark makes a sighting easier to retell. “Over Sugarloaf” is more memorable than “somewhere north-east in the sky”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">Open source on parcsnbparks.info.</span></span></span>
+Sugarloaf Mountain gives the Campbellton story its staying power. It is not an anonymous patch of sky: it is the landmark above town, visible from neighbourhood streets, park trails and the Restigouche River valley. New Brunswick Parks describes Sugarloaf Provincial Park as sitting in the province’s Appalachian Mountain region, with a 305-metre summit overlooking Campbellton, Chaleur Bay, the Restigouche River and the Gaspé Peninsula across the water. That matters for UFO history because a prominent local landmark makes a sighting easier to retell. “Over Sugarloaf” is more memorable than “somewhere north-east in the sky”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">Open source on parcsnbparks.info.</span></span></span>
 
-The geological and cultural identity of the mountain adds another layer. The New Brunswick Museum’s educational material describes Sugarloaf as part of the Appalachian range and explains that geologists believe it was perhaps a Late Devonian volcano or a volcanic feeder pipe; the same page also records a Mi’kmaq story in which Koluskap creates Sugarloaf Mountain. A UFO account attached to a place like that inherits a ready-made local stage: a distinctive skyline, a named mountain, cross-border views towards Quebec, and a place already tied to community stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnificentrocks-rochesmagnifique.ca">[magnificentrocks-rochesmagnifique.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnificentrocks-rochesmagnifique.ca</span><span class="citation-popover-snippet">Open source on magnificentrocks-rochesmagnifique.ca.</span></span></span>
+The geological and cultural identity of the mountain adds another layer. The New Brunswick Museum’s educational material describes Sugarloaf as part of the Appalachian range and explains that geologists believe it was perhaps a Late Devonian volcano or a volcanic feeder pipe; the same page also records a Mi’kmaq story in which Koluskap creates Sugarloaf Mountain. A UFO account attached to a place like that inherits a ready-made local stage: a distinctive skyline, a named mountain, cross-border views towards Quebec, and a place already tied to community stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnificentrocks-rochesmagnifique.ca">[magnificentrocks-rochesmagnifique.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnificentrocks-rochesmagnifique.ca</span><span class="citation-popover-snippet">Open source on magnificentrocks-rochesmagnifique.ca.</span></span></span>
 
-The best documented Campbellton UFO material found in current public searches is not the late-1980s triangle account itself, but an earlier Sugarloaf Mountain series from August and September 1971. Library and Archives Canada’s UFO database includes a Campbellton-area record from 19 August 1971 in the Herzberg Institute of Astrophysics files, while indexed copies of the Canadian UFO records describe a report involving Sugarloaf Mountain and Campbellton. Searchable text from those records refers to Constable G. Baragar and Constable D. Martel of the Campbellton detachment being on patrol near Sugarloaf Mountain when they noticed a mysterious light. lac-bac.gc.ca+2The Black Vault Documents <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682-1414-8101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</span></span></span>
+The best documented Campbellton UFO material found in current public searches is not the late-1980s triangle account itself, but an earlier Sugarloaf Mountain series from August and September 1971. Library and Archives Canada’s UFO database includes a Campbellton-area record from 19 August 1971 in the Herzberg Institute of Astrophysics files, while indexed copies of the Canadian UFO records describe a report involving Sugarloaf Mountain and Campbellton. Searchable text from those records refers to Constable G. Baragar and Constable D. Martel of the Campbellton detachment being on patrol near Sugarloaf Mountain when they noticed a mysterious light. lac-bac.gc.ca+2The Black Vault Documents<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</span></span></span>
 
-Modern podcast listings have revived that earlier episode as “the Sugarloaf Mountain Flap”, saying it involved several citizens, an RCMP report by Corporal G. W. Snow, and a night on which two constables followed the object for nearly three hours. A podcast listing is not the same as a primary case file, but it is useful evidence for the story’s afterlife: Campbellton’s UFO memory is not just one isolated triangle anecdote, but a cluster of Sugarloaf-centred stories that later researchers and enthusiasts continue to revisit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-title">ufo talker the sugarloaf mountain flap in the summer of 1971 a mysterious ufo kept appearing around sugarloaf mountain in campbellton new</span><span class="citation-popover-snippet">Amazon MusicIn the Summer of 1971 a mysterious UFO kept appearing around ...The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterio...</span></span></span>
+Modern podcast listings have revived that earlier episode as “the Sugarloaf Mountain Flap”, saying it involved several citizens, an RCMP report by Corporal G. W. Snow, and a night on which two constables followed the object for nearly three hours. A podcast listing is not the same as a primary case file, but it is useful evidence for the story’s afterlife: Campbellton’s UFO memory is not just one isolated triangle anecdote, but a cluster of Sugarloaf-centred stories that later researchers and enthusiasts continue to revisit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-title">ufo talker the sugarloaf mountain flap in the summer of 1971 a mysterious ufo kept appearing around sugarloaf mountain in campbellton new</span><span class="citation-popover-snippet">Amazon MusicIn the Summer of 1971 a mysterious UFO kept appearing around ...The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterio...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-1-dark.svg" | relative_url }}" alt="Campbellton illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1989 triangle story
 
-The late-1980s version usually appears in a compact form: two sisters, Van Horne Crescent, November 1989, three large triangular craft, silence, lights, hovering, and sudden acceleration over Sugarloaf Mountain. Static Radio’s 2026 page gives that outline and says the objects were seen over Sugarloaf Mountain from Van Horne Crescent; its transcript repeats the same core story, including the claim that the objects moved forward and backward before vanishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-title">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span><span class="citation-popover-snippet">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span></span></span>
+The late-1980s version usually appears in a compact form: two sisters, Van Horne Crescent, November 1989, three large triangular craft, silence, lights, hovering, and sudden acceleration over Sugarloaf Mountain. Static Radio’s 2026 page gives that outline and says the objects were seen over Sugarloaf Mountain from Van Horne Crescent; its transcript repeats the same core story, including the claim that the objects moved forward and backward before vanishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staticradio.com">[Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staticradio.com</span><span class="citation-popover-title">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span><span class="citation-popover-snippet">Static Radio Campbellton UFO with Franky Corcoran &#124; Static Radio</span></span></span>
 
-That is a vivid account, but the evidential problem is just as important as the sighting description. The strongest public source currently visible for the 1989 triangle story is a recent media retelling, not an original police form, newspaper report, witness statement or federal file. By contrast, the 1971 Sugarloaf material has a clearer archival footprint through Library and Archives Canada and indexed Canadian UFO document collections. This does not prove the 1989 account false; it means the account should be treated as locally persistent but under-documented until stronger original records are located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+That is a vivid account, but the evidential problem is just as important as the sighting description. The strongest public source currently visible for the 1989 triangle story is a recent media retelling, not an original police form, newspaper report, witness statement or federal file. By contrast, the 1971 Sugarloaf material has a clearer archival footprint through Library and Archives Canada and indexed Canadian UFO document collections. This does not prove the 1989 account false; it means the account should be treated as locally persistent but under-documented until stronger original records are located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
-The date also matters. 1989 was the first year of what became the long-running Canadian UFO Survey. Contemporary Associated Press coverage reported that Canadians had submitted at least 141 UFO reports for 1989, compiled from private investigators, police and the National Research Council. The same article noted that more than half lacked enough information for proper evaluation, about one-third had probable explanations, and only a small remainder were classed as stronger unknowns. That national context helps frame Campbellton: a dramatic triangle account from 1989 fits a period when Canadian reports were being gathered more systematically, but a strong case would still need the ordinary basics — original report, date, time, witness names or anonymised statements, investigation notes and checks against aircraft or astronomical causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-title">Scholarly Communication CANADIAN SURVEY TALLIES 141 UFO SIGHTINGS IN &#x27;89</span><span class="citation-popover-snippet">Scholarly Communication CANADIAN SURVEY TALLIES 141 UFO SIGHTINGS IN &#x27;89</span></span></span>
+The date also matters. 1989 was the first year of what became the long-running Canadian UFO Survey. Contemporary Associated Press coverage reported that Canadians had submitted at least 141 UFO reports for 1989, compiled from private investigators, police and the National Research Council. The same article noted that more than half lacked enough information for proper evaluation, about one-third had probable explanations, and only a small remainder were classed as stronger unknowns. That national context helps frame Campbellton: a dramatic triangle account from 1989 fits a period when Canadian reports were being gathered more systematically, but a strong case would still need the ordinary basics — original report, date, time, witness names or anonymised statements, investigation notes and checks against aircraft or astronomical causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-title">Scholarly Communication CANADIAN SURVEY TALLIES 141 UFO SIGHTINGS IN &#x27;89</span><span class="citation-popover-snippet">Scholarly Communication CANADIAN SURVEY TALLIES 141 UFO SIGHTINGS IN &#x27;89</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HVrJ4wJGSAE" title="Climbing Sugarloaf Mountain | Campbellton, New Brunswick 📍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HVrJ4wJGSAE" target="_blank" rel="noopener noreferrer">Climbing Sugarloaf Mountain | Campbellton, New Brunswick 📍</a></p><p class="youtube-embed-meta">Channel: Maritime Dan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HVrJ4wJGSAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HVrJ4wJGSAE">Open on YouTube</a></p></div></div></div>
@@ -307,9 +307,9 @@ The Campbellton triangle story lingers because it has the ingredients that make 
 
 It also benefits from overlap with the earlier Sugarloaf Mountain material. Even when the 1971 and 1989 accounts are kept separate, they reinforce each other in memory: one gives Campbellton an archived UFO past, the other gives it a more modern triangular-craft image familiar from late twentieth-century UFO culture. A reader encountering both may feel that Sugarloaf is a “UFO place”, even though the available documentation for each episode is uneven and should not be merged into one stronger case.
 
-The setting helps too. Sugarloaf’s summit and trails overlook Campbellton, Chaleur Bay and the Restigouche River, so local sightlines naturally invite skywatching. People see aircraft, stars, planets, meteors, satellites, cloud effects and lights over ridges from slightly different angles. In a town where the mountain dominates the skyline, unusual lights become geographically anchored. The landmark does half the memory work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">Open source on parcsnbparks.info.</span></span></span>
+The setting helps too. Sugarloaf’s summit and trails overlook Campbellton, Chaleur Bay and the Restigouche River, so local sightlines naturally invite skywatching. People see aircraft, stars, planets, meteors, satellites, cloud effects and lights over ridges from slightly different angles. In a town where the mountain dominates the skyline, unusual lights become geographically anchored. The landmark does half the memory work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">Open source on parcsnbparks.info.</span></span></span>
 
-There is also a social reason. UFO stories often survive not because they are proven, but because they are retold in families, local conversations, radio, podcasts, online forums and regional lists. The National UFO Reporting Center’s New Brunswick page shows how varied provincial reports can be: disks, triangles, lights, fireballs, formations and ambiguous shapes appear across many New Brunswick communities, with some entries even carrying caveats such as possible hoax or likely stars or planets. That broader database context does not validate Campbellton, but it shows how local reports become part of a wider pattern of collected, repeated and reinterpreted sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State NB</span><span class="citation-popover-snippet">NUFOR C Reports for State NB</span></span></span>
+There is also a social reason. UFO stories often survive not because they are proven, but because they are retold in families, local conversations, radio, podcasts, online forums and regional lists. The National UFO Reporting Center’s New Brunswick page shows how varied provincial reports can be: disks, triangles, lights, fireballs, formations and ambiguous shapes appear across many New Brunswick communities, with some entries even carrying caveats such as possible hoax or likely stars or planets. That broader database context does not validate Campbellton, but it shows how local reports become part of a wider pattern of collected, repeated and reinterpreted sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State NB</span><span class="citation-popover-snippet">NUFOR C Reports for State NB</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-2-dark.svg" | relative_url }}" alt="Campbellton illustration 2" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,9 +321,9 @@ Three cautions are especially important.
 
 **First, [later retellings]({{ 'later-retelling/' | relative_url }}) can compress separate episodes.** The 1971 Sugarloaf flap, the 1989 triangle account and later online discussions are close enough in location to blur together. A strong article or case file should keep them distinct unless a source explicitly connects them.
 
-**Second, “unidentified” is not a conclusion about origin.** Library and Archives Canada says its federal UFO collection includes about 9,500 digitised documents from 1947 to the early 1980s, gathered from the Department of National Defence, Department of Transport, National Research Council and RCMP. Those files include reports, correspondence, memos and procedures, but the archive itself warns that searches by date or location can be partial because original documents vary in how they record those details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+**Second, “unidentified” is not a conclusion about origin.** Library and Archives Canada says its federal UFO collection includes about 9,500 digitised documents from 1947 to the early 1980s, gathered from the Department of National Defence, Department of Transport, National Research Council and RCMP. Those files include reports, correspondence, memos and procedures, but the archive itself warns that searches by date or location can be partial because original documents vary in how they record those details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
-**Third, databases and podcasts preserve claims, but do not automatically settle them.** Canadian UFO Report’s annual survey page argues that UFO research begins with reports rather than assumptions, and that public belief in UFOs should be separated from proof of alien visitation. That is a useful standard for Campbellton: collect the story, preserve the local memory, but grade the case by the quality of the documents behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report ANNUAL SURVEYS</span><span class="citation-popover-snippet">Canadian UFO Report ANNUAL SURVEYS</span></span></span>
+**Third, databases and podcasts preserve claims, but do not automatically settle them.** Canadian UFO Report’s annual survey page argues that UFO research begins with reports rather than assumptions, and that public belief in UFOs should be separated from proof of alien visitation. That is a useful standard for Campbellton: collect the story, preserve the local memory, but grade the case by the quality of the documents behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report ANNUAL SURVEYS</span><span class="citation-popover-snippet">Canadian UFO Report ANNUAL SURVEYS</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nf_8Dl4sqhk" title="The Guardian Case - The infamous Canadian UFO sighting that caused controversy in the early 90s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nf_8Dl4sqhk" target="_blank" rel="noopener noreferrer">The Guardian Case - The infamous Canadian UFO sighting that caused controversy in the early 90s</a></p><p class="youtube-embed-meta">Channel: Down the Rabbit Hole</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nf_8Dl4sqhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nf_8Dl4sqhk">Open on YouTube</a></p></div></div></div>
@@ -332,14 +332,14 @@ Three cautions are especially important.
 
 The Campbellton triangle story would become much stronger if researchers could locate contemporary, independent records from 1989 rather than relying mainly on recent retellings. The most useful evidence would be a local newspaper item from November or December 1989, an RCMP occurrence note, a National Research Council or Transport Canada referral, a weather record, or a witness statement created close to the event. Even a short clipping could clarify the date, time, direction of travel, number of witnesses, duration, weather and whether anyone checked aircraft activity.
 
-For the earlier Sugarloaf Mountain flap, the next step is different: the existence of [federal records]({{ 'federal-records/' | relative_url }}) is easier to establish, so the priority is careful reading of the original pages. Library and Archives Canada explains that its UFO records were accumulated from several federal bodies and that some records concern specific sightings while others are general procedures or correspondence. That means a Campbellton file needs to be read page by page, not treated as a single clean verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+For the earlier Sugarloaf Mountain flap, the next step is different: the existence of [federal records]({{ 'federal-records/' | relative_url }}) is easier to establish, so the priority is careful reading of the original pages. Library and Archives Canada explains that its UFO records were accumulated from several federal bodies and that some records concern specific sightings while others are general procedures or correspondence. That means a Campbellton file needs to be read page by page, not treated as a single clean verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
 For the 1989 triangle story, a good verification trail would ask:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Was there a dated local news report naming Van Horne Crescent or Sugarloaf Mountain? <span class="citation-chip-wrap"><a class="citation-chip" href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnificentrocks-rochesmagnifique.ca">[magnificentrocks-rochesmagnifique.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnificentrocks-rochesmagnifique.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Was there a dated local news report naming Van Horne Crescent or Sugarloaf Mountain?<span class="citation-chip-wrap"><a class="citation-chip" href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnificentrocks-rochesmagnifique.ca">[magnificentrocks-rochesmagnifique.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnificentrocks-rochesmagnifique.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * Did the witnesses report the sighting to the RCMP, and is there an occurrence number?
 * Were there multiple independent witnesses in different parts of Campbellton or Atholville?
 * Was the sighting checked against aircraft, military activity, bright planets, meteors, satellites or weather?
@@ -362,194 +362,194 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Campbellton&#x27;s Triangle Story Still Lingers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Campbellton&#x27;s Triangle Story Still Lingers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses the importance of documentation and official records, a central issue in the Campbellton story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the importance of documentation and official records, a central issue in the Campbellton story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how eyewitness UFO reports are documented, evaluated, and remembered.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how eyewitness UFO reports are documented, evaluated, and remembered.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly examines how local legends, folklore, and UFO stories endure across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how local legends, folklore, and UFO stories endure across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="campbellton-why-campbellton-s-triangle-story-still-lingers-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,163 +755,163 @@ That makes Campbellton a useful counterweight to more famous Canadian cases. It 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon MusicIn the Summer of 1971 a mysterious UFO kept appearing around...The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterio...</p></details>
+   Link:<a href="https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-cl/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/600e10d5-6c7e-4e52-81ce-0a7476d112f1/ufo-talker-the-sugarloaf-mountain-flap-in-the-summer-of-1971-a-mysterious-ufo-kept-appearing-around-sugarloaf-mountain-in-campbellton-new-brunswick-finally-2-rcmp-officers-chase-it-one-night-and-try-to-communicate-with-it?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon MusicIn the Summer of 1971 a mysterious UFO kept appearing around...The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: magnificentrocks-rochesmagnifique.ca  
-   Link: <a href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow">https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html</a>  
+   Link:<a href="https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html" target="_blank" rel="noopener noreferrer nofollow">https://magnificentrocks-rochesmagnifique.ca/the_periods-les_periodes/devonian-devonien/familiar_landscapes-paysages_familiers/sugarloaf_mountain_campbellton-campbellton_mont_sugarloaf-eng/index.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682-1414-8101" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682-1414-8101</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;isn_id_nbr=4682&amp;page_id_nbr=1414&amp;record_id=4682</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State NB  
-   Link: <a href="https://nuforc.org/subndx/?id=lNB" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNB</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lNB" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNB</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/military-history-research-papers/isaf-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/military-history-research-papers/isaf-history.html</a>  
+   Link:<a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/military-history-research-papers/isaf-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/military-history-research-papers/isaf-history.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?=&amp;PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;interval=20&amp;q1=&amp;q4=NB&amp;sk=61" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?=&amp;PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;interval=20&amp;q1=&amp;q4=NB&amp;sk=61</a>  
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?=&amp;PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;interval=20&amp;q1=&amp;q4=NB&amp;sk=61" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?=&amp;PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;interval=20&amp;q1=&amp;q4=NB&amp;sk=61</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: lac-bac.gc.ca  
    Title: ARCHIVE D  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66</a>  
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=37k9so0kv4oe2kkomt3pbg85t1&amp;brws_s=&amp;q4=NB&amp;sk=66</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Canada FOIA Part 14 Pages 3901 4200 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/proceedingstrans39roya/proceedingstrans39roya_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingstrans39roya/proceedingstrans39roya_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/proceedingstrans39roya/proceedingstrans39roya_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedingstrans39roya/proceedingstrans39roya_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/medicalsurgicald00detr/medicalsurgicald00detr_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/medicalsurgicald00detr/medicalsurgicald00detr_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/medicalsurgicald00detr/medicalsurgicald00detr_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/medicalsurgicald00detr/medicalsurgicald00detr_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: staticradio.com  
    Title: Static Radio Campbellton UFO with Franky Corcoran | Static Radio  
-   Link: <a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
+   Link:<a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents Canada  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o£ Campbellton. Since this light... G.BARAGAR and Cat. D. MARTEL of this Detachment. 1vere on patrol in the...Read more...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2027%20-%20Pages%207801-8100.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o£ Campbellton. Since this light... G.BARAGAR and Cat. D. MARTEL of this Detachment. 1vere on patrol in the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: parcsnbparks.info  
-   Link: <a href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park</a>  
+   Link:<a href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scholar.lib.vt.edu  
    Title: Scholarly Communication CANADIAN SURVEY TALLIES 141 UFO SIGHTINGS IN '89  
-   Link: <a href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm" target="_blank" rel="noopener noreferrer nofollow">https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm</a>  
+   Link:<a href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm" target="_blank" rel="noopener noreferrer nofollow">https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1990/rt9004/900411/04110596.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report ANNUAL SURVEYS  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Sugarloaf Provincial Park  
-   Link: <a href="https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 28 Pages 8101 8400  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2028%20-%20Pages%208101-8400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2028%20-%20Pages%208101-8400.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2028%20-%20Pages%208101-8400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2028%20-%20Pages%208101-8400.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 05 Pages 1201 1500  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2005%20-%20Pages%201201-1500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2005%20-%20Pages%201201-1500.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2005%20-%20Pages%201201-1500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2005%20-%20Pages%201201-1500.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hikingnb.ca  
    Title: Sugarloaf Mountain  
-   Link: <a href="https://www.hikingnb.ca/Trails/AppalachianRegion/Campbellton/SugarloafPark/SugarloafMountain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hikingnb.ca/Trails/AppalachianRegion/Campbellton/SugarloafPark/SugarloafMountain.html</a>  
+   Link:<a href="https://www.hikingnb.ca/Trails/AppalachianRegion/Campbellton/SugarloafPark/SugarloafMountain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hikingnb.ca/Trails/AppalachianRegion/Campbellton/SugarloafPark/SugarloafMountain.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tripadvisor.com  
    Title: Sugarloaf Provincial Park  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g15841441-d4380065-Reviews-Sugarloaf_Provincial_Park-Atholville_New_Brunswick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g15841441-d4380065-Reviews-Sugarloaf_Provincial_Park-Atholville_New_Brunswick.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g15841441-d4380065-Reviews-Sugarloaf_Provincial_Park-Atholville_New_Brunswick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g15841441-d4380065-Reviews-Sugarloaf_Provincial_Park-Atholville_New_Brunswick.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: x.com  
-   Link: <a href="https://x.com/globalnews/status/1411372490111307776" target="_blank" rel="noopener noreferrer nofollow">https://x.com/globalnews/status/1411372490111307776</a>  
+   Link:<a href="https://x.com/globalnews/status/1411372490111307776" target="_blank" rel="noopener noreferrer nofollow">https://x.com/globalnews/status/1411372490111307776</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: deezer.com  
-   Link: <a href="https://www.deezer.com/sr/episode/828535362" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/sr/episode/828535362</a>  
+   Link:<a href="https://www.deezer.com/sr/episode/828535362" target="_blank" rel="noopener noreferrer nofollow">https://www.deezer.com/sr/episode/828535362</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/the-sugarloaf-mountain-flap-in-the-summer-of/id1641503195?i=1000684968564&amp;l=fr-FR" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-sugarloaf-mountain-flap-in-the-summer-of/id1641503195?i=1000684968564&amp;l=fr-FR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Sugarloaf Mountain Flap/ I… ‑ UFO Talker... UFO appeared over Sugarloaf Mountain in the town of Campbellton, New Brunsw...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/the-sugarloaf-mountain-flap-in-the-summer-of/id1641503195?i=1000684968564&amp;l=fr-FR" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-sugarloaf-mountain-flap-in-the-summer-of/id1641503195?i=1000684968564&amp;l=fr-FR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Sugarloaf Mountain Flap/ I… ‑ UFO Talker... UFO appeared over Sugarloaf Mountain in the town of Campbellton, New Brunsw...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: One of Canada’s Strangest Sightings (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian Case - The infamous Canadian UFO sighting that caused controversy in the early 90s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian Case - The infamous Canadian UFO sighting that caused controversy in the early 90s...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Guardian Case  
-   Link: <a href="https://www.youtube.com/watch?v=Nf_8Dl4sqhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nf_8Dl4sqhk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFOs spotted in Canada every day in 2017: survey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nf_8Dl4sqhk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nf_8Dl4sqhk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFOs spotted in Canada every day in 2017: survey...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada  
-   Link: <a href="https://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKQePic8cdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada’s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKQePic8cdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada’s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lfCQDyQW3To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lfCQDyQW3To</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO triangle Sugarloaf Mountain Unidentified Flying Object MARK SARK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lfCQDyQW3To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lfCQDyQW3To</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO triangle Sugarloaf Mountain Unidentified Flying Object MARK SARK...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Campbellton UFO with Franky Corcoran | Static Radio  
-   Link: <a href="https://www.youtube.com/watch?v=xMolU5dAIVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMolU5dAIVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xMolU5dAIVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMolU5dAIVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dhs.gov  
    Title: 25 0731 PRIV Chief FOIA Officers Weekly Report March 31 25 to June 30 25  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: llojibwe.org  
-   Link: <a href="https://www.llojibwe.org/drm/401_cert_102422.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llojibwe.org/drm/401_cert_102422.pdf</a>  
+   Link:<a href="https://www.llojibwe.org/drm/401_cert_102422.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llojibwe.org/drm/401_cert_102422.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: parcsugarloafpark.ca  
-   Link: <a href="https://parcsugarloafpark.ca/accommodations/" target="_blank" rel="noopener noreferrer nofollow">https://parcsugarloafpark.ca/accommodations/</a>  
+   Link:<a href="https://parcsugarloafpark.ca/accommodations/" target="_blank" rel="noopener noreferrer nofollow">https://parcsugarloafpark.ca/accommodations/</a>  

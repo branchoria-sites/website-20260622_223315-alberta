@@ -274,7 +274,7 @@ image: /assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-overview-so
 
 ## Introduction
 
-The Shelburne underwater claims are the most disputed extension of [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }})’s [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) UFO story. The core 1967 case is fairly simple: witnesses saw lights descend near Shag Harbour, authorities searched for a possible crash, and divers found no wreckage. The Shelburne thread made the story far more dramatic by adding claims of an object moving underwater, a later meeting with another object, naval secrecy, and, in some retellings, a separate NATO-era underwater encounter near Shelburne. The problem is that these additions are not supported in the same way as the original 1967 emergency response. Library and Archives Canada describes Shag Harbour as Canada’s most famous UFO incident and notes RCMP and Canadian Forces involvement, but the later Shelburne narrative depends much more on retrospective interviews, books, documentaries and oral testimony than on a comparable public official file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Research1967 Shag Harbour UFO Sighting and Related Research...</span></span></span>
+The Shelburne underwater claims are the most disputed extension of [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }})’s [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) UFO story. The core 1967 case is fairly simple: witnesses saw lights descend near Shag Harbour, authorities searched for a possible crash, and divers found no wreckage. The Shelburne thread made the story far more dramatic by adding claims of an object moving underwater, a later meeting with another object, naval secrecy, and, in some retellings, a separate NATO-era underwater encounter near Shelburne. The problem is that these additions are not supported in the same way as the original 1967 emergency response. Library and Archives Canada describes Shag Harbour as Canada’s most famous UFO incident and notes RCMP and Canadian Forces involvement, but the later Shelburne narrative depends much more on retrospective interviews, books, documentaries and oral testimony than on a comparable public official file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[LAC Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">LAC Research1967 Shag Harbour UFO Sighting and Related Research...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-overview.webp" | relative_url }}" alt="Overview image for Shelburne Claims" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,15 +284,15 @@ That difference matters. The Shelburne claims did not simply add detail; they ch
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-3-dark.svg" | relative_url }}" alt="Shelburne Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Shelburne claims entered the narrative
 
-The first layer to keep separate is the documented Shag Harbour search itself. Local and official accounts agree on the broad outline: witnesses saw orange lights descend towards the sea on 4 October 1967; people first thought an aircraft had crashed; RCMP and local boats responded; yellowish foam was reported on the water; and military divers later searched without finding material evidence. The Municipality of Barrington’s public account says the HMCS Granby was ordered to the location and divers searched the ocean bottom for several days without positive results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span><span class="citation-popover-snippet">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span></span></span>
+The first layer to keep separate is the documented Shag Harbour search itself. Local and official accounts agree on the broad outline: witnesses saw orange lights descend towards the sea on 4 October 1967; people first thought an aircraft had crashed; RCMP and local boats responded; yellowish foam was reported on the water; and military divers later searched without finding material evidence. The Municipality of Barrington’s public account says the HMCS Granby was ordered to the location and divers searched the ocean bottom for several days without positive results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span><span class="citation-popover-snippet">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span></span></span>
 
-The archival and historical accounts are similarly cautious. Matthew Hayes’s history of Canadian UFO investigation cites a Department of National Defence memo stating that two days of underwater searching under good conditions produced “nil results”, and a later DND response said [the search]({{ 'the-search/' | relative_url }}) failed to produce material evidence that would explain or identify the object. Hayes also notes that the Shag Harbour case attracted official attention because it seemed to offer possible physical evidence, not merely witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
+The archival and historical accounts are similarly cautious. Matthew Hayes’s history of Canadian UFO investigation cites a Department of National Defence memo stating that two days of underwater searching under good conditions produced “nil results”, and a later DND response said [the search]({{ 'the-search/' | relative_url }}) failed to produce material evidence that would explain or identify the object. Hayes also notes that the Shag Harbour case attracted official attention because it seemed to offer possible physical evidence, not merely witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
 
-The Shelburne element appears in a different register. It is tied chiefly to later UFO researchers, especially Chris Styles, who helped revive the case after the early press attention had faded. The Barrington account explicitly says the story had new life breathed into it through Styles’s research from 1993 onwards, based on newspaper clippings and interviews with original witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span><span class="citation-popover-snippet">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span></span></span> From there, the story expanded from a local crash-and-search incident into a broader South Shore underwater narrative.
+The Shelburne element appears in a different register. It is tied chiefly to later UFO researchers, especially Chris Styles, who helped revive the case after the early press attention had faded. The Barrington account explicitly says the story had new life breathed into it through Styles’s research from 1993 onwards, based on newspaper clippings and interviews with original witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-title">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span><span class="citation-popover-snippet">Barrington Municipality Shag Harbour UFO Incident &#124; Visiting Us</span></span></span> From there, the story expanded from a local crash-and-search incident into a broader South Shore underwater narrative.
 
-One version, associated with later Shag Harbour books and documentaries, proposed that the object seen near Shag Harbour did not simply sink and vanish but travelled underwater towards another location, often linked in popular retellings to Shelburne or a second offshore site. Hayes summarises this as Styles’s claim that there was evidence for a second crash site farther along the shore, investigated secretly by DND, and that the craft may have travelled underwater to that location; Hayes adds that nothing was recovered from that alleged second site either. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
+One version, associated with later Shag Harbour books and documentaries, proposed that the object seen near Shag Harbour did not simply sink and vanish but travelled underwater towards another location, often linked in popular retellings to Shelburne or a second offshore site. Hayes summarises this as Styles’s claim that there was evidence for a second crash site farther along the shore, investigated secretly by DND, and that the craft may have travelled underwater to that location; Hayes adds that nothing was recovered from that alleged second site either.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
 
-Another layer came through media retellings. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada’s catalogue entry for the 2000 Ocean Entertainment documentary describes it as being about two unidentified flying objects seen disappearing into the ocean near Shag Harbour in October 1967, and says that one week later “they took off again”. That catalogue description shows how, by 2000, the public-facing version had already moved beyond the simple search-and-no-wreckage account into a more elaborate underwater continuation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+Another layer came through media retellings. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada’s catalogue entry for the 2000 Ocean Entertainment documentary describes it as being about two unidentified flying objects seen disappearing into the ocean near Shag Harbour in October 1967, and says that one week later “they took off again”. That catalogue description shows how, by 2000, the public-facing version had already moved beyond the simple search-and-no-wreckage account into a more elaborate underwater continuation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-1-dark.svg" | relative_url }}" alt="Shelburne Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shelburne_underwater_98cfba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -300,26 +300,26 @@ Another layer came through media retellings. Library and [Archives]({{ 'archives
 
 The Shelburne material is difficult to evaluate because it is mostly retrospective. That does not automatically make it false. People do remember important events years later, and military personnel may be reluctant to discuss sensitive Cold War activity. But delayed testimony creates practical problems: memories can merge, dates can drift, locations can be simplified, and later books or documentaries can influence how witnesses and readers frame earlier experiences.
 
-This is especially important because the 1967 Shag Harbour file is already thin. Hayes notes that, despite the case’s fame, the surviving available documentation amounts to about twenty-five pages from DND or National Research Council files, and that no RCMP files on the crash have survived in the archives he examined. In other words, even the best-documented part of the case is not supported by a large, complete file. The Shelburne extension has to be judged against that baseline, not treated as if it sits on an equally solid official record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
+This is especially important because the 1967 Shag Harbour file is already thin. Hayes notes that, despite the case’s fame, the surviving available documentation amounts to about twenty-five pages from DND or National Research Council files, and that no RCMP files on the crash have survived in the archives he examined. In other words, even the best-documented part of the case is not supported by a large, complete file. The Shelburne extension has to be judged against that baseline, not treated as if it sits on an equally solid official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Documented 1967 underwater search:">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Documented 1967 underwater search:</span><span class="citation-popover-snippet">Open source on trentu.ca.</span></span></span>
 
-The strongest point in favour of the original Shag Harbour story is not that it proves a craft was present. It is that witnesses, police, search-and-rescue channels and military divers were involved close to the time, and that official correspondence treated the incident seriously enough to search for physical evidence. Global News, in its 50th-anniversary coverage, described the [Shag Harbour paper]({{ 'paper-trail/' | relative_url }}) trail as unusually strong for a Canadian UFO case, with RCMP reports and telexes between military officials referring to unidentified flying objects rather than simply brushing the reports aside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Open source on globalnews.ca.</span></span></span>
+The strongest point in favour of the original Shag Harbour story is not that it proves a craft was present. It is that witnesses, police, search-and-rescue channels and military divers were involved close to the time, and that official correspondence treated the incident seriously enough to search for physical evidence. Global News, in its 50th-anniversary coverage, described the [Shag Harbour paper]({{ 'paper-trail/' | relative_url }}) trail as unusually strong for a Canadian UFO case, with RCMP reports and telexes between military officials referring to unidentified flying objects rather than simply brushing the reports aside.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Open source on globalnews.ca.</span></span></span>
 
 The Shelburne claims do not have the same evidential texture. They are rich in alleged detail but weaker in public documentation. Popular retellings describe divers, secret orders, underwater objects and Cold War alarms, but the reader usually reaches those claims through later interviews, secondary media accounts or self-published UFO literature rather than through a clean chain of contemporary, publicly verifiable Canadian records. That makes the Shelburne thread interesting, but also riskier.
 
-This difference is visible in how later reporting frames the case. Vice’s 50th-anniversary report included the recollection of a search participant who said the crews searched the ocean and divers found nothing visible beyond foam on the water. It also noted later claims about a nearby secret underwater monitoring base and alleged underwater anomalies, but those claims are presented as part of the case’s speculative afterlife rather than as recovered wreckage or a confirmed official finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting</span><span class="citation-popover-snippet">In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting...</span></span></span>
+This difference is visible in how later reporting frames the case. Vice’s 50th-anniversary report included the recollection of a search participant who said the crews searched the ocean and divers found nothing visible beyond foam on the water. It also noted later claims about a nearby secret underwater monitoring base and alleged underwater anomalies, but those claims are presented as part of the case’s speculative afterlife rather than as recovered wreckage or a confirmed official finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting</span><span class="citation-popover-snippet">In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ## The problem of separating 1967 from other stories
 
-The most important development in the Shelburne thread is that at least one later version appears to separate the dramatic Shelburne underwater story from the 1967 Shag Harbour event altogether. A 2025 Popular Mechanics account, based on Styles’s later claims and his book *Sweep Clear 5: NATO’s UFO Encounter*, says Styles eventually concluded that the Shelburne incident belonged to a NATO minesweeping exercise in 1960, not to the Shag Harbour event seven years later. In that version, the Shelburne story involved divers allegedly encountering underwater UFOs during a military exercise, but it could not be the same object witnessed at Shag Harbour in 1967 because the chronology no longer worked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span><span class="citation-popover-snippet">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span></span></span>
+The most important development in the Shelburne thread is that at least one later version appears to separate the dramatic Shelburne underwater story from the 1967 Shag Harbour event altogether. A 2025 Popular Mechanics account, based on Styles’s later claims and his book *Sweep Clear 5: NATO’s UFO Encounter*, says Styles eventually concluded that the Shelburne incident belonged to a NATO minesweeping exercise in 1960, not to the Shag Harbour event seven years later. In that version, the Shelburne story involved divers allegedly encountering underwater UFOs during a military exercise, but it could not be the same object witnessed at Shag Harbour in 1967 because the chronology no longer worked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span><span class="citation-popover-snippet">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span></span></span>
 
 That is a major credibility issue for the wider legend. If the most dramatic underwater elements were originally mixed into the Shag Harbour story but later placed in 1960, they cannot be used as straightforward evidence that the 1967 object travelled underwater from Shag Harbour to Shelburne. They become a separate claim: still geographically Nova Scotian, still connected to Cold War maritime activity, but not direct evidence for the 1967 case.
 
-The 1960 Shelburne version is itself highly contentious. Popular Mechanics reports claims that the episode involved a NATO minesweeping exercise, divers, alleged objects on the seabed, secrecy orders and even a DEFCON 1 alert. But those are extraordinary claims and require stronger evidence than emotional retrospective testimony. The article itself notes that the later date correction broke the neat link between Shelburne and Shag Harbour, even while Styles continued to believe the witnesses’ sincerity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span><span class="citation-popover-snippet">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span></span></span>
+The 1960 Shelburne version is itself highly contentious. Popular Mechanics reports claims that the episode involved a NATO minesweeping exercise, divers, alleged objects on the seabed, secrecy orders and even a DEFCON 1 alert. But those are extraordinary claims and require stronger evidence than emotional retrospective testimony. The article itself notes that the later date correction broke the neat link between Shelburne and Shag Harbour, even while Styles continued to believe the witnesses’ sincerity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span><span class="citation-popover-snippet">Popular Mechanics Divers’ Silent Pact Fuels Decades of UFO Speculation</span></span></span>
 
-There is a real Cold War context around Shelburne that helps explain why such stories can sound plausible without proving the UFO claim. A Canadian naval history paper on maritime response and underwater surveillance notes that, in the 1950s, Canadian and American defence planning shifted a sound surveillance facility to Shelburne, Nova Scotia, with seabed arrays and shore-based equipment connected to submarine detection work. That context makes underwater military secrecy in the Shelburne area historically plausible. It does not, by itself, verify claims about submerged UFOs, alien occupants, or a hidden recovery operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forposterityssake.ca">[forposterityssake.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forposterityssake.ca</span><span class="citation-popover-title">Exceptional Circumstances</span><span class="citation-popover-snippet">132-133, 153. This important study was... per war plans because the US wanted to avoid involving NATO in its response...Read more...</span></span></span>
+There is a real Cold War context around Shelburne that helps explain why such stories can sound plausible without proving the UFO claim. A Canadian naval history paper on maritime response and underwater surveillance notes that, in the 1950s, Canadian and American defence planning shifted a sound surveillance facility to Shelburne, Nova Scotia, with seabed arrays and shore-based equipment connected to submarine detection work. That context makes underwater military secrecy in the Shelburne area historically plausible. It does not, by itself, verify claims about submerged UFOs, alien occupants, or a hidden recovery operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forposterityssake.ca">[forposterityssake.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forposterityssake.ca</span><span class="citation-popover-title">Exceptional Circumstances</span><span class="citation-popover-snippet">132-133, 153. This important study was... per war plans because the US wanted to avoid involving NATO in its response...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJB6dMQJiN0" title="The Shag Harbour UFO Incident - 1 - The Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJB6dMQJiN0" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - 1 - The Event</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJB6dMQJiN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJB6dMQJiN0">Open on YouTube</a></p></div></div></div>
@@ -354,194 +354,194 @@ For Nova Scotia UFO history, Shelburne matters because it shows how a strong loc
 The safest conclusion is therefore cautious. The Shelburne underwater claims did not conclusively explain Shag Harbour, and later reporting appears to have weakened the direct link by separating some of the most dramatic Shelburne material into a 1960 episode. What remains is a layered Nova Scotia story: a documented but unresolved 1967 search, a later underwater interpretation, and a disputed Shelburne narrative that is historically interesting but much harder to verify.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Underwater Story Change the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Underwater Story Change the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BEIfGmZge5wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
-        </h4>
-        <p class="fr-book-author">By Don Ledger, Chris Styles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Object on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BEIfGmZge5wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Object" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Object">Dark Object</a>
+</h4>
+<p class="fr-book-author">By Don Ledger, Chris Styles</p>
         
-        <p class="fr-book-desc">Directly covers the Nova Scotia Shag Harbour incident and later underwater claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Nova Scotia Shag Harbour incident and later underwater claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Object+by+Don+Ledger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supports the page’s official-records angle through government and witness-focused UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page’s official-records angle through government and witness-focused UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Places Shag Harbour-style claims within the wider Canadian UFO reporting tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Shag Harbour-style claims within the wider Canadian UFO reporting tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers think about evidence quality, witness testimony, and classification of UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think about evidence quality, witness testimony, and classification of UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Object&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Object</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="shelburne-claims-did-the-underwater-story-change-the-case-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,56 +747,56 @@ The safest conclusion is therefore cautious. The Shelburne underwater claims did
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: In Search of the Truth Behind Canada's Most Infamous UFO Sighting  
-   Link: <a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting...</p></details>
+   Link:<a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Truth Behind Canada&#x27;s Most Infamous UFO Sighting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forposterityssake.ca  
    Title: Exceptional Circumstances  
-   Link: <a href="https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>132-133, 153. This important study was... per war plans because the US wanted to avoid involving NATO in its response...Read more...</p></details>
+   Link:<a href="https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.forposterityssake.ca/RCN-DOCS/RCND0167.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>132-133, 153. This important study was... per war plans because the US wanted to avoid involving NATO in its response...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour Incident - 2 - Discussion with Generation Why...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour Incident - 2 - Discussion with Generation Why...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Shag Harbour Incident  
-   Link: <a href="https://www.youtube.com/watch?v=Qsl54IMp6BM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsl54IMp6BM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 - Exposing the Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qsl54IMp6BM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsl54IMp6BM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 - Exposing the Mystery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Shag Harbour Incident  
-   Link: <a href="https://www.youtube.com/watch?v=MJB6dMQJiN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJB6dMQJiN0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 UFO XPO - Chris Styles Presentation #2 - Sweep Clear 5...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MJB6dMQJiN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJB6dMQJiN0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 UFO XPO - Chris Styles Presentation #2 - Sweep Clear 5...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAC Research1967 Shag Harbour UFO Sighting and Related Research...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAC Research1967 Shag Harbour UFO Sighting and Related Research...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: barringtonmunicipality.com  
    Title: Barrington Municipality Shag Harbour UFO Incident | Visiting Us  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Shag Harbour, Nova Scotia  
-   Link: <a href="https://www.youtube.com/watch?v=XNfLmFe_FWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XNfLmFe_FWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - 1 - The Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XNfLmFe_FWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XNfLmFe_FWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - 1 - The Event...</p></details>

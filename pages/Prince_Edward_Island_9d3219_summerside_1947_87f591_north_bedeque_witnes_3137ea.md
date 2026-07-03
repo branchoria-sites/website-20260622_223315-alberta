@@ -256,7 +256,7 @@ image: /assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_b
 
 ## Introduction
 
-The North Bedeque sighting is one of the most frequently cited early UFO reports from [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}), yet it is also one of the most constrained by the evidence. Reported during the first great North American “flying disc” wave of 1947, the case involved four named witnesses near [Summerside]({{ 'summerside/' | relative_url }}) who observed a bright object crossing a clear daytime sky for approximately 30 seconds. Unlike later UFO incidents that generated official files, photographs, instrument readings, or extensive witness interviews, the North Bedeque event survives primarily through contemporary newspaper reporting and later historical catalogues of the 1947 flying-disc craze. That makes the witnesses themselves the central evidence. Their identities are known, their observations were broadly consistent, and the sighting was reportedly shared rather than solitary. At the same time, the observation was brief, distant, and lacking in detail, leaving modern researchers with little basis for a confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+The North Bedeque sighting is one of the most frequently cited early UFO reports from [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}), yet it is also one of the most constrained by the evidence. Reported during the first great North American “flying disc” wave of 1947, the case involved four named witnesses near [Summerside]({{ 'summerside/' | relative_url }}) who observed a bright object crossing a clear daytime sky for approximately 30 seconds. Unlike later UFO incidents that generated official files, photographs, instrument readings, or extensive witness interviews, the North Bedeque event survives primarily through contemporary newspaper reporting and later historical catalogues of the 1947 flying-disc craze. That makes the witnesses themselves the central evidence. Their identities are known, their observations were broadly consistent, and the sighting was reportedly shared rather than solitary. At the same time, the observation was brief, distant, and lacking in detail, leaving modern researchers with little basis for a confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -269,18 +269,18 @@ One reason the report has survived in UFO histories is that the witnesses were n
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Dr. Charles K. Gunn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+* Dr. Charles K. Gunn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 * Mrs. Gunn.
 * Roland Philipson.
 * Anne Philipson, Roland Philipson’s daughter.
 
 </div>
 
-Later compilations of 1947 reports preserved those names and associated them with a sighting near North Bedeque, west of Summerside, on or about 1 July 1947. The surviving record indicates that Anne Philipson was the first member of the group to notice the object. The others then looked up and observed it as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+Later compilations of 1947 reports preserved those names and associated them with a sighting near North Bedeque, west of Summerside, on or about 1 July 1947. The surviving record indicates that Anne Philipson was the first member of the group to notice the object. The others then looked up and observed it as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 The presence of multiple witnesses is significant because it reduces the likelihood that the event resulted from an individual visual illusion. Four people independently looking at the same area of sky and agreeing that an unusual object was present is stronger evidence than a single-[witness account]({{ 'witness-account/' | relative_url }}). However, multiple witnesses do not automatically establish the nature of what was observed. If an object is distant and seen only briefly, several observers can still misidentify the same conventional phenomenon.
 
-Dr. Gunn's presence has attracted particular attention in later UFO catalogues because he was not portrayed as a casual or anonymous observer. Thomas E. Bloecher's influential catalogue of the 1947 flying-disc wave described him as an animal ecologist and head of an experimental fox farm in Summerside. Researchers have often cited this detail as evidence that the principal witness was a professionally established local resident rather than an unidentified source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+Dr. Gunn's presence has attracted particular attention in later UFO catalogues because he was not portrayed as a casual or anonymous observer. Thomas E. Bloecher's influential catalogue of the 1947 flying-disc wave described him as an animal ecologist and head of an experimental fox farm in Summerside. Researchers have often cited this detail as evidence that the principal witness was a professionally established local resident rather than an unidentified source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 That does not make the sighting accurate by default, but it does help explain why the report was treated seriously enough to enter later historical compilations of the 1947 wave.
 
@@ -289,9 +289,9 @@ That does not make the sighting accurate by default, but it does help explain wh
 
 ## What they said they saw
 
-The descriptions preserved in newspaper accounts are remarkably brief. According to later reproductions of the original report, the witnesses described a bright object high in the sky moving rapidly toward the south. The object was said to glisten in the sunlight and was visible against a clear daytime sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+The descriptions preserved in newspaper accounts are remarkably brief. According to later reproductions of the original report, the witnesses described a bright object high in the sky moving rapidly toward the south. The object was said to glisten in the sunlight and was visible against a clear daytime sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
-Roland Philipson reportedly described it as a shapeless object that flashed or glistened in the sun. Mrs. Gunn compared it to a large star moving through the daytime sky. These descriptions are notable because they emphasise brightness rather than structure. None of the witnesses appears to have reported wings, a fuselage, exhaust, vapour trails, rotating components, or any other feature that would clearly identify a conventional aircraft. Nor did they provide a detailed geometric description such as a disc, sphere, cylinder, triangle, or oval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+Roland Philipson reportedly described it as a shapeless object that flashed or glistened in the sun. Mrs. Gunn compared it to a large star moving through the daytime sky. These descriptions are notable because they emphasise brightness rather than structure. None of the witnesses appears to have reported wings, a fuselage, exhaust, vapour trails, rotating components, or any other feature that would clearly identify a conventional aircraft. Nor did they provide a detailed geometric description such as a disc, sphere, cylinder, triangle, or oval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 The lack of shape information is one of the defining characteristics of the case. Although the event became associated with the flying-disc wave sweeping North America, the witnesses themselves seem to have described a luminous object rather than a clearly disc-shaped craft. This distinction matters because many reports from the summer of 1947 were quickly labelled “flying saucers” by newspapers even when witness descriptions were much less specific.
 
@@ -299,7 +299,7 @@ The object was also reportedly silent. Given the apparent altitude suggested by 
 
 ## Why the 30-second duration matters
 
-The most important limitation of the North Bedeque case is the reported duration: approximately 30 seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+The most important limitation of the North Bedeque case is the reported duration: approximately 30 seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 At first glance, half a minute may seem like a substantial observation. In practical terms, however, it is a very short period for identifying a distant object in the sky. During those thirty seconds the witnesses had to notice the object, attract one another's attention, look up, assess what they were seeing, and watch it move away.
 
@@ -316,7 +316,7 @@ For investigators, short-duration sightings create several problems:
 
 </div>
 
-These limitations are visible throughout the North Bedeque account. The surviving descriptions focus on brightness, motion, and the fact that the object seemed unusual. They provide almost no information about dimensions, altitude, shape, colour changes, or manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+These limitations are visible throughout the North Bedeque account. The surviving descriptions focus on brightness, motion, and the fact that the object seemed unusual. They provide almost no information about dimensions, altitude, shape, colour changes, or manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 As a result, modern researchers cannot calculate meaningful performance characteristics. A small nearby object and a large distant object can produce very similar visual impressions. Without reliable distance estimates, claims about extraordinary speed remain speculative.
 
@@ -326,11 +326,11 @@ As a result, modern researchers cannot calculate meaningful performance characte
 
 Despite the limitations, the testimony does allow a few cautious observations.
 
-First, the witnesses appear to have agreed on the broad facts. Available accounts do not preserve significant contradictions among the four observers. All reportedly saw a bright object, high in the sky, moving rapidly and remaining visible for only a short period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+First, the witnesses appear to have agreed on the broad facts. Available accounts do not preserve significant contradictions among the four observers. All reportedly saw a bright object, high in the sky, moving rapidly and remaining visible for only a short period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 Second, the object seems to have been observed in good weather conditions. The reports describe a clear sky and bright sunlight. That reduces the likelihood that the witnesses were merely observing a cloud formation or weather-related obscuration. However, clear skies can also enhance reflections from aircraft, balloons, or other airborne objects.
 
-Third, the witnesses did not report extraordinary behaviour beyond apparent speed. The object did not reportedly hover, reverse direction, accelerate dramatically, change shape, land, or interact with the environment. Instead, it moved steadily away toward the south. Later catalogues describe the movement as a straight and level course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+Third, the witnesses did not report extraordinary behaviour beyond apparent speed. The object did not reportedly hover, reverse direction, accelerate dramatically, change shape, land, or interact with the environment. Instead, it moved steadily away toward the south. Later catalogues describe the movement as a straight and level course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 That places the case in a category common during the 1947 flying-disc wave: brief daylight observations of bright aerial objects whose appearance was unusual but whose behaviour was not obviously impossible.
 
@@ -339,7 +339,7 @@ That places the case in a category common during the 1947 flying-disc wave: brie
 
 ## Why no firm identification has emerged
 
-No official explanation appears to have been attached to the case in the major 1947 sighting catalogues. Bloecher's catalogue lists the Summerside report but does not provide a resolved identification. Later tables derived from the same body of material likewise preserve the case without assigning a definitive cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+No official explanation appears to have been attached to the case in the major 1947 sighting catalogues. Bloecher's catalogue lists the Summerside report but does not provide a resolved identification. Later tables derived from the same body of material likewise preserve the case without assigning a definitive cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 It is important not to overstate what that means. An absence of explanation is not evidence that the object was extraordinary. In many early UFO cases, investigators simply lacked enough information to reach any conclusion.
 
@@ -363,189 +363,189 @@ This ambiguity is precisely why the case has endured. It is neither solved nor e
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the witnesses contribute to Prince Edward Island UFO history
 
-The enduring value of the North Bedeque sighting lies in its witness record rather than its evidential strength. Because the observers were named and because the report emerged during the opening days of the 1947 flying-disc craze, the case provides a rare glimpse of how Prince Edward Island entered the wider North American saucer story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+The enduring value of the North Bedeque sighting lies in its witness record rather than its evidential strength. Because the observers were named and because the report emerged during the opening days of the 1947 flying-disc craze, the case provides a rare glimpse of how Prince Edward Island entered the wider North American saucer story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 The four witnesses did not claim a landing, contact experience, or dramatic encounter. They reported a bright object crossing the sky for about half a minute and disappearing from view. That modest claim is precisely why the case remains useful to historians. It reflects the type of report that dominated the summer of 1947: ordinary people observing something unexpected in the sky and trying to describe it using the limited vocabulary available before modern UFO culture had fully developed.
 
-Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is weak. Viewed as a historical record of how the flying-disc wave reached Prince Edward Island, it is one of the province's most important early witness accounts. The names of Dr. and Mrs. Gunn, Roland Philipson, and Anne Philipson remain the core of that story because, after nearly eight decades, their brief 30-second observation is still the only substantial evidence the case possesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
+Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is weak. Viewed as a historical record of how the flying-disc wave reached Prince Edward Island, it is one of the province's most important early witness accounts. The names of Dr. and Mrs. Gunn, Roland Philipson, and Anne Philipson remain the core of that story because, after nearly eight decades, their brief 30-second observation is still the only substantial evidence the case possesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[Kirk MacDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HnEKhqtQdzs" title="UFO over Charlottetown, Prince Edward Island, Canada." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HnEKhqtQdzs" target="_blank" rel="noopener noreferrer">UFO over Charlottetown, Prince Edward Island, Canada.</a></p><p class="youtube-embed-meta">Channel: Only Real UFOs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HnEKhqtQdzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HnEKhqtQdzs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who saw the North Bedeque object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who saw the North Bedeque object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers over America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers over America">Flying Saucers over America</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers over America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers over America">Flying Saucers over America</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places the brief Prince Edward Island sighting inside the same first flying-disc panic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the brief Prince Edward Island sighting inside the same first flying-disc panic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing North Bedeque with other early UFO reports and case-record limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the early interpretive culture that grew out of the first flying-disc reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the early interpretive culture that grew out of the first flying-disc reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers over America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers over America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witnesses-who-saw-the-north-bedeque-object-prince-edward-island-ufo-memorabilia-book-books-gerry-anderson-series-program" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,72 +751,72 @@ Viewed narrowly as evidence for an unidentified aerial phenomenon, the case is w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kirkmcd.princeton.edu  
    Title: bloecher 67  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charles K. Gunn, animal ecologist and head of an experimental fox farm in Summerside, was.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?IdNumber=239747&amp;app=pffww" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?IdNumber=239747&amp;app=pffww</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca239747 - Collection searchNo information is available for this page...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?IdNumber=239747&amp;app=pffww" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?IdNumber=239747&amp;app=pffww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca239747 - Collection searchNo information is available for this page...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journal.lib.uoguelph.ca  
-   Link: <a href="https://journal.lib.uoguelph.ca/index.php/perj/article/view/933/1504" target="_blank" rel="noopener noreferrer nofollow">https://journal.lib.uoguelph.ca/index.php/perj/article/view/933/1504</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helen Gordon Stewart in the now-legendary Fraser Valley Library Demonstration Project funded by the Carnegie Corporation. In...Read...</p></details>
+   Link:<a href="https://journal.lib.uoguelph.ca/index.php/perj/article/view/933/1504" target="_blank" rel="noopener noreferrer nofollow">https://journal.lib.uoguelph.ca/index.php/perj/article/view/933/1504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helen Gordon Stewart in the now-legendary Fraser Valley Library Demonstration Project funded by the Carnegie Corporation. In...Read...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/langstaffsoftees00long/langstaffsoftees00long_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/langstaffsoftees00long/langstaffsoftees00long_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. PRESENTED Cbc loiml.Institution of ©rent Britain BY R. LONGSTAFF...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/langstaffsoftees00long/langstaffsoftees00long_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/langstaffsoftees00long/langstaffsoftees00long_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. PRESENTED Cbc loiml.Institution of ©rent Britain BY R. LONGSTAFF...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: culturesummerside.com  
-   Link: <a href="https://www.culturesummerside.com/microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.culturesummerside.com/microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MicrofilmMaster Name Index. This unique index is a collection of over 400,000 index cards bearing genealogical data on thousands of Princ...</p></details>
+   Link:<a href="https://www.culturesummerside.com/microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.culturesummerside.com/microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MicrofilmMaster Name Index. This unique index is a collection of over 400,000 index cards bearing genealogical data on thousands of Princ...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/archaeologiaael13unkngoog/archaeologiaael13unkngoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/archaeologiaael13unkngoog/archaeologiaael13unkngoog_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Archaeologia aeliana, or, Miscellaneous tracts...Full text of &quot;Archaeologia aeliana, or, Miscellaneous tracts relating to...</p></details>
+   Link:<a href="https://archive.org/stream/archaeologiaael13unkngoog/archaeologiaael13unkngoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/archaeologiaael13unkngoog/archaeologiaael13unkngoog_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Archaeologia aeliana, or, Miscellaneous tracts...Full text of &quot;Archaeologia aeliana, or, Miscellaneous tracts relating to...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/yearbookandreco02britgoog/yearbookandreco02britgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/yearbookandreco02britgoog/yearbookandreco02britgoog_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>erved for generations on library shelves before it was...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/yearbookandreco02britgoog/yearbookandreco02britgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/yearbookandreco02britgoog/yearbookandreco02britgoog_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erved for generations on library shelves before it was...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: collections.mun.ca  
-   Link: <a href="https://collections.mun.ca/digital/collection/wwiartifact/id/7961/" target="_blank" rel="noopener noreferrer nofollow">https://collections.mun.ca/digital/collection/wwiartifact/id/7961/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>experience full interactivity, please enable Javascript in your browser...</p></details>
+   Link:<a href="https://collections.mun.ca/digital/collection/wwiartifact/id/7961/" target="_blank" rel="noopener noreferrer nofollow">https://collections.mun.ca/digital/collection/wwiartifact/id/7961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>experience full interactivity, please enable Javascript in your browser...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publicsafety.gc.ca  
-   Link: <a href="https://www.publicsafety.gc.ca/lbrr/archives/rcmp-rrcmp-1947-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsafety.gc.ca/lbrr/archives/rcmp-rrcmp-1947-eng.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ice for the year ended March 31, 1947.. Respectfully...Read more...</p></details>
+   Link:<a href="https://www.publicsafety.gc.ca/lbrr/archives/rcmp-rrcmp-1947-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsafety.gc.ca/lbrr/archives/rcmp-rrcmp-1947-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ice for the year ended March 31, 1947.. Respectfully...Read more...</p></details>
    Published: March 31, 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/proceedings00sociuoft/proceedings00sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedings00sociuoft/proceedings00sociuoft_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UARIES in NEWCASTLE-UPON-TYNE. THIRD SERIES.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/proceedings00sociuoft/proceedings00sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/proceedings00sociuoft/proceedings00sociuoft_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UARIES in NEWCASTLE-UPON-TYNE. THIRD SERIES.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://www.archive.org/stream/s3proceedings03sociuoft/s3proceedings03sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/stream/s3proceedings03sociuoft/s3proceedings03sociuoft_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comes into view, from behind a massive...Read more...</p></details>
+   Link:<a href="https://www.archive.org/stream/s3proceedings03sociuoft/s3proceedings03sociuoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archive.org/stream/s3proceedings03sociuoft/s3proceedings03sociuoft_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comes into view, from behind a massive...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Prince Edward Island UFO over Charlottetown, Prince Edward Island, Canada...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Prince Edward Island UFO over Charlottetown, Prince Edward Island, Canada...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: The Bewick collector  
-   Link: <a href="https://archive.org/download/cu31924032505442/cu31924032505442.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/cu31924032505442/cu31924032505442.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A descriptive catalogue of the works...Three objects hav^been specially before me in the composition of the following pages, — the first...</p></details>
+   Link:<a href="https://archive.org/download/cu31924032505442/cu31924032505442.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/cu31924032505442/cu31924032505442.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A descriptive catalogue of the works...Three objects hav^been specially before me in the composition of the following pages, — the first...</p></details>

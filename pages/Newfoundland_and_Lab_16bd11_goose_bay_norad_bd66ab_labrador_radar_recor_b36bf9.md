@@ -262,9 +262,9 @@ Cold War radar [records]({{ 'records-45a181/' | relative_url }}) from Labrador c
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-1-dark.svg" | relative_url }}" alt="Radar records illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Labrador had radar sites in the first place
 
-Labrador’s relevance begins with geography. Goose Bay supported North Atlantic military aviation, while coastal radar sites helped watch the north-eastern approaches to Canada. The Pinetree Line was part of a Canada-US early-warning system, later linked with NORAD, and included Atlantic coastal coverage as well as stations across southern Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://civildefencemuseum.ca/about-pinetree-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civildefencemuseum.ca">[civildefencemuseum.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civildefencemuseum.ca</span><span class="citation-popover-title">About Pinetree Line – Canadian Civil Defence Museum And Archives</span><span class="citation-popover-snippet">About Pinetree Line – Canadian Civil Defence Museum And Archives</span></span></span>
+Labrador’s relevance begins with geography. Goose Bay supported North Atlantic military aviation, while coastal radar sites helped watch the north-eastern approaches to Canada. The Pinetree Line was part of a Canada-US early-warning system, later linked with NORAD, and included Atlantic coastal coverage as well as stations across southern Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://civildefencemuseum.ca/about-pinetree-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civildefencemuseum.ca">[civildefencemuseum.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civildefencemuseum.ca</span><span class="citation-popover-title">About Pinetree Line – Canadian Civil Defence Museum And Archives</span><span class="citation-popover-snippet">About Pinetree Line – Canadian Civil Defence Museum And Archives</span></span></span>
 
-[Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s former radar landscape was not theoretical. Spotted Island, about 314 kilometres east of Happy Valley-Goose Bay, is officially described by the provincial government as a former US Pinetree Line radar station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nl.ca">[Government of Newfoundland and Labrador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nl.ca</span><span class="citation-popover-snippet">Open source on nl.ca.</span></span></span> Heritage accounts also note that gap-filler radar sites were built along the Labrador coast and in Newfoundland to strengthen coverage where earlier warning systems had gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritage.nf.ca">[Heritage Newfoundland and Labrador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritage.nf.ca</span><span class="citation-popover-title">Heritage Newfoundland and Labrador Pinetree Radar Site</span><span class="citation-popover-snippet">Heritage Newfoundland and Labrador Pinetree Radar Site</span></span></span>
+[Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s former radar landscape was not theoretical. Spotted Island, about 314 kilometres east of Happy Valley-Goose Bay, is officially described by the provincial government as a former US Pinetree Line radar station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.nl.ca">[Government of Newfoundland and Labrador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.nl.ca</span><span class="citation-popover-snippet">Open source on nl.ca.</span></span></span> Heritage accounts also note that gap-filler radar sites were built along the Labrador coast and in Newfoundland to strengthen coverage where earlier warning systems had gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heritage.nf.ca">[Heritage Newfoundland and Labrador]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heritage.nf.ca</span><span class="citation-popover-title">Heritage Newfoundland and Labrador Pinetree Radar Site</span><span class="citation-popover-snippet">Heritage Newfoundland and Labrador Pinetree Radar Site</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WVRpHTzFuLo" title="Canada&#x27;s top soldier looks to the future of 5 Wing Goose Bay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WVRpHTzFuLo" target="_blank" rel="noopener noreferrer">Canada&#x27;s top soldier looks to the future of 5 Wing Goose Bay</a></p><p class="youtube-embed-meta">Channel: CBC News NL - Newfoundland and Labrador</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WVRpHTzFuLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WVRpHTzFuLo">Open on YouTube</a></p></div></div></div>
@@ -273,7 +273,7 @@ Labrador’s relevance begins with geography. Goose Bay supported North Atlantic
 
 Radar matters because it can add an independent track to a visual report. A person may misjudge distance, speed or size in a dark sky, but a radar log can sometimes show whether an aircraft-sized target was present, where it moved, and whether controllers or defence operators treated it as significant.
 
-For Goose Bay-area cases, that is especially relevant because 5 Wing Goose Bay still supports NORAD operations and air-power projection on Canada’s north and north-eastern coasts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 Wing Goose Bay</span><span class="citation-popover-snippet">5 Wing Goose Bay</span></span></span> Modern exercises show the same pattern: during Vigilant Shield 15, the RCAF set up radar at 5 Wing Goose Bay for aircraft approach and take-off surveillance during a binational NORAD field training exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/image/1624097/vigilant-shield-15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
+For Goose Bay-area cases, that is especially relevant because 5 Wing Goose Bay still supports NORAD operations and air-power projection on Canada’s north and north-eastern coasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 Wing Goose Bay</span><span class="citation-popover-snippet">5 Wing Goose Bay</span></span></span> Modern exercises show the same pattern: during Vigilant Shield 15, the RCAF set up radar at 5 Wing Goose Bay for aircraft approach and take-off surveillance during a binational NORAD field training exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/image/1624097/vigilant-shield-15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Open source on dvidshub.net.</span></span></span>
 
 The strongest UFO evidence would combine several things: a dated witness account, matching radar data, known aircraft traffic checks, weather data, and a clear chain of custody for the record. Without that combination, “radar was involved” usually means “worth investigating”, not “solved as extraordinary”.
 
@@ -282,11 +282,11 @@ The strongest UFO evidence would combine several things: a dated witness account
 
 ## Why radar can also confuse a case
 
-Radar does not simply show “what is really there”. It shows returns interpreted through equipment, filtering, operator judgement and atmospheric conditions. The US Federal Aviation Administration’s pilot guidance explains that radar pulses can be bent by temperature inversions, reflected by dense objects, blocked by terrain, or affected by earth curvature and mountains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administrationwww.faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administrationwww.faa.gov</span></span></span>
+Radar does not simply show “what is really there”. It shows returns interpreted through equipment, filtering, operator judgement and atmospheric conditions. The US Federal Aviation Administration’s pilot guidance explains that radar pulses can be bent by temperature inversions, reflected by dense objects, blocked by terrain, or affected by earth curvature and mountains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administrationwww.faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administrationwww.faa.gov</span></span></span>
 
 This is a major problem for Labrador. Coastal terrain, extreme weather, snow, cold-air layers and remote topography are exactly the kind of environment where an investigator should ask whether a radar return was an aircraft, weather, ground clutter, ducting, birds, chaff, a training target, or an artefact of the system.
 
-The Condon Report’s radar chapter, although American and controversial in UFO circles, remains useful on this narrow technical point: it concluded that anomalous propagation was probably responsible for many radar-visual UFO reports, and recommended that serious investigations include radar, meteorology and visual-perception expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span> Weather-radar explainers make the same basic point in plainer terms: radar can display non-precipitation targets, anomalous propagation and other false echoes that require cross-checking with adjacent radars, satellite imagery and conditions at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service NWS Weather Radar</span><span class="citation-popover-snippet">National Weather Service NWS Weather Radar</span></span></span>
+The Condon Report’s radar chapter, although American and controversial in UFO circles, remains useful on this narrow technical point: it concluded that anomalous propagation was probably responsible for many radar-visual UFO reports, and recommended that serious investigations include radar, meteorology and visual-perception expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</span></span></span> Weather-radar explainers make the same basic point in plainer terms: radar can display non-precipitation targets, anomalous propagation and other false echoes that require cross-checking with adjacent radars, satellite imagery and conditions at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service NWS Weather Radar</span><span class="citation-popover-snippet">National Weather Service NWS Weather Radar</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-2-dark.svg" | relative_url }}" alt="Radar records illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -294,7 +294,7 @@ The Condon Report’s radar chapter, although American and controversial in UFO 
 
 The absence of a detailed radar record does not prove that nothing happened. Cold War systems were designed for defence operations, not later public reconstruction. Some records may have been classified, summarised, retained only briefly, filed under military communications categories, or never preserved in a way that makes them searchable by place and date.
 
-Library and Archives Canada’s UFO collection is useful but imperfect. It includes records from National Defence, Transport, the National Research Council and the RCMP, with about 9,500 digitised documents accumulated between 1947 and the early 1980s. But the archive itself warns that some records are undated, about half lack a specific sighting location, and searches by date or location return only partial results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+Library and Archives Canada’s UFO collection is useful but imperfect. It includes records from National Defence, Transport, the National Research Council and the RCMP, with about 9,500 digitised documents accumulated between 1947 and the early 1980s. But the archive itself warns that some records are undated, about half lack a specific sighting location, and searches by date or location return only partial results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
 That limitation is central to the Labrador evidence problem. A Goose Bay or coastal Labrador sighting may have passed through several channels: a local witness, RCMP detachment, air traffic control, military operations, National Defence, or the National Research Council. By the time it reached an archive, the most useful radar detail might be reduced to a sentence such as “no radar contact”, “object observed on radar”, or “reported to operations”.
 
@@ -317,194 +317,194 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Labrador radar records prove a sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Labrador radar records prove a sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how military investigations, radar reports, and witness testimony are evaluated in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how military investigations, radar reports, and witness testimony are evaluated in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers cases involving radar evidence, official records, and military observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cases involving radar evidence, official records, and military observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidentiary standards, including the strengths and limits of radar and observational data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidentiary standards, including the strengths and limits of radar and observational data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
+</h4>
+<p class="fr-book-author">By Timothy Good</p>
         
-        <p class="fr-book-desc">Examines military, intelligence, and radar-related UFO reports that parallel questions about NORAD-era records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military, intelligence, and radar-related UFO reports that parallel questions about NORAD-era records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENT AIR FORCE BASE, COLORADO, ADC HQ, NORAD, GONE BUT NOT FORGOTTEN Y"><img src="https://i.ebayimg.com/images/g/j28AAOSwgytizzFR/s-l225.jpg" alt="Listing image for ENT AIR FORCE BASE, COLORADO, ADC HQ, NORAD, GONE BUT NOT FORGOTTEN Y" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer">ENT AIR FORCE BASE, COLORADO, ADC HQ, NORAD, GONE BUT NOT FORGOTTEN Y</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NORAD patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NORAD patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch"><img src="https://i.ebayimg.com/images/g/QdwAAOSwPCdndKHo/s-l225.jpg" alt="Listing image for Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage 50s 60s Original NORAD North American Aerospace Defense Command Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NORAD patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NORAD patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF 660th Radar Squadron NORAD Patch S-12"><img src="https://i.ebayimg.com/images/g/TfEAAOSwZKBZE-mY/s-l225.jpg" alt="Listing image for USAF 660th Radar Squadron NORAD Patch S-12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer">USAF 660th Radar Squadron NORAD Patch S-12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NORAD patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NORAD patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="radar-records-can-labrador-radar-records-prove-a-sighting-newfoundland-and-labrador-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NORAD 60th 60 Years 1958-2018 - North American Aerospace Defense Command - Patch"><img src="https://i.ebayimg.com/images/g/iywAAeSw1gJpwBA0/s-l225.jpg" alt="Listing image for NORAD 60th 60 Years 1958-2018 - North American Aerospace Defense Command - Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer">NORAD 60th 60 Years 1958-2018 - North American Aerospace Defense Command - Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NORAD patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NORAD patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NORAD+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-labrador-radar-records-prove-a-sighting-norad-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NORAD patch" data-ebay-reference="can-labrador-radar-records-prove-a-sighting-norad-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,160 +707,159 @@ This framework does not dismiss Labrador sightings. It protects the useful cases
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: civildefencemuseum.ca  
    Title: About Pinetree Line – Canadian Civil Defence Museum And Archives  
-   Link: <a href="https://civildefencemuseum.ca/about-pinetree-line" target="_blank" rel="noopener noreferrer nofollow">https://civildefencemuseum.ca/about-pinetree-line</a>  
+   Link:<a href="https://civildefencemuseum.ca/about-pinetree-line" target="_blank" rel="noopener noreferrer nofollow">https://civildefencemuseum.ca/about-pinetree-line</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 5 Wing Goose Bay  
-   Link: <a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html</a>  
+   Link:<a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
    Title: National Weather Service NWS Weather Radar  
-   Link: <a href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar</a>  
+   Link:<a href="https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mlb/Doppler_Dual_Pol_Weather_Radar</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Canada FOIA Part 14 Pages 3901 4200 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Canada FOIA Part 19 Pages 5401 5700 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gov.nl.ca  
-   Link: <a href="https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/</a>  
+   Link:<a href="https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nl.ca/eccc/former-pinetree-line-radar-station-spotted-island/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: heritage.nf.ca  
    Title: Heritage Newfoundland and Labrador Pinetree Radar Site  
-   Link: <a href="https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php</a>  
+   Link:<a href="https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php" target="_blank" rel="noopener noreferrer nofollow">https://www.heritage.nf.ca/articles/society/pinetree-radar-site.php</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/image/1624097/vigilant-shield-15" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/1624097/vigilant-shield-15</a>  
+   Link:<a href="https://www.dvidshub.net/image/1624097/vigilant-shield-15" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/1624097/vigilant-shield-15</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: Federal Aviation Administrationwww.faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Pinetree Line  
-   Link: <a href="https://en.wikipedia.org/wiki/Pinetree_Line" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pinetree_Line</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pinetree_Line" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pinetree_Line</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 21 Pages 6001 6300  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2021%20-%20Pages%206001-6300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2021%20-%20Pages%206001-6300.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2021%20-%20Pages%206001-6300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2021%20-%20Pages%206001-6300.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 13 Pages 3601 3901  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2013%20-%20Pages%203601-3901.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 16 Pages 4501 4800  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2016%20-%20Pages%204501-4800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2016%20-%20Pages%204501-4800.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2016%20-%20Pages%204501-4800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2016%20-%20Pages%204501-4800.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: revenantjournal.com  
-   Link: <a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
+   Link:<a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gov.nl.ca  
-   Link: <a href="https://www.gov.nl.ca/releases/2026/exec/0401n04/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nl.ca/releases/2026/exec/0401n04/</a>  
+   Link:<a href="https://www.gov.nl.ca/releases/2026/exec/0401n04/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nl.ca/releases/2026/exec/0401n04/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: activehistory.ca  
    Title: Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
+   Link:<a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: veteransbreakfastclub.org  
    Title: pinetree line  
-   Link: <a href="https://veteransbreakfastclub.org/pinetree-line/" target="_blank" rel="noopener noreferrer nofollow">https://veteransbreakfastclub.org/pinetree-line/</a>  
+   Link:<a href="https://veteransbreakfastclub.org/pinetree-line/" target="_blank" rel="noopener noreferrer nofollow">https://veteransbreakfastclub.org/pinetree-line/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WVRpHTzFuLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVRpHTzFuLo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=WVRpHTzFuLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVRpHTzFuLo</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
+   Link:<a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: chamberlabrador.com  
-   Link: <a href="https://chamberlabrador.com/members/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/members/5-wing-goose-bay/</a>  
+   Link:<a href="https://chamberlabrador.com/members/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/members/5-wing-goose-bay/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/</a>  
+   Link:<a href="https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airlivenews/posts/both-canadian-and-us-aircraft-were-scrambled-to-track-down-the-object/6471652449511422/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: goosebayairport.com  
-   Link: <a href="https://goosebayairport.com/corporate/community-5-wing/" target="_blank" rel="noopener noreferrer nofollow">https://goosebayairport.com/corporate/community-5-wing/</a>  
+   Link:<a href="https://goosebayairport.com/corporate/community-5-wing/" target="_blank" rel="noopener noreferrer nofollow">https://goosebayairport.com/corporate/community-5-wing/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: usni.org  
-   Link: <a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
+   Link:<a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/71684553138/posts/10163831812083139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/71684553138/posts/10163831812083139/</a>  
+   Link:<a href="https://www.facebook.com/groups/71684553138/posts/10163831812083139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/71684553138/posts/10163831812083139/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1u364nr/reports_of_ufo_sightings_in_canada_jumped_last/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1u364nr/reports_of_ufo_sightings_in_canada_jumped_last/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1u364nr/reports_of_ufo_sightings_in_canada_jumped_last/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1u364nr/reports_of_ufo_sightings_in_canada_jumped_last/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Scientific-Study-Unidentified-Flying-Objects/dp/B000J2VA3K?tag=searcht-20</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Scientific-study-of-unidentified-flying-objects.-Condon-Gillmor/922e9ba072893af1a144fedf82c4052acbaf1120</a>  

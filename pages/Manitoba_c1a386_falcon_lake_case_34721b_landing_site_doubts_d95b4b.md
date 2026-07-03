@@ -262,7 +262,7 @@ image: /assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubt
 
 ## Introduction
 
-The biggest weakness in the [Falcon Lake case]({{ 'falcon-lake/' | relative_url }}) is not necessarily the witness account, the burns, or the later laboratory tests. It is the condition of the alleged landing site itself. If the location where Stefan Michalak said an object landed could not be secured, documented and examined immediately, then every later claim about scorched vegetation, unusual soil, metallic fragments or radioactivity becomes harder to evaluate. The Falcon Lake incident remains important in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})'s UFO history because it produced more physical evidence than most Canadian cases. Yet the timeline surrounding the site raises a fundamental question: by the time investigators finally reached the correct location, were they examining an original scene or a place that had already been altered, contaminated or selectively sampled? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+The biggest weakness in the [Falcon Lake case]({{ 'falcon-lake/' | relative_url }}) is not necessarily the witness account, the burns, or the later laboratory tests. It is the condition of the alleged landing site itself. If the location where Stefan Michalak said an object landed could not be secured, documented and examined immediately, then every later claim about scorched vegetation, unusual soil, metallic fragments or radioactivity becomes harder to evaluate. The Falcon Lake incident remains important in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})'s UFO history because it produced more physical evidence than most Canadian cases. Yet the timeline surrounding the site raises a fundamental question: by the time investigators finally reached the correct location, were they examining an original scene or a place that had already been altered, contaminated or selectively sampled?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-1-dark.svg" | relative_url }}" alt="Landing Site illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,19 +270,19 @@ The biggest weakness in the [Falcon Lake case]({{ 'falcon-lake/' | relative_url 
 
 The short answer is no. Unlike a modern forensic scene, the alleged landing area near Falcon Lake was never sealed off, continuously observed or documented immediately after the reported event.
 
-According to official records and later summaries of the investigation, Royal Canadian Mounted Police officers and Royal Canadian Air Force personnel conducted an aerial and ground search only a few days after the encounter. On 25 May 1967 they searched the area from the air and on foot. They located various objects Michalak had previously mentioned, including discarded items along the trail, but they did not locate the claimed landing site itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+According to official records and later summaries of the investigation, Royal Canadian Mounted Police officers and Royal Canadian Air Force personnel conducted an aerial and ground search only a few days after the encounter. On 25 May 1967 they searched the area from the air and on foot. They located various objects Michalak had previously mentioned, including discarded items along the trail, but they did not locate the claimed landing site itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
-That failure matters because physical-trace cases depend heavily on timing. If a landing area really contained unusual marks, damaged vegetation, heat effects or deposited material, investigators would ideally document those traces before weather, wildlife, visitors or the witness himself could disturb them. In Falcon Lake, the first organised search did not produce the key location. As a result, the most important piece of physical evidence remained effectively unverified during the period when any traces would have been freshest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+That failure matters because physical-trace cases depend heavily on timing. If a landing area really contained unusual marks, damaged vegetation, heat effects or deposited material, investigators would ideally document those traces before weather, wildlife, visitors or the witness himself could disturb them. In Falcon Lake, the first organised search did not produce the key location. As a result, the most important piece of physical evidence remained effectively unverified during the period when any traces would have been freshest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 ## The helicopter search that found no mark
 
 The early search is often overlooked because later accounts focus on the evidence eventually recovered. However, from a critical perspective, the first search may be more important than the later discoveries.
 
-Investigators were sufficiently interested in the report to conduct an aerial reconnaissance involving military personnel and police. Local memories of helicopters searching the area have persisted for decades. Yet despite these efforts, the team failed to identify the supposed landing location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: falcontrailsresort.com">[Falcon Trails Resort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">falcontrailsresort.com</span><span class="citation-popover-snippet">Open source on falcontrailsresort.com.</span></span></span>
+Investigators were sufficiently interested in the report to conduct an aerial reconnaissance involving military personnel and police. Local memories of helicopters searching the area have persisted for decades. Yet despite these efforts, the team failed to identify the supposed landing location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: falcontrailsresort.com">[Falcon Trails Resort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">falcontrailsresort.com</span><span class="citation-popover-snippet">Open source on falcontrailsresort.com.</span></span></span>
 
 For supporters of the case, the explanation is straightforward: the Whiteshell wilderness is rugged, heavily wooded and difficult to navigate, making it entirely possible that investigators simply missed the exact spot.
 
-For sceptics, the failed search creates a different problem. If the alleged traces were as distinctive as later descriptions suggested, why were they not located when investigators were closest in time to the event? The inability to find the site during the first official search means there is no independent record of its condition immediately after the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+For sceptics, the failed search creates a different problem. If the alleged traces were as distinctive as later descriptions suggested, why were they not located when investigators were closest in time to the event? The inability to find the site during the first official search means there is no independent record of its condition immediately after the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 That missing baseline affects every later discussion of physical evidence from the location.
 
@@ -293,9 +293,9 @@ That missing baseline affects every later discussion of physical evidence from t
 
 The situation changed more than a month after the incident.
 
-On 26 June 1967, Michalak informed authorities that he and another man, Gerald Hart, had located the site again. By this stage, however, the evidential situation had become considerably more complicated. According to investigation records, Michalak had already returned to the area before leading officials there. He reported collecting items from the location, including soil samples and personal effects. He had previously been instructed not to disturb the site, yet material had already been removed before investigators conducted their later examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+On 26 June 1967, Michalak informed authorities that he and another man, Gerald Hart, had located the site again. By this stage, however, the evidential situation had become considerably more complicated. According to investigation records, Michalak had already returned to the area before leading officials there. He reported collecting items from the location, including soil samples and personal effects. He had previously been instructed not to disturb the site, yet material had already been removed before investigators conducted their later examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
-Only after soil samples supplied by Michalak were reported to be radioactive did authorities intensify their interest and revisit the location with him. Investigators then noted features such as a disturbed area where moss appeared to have been removed and detected limited traces of radioactivity in a rock crevice. However, these observations occurred after the witness had revisited the scene and after samples had already changed hands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+Only after soil samples supplied by Michalak were reported to be radioactive did authorities intensify their interest and revisit the location with him. Investigators then noted features such as a disturbed area where moss appeared to have been removed and detected limited traces of radioactivity in a rock crevice. However, these observations occurred after the witness had revisited the scene and after samples had already changed hands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 From a chain-of-custody perspective, this is the crucial turning point. The site that investigators examined in late June was not necessarily the same untouched scene that existed in late May.
 
@@ -317,13 +317,13 @@ Physical evidence is strongest when investigators can answer three questions:
 
 </div>
 
-The Falcon Lake site struggles on all three counts.(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+The Falcon Lake site struggles on all three counts.(#endnote-1 "Endnote 1")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
-Because the original search failed to locate the area, there is uncertainty about what the scene looked like immediately after the incident. Because Michalak revisited the location before investigators, there is uncertainty about what may have been moved, collected or altered. Because samples were initially provided by the witness rather than recovered directly under controlled conditions, questions remain about contamination and provenance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+Because the original search failed to locate the area, there is uncertainty about what the scene looked like immediately after the incident. Because Michalak revisited the location before investigators, there is uncertainty about what may have been moved, collected or altered. Because samples were initially provided by the witness rather than recovered directly under controlled conditions, questions remain about contamination and provenance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 These concerns do not prove fraud. A genuine witness can unintentionally compromise evidence by revisiting a site, collecting souvenirs or attempting to preserve material before authorities arrive. Nevertheless, once the chain of custody is broken, later laboratory results become harder to interpret.
 
-The problem is especially important for the reported radioactive material. Investigators did find traces of [radiation]({{ 'radiation/' | relative_url }}), but officials and later analysts also considered more ordinary explanations, including contamination from naturally occurring radioactive minerals or commercially available radium-containing substances. Without an unbroken record of how samples were collected and stored, it becomes difficult to determine whether the material truly originated from an extraordinary event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+The problem is especially important for the reported radioactive material. Investigators did find traces of [radiation]({{ 'radiation/' | relative_url }}), but officials and later analysts also considered more ordinary explanations, including contamination from naturally occurring radioactive minerals or commercially available radium-containing substances. Without an unbroken record of how samples were collected and stored, it becomes difficult to determine whether the material truly originated from an extraordinary event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dmc4nYKUBKM" title="Falcon Lake UFO Lecture, November 7, 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dmc4nYKUBKM" target="_blank" rel="noopener noreferrer">Falcon Lake UFO Lecture, November 7, 2019</a></p><p class="youtube-embed-meta">Channel: University of Manitoba Archives &amp; Special Collections</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dmc4nYKUBKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dmc4nYKUBKM">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ The problem is especially important for the reported radioactive material. Inves
 
 The landing site remains one of the strongest and weakest aspects of the Falcon Lake case at the same time.
 
-It is strong because investigators eventually did identify a location associated with the report and recorded physical features that they considered noteworthy. The case therefore extends beyond a simple eyewitness story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+It is strong because investigators eventually did identify a location associated with the report and recorded physical features that they considered noteworthy. The case therefore extends beyond a simple eyewitness story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 It is weak because the evidential chain was interrupted at several critical moments:
 
@@ -343,204 +343,204 @@ It is weak because the evidential chain was interrupted at several critical mome
 * The location was not secured immediately after the incident.
 * The witness returned before investigators completed their examination.
 * Samples were collected outside a controlled forensic process.
-* Later physical findings depended partly on material supplied by the witness himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+* Later physical findings depended partly on material supplied by the witness himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 </div>
 
-For historians of Manitoba's UFO record, these issues do not settle the case either way. Instead, they explain why Falcon Lake remains unresolved. The site produced enough physical traces to keep the incident alive for decades, but not enough securely documented evidence to remove doubts about how those traces entered the record in the first place. The result is a case that remains intriguing precisely because the most important evidence scene was never fully under investigators' control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
+For historians of Manitoba's UFO record, these issues do not settle the case either way. Instead, they explain why Falcon Lake remains unresolved. The site produced enough physical traces to keep the incident alive for decades, but not enough securely documented evidence to remove doubts about how those traces entered the record in the first place. The result is a case that remains intriguing precisely because the most important evidence scene was never fully under investigators' control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-3-dark.svg" | relative_url }}" alt="Landing Site illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the landing site ever secure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the landing site ever secure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidentiary quality, official investigations, and the challenges of assessing physical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidentiary quality, official investigations, and the challenges of assessing physical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines evidence standards, physical-trace reports, and investigative weaknesses central to evaluating cases like Falcon Lake.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards, physical-trace reports, and investigative weaknesses central to evaluating cases like Falcon Lake.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context on how alleged landing sites, witness reports, and physical traces are investigated and questioned.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how alleged landing sites, witness reports, and physical traces are investigated and questioned.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Directly addresses the reliability and interpretation of physical evidence in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the reliability and interpretation of physical evidence in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/eea1f953dde5f1bddac2.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/eea1f953dde5f1bddac2.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="landing-site-was-the-landing-site-ever-secure-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,71 +746,71 @@ For historians of Manitoba's UFO record, these issues do not settle the case eit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unresolved.me  
    Title: the falcon lake incident  
-   Link: <a href="https://unresolved.me/the-falcon-lake-incident" target="_blank" rel="noopener noreferrer nofollow">https://unresolved.me/the-falcon-lake-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Sept 2024 —... aliens-ufos/falcon-lake-incident.htm. Pappas, S. (2021). Canadian UFO collection donated to University of Manitoba. Li...</p></details>
+   Link:<a href="https://unresolved.me/the-falcon-lake-incident" target="_blank" rel="noopener noreferrer nofollow">https://unresolved.me/the-falcon-lake-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Sept 2024 —... aliens-ufos/falcon-lake-incident.htm. Pappas, S. (2021). Canadian UFO collection donated to University of Manitoba. Li...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: falcontrailsresort.com  
-   Link: <a href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow">https://falcontrailsresort.com/close-encounters-of-the-2nd-kind</a>  
+   Link:<a href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow">https://falcontrailsresort.com/close-encounters-of-the-2nd-kind</a>  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) When They Appeared. Falcon Lake 1967The incident at Manitoba&#x27;s Falcon Lake in 1967 has... Those who collect UFO reports and want d...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) When They Appeared. Falcon Lake 1967The incident at Manitoba&#x27;s Falcon Lake in 1967 has... Those who collect UFO reports and want d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) CanadaYears later, a twisted piece of metal was recovered from the alleged Falcon Lake landing site. Tests showed th...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and [Archives](&amp;#123;&amp;#123; &#x27;archives/&#x27; | relative_url &amp;#125;&amp;#125;) CanadaYears later, a twisted piece of metal was recovered from the alleged Falcon Lake landing site. Tests showed th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/21251781" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21251781</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Reactions to Falcon Lake UFO IncidentSkeptics of the Falcon Lake UFO Incident state that Michalak&#x27;s [burns](&amp;#123;&amp;#123; &#x27;burns/&#x27; | relative_url &amp;#125;&amp;#125;) were as a result of a...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/21251781" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21251781</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Reactions to Falcon Lake UFO IncidentSkeptics of the Falcon Lake UFO Incident state that Michalak&#x27;s [burns](&amp;#123;&amp;#123; &#x27;burns/&#x27; | relative_url &amp;#125;&amp;#125;) were as a result of a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most compelling UFO evidence known to manAmateur geologist Stefan Michalak describing his encounter with a UFO, what is today is know...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1majpe7/the_most_compelling_ufo_evidence_known_to_man/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most compelling UFO evidence known to manAmateur geologist Stefan Michalak describing his encounter with a UFO, what is today is know...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: universityaffairs.ca  
-   Link: <a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — The donation includes 20,000 UFO reports filed since 1989, 1...</p></details>
+   Link:<a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — The donation includes 20,000 UFO reports filed since 1989, 1...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/1854113645162604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/1854113645162604/</a>  
+   Link:<a href="https://www.facebook.com/groups/1572893699951268/posts/1854113645162604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/1854113645162604/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KEvILlvq41M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KEvILlvq41M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 2, Episode 6: The Falcon Lake IncidentLost Civilizations Beneath Antarctica? | Ancient Aliens | History. HISTORY &amp;middot; 7.8M vie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KEvILlvq41M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KEvILlvq41M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Season 2, Episode 6: The Falcon Lake IncidentLost Civilizations Beneath Antarctica? | Ancient Aliens | History. HISTORY &amp;middot; 7.8M vie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
    Title: dark poutine podcast recap falcon lake ufo  
-   Link: <a href="https://globalnews.ca/news/5117305/dark-poutine-podcast-recap-falcon-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/5117305/dark-poutine-podcast-recap-falcon-lake-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsDark Poutine podcast recap: The Falcon Lake UFO incident1 Apr 2019 — Police found traces of radiation in the centre of the lan...</p></details>
+   Link:<a href="https://globalnews.ca/news/5117305/dark-poutine-podcast-recap-falcon-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/5117305/dark-poutine-podcast-recap-falcon-lake-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsDark Poutine podcast recap: The Falcon Lake UFO incident1 Apr 2019 — Police found traces of radiation in the centre of the lan...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: syfy.com  
    Title: ufo reports donated to canadian university  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of official government UFO reports just landed...18 Dec 2019 — &quot;The Falcon Lake incident is one of the most remarkable UFO enc...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of official government UFO reports just landed...18 Dec 2019 — &quot;The Falcon Lake incident is one of the most remarkable UFO enc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: themanitoban.com  
    Title: Extra-terrestrial collection touches down  
-   Link: <a href="https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/" target="_blank" rel="noopener noreferrer nofollow">https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files — consisting of both the 1967 Falcon Lake encounter and a large collection of 20,000 separate Canadian UFO reports — have been...</p></details>
+   Link:<a href="https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/" target="_blank" rel="noopener noreferrer nofollow">https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files — consisting of both the 1967 Falcon Lake encounter and a large collection of 20,000 separate Canadian UFO reports — have been...</p></details>

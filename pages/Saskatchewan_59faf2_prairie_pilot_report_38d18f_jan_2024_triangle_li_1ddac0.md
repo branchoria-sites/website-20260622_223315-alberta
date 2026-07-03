@@ -256,27 +256,27 @@ image: /assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_t
 
 ## Introduction
 
-In the early hours of 19 January 2024, commercial airline crews flying over southern [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) reported an unusual display of lights that became one of the most discussed recent aviation-related UFO cases in Canada. According to Canada's Civil Aviation Daily Occurrence Reporting System (CADORS), crews from both a Flair Airlines Boeing 737 MAX 8 and an Air Canada Airbus A320 observed multiple bright lights that at times appeared to form a triangle. Canadian air-defence authorities were notified, yet no public explanation was released through the reporting system. The incident stands out because it involved trained flight crews, multiple aircraft, and an official aviation reporting trail rather than a single eyewitness account. At the same time, the available evidence remains limited, leaving the case unresolved rather than confirmed as anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+In the early hours of 19 January 2024, commercial airline crews flying over southern [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) reported an unusual display of lights that became one of the most discussed recent aviation-related UFO cases in Canada. According to Canada's Civil Aviation Daily Occurrence Reporting System (CADORS), crews from both a Flair Airlines Boeing 737 MAX 8 and an Air Canada Airbus A320 observed multiple bright lights that at times appeared to form a triangle. Canadian air-defence authorities were notified, yet no public explanation was released through the reporting system. The incident stands out because it involved trained flight crews, multiple aircraft, and an official aviation reporting trail rather than a single eyewitness account. At the same time, the available evidence remains limited, leaving the case unresolved rather than confirmed as anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-1-dark.svg" | relative_url }}" alt="Triangle Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Did Airline Crews See in 2024?
 
-The incident occurred at approximately 1040 UTC (around 4:40 a.m. local time) on 19 January 2024 while aircraft were operating over southern Saskatchewan. The CADORS entry [records]({{ 'records-f9e6ac/' | relative_url }}) that a Flair Airlines flight crew reported seeing several lights that sometimes arranged themselves into a triangular pattern. An Air Canada crew in the same general region subsequently reported observing the same lights. Canadian Air Defence was informed of the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+The incident occurred at approximately 1040 UTC (around 4:40 a.m. local time) on 19 January 2024 while aircraft were operating over southern Saskatchewan. The CADORS entry [records]({{ 'records-f9e6ac/' | relative_url }}) that a Flair Airlines flight crew reported seeing several lights that sometimes arranged themselves into a triangular pattern. An Air Canada crew in the same general region subsequently reported observing the same lights. Canadian Air Defence was informed of the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
-Public attention increased after air traffic control recordings became widely reported. The audio suggested that more than one aircraft crew was discussing unusual lights visible above the Prairies. Pilots described bright objects, changing formations, and patterns that did not immediately match anything they recognised. In some accounts, the lights appeared stationary before shifting position relative to one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
+Public attention increased after air traffic control recordings became widely reported. The audio suggested that more than one aircraft crew was discussing unusual lights visible above the Prairies. Pilots described bright objects, changing formations, and patterns that did not immediately match anything they recognised. In some accounts, the lights appeared stationary before shifting position relative to one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
 
-What makes the Saskatchewan case noteworthy within Prairie aviation reports is not a claim that the objects were unknown craft, but the fact that separate crews reported apparently similar observations during the same time window. Multiple independent observations generally attract greater attention from investigators than a lone report because they reduce the chance of a simple individual misperception. Even so, multiple witnesses do not automatically establish what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+What makes the Saskatchewan case noteworthy within Prairie aviation reports is not a claim that the objects were unknown craft, but the fact that separate crews reported apparently similar observations during the same time window. Multiple independent observations generally attract greater attention from investigators than a lone report because they reduce the chance of a simple individual misperception. Even so, multiple witnesses do not automatically establish what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-3-dark.svg" | relative_url }}" alt="Triangle Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Flair and Air Canada Reports
 
-The publicly available CADORS record identifies the two aircraft types involved: a Flair Airlines Boeing 737 MAX 8 and an Air Canada Airbus A320. The reported location was over southern Saskatchewan, within the Prairie and Northern Region covered by Transport Canada reporting systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+The publicly available CADORS record identifies the two aircraft types involved: a Flair Airlines Boeing 737 MAX 8 and an Air Canada Airbus A320. The reported location was over southern Saskatchewan, within the Prairie and Northern Region covered by Transport Canada reporting systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
-The wording preserved in the occurrence report is significant. Rather than describing a solid triangular object, it refers to "multiple lights" that were "sometimes in a triangle formation." That distinction matters. Aviation observers often report light configurations rather than clearly defined physical objects, particularly during night operations where distance and scale are difficult to judge. The CADORS wording therefore documents what the crews observed visually without claiming that a triangular craft was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+The wording preserved in the occurrence report is significant. Rather than describing a solid triangular object, it refers to "multiple lights" that were "sometimes in a triangle formation." That distinction matters. Aviation observers often report light configurations rather than clearly defined physical objects, particularly during night operations where distance and scale are difficult to judge. The CADORS wording therefore documents what the crews observed visually without claiming that a triangular craft was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
-Reports circulating after the event suggested that several flights may have observed unusual lights during the broader period covered by the air traffic control recordings. However, the publicly accessible official documentation remains relatively brief and does not provide radar data, photographs, cockpit video, altitude estimates for the lights, or a final determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">at least four flights reported multiple lights sometimes in a triangle formation</span><span class="citation-popover-snippet">At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</span></span></span>
+Reports circulating after the event suggested that several flights may have observed unusual lights during the broader period covered by the air traffic control recordings. However, the publicly accessible official documentation remains relatively brief and does not provide radar data, photographs, cockpit video, altitude estimates for the lights, or a final determination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">at least four flights reported multiple lights sometimes in a triangle formation</span><span class="citation-popover-snippet">At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/psGxOznGuiM" title="Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer">Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=psGxOznGuiM">Open on YouTube</a></p></div></div></div>
@@ -291,7 +291,7 @@ CADORS confirms several important points:
 * Commercial flight crews reported unusual lights.
 * More than one aircraft crew was involved.
 * Canadian air-defence authorities were notified.
-* The observations occurred over southern Saskatchewan on 19 January 2024. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+* The observations occurred over southern Saskatchewan on 19 January 2024.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
 However, the public record leaves major questions unanswered:
 
@@ -299,9 +299,9 @@ However, the public record leaves major questions unanswered:
 * Whether military or civilian sensors tracked anything unusual.
 * Whether satellite activity was reviewed.
 * Whether atmospheric or astronomical [explanations]({{ 'explanations-051262/' | relative_url }}) were ruled out.
-* Whether Canadian air-defence authorities reached an internal conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">at least four flights reported multiple lights sometimes in a triangle formation</span><span class="citation-popover-snippet">At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</span></span></span>
+* Whether Canadian air-defence authorities reached an internal conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">at least four flights reported multiple lights sometimes in a triangle formation</span><span class="citation-popover-snippet">At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</span></span></span>
 
-This gap is not unusual. Transport Canada's CADORS system exists primarily as a safety-reporting mechanism. Occurrence entries are preliminary records designed to alert aviation stakeholders and preserve information, not necessarily to provide a complete public investigation. Transport Canada explicitly notes that [CADORS records]({{ 'cadors-records/' | relative_url }}) are preliminary and may not contain final analytical conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+This gap is not unusual. Transport Canada's CADORS system exists primarily as a safety-reporting mechanism. Occurrence entries are preliminary records designed to alert aviation stakeholders and preserve information, not necessarily to provide a complete public investigation. Transport Canada explicitly notes that [CADORS records]({{ 'cadors-records/' | relative_url }}) are preliminary and may not contain final analytical conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-2-dark.svg" | relative_url }}" alt="Triangle Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,13 +309,13 @@ This gap is not unusual. Transport Canada's CADORS system exists primarily as a 
 
 Several conventional explanations have been discussed since the reports emerged, but none has been publicly confirmed.
 
-One possibility is that the crews observed satellites. Modern satellite constellations can create unusual visual effects, particularly before dawn when spacecraft remain illuminated by sunlight while observers on the ground or in aircraft are still in darkness. Satellite groupings can sometimes appear to change shape because of viewing angle and aircraft motion. However, no publicly released reconstruction has demonstrated that a specific satellite arrangement matched the observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
+One possibility is that the crews observed satellites. Modern satellite constellations can create unusual visual effects, particularly before dawn when spacecraft remain illuminated by sunlight while observers on the ground or in aircraft are still in darkness. Satellite groupings can sometimes appear to change shape because of viewing angle and aircraft motion. However, no publicly released reconstruction has demonstrated that a specific satellite arrangement matched the observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
 
-Another possibility involves military or civilian aircraft operating at great distance. At night, aircraft lights can appear misleadingly bright or stationary, and perspective effects can create apparent formation changes. Yet the pilots' requests and subsequent discussions suggest that the lights were unusual enough to prompt inquiries about military activity in the area. Public reporting has not produced evidence that a known military exercise accounted for the observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
+Another possibility involves military or civilian aircraft operating at great distance. At night, aircraft lights can appear misleadingly bright or stationary, and perspective effects can create apparent formation changes. Yet the pilots' requests and subsequent discussions suggest that the lights were unusual enough to prompt inquiries about military activity in the area. Public reporting has not produced evidence that a known military exercise accounted for the observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">The strangeness started when a pilot...Read more...</span></span></span>
 
-Atmospheric phenomena are also relevant. Reflections, ice crystals, [high-altitude light]({{ 'high-lights/' | relative_url }}) sources, and unusual viewing conditions can alter the apparent position and motion of lights. Southern Saskatchewan's winter skies can produce complex optical effects, although no official statement has linked the January 2024 reports to a specific atmospheric event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+Atmospheric phenomena are also relevant. Reflections, ice crystals, [high-altitude light]({{ 'high-lights/' | relative_url }}) sources, and unusual viewing conditions can alter the apparent position and motion of lights. Southern Saskatchewan's winter skies can produce complex optical effects, although no official statement has linked the January 2024 reports to a specific atmospheric event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
-The most important point is that the absence of a public explanation is not the same as evidence of an extraordinary one. The available documentation establishes that trained airline crews reported unusual lights and that the event entered official aviation channels. It does not establish what the lights were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+The most important point is that the absence of a public explanation is not the same as evidence of an extraordinary one. The available documentation establishes that trained airline crews reported unusual lights and that the event entered official aviation channels. It does not establish what the lights were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWistYd7Vng" title="The truth is out there: How Canada tracks UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer">The truth is out there: How Canada tracks UFOs</a></p><p class="youtube-embed-meta">Channel: Toronto Star</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWistYd7Vng">Open on YouTube</a></p></div></div></div>
@@ -324,201 +324,201 @@ The most important point is that the absence of a public explanation is not the 
 
 Saskatchewan's UFO history contains many isolated reports from ground observers, but relatively few recent cases involving multiple commercial flight crews and an official aviation occurrence record. The January 2024 triangle-light reports therefore occupy a distinctive place within the province's modern UFO record.
 
-The case illustrates a recurring feature of aviation-related [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) across the Canadian Prairies: strong witnesses, credible reporting channels, and incomplete public follow-up. The result is a category of incident that is neither convincingly explained nor supported by enough evidence to justify dramatic conclusions. For researchers and curious readers alike, the January 2024 reports remain an unresolved aviation mystery rather than a solved case or a proven anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
+The case illustrates a recurring feature of aviation-related [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) across the Canadian Prairies: strong witnesses, credible reporting channels, and incomplete public follow-up. The result is a category of incident that is neither convincingly explained nor supported by enough evidence to justify dramatic conclusions. For researchers and curious readers alike, the January 2024 reports remain an unresolved aviation mystery rather than a solved case or a proven anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoverweyburn.com">[discoverweyburn.com+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoverweyburn.com</span><span class="citation-popover-title">pilots report bizarre lights when flying over southeast saskatchewan</span><span class="citation-popover-snippet">Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BPBzvNkDOTk" title="Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer">Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BPBzvNkDOTk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Airline Crews See in 2024?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Airline Crews See in 2024?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on reports from trained observers including airline and military pilots, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on reports from trained observers including airline and military pilots, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern unexplained aerial phenomena and official reporting, closely aligning with discussion of unresolved aviation sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern unexplained aerial phenomena and official reporting, closely aligning with discussion of unresolved aviation sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating witness reports and unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating witness reports and unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Connects aviation, defense reporting, and unexplained aerospace claims that overlap with pilot-sighting interests.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects aviation, defense reporting, and unexplained aerospace claims that overlap with pilot-sighting interests.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="triangle-lights-what-did-airline-crews-see-in-2024-saskatchewan-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,85 +724,85 @@ The case illustrates a recurring feature of aviation-related [sightings]({{ 'sig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: discoverweyburn.com  
    Title: pilots report bizarre lights when flying over southeast saskatchewan  
-   Link: <a href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</p></details>
+   Link:<a href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots who we...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: at least four flights reported multiple lights sometimes in a triangle formation  
-   Link: <a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</p></details>
+   Link:<a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At least four flights reported &#x27;multiple lights sometimes in a...On January 19th, 2024, at 1040 Z, a Flair Airlines Boeing 737 a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.iheart.com  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The strangeness started when a pilot...Read more...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strangeness started when a pilot...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
    Title: It is also used to capture information  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: theres a safety system that should have prevented the air canada ac8646 crash fr  
-   Link: <a href="https://www.facebook.com/MeteorologistEricBurris/videos/theres-a-safety-system-that-should-have-prevented-the-air-canada-ac8646-crash-fr/943601231364952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistEricBurris/videos/theres-a-safety-system-that-should-have-prevented-the-air-canada-ac8646-crash-fr/943601231364952/</a>  
+   Link:<a href="https://www.facebook.com/MeteorologistEricBurris/videos/theres-a-safety-system-that-should-have-prevented-the-air-canada-ac8646-crash-fr/943601231364952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistEricBurris/videos/theres-a-safety-system-that-should-have-prevented-the-air-canada-ac8646-crash-fr/943601231364952/</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: otc-cta.gc.ca  
-   Link: <a href="https://otc-cta.gc.ca/eng/enforcement-news" target="_blank" rel="noopener noreferrer nofollow">https://otc-cta.gc.ca/eng/enforcement-news</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement newsThe Canadian Transportation Agency (CTA) has issued administrative monetary penalties totalling $66,000 against Flair Air...</p></details>
+   Link:<a href="https://otc-cta.gc.ca/eng/enforcement-news" target="_blank" rel="noopener noreferrer nofollow">https://otc-cta.gc.ca/eng/enforcement-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement newsThe Canadian Transportation Agency (CTA) has issued administrative monetary penalties totalling $66,000 against Flair Air...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: laws-lois.justice.gc.ca  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Regulations (SOR /96-433)Canadian Aviation Regulations. Requirement for Notification. Marking and Lighting of Obstacles to Air...</p></details>
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Regulations (SOR /96-433)Canadian Aviation Regulations. Requirement for Notification. Marking and Lighting of Obstacles to Air...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cjme.com  
    Title: northern lights could put on a show in saskatchewan skies this week  
-   Link: <a href="https://www.cjme.com/2024/07/30/northern-lights-could-put-on-a-show-in-saskatchewan-skies-this-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjme.com/2024/07/30/northern-lights-could-put-on-a-show-in-saskatchewan-skies-this-week/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights could put on a show in Saskatchewan skies...30 Jul 2024 — “We&#x27;re expecting to see more activity on the sun, more solar f...</p></details>
+   Link:<a href="https://www.cjme.com/2024/07/30/northern-lights-could-put-on-a-show-in-saskatchewan-skies-this-week/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjme.com/2024/07/30/northern-lights-could-put-on-a-show-in-saskatchewan-skies-this-week/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights could put on a show in Saskatchewan skies...30 Jul 2024 — “We&#x27;re expecting to see more activity on the sun, more solar f...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/1ag0rbg/does_anyone_have_more_info_on_what_pilots_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1ag0rbg/does_anyone_have_more_info_on_what_pilots_saw/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>high above the Canadian Prairies one morning earlier this month, according...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/1ag0rbg/does_anyone_have_more_info_on_what_pilots_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1ag0rbg/does_anyone_have_more_info_on_what_pilots_saw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>high above the Canadian Prairies one morning earlier this month, according...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: x.com  
-   Link: <a href="https://x.com/dsotis/status/1750185710919807405" target="_blank" rel="noopener noreferrer nofollow">https://x.com/dsotis/status/1750185710919807405</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights sometimes in a TRIANGLE FORMATION&quot; above the...Read more...</p></details>
+   Link:<a href="https://x.com/dsotis/status/1750185710919807405" target="_blank" rel="noopener noreferrer nofollow">https://x.com/dsotis/status/1750185710919807405</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights sometimes in a TRIANGLE FORMATION&quot; above the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sVqGbIIqR1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sVqGbIIqR1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;January 19, 2024&quot; &quot;Saskatchewan&quot; pilots triangle lights Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on J...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sVqGbIIqR1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sVqGbIIqR1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;January 19, 2024&quot; &quot;Saskatchewan&quot; pilots triangle lights Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on J...</p></details>
    Published: January 19, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLm9TdwJgJ2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLm9TdwJgJ2/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at Saskatchewan River Crossing, Alberta, Canada.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLm9TdwJgJ2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLm9TdwJgJ2/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at Saskatchewan River Crossing, Alberta, Canada.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Sky Canada](&amp;#123;&amp;#123; &#x27;sky-canada/&#x27; | relative_url &amp;#125;&amp;#125;) Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Sky Canada](&amp;#123;&amp;#123; &#x27;sky-canada/&#x27; | relative_url &amp;#125;&amp;#125;) Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standing Committee on Science and Research (Feb. 27, 2024)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Standing Committee on Science and Research (Feb. 27, 2024)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The truth is out there: How Canada tracks UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWistYd7Vng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWistYd7Vng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research...</p></details>

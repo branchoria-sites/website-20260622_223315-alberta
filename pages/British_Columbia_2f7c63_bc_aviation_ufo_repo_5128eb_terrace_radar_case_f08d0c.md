@@ -256,17 +256,17 @@ image: /assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrac
 
 ## Introduction
 
-The Terrace radar case of 18 July 2024 is one of the more interesting recent aviation-linked UFO reports in [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) because it originated inside the aviation reporting system rather than through social media, civilian witnesses or later folklore. According to a Transport Canada CADORS occurrence record, an unidentified radar target was observed near Terrace while an aircraft was on approach. The target reportedly did not respond to radio calls and later disappeared from radar. That is enough to make the event noteworthy from an aviation-safety perspective, but not enough to establish what the object was. The case illustrates an important lesson in British Columbia’s UFO history: an unresolved report can be significant without proving anything exotic. The real story lies in what the records show, and what they do not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
+The Terrace radar case of 18 July 2024 is one of the more interesting recent aviation-linked UFO reports in [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) because it originated inside the aviation reporting system rather than through social media, civilian witnesses or later folklore. According to a Transport Canada CADORS occurrence record, an unidentified radar target was observed near Terrace while an aircraft was on approach. The target reportedly did not respond to radio calls and later disappeared from radar. That is enough to make the event noteworthy from an aviation-safety perspective, but not enough to establish what the object was. The case illustrates an important lesson in British Columbia’s UFO history: an unresolved report can be significant without proving anything exotic. The real story lies in what the records show, and what they do not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-1-dark.svg" | relative_url }}" alt="Terrace radar illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened near Terrace on 18 July 2024
 
-The publicly circulated description of CADORS occurrence 2024P2092 states that controllers observed an “unidentified aircraft” on radar near Terrace, British Columbia, on 18 July 2024. The target was reportedly detected while another aircraft was approaching the airport. Radio calls were made, but no response was received. The target then vanished from radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
+The publicly circulated description of CADORS occurrence 2024P2092 states that controllers observed an “unidentified aircraft” on radar near Terrace, British Columbia, on 18 July 2024. The target was reportedly detected while another aircraft was approaching the airport. Radio calls were made, but no response was received. The target then vanished from radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
 
-Terrace is not an especially busy airport by Canadian standards, but it occupies an important position in north-western British Columbia. The airport serves scheduled traffic and operates in terrain where weather, mountains and limited surveillance coverage can complicate aviation operations. NAV CANADA documentation shows that the airport supports both scheduled airline services and local aviation activity within a complex regional airspace environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[NAV CANADA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">NAV CANADATerms of Reference (TOR</span><span class="citation-popover-snippet">Terrace CZ Cut OutOctober 8, 2020 — The purpose of this Terms of Reference (TOR) document is to initiate an aeronautical study to review...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+Terrace is not an especially busy airport by Canadian standards, but it occupies an important position in north-western British Columbia. The airport serves scheduled traffic and operates in terrain where weather, mountains and limited surveillance coverage can complicate aviation operations. NAV CANADA documentation shows that the airport supports both scheduled airline services and local aviation activity within a complex regional airspace environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[NAV CANADA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">NAV CANADATerms of Reference (TOR</span><span class="citation-popover-snippet">Terrace CZ Cut OutOctober 8, 2020 — The purpose of this Terms of Reference (TOR) document is to initiate an aeronautical study to review...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
 
-What makes the July 2024 occurrence stand out is not a dramatic witness narrative but the fact that a radar return became part of an official aviation occurrence record. Many UFO stories rely on recollections long after the event. Here, the report entered a formal safety-reporting system because it was considered relevant to air traffic operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+What makes the July 2024 occurrence stand out is not a dramatic witness narrative but the fact that a radar return became part of an official aviation occurrence record. Many UFO stories rely on recollections long after the event. Here, the report entered a formal safety-reporting system because it was considered relevant to air traffic operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1hObi8hcmdM" title="Oregon UAP/UFO mystery - Radar analysis and ATC - December 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1hObi8hcmdM" target="_blank" rel="noopener noreferrer">Oregon UAP/UFO mystery - Radar analysis and ATC - December 2024</a></p><p class="youtube-embed-meta">Channel: Tim Vasquez&#x27;s Forecast Lab &middot; Views: 432.4K &middot; Uploaded: December 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1hObi8hcmdM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1hObi8hcmdM">Open on YouTube</a></p></div></div></div>
@@ -275,9 +275,9 @@ What makes the July 2024 occurrence stand out is not a dramatic witness narrativ
 
 In [aviation cases]({{ 'aviation-cases/' | relative_url }}), radar and communications evidence often carry more weight than descriptions of unusual lights. A pilot may misjudge distance, speed or size, but a radar contact suggests that some type of detectable target or signal was present within the surveillance system.
 
-That does not mean radar automatically confirms a physical unknown object. Modern aviation surveillance combines several technologies, including primary radar reflections, transponder-based systems and data processing networks. An unexplained target can arise from a variety of causes, including an aircraft with incomplete identification data, a temporary surveillance anomaly, signal processing issues or a genuine but unidentified aircraft. The CADORS description released publicly does not provide enough technical information to determine which possibility applies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+That does not mean radar automatically confirms a physical unknown object. Modern aviation surveillance combines several technologies, including primary radar reflections, transponder-based systems and data processing networks. An unexplained target can arise from a variety of causes, including an aircraft with incomplete identification data, a temporary surveillance anomaly, signal processing issues or a genuine but unidentified aircraft. The CADORS description released publicly does not provide enough technical information to determine which possibility applies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
-The reported lack of response to radio calls is also noteworthy, but only within limits. An unidentified target that does not answer air traffic communications may sound mysterious, yet there are many mundane reasons why contact might fail. The target may not have been monitoring the frequency, may not have had functioning communications equipment, may have been misidentified as an aircraft when it was something else, or may not have represented an actual aircraft at all. The public record does not contain the radio transcripts needed to evaluate those possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
+The reported lack of response to radio calls is also noteworthy, but only within limits. An unidentified target that does not answer air traffic communications may sound mysterious, yet there are many mundane reasons why contact might fail. The target may not have been monitoring the frequency, may not have had functioning communications equipment, may have been misidentified as an aircraft when it was something else, or may not have represented an actual aircraft at all. The public record does not contain the radio transcripts needed to evaluate those possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">This Mystery Object Wasn&#x27;t Showing Up on Flight Radar</span><span class="citation-popover-snippet">aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</span></span></span>
 
 For readers interested in British Columbia UFO history, the Terrace event is valuable because it sits at the intersection of aviation safety and uncertainty. It involves radar, air traffic procedures and an official report, yet still resists firm interpretation.
 
@@ -297,11 +297,11 @@ The public record does not establish:
 * Its precise altitude, speed or trajectory.
 * Whether additional sensors confirmed the contact.
 * Whether investigators later reached a private explanation not reflected in public summaries.
-* Whether the target represented an aircraft, a surveillance anomaly or another phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+* Whether the target represented an aircraft, a surveillance anomaly or another phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 </div>
 
-These gaps matter because aviation occurrence databases are not designed to function as UFO investigation files. Transport Canada describes CADORS as a rapid reporting and safety-information system. The records are preliminary and may be updated as more information becomes available. Their purpose is to identify hazards and support safety analysis, not to provide exhaustive public investigations of unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+These gaps matter because aviation occurrence databases are not designed to function as UFO investigation files. Transport Canada describes CADORS as a rapid reporting and safety-information system. The records are preliminary and may be updated as more information becomes available. Their purpose is to identify hazards and support safety analysis, not to provide exhaustive public investigations of unusual aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 As a result, readers sometimes expect more certainty from a CADORS entry than the system is intended to provide. A report can remain unresolved simply because the available data are insufficient for a definitive conclusion.
 
@@ -315,204 +315,204 @@ As a result, readers sometimes expect more certainty from a CADORS entry than th
 
 The Terrace incident matters less because of what it proves and more because of what it demonstrates about modern UFO reporting in Canada.
 
-Earlier generations of British Columbia UFO cases often depended on newspaper stories, local investigators or witness testimony. The Terrace report emerged from operational aviation channels. It shows how an unusual event can enter the official record without automatically receiving a dramatic explanation or a dramatic dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+Earlier generations of British Columbia UFO cases often depended on newspaper stories, local investigators or witness testimony. The Terrace report emerged from operational aviation channels. It shows how an unusual event can enter the official record without automatically receiving a dramatic explanation or a dramatic dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 The case also highlights a recurring pattern in aviation-linked UFO reports. An event can be credible enough to concern air traffic personnel and still lack the data required for identification. In that sense, Terrace belongs in the same category as many historically important pilot and radar cases: not because it confirms an extraordinary object, but because it exposes the boundary between what observers detected and what investigators can actually prove.
 
-For students of British Columbia's aviation-related UFO history, that boundary is often the most important part of the story. The Terrace radar target remains unresolved in the public record, but unresolved is not the same as unexplained, and unexplained is not the same as extraordinary. The lasting significance of the case lies in showing how much uncertainty can remain even when a report originates inside a formal aviation system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+For students of British Columbia's aviation-related UFO history, that boundary is often the most important part of the story. The Terrace radar target remains unresolved in the public record, but unresolved is not the same as unexplained, and unexplained is not the same as extraordinary. The lasting significance of the case lies in showing how much uncertainty can remain even when a report originates inside a formal aviation system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-3-dark.svg" | relative_url }}" alt="Terrace radar illustration 3" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the Terrace radar case really show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the Terrace radar case really show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on radar, pilot testimony, military reporting, and unresolved aerial incidents similar to the Terrace radar event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on radar, pilot testimony, military reporting, and unresolved aerial incidents similar to the Terrace radar event.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores modern unidentified aerial phenomena, official records, and evidence assessment relevant to recent radar cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern unidentified aerial phenomena, official records, and evidence assessment relevant to recent radar cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unexplained sightings without assuming extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unexplained sightings without assuming extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Helps readers understand how advanced aerospace projects can influence interpretations of unusual radar and aircraft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how advanced aerospace projects can influence interpretations of unusual radar and aircraft reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="terrace-radar-what-did-the-terrace-radar-case-really-show-british-columbia-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For students of British Columbia's aviation-related UFO history, that boundary i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For students of British Columbia's aviation-related UFO history, that boundary i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For students of British Columbia's aviation-related UFO history, that boundary i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For students of British Columbia's aviation-related UFO history, that boundary i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For students of British Columbia's aviation-related UFO history, that boundary i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,106 +718,106 @@ For students of British Columbia's aviation-related UFO history, that boundary i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: This Mystery Object Wasn't Showing Up on Flight Radar  
-   Link: <a href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</p></details>
+   Link:<a href="https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fan1065fm/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1579865487476038/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from radar...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: this mystery object wasnt showing up on flight radar  
-   Link: <a href="https://www.facebook.com/Kool1017/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1590875293039346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kool1017/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1590875293039346/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2024... unidentified aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from r...</p></details>
+   Link:<a href="https://www.facebook.com/Kool1017/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1590875293039346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Kool1017/posts/this-mystery-object-wasnt-showing-up-on-flight-radar/1590875293039346/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 2024... unidentified aircraft” seen on radar on July 18 over Terrace, BC. It didn&#x27;t respond to radio calls and then vanished from r...</p></details>
    Published: July 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/757793155867440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/757793155867440/</a>  
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/757793155867440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/757793155867440/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: navcanada.ca  
    Title: NAV CANADATerms of Reference (TOR)  
-   Link: <a href="https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrace CZ Cut OutOctober 8, 2020 — The purpose of this Terms of Reference (TOR) document is to initiate an aeronautical study to review...</p></details>
+   Link:<a href="https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/scr/_localized-assets/los-studies/2020-los-studies/tor-2020-nw-regional-airport-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrace CZ Cut OutOctober 8, 2020 — The purpose of this Terms of Reference (TOR) document is to initiate an aeronautical study to review...</p></details>
    Published: October 8, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tc.canada.ca  
    Title: It is also used to capture information  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1177789563867795/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1177789563867795/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object spotted on radarJust saw this fly over! I heard it for awhile before I saw it, I went outside because I&#x27;ve not...</p></details>
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/1177789563867795/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1177789563867795/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object spotted on radarJust saw this fly over! I heard it for awhile before I saw it, I went outside because I&#x27;ve not...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spotlightstoriesofficial/posts/this-was-never-on-the-radar-for-them/734025975428266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spotlightstoriesofficial/posts/this-was-never-on-the-radar-for-them/734025975428266/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>over Terrace, BC. It didn&#x27;t respond to radio calls and then...</p></details>
+   Link:<a href="https://www.facebook.com/spotlightstoriesofficial/posts/this-was-never-on-the-radar-for-them/734025975428266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spotlightstoriesofficial/posts/this-was-never-on-the-radar-for-them/734025975428266/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>over Terrace, BC. It didn&#x27;t respond to radio calls and then...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/405582" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/405582</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/405582" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/405582</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rcmp.ca  
    Title: norad intercepts and lands plane safely after air restriction violation  
-   Link: <a href="https://rcmp.ca/en/g7/news/2025/06/norad-intercepts-and-lands-plane-safely-after-air-restriction-violation" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/g7/news/2025/06/norad-intercepts-and-lands-plane-safely-after-air-restriction-violation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD intercepts and lands plane safely after air restriction...15 Jun 2025 — At approximately 11:05 am today, a non-compliant Canadian...</p></details>
+   Link:<a href="https://rcmp.ca/en/g7/news/2025/06/norad-intercepts-and-lands-plane-safely-after-air-restriction-violation" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/g7/news/2025/06/norad-intercepts-and-lands-plane-safely-after-air-restriction-violation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD intercepts and lands plane safely after air restriction...15 Jun 2025 — At approximately 11:05 am today, a non-compliant Canadian...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.fr24.com  
    Title: 3000117426 why is some aircraft information limited or not visible  
-   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is some aircraft information limited or not visible?10 Apr 2026 — Information about a small number of flights may be limited or blocked a...</p></details>
+   Link:<a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is some aircraft information limited or not visible?10 Apr 2026 — Information about a small number of flights may be limited or blocked a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: terracestandard.com  
    Title: No injuries after small airplane makes hard landing at B.C  
-   Link: <a href="https://terracestandard.com/2026/03/21/no-injuries-after-small-airplane-makes-hard-landing-at-b-c-airport/" target="_blank" rel="noopener noreferrer nofollow">https://terracestandard.com/2026/03/21/no-injuries-after-small-airplane-makes-hard-landing-at-b-c-airport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Mar 2026 — An airplane made an emergency landing at the Vernon Airport Saturday afternoon, coming to a rest on the landing strip in a...</p></details>
+   Link:<a href="https://terracestandard.com/2026/03/21/no-injuries-after-small-airplane-makes-hard-landing-at-b-c-airport/" target="_blank" rel="noopener noreferrer nofollow">https://terracestandard.com/2026/03/21/no-injuries-after-small-airplane-makes-hard-landing-at-b-c-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Mar 2026 — An airplane made an emergency landing at the Vernon Airport Saturday afternoon, coming to a rest on the landing strip in a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skyscanner.net  
    Title: Terrace Airport (YXT) Arrivals and Departures  
-   Link: <a href="https://www.skyscanner.net/flights/arrivals-departures/yxt/terrace-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/yxt/terrace-arrivals-departures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FlightsCheck the status of your domestic or international Terrace (YXT) flight with the help of our live arrivals and departures board.Re...</p></details>
+   Link:<a href="https://www.skyscanner.net/flights/arrivals-departures/yxt/terrace-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/flights/arrivals-departures/yxt/terrace-arrivals-departures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FlightsCheck the status of your domestic or international Terrace (YXT) flight with the help of our live arrivals and departures board.Re...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ATC/comments/noxllb/have_you_ever_had_false_targets_show_on_radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ATC/comments/noxllb/have_you_ever_had_false_targets_show_on_radar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Im FSS) I dont use it at all. Since the rise of UFO/UAP discussion...</p></details>
+   Link:<a href="https://www.reddit.com/r/ATC/comments/noxllb/have_you_ever_had_false_targets_show_on_radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ATC/comments/noxllb/have_you_ever_had_false_targets_show_on_radar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Im FSS) I dont use it at all. Since the rise of UFO/UAP discussion...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tsb.gc.ca  
    Title: ASISdb MDOTW VW OCCURRENCE PUBLIC.csv  
-   Link: <a href="https://www.tsb.gc.ca/sites/default/files/stats/ASISdb_MDOTW_VW_OCCURRENCE_PUBLIC.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/sites/default/files/stats/ASISdb_MDOTW_VW_OCCURRENCE_PUBLIC.csv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSV file... Aircraft of Canada DHC-8-400, operated by WestJet Encore, was conducting flight WEN3604 from Kelowna International Airport (C...</p></details>
+   Link:<a href="https://www.tsb.gc.ca/sites/default/files/stats/ASISdb_MDOTW_VW_OCCURRENCE_PUBLIC.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/sites/default/files/stats/ASISdb_MDOTW_VW_OCCURRENCE_PUBLIC.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSV file... Aircraft of Canada DHC-8-400, operated by WestJet Encore, was conducting flight WEN3604 from Kelowna International Airport (C...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Pilots report 'triangles' over Canadian prairies on Jan  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>k off from ADS in Dallas-fort worth area.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/1775k0g/unidentified_aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>k off from ADS in Dallas-fort worth area.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: forum.flightradar24.com  
    Title: 6999 multiple unknown aircraft  
-   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/6999-multiple-unknown-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/6999-multiple-unknown-aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Aircraft?A whole bunch of aircraft images popped up all showing &#x27;Unknown&#x27; as the call sign. They would show up then disappear and...</p></details>
+   Link:<a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/6999-multiple-unknown-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/6999-multiple-unknown-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Aircraft?A whole bunch of aircraft images popped up all showing &#x27;Unknown&#x27; as the call sign. They would show up then disappear and...</p></details>

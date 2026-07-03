@@ -256,17 +256,17 @@ image: /assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_av
 
 ## Introduction
 
-Readers looking through [Northwest Territories]({{ 'northwest-territories/' | relative_url }}) UFO history often expect important reports to appear in RCMP files, military records or the federal UFO archive. Yet many modern northern sightings never enter those channels at all. When a pilot, air traffic controller or flight crew reports an unidentified object over northern Canada, the event is often treated first as an aviation safety occurrence rather than as a mystery requiring a police investigation. As a result, some of the most significant reports from remote northern airspace are logged in aviation databases and operational systems instead of police archives. This helps explain why researchers can find references to unusual aerial events in transport records while finding little or nothing in RCMP files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+Readers looking through [Northwest Territories]({{ 'northwest-territories/' | relative_url }}) UFO history often expect important reports to appear in RCMP files, military records or the federal UFO archive. Yet many modern northern sightings never enter those channels at all. When a pilot, air traffic controller or flight crew reports an unidentified object over northern Canada, the event is often treated first as an aviation safety occurrence rather than as a mystery requiring a police investigation. As a result, some of the most significant reports from remote northern airspace are logged in aviation databases and operational systems instead of police archives. This helps explain why researchers can find references to unusual aerial events in transport records while finding little or nothing in RCMP files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the Northwest Territories, where aviation is essential for connecting remote communities and resource projects, that distinction matters. Aircraft crews frequently become the most reliable witnesses simply because they spend so much time in sparsely populated skies. Their reports follow a reporting chain designed to protect aviation safety, not to investigate UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+For the Northwest Territories, where aviation is essential for connecting remote communities and resource projects, that distinction matters. Aircraft crews frequently become the most reliable witnesses simply because they spend so much time in sparsely populated skies. Their reports follow a reporting chain designed to protect aviation safety, not to investigate UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 ## How Aviation Occurrences Are Logged
 
 A pilot who sees an unknown light, object or possible collision hazard is generally expected to report it through aviation channels. The concern is practical: could the object threaten flight safety, affect navigation, represent another aircraft, or require air traffic services to issue warnings?
 
-In Canada, many such events enter the Civil Aviation Daily Occurrence Reporting System (CADORS), a Transport Canada database that collects preliminary information about aviation-related occurrences. According to Transport Canada, reports labelled as UFOs in CADORS can involve many different things, including balloons, drones, meteors, birds, atmospheric phenomena and genuinely unidentified observations. The label does not imply an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+In Canada, many such events enter the Civil Aviation Daily Occurrence Reporting System (CADORS), a Transport Canada database that collects preliminary information about aviation-related occurrences. According to Transport Canada, reports labelled as UFOs in CADORS can involve many different things, including balloons, drones, meteors, birds, atmospheric phenomena and genuinely unidentified observations. The label does not imply an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
 This means that a report can be:
 
@@ -281,7 +281,7 @@ This means that a report can be:
 
 </div>
 
-For historians examining Northwest Territories reports decades later, the result can be confusing. A sighting may have been officially recorded, yet leave almost no trace in police archives because police were never the primary recipients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+For historians examining Northwest Territories reports decades later, the result can be confusing. A sighting may have been officially recorded, yet leave almost no trace in police archives because police were never the primary recipients.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k9Jpg9ouXxE" title="Pilot reports unknown flying &quot;object&quot; in airline audio of close encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k9Jpg9ouXxE" target="_blank" rel="noopener noreferrer">Pilot reports unknown flying &quot;object&quot; in airline audio of close encounter</a></p><p class="youtube-embed-meta">Channel: Global News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k9Jpg9ouXxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k9Jpg9ouXxE">Open on YouTube</a></p></div></div></div>
@@ -290,7 +290,7 @@ For historians examining Northwest Territories reports decades later, the result
 
 The key organisations in many modern Canadian aviation sightings are NAV CANADA and Transport Canada rather than the RCMP.
 
-NAV CANADA operates Canada's civil air navigation system and receives reports from pilots, controllers and flight service specialists during routine aviation operations. Transport Canada then receives occurrence information through established reporting systems, including CADORS. Official Transport Canada briefing material notes that most CADORS information originates from NAV CANADA, although reports can also come from operators, airports and other parties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+NAV CANADA operates Canada's civil air navigation system and receives reports from pilots, controllers and flight service specialists during routine aviation operations. Transport Canada then receives occurrence information through established reporting systems, including CADORS. Official Transport Canada briefing material notes that most CADORS information originates from NAV CANADA, although reports can also come from operators, airports and other parties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 This reporting structure creates a very different documentary trail from a police investigation.
 
@@ -307,23 +307,23 @@ A police file is usually organised around witness statements, possible offences 
 
 </div>
 
-The purpose is to help maintain safe airspace, not to determine what an unidentified object ultimately was. Transport Canada has explicitly stated that further investigation of unidentified aerial phenomena generally falls outside its mandate, even though such reports may be captured within aviation systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+The purpose is to help maintain safe airspace, not to determine what an unidentified object ultimately was. Transport Canada has explicitly stated that further investigation of unidentified aerial phenomena generally falls outside its mandate, even though such reports may be captured within aviation systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
-For northern Canada, this distinction is especially important because aviation networks cover enormous areas where there may be no nearby police witnesses, radar operators outside aviation systems, or local investigators. A pilot report may therefore remain primarily an aviation record from beginning to end. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+For northern Canada, this distinction is especially important because aviation networks cover enormous areas where there may be no nearby police witnesses, radar operators outside aviation systems, or local investigators. A pilot report may therefore remain primarily an aviation record from beginning to end.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-2-dark.svg" | relative_url }}" alt="Aviation Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Northern Example of the Aviation Trail
 
-A useful example comes from northern Canadian airspace rather than the Northwest Territories itself. In 2018, pilots flying near northern Baffin Island reported an unidentified object and the event appeared in CADORS. Contemporary reporting noted that the occurrence record referred to possibilities including a weather balloon, meteor, rocket or unidentified flying object. The report existed because aviation personnel documented a flight-safety-related observation, not because police opened a UFO investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[nunatsiaq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+A useful example comes from northern Canadian airspace rather than the Northwest Territories itself. In 2018, pilots flying near northern Baffin Island reported an unidentified object and the event appeared in CADORS. Contemporary reporting noted that the occurrence record referred to possibilities including a weather balloon, meteor, rocket or unidentified flying object. The report existed because aviation personnel documented a flight-safety-related observation, not because police opened a UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[nunatsiaq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
-Cases like this illustrate a broader pattern that also affects the Northwest Territories. Remote northern sightings are often first encountered by professional flight crews. The resulting paperwork enters transport and aviation systems even when no definitive explanation is found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[nunatsiaq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
+Cases like this illustrate a broader pattern that also affects the Northwest Territories. Remote northern sightings are often first encountered by professional flight crews. The resulting paperwork enters transport and aviation systems even when no definitive explanation is found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[nunatsiaq.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-3-dark.svg" | relative_url }}" alt="Aviation Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Safety Records Reveal — and Leave Out
 
-Aviation records provide information that police files often lack. They may include precise times, aircraft positions, altitudes, routes and operational context. Pilots are trained observers, and their reports can sometimes be more detailed than public witness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+Aviation records provide information that police files often lack. They may include precise times, aircraft positions, altitudes, routes and operational context. Pilots are trained observers, and their reports can sometimes be more detailed than public witness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 However, these records also have important limitations.
 
@@ -339,9 +339,9 @@ Because the goal is safety reporting rather than mystery-solving, aviation files
 
 </div>
 
-This can frustrate later attempts to reconstruct a Northwest Territories case. The existence of a report does not necessarily mean anyone conducted an extensive investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+This can frustrate later attempts to reconstruct a Northwest Territories case. The existence of a report does not necessarily mean anyone conducted an extensive investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
-The Sky Canada Project, which reviewed Canada's current reporting landscape, identified a broader problem: UAP reports are received by multiple organisations using different procedures, creating fragmented records and inconsistent data collection. That fragmentation helps explain why aviation sightings may be visible in one database while appearing absent from more familiar UFO or police archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Canada. They include:.Read more</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...December 2, 2025 — 28 Jun 2025 — The Sky Canada Project has highlighted several...</span><span class="citation-popover-meta">Published: December 2, 2025</span></span></span>
+The Sky Canada Project, which reviewed Canada's current reporting landscape, identified a broader problem: UAP reports are received by multiple organisations using different procedures, creating fragmented records and inconsistent data collection. That fragmentation helps explain why aviation sightings may be visible in one database while appearing absent from more familiar UFO or police archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Canada. They include:.Read more</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial...December 2, 2025 — 28 Jun 2025 — The Sky Canada Project has highlighted several...</span><span class="citation-popover-meta">Published: December 2, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWistYd7Vng" title="The truth is out there: How Canada tracks UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer">The truth is out there: How Canada tracks UFOs</a></p><p class="youtube-embed-meta">Channel: Toronto Star</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWistYd7Vng">Open on YouTube</a></p></div></div></div>
@@ -350,203 +350,203 @@ The Sky Canada Project, which reviewed Canada's current reporting landscape, ide
 
 The Northwest Territories has long depended on aviation for transportation, exploration and access to remote communities. As a result, some of the territory's most significant unidentified-aerial reports are more likely to originate from aircraft crews than from large groups of ground witnesses.
 
-When researchers search only RCMP files or the historical federal UFO collection, they risk missing part of the story. Library and Archives Canada preserves many historical government UFO records, but modern aviation occurrences may follow different administrative paths before they ever reach an archive, if they reach one at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+When researchers search only RCMP files or the historical federal UFO collection, they risk missing part of the story. Library and Archives Canada preserves many historical government UFO records, but modern aviation occurrences may follow different administrative paths before they ever reach an archive, if they reach one at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-The lesson is straightforward: in northern Canada, an officially recorded UFO report does not necessarily live in a UFO file. It may instead survive as a safety occurrence, an air traffic report or a transport record. Understanding that aviation trail is essential for interpreting the Northwest Territories' scattered and sometimes puzzling documentary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+The lesson is straightforward: in northern Canada, an officially recorded UFO report does not necessarily live in a UFO file. It may instead survive as a safety occurrence, an air traffic report or a transport record. Understanding that aviation trail is essential for interpreting the Northwest Territories' scattered and sometimes puzzling documentary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pUT3rgT3P6E" title="U.S. military pilots are pushing for investigation into UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pUT3rgT3P6E" target="_blank" rel="noopener noreferrer">U.S. military pilots are pushing for investigation into UFOs</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pUT3rgT3P6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pUT3rgT3P6E">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilot Reports Follow a Different Trail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilot Reports Follow a Different Trail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on aviation witnesses, reporting chains, and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on aviation witnesses, reporting chains, and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reports are classified and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports are classified and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Shows how official reporting systems document unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official reporting systems document unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="aviation-trail-why-pilot-reports-follow-a-different-trail-northwest-territories-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,122 +752,122 @@ The lesson is straightforward: in northern Canada, an officially recorded UFO re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gc.ca  
    Title: Canada. They include:.Read more  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...December 2, 2025 — 28 Jun 2025 — The Sky Canada Project has highlighted several...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...December 2, 2025 — 28 Jun 2025 — The Sky Canada Project has highlighted several...</p></details>
    Published: December 2, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advisor of Canada (OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advisor of Canada (OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Nav Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/Nav_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nav_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nav_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nav_Canada</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mona Nemer, Canada’s chief science advisor, commissioned a $34,369 national survey on unidentified aerial phenomena (UAPs), despite findi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mona Nemer, Canada’s chief science advisor, commissioned a $34,369 national survey on unidentified aerial phenomena (UAPs), despite findi...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BC FerriesA Federal Express Boeing 777-200 reported an unidentified object off its starboard side. What could this object be? UFO? Meteor...</p></details>
+   Link:<a href="https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCFerries/posts/-bcfheadsup-breaking-crew-on-board-the-northern-expedition-were-notified-that-ca/6585130011519598/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BC FerriesA Federal Express Boeing 777-200 reported an unidentified object off its starboard side. What could this object be? UFO? Meteor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaLibrary and Archives Canada holds a vast collection of UFO files, files documenting reported sightings of unid...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaLibrary and Archives Canada holds a vast collection of UFO files, files documenting reported sightings of unid...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: from unidentified objects to a strange light canadian aviation officials receive  
-   Link: <a href="https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From &#x27;unidentified&#x27; objects to a &#x27;strange light,&#x27; Canadian...30 Dec 2022 — From &#x27;unidentified&#x27; objects to a &#x27;strange light,&#x27; Canadian av...</p></details>
+   Link:<a href="https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From &#x27;unidentified&#x27; objects to a &#x27;strange light,&#x27; Canadian...30 Dec 2022 — From &#x27;unidentified&#x27; objects to a &#x27;strange light,&#x27; Canadian av...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vice.com  
    Title: the truth is out there but this company holding ufo info wont share it  
-   Link: <a href="https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There. But This Company Holding UFO...29 Jul 2021 — A private company holds some of Canada&#x27;s most compelling UFO data—a...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There. But This Company Holding UFO...29 Jul 2021 — A private company holds some of Canada&#x27;s most compelling UFO data—a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>searchUse this tool to search records and publications across most of the collections held by Library and Archives Canada. First record o...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>searchUse this tool to search records and publications across most of the collections held by Library and Archives Canada. First record o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tsb.gc.ca  
    Title: Runway incursion and aborted takeoff Cargojet Boeing  
-   Link: <a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air transportation safety investigations and reportsTo find the report of an investigation that began in 1990 or earlier, contact Library...</p></details>
+   Link:<a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air transportation safety investigations and reportsTo find the report of an investigation that began in 1990 or earlier, contact Library...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: canadian aviation incident report orange ufo 50  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaIn January 2011 (more precisely, on New Year&#x27;s Day), CADORS report #2011O0003 des...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaIn January 2011 (more precisely, on New Year&#x27;s Day), CADORS report #2011O0003 des...</p></details>
    Published: January 2011  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalnews.ca  
    Title: ufo data collection spy balloons misinformation  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report explores the public&#x27;s decades-long fascination with uniden...</p></details>
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report explores the public&#x27;s decades-long fascination with uniden...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newspaceeconomy.ca  
    Title: What Is the Sky Canada Project?  
-   Link: <a href="https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space Economy11 Nov 2025 — Its official objective was “to study how Unidentified Aerial Phenomena (UAP) sightings reported by the pub...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/11/11/what-is-the-sky-canada-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space Economy11 Nov 2025 — Its official objective was “to study how Unidentified Aerial Phenomena (UAP) sightings reported by the pub...</p></details>

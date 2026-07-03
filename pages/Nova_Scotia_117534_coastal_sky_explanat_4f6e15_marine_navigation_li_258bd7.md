@@ -260,24 +260,24 @@ Marine navigation lights are a strong ordinary explanation for some [Nova Scotia
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-1-dark.svg" | relative_url }}" alt="Marine lights illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Nova Scotia is a particularly good place for this confusion because its UFO history is inseparable from harbours, fishing communities, ferry routes, shipping lanes and lighthouse coasts. Canada’s official Atlantic “List of Lights, Buoys and Fog Signals” covers the Bay of Fundy, the south-western and eastern coasts of Nova Scotia, Cape Breton Island and the Bras d’Or Lakes, listing positions, characteristics, heights and ranges of marine aids to navigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy and alon...</span></span></span> For a serious UFO assessment, that list is not background trivia. It is part of the evidence trail.
+Nova Scotia is a particularly good place for this confusion because its UFO history is inseparable from harbours, fishing communities, ferry routes, shipping lanes and lighthouse coasts. Canada’s official Atlantic “List of Lights, Buoys and Fog Signals” covers the Bay of Fundy, the south-western and eastern coasts of Nova Scotia, Cape Breton Island and the Bras d’Or Lakes, listing positions, characteristics, heights and ranges of marine aids to navigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy and alon...</span></span></span> For a serious UFO assessment, that list is not background trivia. It is part of the evidence trail.
 
 ## Why lights at sea can look airborne
 
 A shore witness normally judges distance by comparing an object with familiar surroundings: trees, buildings, hills, roads or other aircraft. At night over the Atlantic, many of those reference points disappear. A single white light beyond a harbour mouth may look close, high and stationary, even when it is fixed to a buoy, mounted on a lighthouse, or carried by a vessel moving slowly along a channel.
 
-Marine lights are also designed to be noticed. The Canadian Hydrographic Service describes nautical publications as companions to charts, and the Canadian Coast Guard’s light lists provide information on lights, buoys, lightstations, fog signals and other aids that help mariners navigate safely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/topics/charts/index-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalNautical Charts and publicationsCanadian Hydrographic Service (CHS)&#x27;s nautical charts and publications help ensure the...</span></span></span> What helps a mariner can puzzle a land observer: a flashing white light may look like a signal from a hovering object; red and green sidelights may suggest a structured craft; and lights seen through mist may appear larger or higher than they really are.
+Marine lights are also designed to be noticed. The Canadian Hydrographic Service describes nautical publications as companions to charts, and the Canadian Coast Guard’s light lists provide information on lights, buoys, lightstations, fog signals and other aids that help mariners navigate safely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/topics/charts/index-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalNautical Charts and publicationsCanadian Hydrographic Service (CHS)&#x27;s nautical charts and publications help ensure the...</span></span></span> What helps a mariner can puzzle a land observer: a flashing white light may look like a signal from a hovering object; red and green sidelights may suggest a structured craft; and lights seen through mist may appear larger or higher than they really are.
 
-Nova Scotia’s lighthouse history makes this especially relevant. Nova Scotia [Archives]({{ 'archives-7abe44/' | relative_url }}) notes that hydrographic charts, sailing directions, navigational markers and buoys supported daylight and fair-weather navigation, while lighthouses, lightships and fog alarms gave ships security at night and in poor weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[Nova Scotia Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Open source on novascotia.ca.</span></span></span> In UFO terms, that means many “mysterious coastal lights” begin in a landscape where official light sources have been deliberately placed for generations.
+Nova Scotia’s lighthouse history makes this especially relevant. Nova Scotia [Archives]({{ 'archives-7abe44/' | relative_url }}) notes that hydrographic charts, sailing directions, navigational markers and buoys supported daylight and fair-weather navigation, while lighthouses, lightships and fog alarms gave ships security at night and in poor weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[Nova Scotia Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Open source on novascotia.ca.</span></span></span> In UFO terms, that means many “mysterious coastal lights” begin in a landscape where official light sources have been deliberately placed for generations.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ## Buoys, lighthouses and vessels as candidates
 
-The first practical question is not “could this be extraterrestrial?” but “what marine light was in that direction at that time?” Canada’s current navigation system includes fixed lights, lighted buoys, range lights, fog signals, racons and other aids. The Coast Guard notes that the system has changed over time, including the use of LED lanterns and newer buoy materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">canadian aids navigation system 2023</span><span class="citation-popover-snippet">canadian aids navigation system 2023</span></span></span> Older witness memories and modern sightings should therefore be checked against the correct year’s publications, not just a present-day map.
+The first practical question is not “could this be extraterrestrial?” but “what marine light was in that direction at that time?” Canada’s current navigation system includes fixed lights, lighted buoys, range lights, fog signals, racons and other aids. The Coast Guard notes that the system has changed over time, including the use of LED lanterns and newer buoy materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">canadian aids navigation system 2023</span><span class="citation-popover-snippet">canadian aids navigation system 2023</span></span></span> Older witness memories and modern sightings should therefore be checked against the correct year’s publications, not just a present-day map.
 
-Several marine candidates matter for Nova Scotia UFO reports:(#endnote-17 "Endnote 17") <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[archives.novascotia.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Several marine candidates matter for Nova Scotia UFO reports:(#endnote-17 "Endnote 17")<span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[archives.novascotia.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Lighthouses and lightstations** can seem to blink, sweep or flare when seen through cloud, fog or gaps in shoreline. A light that is ordinary from a nautical chart can look dramatic from a beach or road if the observer does not know where the light is.
 
@@ -287,7 +287,7 @@ Several marine candidates matter for Nova Scotia UFO reports:(#endnote-17 "Endno
 
 **Range lights** are especially easy to misunderstand. They are meant to line up for navigation, so from some angles they can appear as paired or stacked lights. If haze hides the shoreline, the pair may look like part of one object rather than two fixed aids.
 
-The official Atlantic list is useful because it records not just names and positions but characteristics such as colour, flash pattern, height and nominal range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> Those details can either strengthen a marine-light explanation or rule it out.
+The official Atlantic list is useful because it records not just names and positions but characteristics such as colour, flash pattern, height and nominal range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> Those details can either strengthen a marine-light explanation or rule it out.
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-2-dark.svg" | relative_url }}" alt="Marine lights illustration 2" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -295,9 +295,9 @@ The official Atlantic list is useful because it records not just names and posit
 
 [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) should not be reduced to “probably a lighthouse” or “definitely not a marine light”. Its value here is more careful: it shows why coastal UFO reports in Nova Scotia must be investigated through both sky and sea evidence.
 
-Library and Archives Canada describes the 4 October 1967 Shag Harbour sighting as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> The case began with lights apparently descending towards the water, and witnesses initially feared an aircraft crash. That first interpretation matters. People were not merely reporting a strange object in an abstract sky; they were trying to understand lights in a coastal environment where aircraft, vessels and the sea horizon could all be involved.
+Library and Archives Canada describes the 4 October 1967 Shag Harbour sighting as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> The case began with lights apparently descending towards the water, and witnesses initially feared an aircraft crash. That first interpretation matters. People were not merely reporting a strange object in an abstract sky; they were trying to understand lights in a coastal environment where aircraft, vessels and the sea horizon could all be involved.
 
-The later mystery around Shag Harbour does not mean every Nova Scotia sea-light report deserves the same status. It means investigators should preserve the sequence: witness description, direction, timing, weather, known aircraft, marine traffic, aids to navigation, search records and later archival material. Canada’s Sky Canada report makes the broader point clearly: “unidentified” does not imply extraterrestrial origin, defiance of natural explanation, or permanent resistance to identification if better data becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+The later mystery around Shag Harbour does not mean every Nova Scotia sea-light report deserves the same status. It means investigators should preserve the sequence: witness description, direction, timing, weather, known aircraft, marine traffic, aids to navigation, search records and later archival material. Canada’s Sky Canada report makes the broader point clearly: “unidentified” does not imply extraterrestrial origin, defiance of natural explanation, or permanent resistance to identification if better data becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
 ## When the marine-light answer is too easy
 
@@ -317,7 +317,7 @@ There are several warning signs that the explanation may be overreaching:
 
 </div>
 
-The Coast Guard also cautions that aids to navigation are not always a perfect fixed reality: navigational warnings and Notices to Mariners exist because aids can be changed, damaged, missing, unlit, displaced or seasonally altered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/topics/notices/index-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> That cuts both ways. A missing or shifted aid may explain a confusing light; it may also invalidate a tidy explanation based on today’s chart.
+The Coast Guard also cautions that aids to navigation are not always a perfect fixed reality: navigational warnings and Notices to Mariners exist because aids can be changed, damaged, missing, unlit, displaced or seasonally altered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/topics/notices/index-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> That cuts both ways. A missing or shifted aid may explain a confusing light; it may also invalidate a tidy explanation based on today’s chart.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0n8iUAeSuL8" title="What Lights Do You Need For Safe Night Boat Navigation? - Boat Life Masters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0n8iUAeSuL8" target="_blank" rel="noopener noreferrer">What Lights Do You Need For Safe Night Boat Navigation? - Boat Life Masters</a></p><p class="youtube-embed-meta">Channel: Boat Life Masters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0n8iUAeSuL8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0n8iUAeSuL8">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ The Coast Guard also cautions that aids to navigation are not always a perfect f
 
 A useful investigation starts with the witness’s point of view. Where exactly was the observer standing? Which direction were they facing? Was the horizon visible? Was there fog, rain, sea smoke, low cloud or glare from harbour lights? A report from a wharf, ferry terminal, coastal road or headland should be treated differently from a report inland.
 
-The next step is to compare the sighting with marine records. Canadian nautical charts, Sailing Directions, the Coast Guard’s List of Lights, Buoys and Fog Signals, and current or historical Notices to Mariners can identify fixed lights, seasonal buoys, fog signals and changes to aids. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charts.gc.ca">[Pêches et Océans Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charts.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> For older sightings, historical light lists and lighthouse archives matter because the coastal lighting system changes over time.
+The next step is to compare the sighting with marine records. Canadian nautical charts, Sailing Directions, the Coast Guard’s List of Lights, Buoys and Fog Signals, and current or historical Notices to Mariners can identify fixed lights, seasonal buoys, fog signals and changes to aids.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charts.gc.ca">[Pêches et Océans Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charts.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> For older sightings, historical light lists and lighthouse archives matter because the coastal lighting system changes over time.
 
 Finally, the marine explanation should be weighed alongside other ordinary candidates. In Nova Scotia, a puzzling light over water might be a vessel, buoy, lighthouse, aircraft approach light, search-and-rescue activity, flare, meteor, bright planet or optical effect near the horizon. The strongest conclusion is often modest: not “proved alien” or “nothing happened”, but “consistent with a known marine light”, “not well matched to any listed aid”, or “unresolved because the sighting lacks enough position and timing data”.
 
@@ -343,178 +343,178 @@ For public-facing UFO history, the best approach is neither automatic belief nor
 <img src="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-3-dark.svg" | relative_url }}" alt="Marine lights illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could that UFO be a light at sea?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could that UFO be a light at sea?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supports the page&#x27;s investigative framing by encouraging careful classification of UFO reports before accepting exotic explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page&#x27;s investigative framing by encouraging careful classification of UFO reports before accepting exotic explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aEvoTftWd40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aEvoTftWd40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadens the page from one coastal explanation to credible UFO case assessment and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the page from one coastal explanation to credible UFO case assessment and witness interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadens the page from one coastal explanation to credible UFO case assessment and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens the page from one coastal explanation to credible UFO case assessment and witness interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="marine-lights-could-that-ufo-be-a-light-at-sea-nova-scotia-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ For public-facing UFO history, the best approach is neither automatic belief nor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ For public-facing UFO history, the best approach is neither automatic belief nor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ For public-facing UFO history, the best approach is neither automatic belief nor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ For public-facing UFO history, the best approach is neither automatic belief nor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ For public-facing UFO history, the best approach is neither automatic belief nor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,186 +720,186 @@ For public-facing UFO history, the best approach is neither automatic belief nor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: e-navigation.canada.ca  
-   Link: <a href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy and alon...</p></details>
+   Link:<a href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy and alon...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: e-navigation.canada.ca  
-   Link: <a href="https://e-navigation.canada.ca/topics/charts/index-en" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/topics/charts/index-en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalNautical Charts and publicationsCanadian Hydrographic Service (CHS)&#x27;s nautical charts and publications help ensure the...</p></details>
+   Link:<a href="https://e-navigation.canada.ca/topics/charts/index-en" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/topics/charts/index-en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalNautical Charts and publicationsCanadian Hydrographic Service (CHS)&#x27;s nautical charts and publications help ensure the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
    Title: canadian aids navigation system 2023  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html</a>  
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-9-2026-1-eng.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: e-navigation.canada.ca  
-   Link: <a href="https://e-navigation.canada.ca/topics/notices/index-en" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/topics/notices/index-en</a>  
+   Link:<a href="https://e-navigation.canada.ca/topics/notices/index-en" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/topics/notices/index-en</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs151-9-2025-07-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs151-9-2025-07-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs151-9-2025-07-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2025/mpo-dfo/Fs151-9-2025-07-eng.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-6-2-2025-12-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-6-2-2025-12-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-6-2-2025-12-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2026/mpo-dfo/Fs151-6-2-2025-12-eng.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2016/mpo-dfo/Fs152-5-41-3-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2016/mpo-dfo/Fs152-5-41-3-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2016/mpo-dfo/Fs152-5-41-3-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2016/mpo-dfo/Fs152-5-41-3-eng.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tc.canada.ca  
    Title: ca4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.gc.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: charts.gc.ca  
    Title: index eng  
-   Link: <a href="https://charts.gc.ca/publications/index-eng.html" target="_blank" rel="noopener noreferrer nofollow">https://charts.gc.ca/publications/index-eng.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pêches et Océans CanadaNautical publications27 Jan 2025 — Providing descriptions and locations of external aids to navigation – lights, b...</p></details>
+   Link:<a href="https://charts.gc.ca/publications/index-eng.html" target="_blank" rel="noopener noreferrer nofollow">https://charts.gc.ca/publications/index-eng.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pêches et Océans CanadaNautical publications27 Jan 2025 — Providing descriptions and locations of external aids to navigation – lights, b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/</a>  
+   Link:<a href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: charts.gc.ca  
-   Link: <a href="https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html</a>  
+   Link:<a href="https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charts.gc.ca/publications/sailingdirections-instructionsnautiques-eng.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.novascotia.ca  
    Title: ca Virtual Archives and Databases  
-   Link: <a href="https://archives.novascotia.ca/virtual/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/virtual/</a>  
+   Link:<a href="https://archives.novascotia.ca/virtual/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/virtual/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.novascotia.ca  
    Title: ca Uniacke's Sketches of Cape Breton  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/UniackeSketchesCapeBreton-F90N85AR2N.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/UniackeSketchesCapeBreton-F90N85AR2N.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/UniackeSketchesCapeBreton-F90N85AR2N.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/UniackeSketchesCapeBreton-F90N85AR2N.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-4-1-1984.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-4-1-1984.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-4-1-1984.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-4-1-1984.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/Report1947-PublicArchivesNovaScotia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/Report1947-PublicArchivesNovaScotia.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/Report1947-PublicArchivesNovaScotia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/Report1947-PublicArchivesNovaScotia.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-2-1-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-2-1-1982.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-2-1-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalReview-2-1-1982.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalQuarterly-6-4-1976.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalQuarterly-6-4-1976.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalQuarterly-6-4-1976.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/NovaScotiaHistoricalQuarterly-6-4-1976.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.novascotia.ca  
    Title: Catalogue Akins Collection Books F90N85AR2PNo1  
-   Link: <a href="https://archives.novascotia.ca/pdf/library/CatalogueAkinsCollectionBooks-F90N85AR2PNo1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/CatalogueAkinsCollectionBooks-F90N85AR2PNo1.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/pdf/library/CatalogueAkinsCollectionBooks-F90N85AR2PNo1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/pdf/library/CatalogueAkinsCollectionBooks-F90N85AR2PNo1.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.novascotia.ca  
    Title: governor wentworths nova scotia letter books  
-   Link: <a href="https://archives.novascotia.ca/lists/governor-wentworths-nova-scotia-letter-books.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lists/governor-wentworths-nova-scotia-letter-books.pdf</a>  
+   Link:<a href="https://archives.novascotia.ca/lists/governor-wentworths-nova-scotia-letter-books.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lists/governor-wentworths-nova-scotia-letter-books.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.novascotia.ca  
    Title: ca Nova Scotia Archives  
-   Link: <a href="https://archives.novascotia.ca/lighthouses/archives/?ID=168" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/archives/?ID=168</a>  
+   Link:<a href="https://archives.novascotia.ca/lighthouses/archives/?ID=168" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/archives/?ID=168</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: canadacommons.ca  
    Title: atlantic coast  
-   Link: <a href="https://canadacommons.ca/artifacts/19268342/atlantic-coast/20168883/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/19268342/atlantic-coast/20168883/</a>  
+   Link:<a href="https://canadacommons.ca/artifacts/19268342/atlantic-coast/20168883/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/19268342/atlantic-coast/20168883/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: canadacommons.ca  
-   Link: <a href="https://canadacommons.ca/artifacts/18118221/lights-buoys-and-fog-signals/19017737/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/18118221/lights-buoys-and-fog-signals/19017737/</a>  
+   Link:<a href="https://canadacommons.ca/artifacts/18118221/lights-buoys-and-fog-signals/19017737/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/18118221/lights-buoys-and-fog-signals/19017737/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: rcmsar12.org  
-   Link: <a href="https://www.rcmsar12.org/page/aids" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmsar12.org/page/aids</a>  
+   Link:<a href="https://www.rcmsar12.org/page/aids" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmsar12.org/page/aids</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: What Lights Do You Need For Safe Night Boat Navigation?  
-   Link: <a href="https://www.youtube.com/watch?v=0n8iUAeSuL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0n8iUAeSuL8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COLREGs Rule 21 – Navigation Lights &amp; Shapes Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0n8iUAeSuL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0n8iUAeSuL8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COLREGs Rule 21 – Navigation Lights &amp; Shapes Explained...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: COLREGs Rule 21 – Navigation Lights & Shapes Explained  
-   Link: <a href="https://www.youtube.com/watch?v=bGd-_iUJpuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bGd-_iUJpuE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COLREGs Rule 22 – Visibility of Navigation Lights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bGd-_iUJpuE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bGd-_iUJpuE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COLREGs Rule 22 – Visibility of Navigation Lights...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYNh49JAZsV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYNh49JAZsV/</a>  
+   Link:<a href="https://www.instagram.com/p/DYNh49JAZsV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYNh49JAZsV/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/maritime/comments/18bm8ho/deep_sea_mariners_have_any_of_you_seen_ufos_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maritime/comments/18bm8ho/deep_sea_mariners_have_any_of_you_seen_ufos_or/</a>  
+   Link:<a href="https://www.reddit.com/r/maritime/comments/18bm8ho/deep_sea_mariners_have_any_of_you_seen_ufos_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maritime/comments/18bm8ho/deep_sea_mariners_have_any_of_you_seen_ufos_or/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/</a>  
+   Link:<a href="https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ibiblio.org  
-   Link: <a href="https://www.ibiblio.org/lighthouse/nse.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/lighthouse/nse.htm</a>  
+   Link:<a href="https://www.ibiblio.org/lighthouse/nse.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/lighthouse/nse.htm</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: fao.org  
-   Link: <a href="https://www.fao.org/fishery/openasfa/074da3ed-4455-4094-949b-e1677be8d166/en" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/fishery/openasfa/074da3ed-4455-4094-949b-e1677be8d166/en</a>  
+   Link:<a href="https://www.fao.org/fishery/openasfa/074da3ed-4455-4094-949b-e1677be8d166/en" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/fishery/openasfa/074da3ed-4455-4094-949b-e1677be8d166/en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/novascotiasouthshore/posts/51-years-ago-in-1967-a-ufo-was-sighted-as-it-splashed-down-into-the-ocean-becomi/2358445784185404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/novascotiasouthshore/posts/51-years-ago-in-1967-a-ufo-was-sighted-as-it-splashed-down-into-the-ocean-becomi/2358445784185404/</a>  
+   Link:<a href="https://www.facebook.com/novascotiasouthshore/posts/51-years-ago-in-1967-a-ufo-was-sighted-as-it-splashed-down-into-the-ocean-becomi/2358445784185404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/novascotiasouthshore/posts/51-years-ago-in-1967-a-ufo-was-sighted-as-it-splashed-down-into-the-ocean-becomi/2358445784185404/</a>  

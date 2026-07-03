@@ -262,7 +262,7 @@ image: /assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_au
 
 ## Introduction
 
-In the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}), some of the most convincing “UFO lights” turn out to be the northern lights themselves. This is not because witnesses are careless. It is because the territory sits beneath one of the world's most active auroral regions, where bright arcs, rays and pulsing curtains can change shape rapidly and create the impression of structured objects in the sky. Around Yellowknife, Inuvik and other northern communities, observers regularly see aurora displays that appear to hover, split, brighten, rotate or form geometric patterns that can resemble distant craft, formations of lights or glowing objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc-csa.gc.ca">[Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc-csa.gc.ca</span><span class="citation-popover-title">Canadian Space Agency What are the northern lights?</span><span class="citation-popover-snippet">Canadian Space Agency17 Jan 2024 — The northern lights, or aurora borealis, are a spectacular, colourful display of light commonly seen...</span></span></span>
+In the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}), some of the most convincing “UFO lights” turn out to be the northern lights themselves. This is not because witnesses are careless. It is because the territory sits beneath one of the world's most active auroral regions, where bright arcs, rays and pulsing curtains can change shape rapidly and create the impression of structured objects in the sky. Around Yellowknife, Inuvik and other northern communities, observers regularly see aurora displays that appear to hover, split, brighten, rotate or form geometric patterns that can resemble distant craft, formations of lights or glowing objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc-csa.gc.ca">[Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc-csa.gc.ca</span><span class="citation-popover-title">Canadian Space Agency What are the northern lights?</span><span class="citation-popover-snippet">Canadian Space Agency17 Jan 2024 — The northern lights, or aurora borealis, are a spectacular, colourful display of light commonly seen...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-1-dark.svg" | relative_url }}" alt="Aurora mix ups illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,7 +270,7 @@ Within Northwest Territories UFO history, aurora-related misidentifications matt
 
 ## When aurora starts to look like craft
 
-Aurora is not a fixed glow. It can appear as arcs, ribbons, pillars, rays, patches and large curtains stretching across the sky. During active periods these forms can brighten suddenly, ripple like fabric, or break into separate-looking segments. NOAA Space Weather Prediction Center+2spaceweather.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+Aurora is not a fixed glow. It can appear as arcs, ribbons, pillars, rays, patches and large curtains stretching across the sky. During active periods these forms can brighten suddenly, ripple like fabric, or break into separate-looking segments. NOAA Space Weather Prediction Center+2spaceweather.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 To an observer unfamiliar with auroral dynamics, several features can resemble a structured object:
 
@@ -282,13 +282,13 @@ To an observer unfamiliar with auroral dynamics, several features can resemble a
 * Pulsing sections can appear to switch on and off independently.
 * Multiple parallel arcs can look like a formation of objects.
 * Rapid brightening can create the impression of acceleration.
-* Curving curtains can resemble the outline of a huge disc or wedge. NOAA Space Weather Prediction Center+2spaceweather.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+* Curving curtains can resemble the outline of a huge disc or wedge. NOAA Space Weather Prediction Center+2spaceweather.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 </div>
 
 The effect is strongest when only part of the aurora is visible. A witness who sees a glowing section through trees, over a ridge, or between clouds may perceive a discrete object rather than a much larger atmospheric display.
 
-This is particularly relevant in the Northwest Territories because aurora can be bright enough to dominate the entire northern sky while still appearing localised from a single viewing position. Yellowknife's reputation as one of the world's premier aurora-viewing locations exists precisely because such displays are frequent and intense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">15139 northern lights auroras earth facts sdcmp</span><span class="citation-popover-snippet">northern lights show looks like vibrant green curtains in the sky with tall pillars of light.Read more...</span></span></span>
+This is particularly relevant in the Northwest Territories because aurora can be bright enough to dominate the entire northern sky while still appearing localised from a single viewing position. Yellowknife's reputation as one of the world's premier aurora-viewing locations exists precisely because such displays are frequent and intense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">15139 northern lights auroras earth facts sdcmp</span><span class="citation-popover-snippet">northern lights show looks like vibrant green curtains in the sky with tall pillars of light.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4PXu2SnG4pk" title="Written in the Sky: Aurora Borealis Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4PXu2SnG4pk" target="_blank" rel="noopener noreferrer">Written in the Sky: Aurora Borealis Explained</a></p><p class="youtube-embed-meta">Channel: Institute of Physics &middot; Views: 34.2K &middot; Uploaded: March 2012 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4PXu2SnG4pk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4PXu2SnG4pk">Open on YouTube</a></p></div></div></div>
@@ -297,7 +297,7 @@ This is particularly relevant in the Northwest Territories because aurora can be
 
 One reason aurora is repeatedly mistaken for unusual aerial objects is its ability to transform rapidly without moving like a conventional aircraft.
 
-Scientific descriptions of aurora consistently emphasise its curtain-like structure. Rays form along Earth's magnetic field lines and can appear to fold, wave and twist. Near midnight, auroral arcs often develop ripples and travelling disturbances that seem to move across the sky. During geomagnetic activity, displays can become dramatically brighter within minutes. NOAA Space Weather Prediction Center+2Royal Museums Greenwich <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+Scientific descriptions of aurora consistently emphasise its curtain-like structure. Rays form along Earth's magnetic field lines and can appear to fold, wave and twist. Near midnight, auroral arcs often develop ripples and travelling disturbances that seem to move across the sky. During geomagnetic activity, displays can become dramatically brighter within minutes. NOAA Space Weather Prediction Center+2Royal Museums Greenwich<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 From the ground, these changes can produce several illusions:
 
@@ -307,11 +307,11 @@ From the ground, these changes can produce several illusions:
 * A stationary feature appears to drift because neighbouring sections brighten.
 * A large curtain seems to rotate as different rays become visible.
 * A diffuse glow suddenly acquires sharp edges.
-* Separate bright patches appear and disappear, mimicking multiple objects. NOAA Space Weather Prediction Center+2spaceweather.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+* Separate bright patches appear and disappear, mimicking multiple objects. NOAA Space Weather Prediction Center+2spaceweather.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 </div>
 
-Witnesses sometimes describe lights that “dance”, “pulse”, “hover” or “change shape”. Those descriptions can fit genuine auroral behaviour remarkably well, especially during strong geomagnetic disturbances. Auroras are often described scientifically as dynamic displays whose structure can alter continuously over short periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidc.be">[sidc.be+2NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidc.be</span><span class="citation-popover-snippet">red 10 to 20 degrees around the magnetic pole.Read more...</span></span></span>
+Witnesses sometimes describe lights that “dance”, “pulse”, “hover” or “change shape”. Those descriptions can fit genuine auroral behaviour remarkably well, especially during strong geomagnetic disturbances. Auroras are often described scientifically as dynamic displays whose structure can alter continuously over short periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidc.be">[sidc.be+2NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidc.be</span><span class="citation-popover-snippet">red 10 to 20 degrees around the magnetic pole.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-2-dark.svg" | relative_url }}" alt="Aurora mix ups illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,9 +321,9 @@ Aurora alone can look unusual, but common northern viewing conditions can make t
 
 In winter, observers frequently watch the sky through vehicle windscreens, cabin windows or layers of frost. Reflections from dashboard lights, interior lighting and ice crystals can fragment a continuous auroral display into what appears to be a cluster of separate lights.
 
-Clouds add another layer of confusion. Thin cloud can hide part of an auroral curtain while leaving brighter sections exposed. Instead of seeing one large display, an observer may perceive isolated glowing segments that resemble individual objects. Snow crystals and ice haze can further soften edges and create apparent halos around bright auroral features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernshotstours.com">[Northern Shots Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernshotstours.com</span><span class="citation-popover-title">Northern Shots Tours Aurora Myths and Facts: Discovering the Truth Behind</span><span class="citation-popover-snippet">Northern Shots ToursAurora Myths and Facts: Discovering the Truth Behind...October 30, 2024 — 30 Oct 2024 — While local weather conditio...</span><span class="citation-popover-meta">Published: October 30, 2024</span></span></span>
+Clouds add another layer of confusion. Thin cloud can hide part of an auroral curtain while leaving brighter sections exposed. Instead of seeing one large display, an observer may perceive isolated glowing segments that resemble individual objects. Snow crystals and ice haze can further soften edges and create apparent halos around bright auroral features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernshotstours.com">[Northern Shots Tours]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernshotstours.com</span><span class="citation-popover-title">Northern Shots Tours Aurora Myths and Facts: Discovering the Truth Behind</span><span class="citation-popover-snippet">Northern Shots ToursAurora Myths and Facts: Discovering the Truth Behind...October 30, 2024 — 30 Oct 2024 — While local weather conditio...</span><span class="citation-popover-meta">Published: October 30, 2024</span></span></span>
 
-Perspective effects are especially deceptive near the horizon. The University of Alaska's aurora guidance notes that auroral curtains can appear to touch mountains or rise like columns of smoke because of viewing geometry rather than actual proximity. The same illusion can make a distant auroral structure seem like a large object hovering just above the landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[gi.alaska.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-snippet">Aurora ForecastThe auroral curtain sometimes appears to touch a distant mountain top or even rise like smoke. This illusion occurs becaus...</span></span></span>
+Perspective effects are especially deceptive near the horizon. The University of Alaska's aurora guidance notes that auroral curtains can appear to touch mountains or rise like columns of smoke because of viewing geometry rather than actual proximity. The same illusion can make a distant auroral structure seem like a large object hovering just above the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.alaska.edu">[gi.alaska.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.alaska.edu</span><span class="citation-popover-snippet">Aurora ForecastThe auroral curtain sometimes appears to touch a distant mountain top or even rise like smoke. This illusion occurs becaus...</span></span></span>
 
 In the Northwest Territories, where long winter nights, frozen landscapes and low-angle viewing are common, these distortions occur under exactly the conditions in which many unusual-light reports are made.
 
@@ -344,7 +344,7 @@ Signs that favour an auroral explanation include:
 * Colours shift between green, red, purple or white.
 * Structure appears curtain-like, ray-like or diffuse.
 * Brightness changes continuously rather than flashing in a regular pattern.
-* Movement resembles flowing, rippling or expanding rather than direct travel from one location to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[spaceweather.gov+2Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Aurora &#124; NOAA / NWS Space Weather Prediction CenterAurora comes in several different shapes. Often the auroral forms are made of many tal...</span></span></span>
+* Movement resembles flowing, rippling or expanding rather than direct travel from one location to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[spaceweather.gov+2Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Aurora &#124; NOAA / NWS Space Weather Prediction CenterAurora comes in several different shapes. Often the auroral forms are made of many tal...</span></span></span>
 
 </div>
 
@@ -369,7 +369,7 @@ The distinction is important because many Northwest Territories UFO reports begi
 
 Aurora-related UFO reports persist not because the phenomenon is poorly understood by scientists, but because the visual experience can be genuinely surprising. Even people who know what the northern lights are may encounter an especially bright or unusual display that briefly resembles something structured and artificial.
 
-The Northwest Territories combines three factors that encourage such reports: frequent auroral activity, exceptionally dark skies and vast open horizons. Together they allow people to see forms and movements that urban observers rarely encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc-csa.gc.ca">[Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc-csa.gc.ca</span><span class="citation-popover-title">northern lights</span><span class="citation-popover-snippet">Canadian Space AgencyNorthern lights &#124; Canadian Space Agency25 Jan 2024 — Information about auroras and tips on how to view and photograp...</span></span></span>
+The Northwest Territories combines three factors that encourage such reports: frequent auroral activity, exceptionally dark skies and vast open horizons. Together they allow people to see forms and movements that urban observers rarely encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc-csa.gc.ca">[Canadian Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc-csa.gc.ca</span><span class="citation-popover-title">northern lights</span><span class="citation-popover-snippet">Canadian Space AgencyNorthern lights &#124; Canadian Space Agency25 Jan 2024 — Information about auroras and tips on how to view and photograp...</span></span></span>
 
 For students of the territory's UFO history, aurora therefore occupies a special category. It is not merely a routine explanation applied after the fact. It is a powerful visual phenomenon capable of producing sightings that sincerely appear object-like, especially when viewed through cloud, frost, distance or limited perspective. Understanding that mechanism helps explain why some reports of structured lights weaken under investigation, while others require closer examination before any conclusion can be reached.
 
@@ -378,194 +378,194 @@ For students of the territory's UFO history, aurora therefore occupies a special
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When aurora starts to look like craft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When aurora starts to look like craft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps observers distinguish sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps observers distinguish sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evaluation of mistaken sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluation of mistaken sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atmosphere, Weather and Climate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4cKAAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Atmosphere, Weather and Climate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atmosphere, Weather and Climate">Atmosphere, Weather and Climate</a>
-        </h4>
-        <p class="fr-book-author">By Roger Barry, Richard Chorley et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atmosphere, Weather and Climate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4cKAAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Atmosphere, Weather and Climate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atmosphere, Weather and Climate">Atmosphere, Weather and Climate</a>
+</h4>
+<p class="fr-book-author">By Roger Barry, Richard Chorley et al.</p>
         
-        <p class="fr-book-desc">Provides atmospheric context for visual effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides atmospheric context for visual effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate+by+Roger+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Northern Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226133-M.jpg" alt="Cover for The Northern Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Lights">The Northern Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lucy Jago</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Northern Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226133-M.jpg" alt="Cover for The Northern Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Lights">The Northern Lights</a>
+</h4>
+<p class="fr-book-author">By Lucy Jago</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Auroras, Biography, Geophysicists, Noorderlicht, Polarlicht.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Auroras, Biography, Geophysicists, Noorderlicht, Polarlicht.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atmosphere, Weather and Climate</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atmosphere%2C+Weather+and+Climate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atmosphere, Weather and Climate</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aurora-mix-ups-when-aurora-starts-to-look-like-craft-northwest-territories-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For students of the territory's UFO history, aurora therefore occupies a special
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,122 +771,122 @@ For students of the territory's UFO history, aurora therefore occupies a special
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: 15139 northern lights auroras earth facts sdcmp  
-   Link: <a href="https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>northern lights show looks like vibrant green curtains in the sky with tall pillars of light.Read more...</p></details>
+   Link:<a href="https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>northern lights show looks like vibrant green curtains in the sky with tall pillars of light.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: swpc.noaa.gov  
-   Link: <a href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/content/aurora-tutorial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The latitude of the evening arcs depends on the...Read more...</p></details>
+   Link:<a href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/content/aurora-tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latitude of the evening arcs depends on the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/aurora</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora | NOAA / NWS Space Weather Prediction CenterAurora comes in several different shapes. Often the auroral forms are made of many tal...</p></details>
+   Link:<a href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/aurora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora | NOAA / NWS Space Weather Prediction CenterAurora comes in several different shapes. Often the auroral forms are made of many tal...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/12040/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/12040/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observes Auroras Across Canada4 Nov 2015 — The dancing lights in the video are the aurora borealis or Northern Lights. These auroras are...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/12040/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/12040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observes Auroras Across Canada4 Nov 2015 — The dancing lights in the video are the aurora borealis or Northern Lights. These auroras are...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/communities/aurora-dashboard-experimental" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/communities/aurora-dashboard-experimental</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Dashboard (Experimental) | NOAA / NWS...The aurora&#x27;s colorful green, red, and purple light shifts gently and often changes shape...</p></details>
+   Link:<a href="https://www.spaceweather.gov/communities/aurora-dashboard-experimental" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/communities/aurora-dashboard-experimental</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Dashboard (Experimental) | NOAA / NWS...The aurora&#x27;s colorful green, red, and purple light shifts gently and often changes shape...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sidc.be  
-   Link: <a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>red 10 to 20 degrees around the magnetic pole.Read more...</p></details>
+   Link:<a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>red 10 to 20 degrees around the magnetic pole.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gi.alaska.edu  
-   Link: <a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora ForecastThe auroral curtain sometimes appears to touch a distant mountain top or even rise like smoke. This illusion occurs becaus...</p></details>
+   Link:<a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora ForecastThe auroral curtain sometimes appears to touch a distant mountain top or even rise like smoke. This illusion occurs becaus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ncei.noaa.gov  
    Title: science beauty and mystery auroras  
-   Link: <a href="https://www.ncei.noaa.gov/news/science-beauty-and-mystery-auroras" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/news/science-beauty-and-mystery-auroras</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science, Beauty, and Mystery of Auroras | News30 Mar 2017 — In vivid reds, greens, yellows, and blues, auroras look like wavy or shimmer...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/news/science-beauty-and-mystery-auroras" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/news/science-beauty-and-mystery-auroras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science, Beauty, and Mystery of Auroras | News30 Mar 2017 — In vivid reds, greens, yellows, and blues, auroras look like wavy or shimmer...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: asc-csa.gc.ca  
    Title: Canadian Space Agency What are the northern lights?  
-   Link: <a href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Space Agency17 Jan 2024 — The northern lights, or aurora borealis, are a spectacular, colourful display of light commonly seen...</p></details>
+   Link:<a href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Space Agency17 Jan 2024 — The northern lights, or aurora borealis, are a spectacular, colourful display of light commonly seen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: asc-csa.gc.ca  
    Title: northern lights  
-   Link: <a href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Space AgencyNorthern lights | Canadian Space Agency25 Jan 2024 — Information about auroras and tips on how to view and photograp...</p></details>
+   Link:<a href="https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Space AgencyNorthern lights | Canadian Space Agency25 Jan 2024 — Information about auroras and tips on how to view and photograp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichWhat causes the Northern Lights? Aurora borealis explainedThe aurora&#x27;s characteristic wavy patterns and &#x27;curtains&#x27;...</p></details>
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/what-causes-northern-lights-aurora-borealis-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichWhat causes the Northern Lights? Aurora borealis explainedThe aurora&#x27;s characteristic wavy patterns and &#x27;curtains&#x27;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: northernshotstours.com  
    Title: Northern Shots Tours Aurora Myths and Facts: Discovering the Truth Behind  
-   Link: <a href="https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Shots ToursAurora Myths and Facts: Discovering the Truth Behind...October 30, 2024 — 30 Oct 2024 — While local weather conditio...</p></details>
+   Link:<a href="https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.northernshotstours.com/aurora-myths-and-facts-discovering-the-truth-behind-the-northern-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Shots ToursAurora Myths and Facts: Discovering the Truth Behind...October 30, 2024 — 30 Oct 2024 — While local weather conditio...</p></details>
    Published: October 30, 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: astrobackyard.com  
-   Link: <a href="https://astrobackyard.com/auroras/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/auroras/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Seeing &amp; Photographing AurorasAccording to the Canadian Space Agency, auroras are most often seen after dusk and be...</p></details>
+   Link:<a href="https://astrobackyard.com/auroras/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/auroras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Seeing &amp; Photographing AurorasAccording to the Canadian Space Agency, auroras are most often seen after dusk and be...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mtu.edu  
-   Link: <a href="https://www.mtu.edu/tour/copper-country/northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.mtu.edu/tour/copper-country/northern-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan Technological UniversityWhat are the Northern Lights (Aurora Borealis)?The northern lights surprise stargazers by appearing in m...</p></details>
+   Link:<a href="https://www.mtu.edu/tour/copper-country/northern-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.mtu.edu/tour/copper-country/northern-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan Technological UniversityWhat are the Northern Lights (Aurora Borealis)?The northern lights surprise stargazers by appearing in m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nhm.ac.uk  
-   Link: <a href="https://www.nhm.ac.uk/discover/what-are-the-northern-lights-aurora-borealis-causes-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/what-are-the-northern-lights-aurora-borealis-causes-explained.html</a>  
+   Link:<a href="https://www.nhm.ac.uk/discover/what-are-the-northern-lights-aurora-borealis-causes-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/what-are-the-northern-lights-aurora-borealis-causes-explained.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZtepUBMU9F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZtepUBMU9F/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>can generate synchronized, localized sounds like clapping, hissing, or crackling just above the ground.While the aurora happens too high...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZtepUBMU9F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZtepUBMU9F/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can generate synchronized, localized sounds like clapping, hissing, or crackling just above the ground.While the aurora happens too high...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4PXu2SnG4pk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4PXu2SnG4pk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Written in the Sky: Aurora Borealis ExplainedThe aurora borealis, or the northern lights, are one of nature&#x27;s most mysterious displays. I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4PXu2SnG4pk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4PXu2SnG4pk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Written in the Sky: Aurora Borealis ExplainedThe aurora borealis, or the northern lights, are one of nature&#x27;s most mysterious displays. I...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lightsoverlapland.com  
    Title: The lights can stretch across the horizon and change shapes or colors,  
-   Link: <a href="https://lightsoverlapland.com/the-science-behind-auroras-how-the-northern-lights-are-formed/" target="_blank" rel="noopener noreferrer nofollow">https://lightsoverlapland.com/the-science-behind-auroras-how-the-northern-lights-are-formed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Auroras - How the Northern Lights Are...3 Mar 2025 — The aurora often appears as glowing arcs, rays, or curtains in t...</p></details>
+   Link:<a href="https://lightsoverlapland.com/the-science-behind-auroras-how-the-northern-lights-are-formed/" target="_blank" rel="noopener noreferrer nofollow">https://lightsoverlapland.com/the-science-behind-auroras-how-the-northern-lights-are-formed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Auroras - How the Northern Lights Are...3 Mar 2025 — The aurora often appears as glowing arcs, rays, or curtains in t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Northern Lights! ISS Captures Green Auroras From SPACE  
-   Link: <a href="https://www.youtube.com/watch?v=2oVvMO0pgJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2oVvMO0pgJY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora mistaken for ufo lights UFOS SEEN IN NORTHERN LIGHTS?! 🛸 The Proof Is Out There | #Shorts | History HISTORY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2oVvMO0pgJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2oVvMO0pgJY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora mistaken for ufo lights UFOS SEEN IN NORTHERN LIGHTS?! 🛸 The Proof Is Out There | #Shorts | History HISTORY...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
    Title: Aurora can change its shape in less than a second  
-   Link: <a href="https://www.instagram.com/p/DTAdKojjBcy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTAdKojjBcy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous curtains, arcs, and “dances” of the northern lights are created because Earth&#x27;s magnetic field is constantly in motion. When...</p></details>
+   Link:<a href="https://www.instagram.com/p/DTAdKojjBcy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTAdKojjBcy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous curtains, arcs, and “dances” of the northern lights are created because Earth&#x27;s magnetic field is constantly in motion. When...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianSpaceAgency/posts/green-red-blue-aurora-borealis-are-a-spectacular-colourful-display-of-light-you-/911906090973626/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianSpaceAgency/posts/green-red-blue-aurora-borealis-are-a-spectacular-colourful-display-of-light-you-/911906090973626/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Earth&#x27;s atmosphere ✨ the altitude where the aurora occurs ✨...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianSpaceAgency/posts/green-red-blue-aurora-borealis-are-a-spectacular-colourful-display-of-light-you-/911906090973626/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianSpaceAgency/posts/green-red-blue-aurora-borealis-are-a-spectacular-colourful-display-of-light-you-/911906090973626/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Earth&#x27;s atmosphere ✨ the altitude where the aurora occurs ✨...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: auroraiceland.uk  
-   Link: <a href="https://www.auroraiceland.uk/aurora-types/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroraiceland.uk/aurora-types/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do the northern lights (aurora borealis) look like?During strong auroras the curtains can move very quickly, forming extensive curve...</p></details>
+   Link:<a href="https://www.auroraiceland.uk/aurora-types/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroraiceland.uk/aurora-types/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do the northern lights (aurora borealis) look like?During strong auroras the curtains can move very quickly, forming extensive curve...</p></details>

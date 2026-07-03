@@ -256,38 +256,38 @@ image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c
 
 ## Introduction
 
-One reason the Tagish Lake fireball entered [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) memory so strongly is that it seemed to behave in impossible ways. People first saw an intensely bright object streak across the sky. Only afterwards came the detonations and rumbling sounds. A strange coloured trail remained suspended overhead long after the object itself had vanished. For witnesses unfamiliar with large meteors, the sequence could feel more like an aircraft accident, missile explosion or unidentified aerial phenomenon than a natural event. Yet the very features that made the event seem mysterious were also exactly what scientists would expect from a powerful fireball breaking apart high in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca+2NASA Astrobiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</span></span></span>
+One reason the Tagish Lake fireball entered [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) memory so strongly is that it seemed to behave in impossible ways. People first saw an intensely bright object streak across the sky. Only afterwards came the detonations and rumbling sounds. A strange coloured trail remained suspended overhead long after the object itself had vanished. For witnesses unfamiliar with large meteors, the sequence could feel more like an aircraft accident, missile explosion or unidentified aerial phenomenon than a natural event. Yet the very features that made the event seem mysterious were also exactly what scientists would expect from a powerful fireball breaking apart high in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca+2NASA Astrobiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-1-dark.svg" | relative_url }}" alt="Booms and trails illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Yukon UFO history, the Tagish Lake event is a useful reminder that a sighting can be genuinely extraordinary while still having a well-understood physical explanation. The delayed booms, lingering trails and unusual colours were not anomalies left unresolved by investigators. They became part of the evidence that helped reconstruct what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+Within Yukon UFO history, the Tagish Lake event is a useful reminder that a sighting can be genuinely extraordinary while still having a well-understood physical explanation. The delayed booms, lingering trails and unusual colours were not anomalies left unresolved by investigators. They became part of the evidence that helped reconstruct what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=mUPPa2j9CLw" target="_blank" rel="noopener noreferrer">Meteor triggers sonic boom heard across New England</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mUPPa2j9CLw" target="_blank" rel="noopener noreferrer">Meteor triggers sonic boom heard across New England</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mUPPa2j9CLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mUPPa2j9CLw">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses experienced first
 
-The most immediate impression was visual. The fireball was bright enough to attract attention across a huge region that included Yukon, northern British Columbia, parts of Alaska and the Northwest Territories. Witnesses described a brilliant object crossing the sky, followed by fragmentation and the appearance of dust clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</span></span></span>
+The most immediate impression was visual. The fireball was bright enough to attract attention across a huge region that included Yukon, northern British Columbia, parts of Alaska and the Northwest Territories. Witnesses described a brilliant object crossing the sky, followed by fragmentation and the appearance of dust clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</span></span></span>
 
-What made the event particularly unsettling was the gap between sight and sound. Many observers reported seeing the fireball disappear before hearing any explosion. In everyday experience, light and sound usually seem to arrive together. A giant meteor breaks that expectation because it explodes tens of kilometres above the ground. The flash reaches observers almost instantly, while the sound wave travels far more slowly through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+What made the event particularly unsettling was the gap between sight and sound. Many observers reported seeing the fireball disappear before hearing any explosion. In everyday experience, light and sound usually seem to arrive together. A giant meteor breaks that expectation because it explodes tens of kilometres above the ground. The flash reaches observers almost instantly, while the sound wave travels far more slowly through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
-For someone standing outdoors in Yukon on the morning of 18 January 2000, that delay could make the event feel disconnected from its cause. The bright object was gone, the sky appeared calm again, and only then did loud bangs arrive. That sequence often appears in reports of major [fireballs]({{ 'fireballs-9be056/' | relative_url }}) and is one reason such events can initially be mistaken for something stranger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+For someone standing outdoors in Yukon on the morning of 18 January 2000, that delay could make the event feel disconnected from its cause. The bright object was gone, the sky appeared calm again, and only then did loud bangs arrive. That sequence often appears in reports of major [fireballs]({{ 'fireballs-9be056/' | relative_url }}) and is one reason such events can initially be mistaken for something stranger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WjA3MsA5gIU" title="Tagish Lake meteorite - Public&#x27;s first look (2000)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WjA3MsA5gIU" target="_blank" rel="noopener noreferrer">Tagish Lake meteorite - Public&#x27;s first look (2000)</a></p><p class="youtube-embed-meta">Channel: Vintage Broadcasting System</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WjA3MsA5gIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WjA3MsA5gIU">Open on YouTube</a></p></div></div></div>
 
 ## Why sound arrived late
 
-The loud detonations associated with the Tagish Lake fireball were not conventional explosions occurring near the ground. They were produced as the meteoroid fragmented while travelling through the atmosphere at enormous speed. Instrumental studies later showed extensive fragmentation over heights roughly between 50 and 32 kilometres above Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+The loud detonations associated with the Tagish Lake fireball were not conventional explosions occurring near the ground. They were produced as the meteoroid fragmented while travelling through the atmosphere at enormous speed. Instrumental studies later showed extensive fragmentation over heights roughly between 50 and 32 kilometres above Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
-Light from those fragmentation events reached observers effectively instantaneously. Sound did not. Acoustic waves move through air at only a tiny fraction of the speed of light. If a fragmentation occurred dozens of kilometres away, the sound could take many tens of seconds or even several minutes to arrive, depending on the observer's location and atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+Light from those fragmentation events reached observers effectively instantaneously. Sound did not. Acoustic waves move through air at only a tiny fraction of the speed of light. If a fragmentation occurred dozens of kilometres away, the sound could take many tens of seconds or even several minutes to arrive, depending on the observer's location and atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
 This is why witnesses can experience a sequence that feels backwards:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A bright flash appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ight was an unusually bright meteor astronomers call a bolide or fireball...</span></span></span>
+* A bright flash appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ight was an unusually bright meteor astronomers call a bolide or fireball...</span></span></span>
 * The object vanishes.
 * Nothing happens for a noticeable interval.
 * One or more loud booms arrive.
@@ -295,228 +295,228 @@ This is why witnesses can experience a sequence that feels backwards:
 
 </div>
 
-The Tagish Lake event was powerful enough to be detected not only by eyewitnesses but also by infrasound and seismic instruments. Those recordings confirmed that substantial acoustic energy had been generated during the atmospheric breakup. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+The Tagish Lake event was powerful enough to be detected not only by eyewitnesses but also by infrasound and seismic instruments. Those recordings confirmed that substantial acoustic energy had been generated during the atmospheric breakup.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
-In UFO reporting, delayed sound often increases uncertainty because people naturally search for a nearby source after hearing a boom. In the Tagish Lake case, the source was actually far above the region and already gone by the time many listeners heard it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+In UFO reporting, delayed sound often increases uncertainty because people naturally search for a nearby source after hearing a boom. In the Tagish Lake case, the source was actually far above the region and already gone by the time many listeners heard it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-2-dark.svg" | relative_url }}" alt="Booms and trails illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How trails and colours fed uncertainty
 
-The second feature that made the fireball look unusual was the persistence of its trail. Unlike the brief streak left by an ordinary shooting star, the Tagish Lake fireball produced a conspicuous contrail and dust cloud that remained visible long after the object had fragmented. NASA described the trail as orange-white and blue, lingering for roughly ten to fifteen minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.nasa.gov">[NASA Astrobiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.nasa.gov</span><span class="citation-popover-title">the tagish lake meteorite</span><span class="citation-popover-snippet">NASA AstrobiologyThe Tagish Lake Meteorite: &#124; News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</span></span></span>
+The second feature that made the fireball look unusual was the persistence of its trail. Unlike the brief streak left by an ordinary shooting star, the Tagish Lake fireball produced a conspicuous contrail and dust cloud that remained visible long after the object had fragmented. NASA described the trail as orange-white and blue, lingering for roughly ten to fifteen minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.nasa.gov">[NASA Astrobiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.nasa.gov</span><span class="citation-popover-title">the tagish lake meteorite</span><span class="citation-popover-snippet">NASA AstrobiologyThe Tagish Lake Meteorite: &#124; News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</span></span></span>
 
-Photographs taken after the event show that the dust cloud remained visible over Whitehorse and elsewhere well after the fireball itself had disappeared. Some images were captured around ten minutes after the passage of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Fireball Events</span><span class="citation-popover-snippet">The Tagish Lake Fireball and Meteorite [18-Jan-2000]... Dust cloud as seen from Whitehorse ~10 minutes after the fireball. (C) Resulting...</span></span></span>
+Photographs taken after the event show that the dust cloud remained visible over Whitehorse and elsewhere well after the fireball itself had disappeared. Some images were captured around ten minutes after the passage of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Fireball Events</span><span class="citation-popover-snippet">The Tagish Lake Fireball and Meteorite [18-Jan-2000]... Dust cloud as seen from Whitehorse ~10 minutes after the fireball. (C) Resulting...</span></span></span>
 
 Several factors made these trails appear uncanny:
 
 * **Persistence:** The cloud remained visible long enough for people to study it rather than merely glimpse it.
 * **Changing shapes:** High-altitude winds gradually twisted and distorted the trail, making it look alive or self-propelled.
 * **Colour variation:** Sunlight interacting with fine dust and vapour created changing shades that observers remembered vividly.
-* **Fragmentation effects:** The meteoroid broke apart repeatedly, creating complex structures rather than a single straight line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.nasa.gov">[NASA Astrobiology+2aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.nasa.gov</span><span class="citation-popover-title">the tagish lake meteorite</span><span class="citation-popover-snippet">NASA AstrobiologyThe Tagish Lake Meteorite: &#124; News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</span></span></span>
+* **Fragmentation effects:** The meteoroid broke apart repeatedly, creating complex structures rather than a single straight line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobiology.nasa.gov">[NASA Astrobiology+2aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobiology.nasa.gov</span><span class="citation-popover-title">the tagish lake meteorite</span><span class="citation-popover-snippet">NASA AstrobiologyThe Tagish Lake Meteorite: &#124; News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</span></span></span>
 
-Because most people rarely see a major bolide, these features can seem inconsistent with a meteor. In reality, they are often signatures of a large object disintegrating high in the atmosphere. The Tagish Lake fireball was unusual precisely because it was large enough to generate a long-lasting dust trail and extensive fragmentation, not because it behaved contrary to known physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+Because most people rarely see a major bolide, these features can seem inconsistent with a meteor. In reality, they are often signatures of a large object disintegrating high in the atmosphere. The Tagish Lake fireball was unusual precisely because it was large enough to generate a long-lasting dust trail and extensive fragmentation, not because it behaved contrary to known physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OlZx-H0qmPk" title="Iconic: Tagish Lake Meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer">Iconic: Tagish Lake Meteorite</a></p><p class="youtube-embed-meta">Channel: Royal Ontario Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OlZx-H0qmPk">Open on YouTube</a></p></div></div></div>
 
 ## Why the fireball sounded impossible
 
-The lesson from Tagish Lake is that human perception naturally struggles with events occurring across enormous distances and speeds. Witnesses saw light that arrived almost instantly, heard sound that arrived much later, and watched a trail that lingered after the source had vanished. Each element pointed in a different direction if interpreted by everyday experience alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
+The lesson from Tagish Lake is that human perception naturally struggles with events occurring across enormous distances and speeds. Witnesses saw light that arrived almost instantly, heard sound that arrived much later, and watched a trail that lingered after the source had vanished. Each element pointed in a different direction if interpreted by everyday experience alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</span></span></span>
 
-For Yukon's broader history of unusual sky reports, this makes the event especially instructive. The delayed booms and lingering trails initially increased uncertainty and encouraged speculation. Later analysis showed that these same features were expected consequences of a large meteoroid breaking apart high above the region. Rather than weakening the explanation, the strange timing and appearance became part of the evidence that confirmed it. ADS AstroPhysics Data System+2aquarid.physics.uwo.ca <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ui.adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AstroPhysics Data SystemThe Tagish Lake meteorite fall: interpretation of fireball...by P Brown · 2001 · Cited by 12 — We have analy...</span></span></span>
+For Yukon's broader history of unusual sky reports, this makes the event especially instructive. The delayed booms and lingering trails initially increased uncertainty and encouraged speculation. Later analysis showed that these same features were expected consequences of a large meteoroid breaking apart high above the region. Rather than weakening the explanation, the strange timing and appearance became part of the evidence that confirmed it. ADS AstroPhysics Data System+2aquarid.physics.uwo.ca<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ui.adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AstroPhysics Data SystemThe Tagish Lake meteorite fall: interpretation of fireball...by P Brown · 2001 · Cited by 12 — We have analy...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-3-dark.svg" | relative_url }}" alt="Booms and trails illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the fireball sounded impossible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the fireball sounded impossible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coming of age in the Milky Way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/238834-M.jpg" alt="Cover for Coming of age in the Milky Way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in the Milky Way">Coming of age in the Milky Way</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Ferris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Coming of age in the Milky Way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/238834-M.jpg" alt="Cover for Coming of age in the Milky Way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in the Milky Way">Coming of age in the Milky Way</a>
+</h4>
+<p class="fr-book-author">By Timothy Ferris</p>
         
-        <p class="fr-book-desc">First published 1988. Subjects: Science, History, Space and time, Cosmology, Melkweg (sterrenkunde).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1988. Subjects: Science, History, Space and time, Cosmology, Melkweg (sterrenkunde).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their parent planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/347911-M.jpg" alt="Cover for Meteorites and their parent planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
-        </h4>
-        <p class="fr-book-author">By Harry Y. McSween</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites and their parent planets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/347911-M.jpg" alt="Cover for Meteorites and their parent planets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
+</h4>
+<p class="fr-book-author">By Harry Y. McSween</p>
         
-        <p class="fr-book-desc">First published 1987. Subjects: Meteorites, Météorites, Meteorit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1987. Subjects: Meteorites, Météorites, Meteorit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Death from the skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6255794-M.jpg" alt="Cover for Death from the skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the skies!">Death from the skies!</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Death from the skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6255794-M.jpg" alt="Cover for Death from the skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the skies!">Death from the skies!</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: End of the world (Astronomy), Nonfiction, Physics, Science, Astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: End of the world (Astronomy), Nonfiction, Physics, Science, Astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain of iron and ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134989-M.jpg" alt="Cover for Rain of iron and ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
-        </h4>
-        <p class="fr-book-author">By Lewis, John S.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain of iron and ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134989-M.jpg" alt="Cover for Rain of iron and ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
+</h4>
+<p class="fr-book-author">By Lewis, John S.</p>
         
-        <p class="fr-book-desc">First published 1996. Subjects: Impact, Comets, Environmental aspects, Asteroids, Environmental aspects of Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1996. Subjects: Impact, Comets, Environmental aspects, Asteroids, Environmental aspects of Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coming of age in the Milky Way</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their parent planets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Death+from+the+skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Death from the skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Coming of age in the Milky Way</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites and their parent planets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Death+from+the+skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Death from the skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs"><img src="{{ '/assets/images/marketplace-covers/037aa9b0904505b6f7fe.jpg' | relative_url }}" alt="Listing image for Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs"><img src="{{ '/assets/images/marketplace-covers/037aa9b0904505b6f7fe.jpg' | relative_url }}" alt="Listing image for Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Fat Quarter Night Sky Print Cotton Quilting Fabric Fresh Water Designs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="booms-and-trails-why-the-fireball-sounded-impossible-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,110 +722,110 @@ For Yukon's broader history of unusual sky reports, this makes the event especia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake Meteorite — Peter BrownA brilliant fireball followed by loud detonations was widely observed over the Yukon Territory and nor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astrobiology.nasa.gov  
    Title: the tagish lake meteorite  
-   Link: <a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite: | News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</p></details>
+   Link:<a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite: | News28 Jan 2002 — The rare Tagish Lake fireball left an orange-white and blue contrail that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An entry model for the Tagish Lake fireball using seismic...by PG BROWN · 2002 · Cited by 178 — Abstract–We present instrumental observ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aquarid.physics.uwo.ca  
    Title: Fireball Events  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake Fireball and Meteorite [18-Jan-2000]... Dust cloud as seen from Whitehorse ~10 minutes after the fireball. (C) Resulting...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/dustcloud_photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake Fireball and Meteorite [18-Jan-2000]... Dust cloud as seen from Whitehorse ~10 minutes after the fireball. (C) Resulting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupThe Western Meteor Physics Group studies meteors, meteoroids, meteorites and fireballs — their origins, the...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupThe Western Meteor Physics Group studies meteors, meteoroids, meteorites and fireballs — their origins, the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AstroPhysics Data SystemThe Tagish Lake meteorite fall: interpretation of fireball...by P Brown · 2001 · Cited by 12 — We have analy...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2001ESASP.495..497B/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AstroPhysics Data SystemThe Tagish Lake meteorite fall: interpretation of fireball...by P Brown · 2001 · Cited by 12 — We have analy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2007M%26PS...42..185C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2007M%26PS...42..185C/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2007M%26PS...42..185C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2007M%26PS...42..185C/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ight was an unusually bright meteor astronomers call a bolide or fireball...</p></details>
+   Link:<a href="https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/amirsonbi/posts/-breaking-sonic-boom-rocks-northern-michigan-after-massive-fireball-event-a-bril/1603570408443726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ight was an unusually bright meteor astronomers call a bolide or fireball...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cmsw.mit.edu  
-   Link: <a href="https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.edu[PDF] Morning Light - The Secret History of the Tagish Lake Fireball 0July 12, 2010 — The size of the fireball and the contrail th...</p></details>
+   Link:<a href="https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mit.edu[PDF] Morning Light - The Secret History of the Tagish Lake Fireball 0July 12, 2010 — The size of the fireball and the contrail th...</p></details>
    Published: July 12, 2010  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: midday meteor event rattles us with explosive sonic boom meteorstrike usameteor  
-   Link: <a href="https://www.facebook.com/tbsnews.net/posts/midday-meteor-event-rattles-us-with-explosive-sonic-boom-meteorstrike-usameteor-/1367593712082026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tbsnews.net/posts/midday-meteor-event-rattles-us-with-explosive-sonic-boom-meteorstrike-usameteor-/1367593712082026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Midday meteor event rattles US with explosive sonic boom...March 18, 2026 — A 7-ton meteor just exploded above Ohio and Pennsylvania, sh...</p></details>
+   Link:<a href="https://www.facebook.com/tbsnews.net/posts/midday-meteor-event-rattles-us-with-explosive-sonic-boom-meteorstrike-usameteor-/1367593712082026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tbsnews.net/posts/midday-meteor-event-rattles-us-with-explosive-sonic-boom-meteorstrike-usameteor-/1367593712082026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Midday meteor event rattles US with explosive sonic boom...March 18, 2026 — A 7-ton meteor just exploded above Ohio and Pennsylvania, sh...</p></details>
    Published: March 18, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lakechelannow.com  
    Title: Following Up: Local Eyewitness Reports on Last Week's Fireball  
-   Link: <a href="https://lakechelannow.com/following-up-local-eyewitness-reports-on-last-weeks-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://lakechelannow.com/following-up-local-eyewitness-reports-on-last-weeks-fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2020 — “My husband and I heard what sounded like a sonic boom at 1:26 pm today when we were hiking up the forest service road on S...</p></details>
+   Link:<a href="https://lakechelannow.com/following-up-local-eyewitness-reports-on-last-weeks-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://lakechelannow.com/following-up-local-eyewitness-reports-on-last-weeks-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2020 — “My husband and I heard what sounded like a sonic boom at 1:26 pm today when we were hiking up the forest service road on S...</p></details>
    Published: May 5, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: Witnesses reported a blinding streak of light and a loud boom  
-   Link: <a href="https://www.instagram.com/reel/DZGczmJCd-A/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZGczmJCd-A/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds of people across the Chicago area, northwest Indiana...June 3, 2026 — A massive fireball lit up the night sky over Chicago, Ind...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZGczmJCd-A/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZGczmJCd-A/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds of people across the Chicago area, northwest Indiana...June 3, 2026 — A massive fireball lit up the night sky over Chicago, Ind...</p></details>
    Published: June 3, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: x.com  
    Title: Days after a meteor exploded over New England, another fireball  
-   Link: <a href="https://x.com/CBSEveningNews/status/2061965732854817067" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CBSEveningNews/status/2061965732854817067</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 3, 2026 — Days after a meteor exploded over New England, another fireball was spotted, visible in the Midwest to the Northeast. 15...</p></details>
+   Link:<a href="https://x.com/CBSEveningNews/status/2061965732854817067" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CBSEveningNews/status/2061965732854817067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 3, 2026 — Days after a meteor exploded over New England, another fireball was spotted, visible in the Midwest to the Northeast. 15...</p></details>
    Published: June 3, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: An entry model for the Tagish Lake fireball using seismic  
-   Link: <a href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract— We present instrumental observations of the Tagish Lake fireball and interpret the observed characteristics in the context of t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract— We present instrumental observations of the Tagish Lake fireball and interpret the observed characteristics in the context of t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MIStormChasers/videos/posen-mi-had-a-front-row-seat-to-tonights-fireball-across-northern-michigan-with/1418286216986873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MIStormChasers/videos/posen-mi-had-a-front-row-seat-to-tonights-fireball-across-northern-michigan-with/1418286216986873/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>across northern Michigan, with sonic booms being reported around the Straits of...</p></details>
+   Link:<a href="https://www.facebook.com/MIStormChasers/videos/posen-mi-had-a-front-row-seat-to-tonights-fireball-across-northern-michigan-with/1418286216986873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MIStormChasers/videos/posen-mi-had-a-front-row-seat-to-tonights-fireball-across-northern-michigan-with/1418286216986873/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>across northern Michigan, with sonic booms being reported around the Straits of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: meteorites.asu.edu  
    Title: Buseck Center for Meteorite Studies Tagish Lake  
-   Link: <a href="https://meteorites.asu.edu/meteorites/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/tagish-lake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buseck Center for Meteorite StudiesTagish Lake - Buseck Center for Meteorite Studies30 Jan 2023 — According to the Meteoritical Bulletin...</p></details>
+   Link:<a href="https://meteorites.asu.edu/meteorites/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/tagish-lake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buseck Center for Meteorite StudiesTagish Lake - Buseck Center for Meteorite Studies30 Jan 2023 — According to the Meteoritical Bulletin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.westernu.ca  
    Title: ca Researchers seeking fragments of fireball  
-   Link: <a href="https://news.westernu.ca/2019/07/fireball-space-meteor-ontario/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2019/07/fireball-space-meteor-ontario/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seeking fragments of fireball - Western News24 Jul 2019 — Researchers are seeking the public&#x27;s help in locating fragments of a fireball t...</p></details>
+   Link:<a href="https://news.westernu.ca/2019/07/fireball-space-meteor-ontario/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2019/07/fireball-space-meteor-ontario/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seeking fragments of fireball - Western News24 Jul 2019 — Researchers are seeking the public&#x27;s help in locating fragments of a fireball t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: DI D YOU SEE THIS just after 2:30pm today?  
-   Link: <a href="https://www.instagram.com/reel/DW2TjcSEYf5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2TjcSEYf5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video... - InstagramApril 7, 2026 — Various social media users remarked they heard a loud boom accompanying the meteor. According to New...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW2TjcSEYf5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW2TjcSEYf5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video... - InstagramApril 7, 2026 — Various social media users remarked they heard a loud boom accompanying the meteor. According to New...</p></details>
    Published: April 7, 2026  

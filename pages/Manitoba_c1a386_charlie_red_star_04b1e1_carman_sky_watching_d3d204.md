@@ -256,7 +256,7 @@ image: /assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watchin
 
 ## Introduction
 
-The [Charlie Red Star]({{ 'charlie-red-star/' | relative_url }}) flap did not become a major [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) story simply because people reported strange lights. It became a regional phenomenon because large numbers of ordinary residents began actively looking for them. Around Carman and the wider Pembina Valley in 1975 and 1976, sky-watching evolved from isolated observations into a shared community activity. Farmers, families, journalists, visitors and UFO enthusiasts gathered along rural roads, watched horizons together and exchanged stories about what they had seen. As a result, reports spread rapidly, new witnesses emerged and Charlie Red Star became part of local culture rather than remaining a handful of disconnected sightings. At the same time, that social process made the case harder to evaluate. The more people expected to see Charlie, the more difficult it became to separate independent observations from the influence of rumour, anticipation and group interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
+The [Charlie Red Star]({{ 'charlie-red-star/' | relative_url }}) flap did not become a major [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) story simply because people reported strange lights. It became a regional phenomenon because large numbers of ordinary residents began actively looking for them. Around Carman and the wider Pembina Valley in 1975 and 1976, sky-watching evolved from isolated observations into a shared community activity. Farmers, families, journalists, visitors and UFO enthusiasts gathered along rural roads, watched horizons together and exchanged stories about what they had seen. As a result, reports spread rapidly, new witnesses emerged and Charlie Red Star became part of local culture rather than remaining a handful of disconnected sightings. At the same time, that social process made the case harder to evaluate. The more people expected to see Charlie, the more difficult it became to separate independent observations from the influence of rumour, anticipation and group interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watching_d3d204-Illustration-1-dark.svg" | relative_url }}" alt="Sky watching illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watching_d3d204-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watching_d3d204-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ The [Charlie Red Star]({{ 'charlie-red-star/' | relative_url }}) flap did not be
 
 The growth of Charlie Red Star reporting was closely tied to the geography and social life of southern Manitoba. Carman sits in open agricultural country with long sightlines, relatively dark night skies and extensive gravel-road networks. Once stories of unusual red lights began circulating, residents could easily drive to a promising viewing location and watch the horizon for hours.
 
-Accounts from later researchers and witnesses describe how the area developed an informal culture of UFO hunting. People travelled backroads after dark, compared notes with neighbours and returned repeatedly to locations where sightings had been reported. Grant Cameron, who later wrote a book on the flap and says he personally witnessed Charlie Red Star numerous times, recalled leading others to viewing locations. Contemporary descriptions portray the Pembina Valley as a place where chasing the lights became a form of local entertainment as well as a search for answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2University of Toronto Press Distribution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
+Accounts from later researchers and witnesses describe how the area developed an informal culture of UFO hunting. People travelled backroads after dark, compared notes with neighbours and returned repeatedly to locations where sightings had been reported. Grant Cameron, who later wrote a book on the flap and says he personally witnessed Charlie Red Star numerous times, recalled leading others to viewing locations. Contemporary descriptions portray the Pembina Valley as a place where chasing the lights became a form of local entertainment as well as a search for answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2University of Toronto Press Distribution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
 
-The process accelerated after the early Carman-area sightings became widely known. Reports associated with Bob and Elaine Diemert's property and nearby locations gave people a specific place to visit and a story to follow. By the time the flap reached its peak, observers were no longer simply stumbling across unusual lights; many were deliberately going out to find them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbnews101.ca">[Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbnews101.ca</span><span class="citation-popover-title">fifty years have passed since charlie red star phenomenon in 1975</span><span class="citation-popover-snippet">Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</span><span class="citation-popover-meta">Published: April 10, 1975</span></span></span>
+The process accelerated after the early Carman-area sightings became widely known. Reports associated with Bob and Elaine Diemert's property and nearby locations gave people a specific place to visit and a story to follow. By the time the flap reached its peak, observers were no longer simply stumbling across unusual lights; many were deliberately going out to find them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbnews101.ca">[Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbnews101.ca</span><span class="citation-popover-title">fifty years have passed since charlie red star phenomenon in 1975</span><span class="citation-popover-snippet">Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</span><span class="citation-popover-meta">Published: April 10, 1975</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VdjMxOkkOn0" title="Charlie Redstar: Manitoba&#x27;s Friendly UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer">Charlie Redstar: Manitoba&#x27;s Friendly UFO</a></p><p class="youtube-embed-meta">Channel: Frequency Pods</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VdjMxOkkOn0">Open on YouTube</a></p></div></div></div>
@@ -275,11 +275,11 @@ The process accelerated after the early Carman-area sightings became widely know
 
 One of the most distinctive features of the Charlie Red Star flap was the move from private witnessing to collective witnessing.
 
-Unlike many UFO cases that depend on a single observer, Carman developed a pattern of group observation. People gathered beside roads, in fields and near known viewing spots. According to later local accounts, enough visitors sometimes arrived to create traffic congestion on rural roads. The phenomenon became so familiar that local businesses and newspapers referenced Charlie Red Star in advertising and community conversation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbnews101.ca">[Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbnews101.ca</span><span class="citation-popover-title">fifty years have passed since charlie red star phenomenon in 1975</span><span class="citation-popover-snippet">Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</span><span class="citation-popover-meta">Published: April 10, 1975</span></span></span>
+Unlike many UFO cases that depend on a single observer, Carman developed a pattern of group observation. People gathered beside roads, in fields and near known viewing spots. According to later local accounts, enough visitors sometimes arrived to create traffic congestion on rural roads. The phenomenon became so familiar that local businesses and newspapers referenced Charlie Red Star in advertising and community conversation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbnews101.ca">[Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbnews101.ca</span><span class="citation-popover-title">fifty years have passed since charlie red star phenomenon in 1975</span><span class="citation-popover-snippet">Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</span><span class="citation-popover-meta">Published: April 10, 1975</span></span></span>
 
 This matters because group observation changes the character of a UFO report.
 
-On the one hand, multiple witnesses can strengthen a case. Independent observers who describe a similar light, colour or movement provide more evidence than a lone account. Repeated observations over many months also reduce the likelihood that every sighting resulted from a single brief mistake. Researchers such as Chris Rutkowski have pointed to the unusual concentration of reports as one reason the southern Manitoba flap remains notable in Canadian UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.hn">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.hn</span><span class="citation-popover-snippet">Google BooksThe Canadian UFO Report: The Best Cases RevealedChris Rutkowski is a science writer who has devoted much time to investigatin...</span></span></span>
+On the one hand, multiple witnesses can strengthen a case. Independent observers who describe a similar light, colour or movement provide more evidence than a lone account. Repeated observations over many months also reduce the likelihood that every sighting resulted from a single brief mistake. Researchers such as Chris Rutkowski have pointed to the unusual concentration of reports as one reason the southern Manitoba flap remains notable in Canadian UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.hn">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.hn</span><span class="citation-popover-snippet">Google BooksThe Canadian UFO Report: The Best Cases RevealedChris Rutkowski is a science writer who has devoted much time to investigatin...</span></span></span>
 
 On the other hand, group watching can blur independence. People standing together often discuss what they are seeing in real time. Descriptions spread quickly. Once a mysterious red light acquires a name, observers may begin interpreting later lights through that shared framework. The same social process that generates more reports can also make those reports less independent than they first appear.
 
@@ -291,7 +291,7 @@ The spread of Charlie reports offers a useful example of a well-known challenge 
 
 Once the nickname "Charlie Red Star" became established, observers were not approaching the night sky as blank slates. They had heard descriptions of a red object. They knew where sightings had supposedly occurred. Many hoped to witness the phenomenon themselves. In that environment, an unusual astronomical object, aircraft light or atmospheric effect might be interpreted differently than it would have been before the flap began.
 
-Psychologists and UFO researchers alike have long noted that people tend to notice and remember information that fits an existing narrative. In Carman, the narrative was powerful. Reports circulated through newspapers, conversations and visiting investigators. Each new sighting reinforced the sense that something extraordinary was happening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</span></span></span>
+Psychologists and UFO researchers alike have long noted that people tend to notice and remember information that fits an existing narrative. In Carman, the narrative was powerful. Reports circulated through newspapers, conversations and visiting investigators. Each new sighting reinforced the sense that something extraordinary was happening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</span></span></span>
 
 This does not mean witnesses were dishonest or mistaken. Rather, it highlights why repeated night-light cases are difficult to resolve. The same red light can appear dramatically different depending on viewing conditions, distance, atmospheric haze and what observers already believe they might be seeing.
 
@@ -304,9 +304,9 @@ For historians of Manitoba UFO reports, the spread of Charlie stories is therefo
 
 Sceptical explanations alone do not fully account for why Charlie Red Star remains discussed decades later.
 
-Many UFO flaps fade because they rely on a handful of weak reports. The southern Manitoba wave was different. Witnesses came from a range of backgrounds, sightings continued over an extended period and observers repeatedly claimed to see a similar red object or light. Journalists, investigators and curious residents continued returning because reports kept arriving rather than disappearing after a single burst of publicity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine+2firesidecanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</span></span></span>
+Many UFO flaps fade because they rely on a handful of weak reports. The southern Manitoba wave was different. Witnesses came from a range of backgrounds, sightings continued over an extended period and observers repeatedly claimed to see a similar red object or light. Journalists, investigators and curious residents continued returning because reports kept arriving rather than disappearing after a single burst of publicity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine+2firesidecanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</span></span></span>
 
-The strongest point in favour of taking the flap seriously is not any single dramatic sighting. It is the persistence of reporting. A recurring pattern observed by many people over many months is historically more significant than a one-night sensation. Even if some individual reports were influenced by expectation, the volume of testimony helps explain why the case occupies a prominent place in Manitoba's UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://utpdistribution.com/9781459737808/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utpdistribution.com">[University of Toronto Press Distribution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utpdistribution.com</span><span class="citation-popover-snippet">University of Toronto Press DistributionCharlie Red StarCharlie Red Star, the UFO that appeared again and again in the skies near the U.S...</span></span></span>
+The strongest point in favour of taking the flap seriously is not any single dramatic sighting. It is the persistence of reporting. A recurring pattern observed by many people over many months is historically more significant than a one-night sensation. Even if some individual reports were influenced by expectation, the volume of testimony helps explain why the case occupies a prominent place in Manitoba's UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://utpdistribution.com/9781459737808/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utpdistribution.com">[University of Toronto Press Distribution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utpdistribution.com</span><span class="citation-popover-snippet">University of Toronto Press DistributionCharlie Red StarCharlie Red Star, the UFO that appeared again and again in the skies near the U.S...</span></span></span>
 
 At the same time, the spread of reports weakens certain kinds of evidence. Once sky-watching became a community activity, it became increasingly difficult to identify which observations were genuinely independent and which were influenced by prior stories. That tension—between the value of many witnesses and the complications of shared expectations—sits at the heart of the Charlie Red Star mystery.
 
@@ -316,203 +316,203 @@ At the same time, the spread of reports weakens certain kinds of evidence. Once 
 
 The Carman experience demonstrates that UFO history is often as much about people as about objects in the sky.
 
-The spread of Charlie Red Star reports transformed a series of unusual light sightings into a regional event. Rural roads became observation points. Conversations became evidence networks. Witnesses encouraged more witnesses. In the process, southern Manitoba produced one of Canada's best-known UFO flaps, not because investigators found definitive proof of an extraordinary craft, but because an entire community became engaged in watching, reporting and debating what it thought it had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
+The spread of Charlie Red Star reports transformed a series of unusual light sightings into a regional event. Rural roads became observation points. Conversations became evidence networks. Witnesses encouraged more witnesses. In the process, southern Manitoba produced one of Canada's best-known UFO flaps, not because investigators found definitive proof of an extraordinary craft, but because an entire community became engaged in watching, reporting and debating what it thought it had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
 
-Within the broader history of Charlie Red Star and the southern Manitoba flap, the Carman sky-watching culture is therefore essential. It explains how scattered observations became a shared story, why the number of reports grew so rapidly, and why the resulting body of testimony remains both valuable and difficult to interpret half a century later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
+Within the broader history of Charlie Red Star and the southern Manitoba flap, the Carman sky-watching culture is therefore essential. It explains how scattered observations became a shared story, why the number of reports grew so rapidly, and why the resulting body of testimony remains both valuable and difficult to interpret half a century later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn+2Manitoba News 101]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-snippet">Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bcSI4rw0M4Q" title="Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer">Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)</a></p><p class="youtube-embed-meta">Channel: McNally Robinson Online Events</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bcSI4rw0M4Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Carman started chasing the lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Carman started chasing the lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores witness testimony and how multiple independent reports are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness testimony and how multiple independent reports are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses UFO sighting waves, witness reports, and the interpretation of unusual lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO sighting waves, witness reports, and the interpretation of unusual lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how culture, expectation, and shared stories shape reports of unusual phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how culture, expectation, and shared stories shape reports of unusual phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly relates to how expectation, social influence, and perception can affect witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to how expectation, social influence, and perception can affect witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3843a49def4024dc9809.jpg' | relative_url }}" alt="Listing image for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3843a49def4024dc9809.jpg' | relative_url }}" alt="Listing image for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-watching-when-carman-started-chasing-the-lights-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,110 +718,110 @@ Within the broader history of Charlie Red Star and the southern Manitoba flap, t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dundurn.com  
-   Link: <a href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</p></details>
+   Link:<a href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Red StarGrant Cameron was there. He witnessed Charlie Red Star many times... Pembina Valley area was apparently racing do...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.hn  
-   Link: <a href="https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Canadian UFO Report: The Best Cases RevealedChris Rutkowski is a science writer who has devoted much time to investigatin...</p></details>
+   Link:<a href="https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.hn/books?cad=4&amp;id=hEpQk_0zXLgC&amp;source=gbs_book_other_versions_r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Canadian UFO Report: The Best Cases RevealedChris Rutkowski is a science writer who has devoted much time to investigatin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: firesidecanada.ca  
    Title: charlie redstar manitobas friendly ufo  
-   Link: <a href="https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Redstar: Manitoba&#x27;s Friendly UFO16 Mar 2023 — For period of 16-18 months between 1975 and 1976, a mysterious red light was routin...</p></details>
+   Link:<a href="https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Redstar: Manitoba&#x27;s Friendly UFO16 Mar 2023 — For period of 16-18 months between 1975 and 1976, a mysterious red light was routin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cIgkz_o4ZAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cIgkz_o4ZAA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>‘Charlie Red Star’ UFOS and a Spacecraft on the Moon? With Bob Diemert...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cIgkz_o4ZAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cIgkz_o4ZAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‘Charlie Red Star’ UFOS and a Spacecraft on the Moon? With Bob Diemert...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mbnews101.ca  
    Title: fifty years have passed since charlie red star phenomenon in 1975  
-   Link: <a href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow">https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</p></details>
+   Link:<a href="https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/" target="_blank" rel="noopener noreferrer nofollow">https://mbnews101.ca/carman-dufferin-standard/fifty-years-have-passed-since-charlie-red-star-phenomenon-in-1975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manitoba News 101Fifty years have passed since Charlie Red Star...20 Mar 2025 — On April 10, 1975, Bob and Elaine Diemert were walking f...</p></details>
    Published: April 10, 1975  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: utpdistribution.com  
-   Link: <a href="https://utpdistribution.com/9781459737808/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://utpdistribution.com/9781459737808/charlie-red-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Press DistributionCharlie Red StarCharlie Red Star, the UFO that appeared again and again in the skies near the U.S...</p></details>
+   Link:<a href="https://utpdistribution.com/9781459737808/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://utpdistribution.com/9781459737808/charlie-red-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Press DistributionCharlie Red StarCharlie Red Star, the UFO that appeared again and again in the skies near the U.S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: darkpoutine.com  
    Title: 289 spooktober 3 more on canadian ufos and the charlie red star sightings  
-   Link: <a href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</p></details>
+   Link:<a href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dark PoutineMore on Canadian UFOs and The Charlie Red Star...16 Oct 2023 — We learn about a series of UFO sightings that occurred in the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VdjMxOkkOn0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Redstar: Manitoba&#x27;s Friendly UFOFor period of 16-18 months between 1975 and 1976, a mysterious red light was routinely seen flyin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VdjMxOkkOn0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Redstar: Manitoba&#x27;s Friendly UFOFor period of 16-18 months between 1975 and 1976, a mysterious red light was routinely seen flyin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thebooktrail.com  
    Title: charlie red star  
-   Link: <a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2017 — Grant Cameron witnessed Charlie Red Star many times himself and even led tours to show others what he and others were experi...</p></details>
+   Link:<a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2017 — Grant Cameron witnessed Charlie Red Star many times himself and even led tours to show others what he and others were experi...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: indigo.ca  
-   Link: <a href="https://www.indigo.ca/products/charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/charlie-red-star</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He witnessed Charlie Red Star many times, and led tours for others to see for themselves. He also caught wind of rumours of nuclear...Re...</p></details>
+   Link:<a href="https://www.indigo.ca/products/charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/charlie-red-star</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He witnessed Charlie Red Star many times, and led tours for others to see for themselves. He also caught wind of rumours of nuclear...Re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: bill carolyn have you ever seen a ufo do you think theres life out thereaccordin  
-   Link: <a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?there were 1,052 UFO reports, Chris Rutkowski, Canada&#x27;s UFOs: Declassified, August Night, 2022...</p></details>
+   Link:<a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?there were 1,052 UFO reports, Chris Rutkowski, Canada&#x27;s UFOs: Declassified, August Night, 2022...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/Charlie-Red-Star-Americas-Sightings/dp/1459737806?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Charlie-Red-Star-Americas-Sightings/dp/1459737806?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pembina Valley area was apparently racing down backroads trying to track down UFOs.Read more...</p></details>
+   Link:<a href="https://www.amazon.nl/Charlie-Red-Star-Americas-Sightings/dp/1459737806?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Charlie-Red-Star-Americas-Sightings/dp/1459737806?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pembina Valley area was apparently racing down backroads trying to track down UFOs.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mentalfloss.com  
    Title: ufo sighting documents donated to university of manitoba  
-   Link: <a href="https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Enthusiast Donates 30000 Sighting-Related...12 Dec 2019 — Ufologist Chris Rutkowski has donated his collection of 30000 documents re...</p></details>
+   Link:<a href="https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Enthusiast Donates 30000 Sighting-Related...12 Dec 2019 — Ufologist Chris Rutkowski has donated his collection of 30000 documents re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
    Title: Apparently, thousands of residents, from  
-   Link: <a href="https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star The Canadian UFO - Believing the BizarreBack in 1975 and 1976, Manitoba experienced a consistent and playful red orb that became...</p></details>
+   Link:<a href="https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star The Canadian UFO - Believing the BizarreBack in 1975 and 1976, Manitoba experienced a consistent and playful red orb that became...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: globalnews.ca  
    Title: ufo aliens canada expert chris rutkowksi  
-   Link: <a href="https://globalnews.ca/news/8125345/ufo-aliens-canada-expert-chris-rutkowksi/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/8125345/ufo-aliens-canada-expert-chris-rutkowksi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Q&amp;A: Expert Chris Rutkowski on the human drive to...21 Aug 2021 — Rutkowski spoke at length about the UFO phenomenon, the search for...</p></details>
+   Link:<a href="https://globalnews.ca/news/8125345/ufo-aliens-canada-expert-chris-rutkowksi/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/8125345/ufo-aliens-canada-expert-chris-rutkowksi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Q&amp;A: Expert Chris Rutkowski on the human drive to...21 Aug 2021 — Rutkowski spoke at length about the UFO phenomenon, the search for...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mcnallyrobinson.com  
    Title: Grant Cameron -- Book Launch  
-   Link: <a href="https://www.mcnallyrobinson.com/event-15778/Grant-Cameron----Book-Launch" target="_blank" rel="noopener noreferrer nofollow">https://www.mcnallyrobinson.com/event-15778/Grant-Cameron----Book-Launch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg13 Sept 2017 — Charlie Red Star, the UFO that appeared again and again in the skies near the U.S.–Manitoba border in 1975, launch...</p></details>
+   Link:<a href="https://www.mcnallyrobinson.com/event-15778/Grant-Cameron----Book-Launch" target="_blank" rel="noopener noreferrer nofollow">https://www.mcnallyrobinson.com/event-15778/Grant-Cameron----Book-Launch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg13 Sept 2017 — Charlie Red Star, the UFO that appeared again and again in the skies near the U.S.–Manitoba border in 1975, launch...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bcSI4rw0M4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of UFOs seen by average Canadians but also by pilots, RCMP, and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bcSI4rw0M4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of UFOs seen by average Canadians but also by pilots, RCMP, and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4qoPOIoe3ItGy5fwFcEMLp" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4qoPOIoe3ItGy5fwFcEMLp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comUFOs, Consciousness, and the Paranormal: A Deep Dive...7 Mar 2025 — Grant Cameron&#x27;s journey in Ufology – from witnessing Char...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4qoPOIoe3ItGy5fwFcEMLp" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4qoPOIoe3ItGy5fwFcEMLp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comUFOs, Consciousness, and the Paranormal: A Deep Dive...7 Mar 2025 — Grant Cameron&#x27;s journey in Ufology – from witnessing Char...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: open.spotify.com  
    Title: 7egb UTm HRv Fe JVtxf U8l1e  
-   Link: <a href="https://open.spotify.com/episode/7egbUTmHRvFeJVtxfU8l1e" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7egbUTmHRvFeJVtxfU8l1e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Canadian UFOs and The Charlie Red Star SightingsIn the show&#x27;s second half, we learn about a series of UFO sightings that occurred in t...</p></details>
+   Link:<a href="https://open.spotify.com/episode/7egbUTmHRvFeJVtxfU8l1e" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7egbUTmHRvFeJVtxfU8l1e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Canadian UFOs and The Charlie Red Star SightingsIn the show&#x27;s second half, we learn about a series of UFO sightings that occurred in t...</p></details>

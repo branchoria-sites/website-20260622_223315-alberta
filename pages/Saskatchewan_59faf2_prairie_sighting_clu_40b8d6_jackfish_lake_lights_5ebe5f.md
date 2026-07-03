@@ -262,21 +262,21 @@ image: /assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_l
 
 ## Introduction
 
-The Jackfish Lake lights are a useful example of a recurring problem in [Saskatchewan UFO]({{ 'explanations-051262/' | relative_url }}) research: a sighting can sound dramatic, yet still provide very little reliable evidence. Reports from the Jackfish Lake area in 2018 described unusual coloured lights and orb-like objects, but the available information consists largely of brief witness accounts and photographs that were never supported by detailed investigation, radar data, multiple independent witnesses, or physical traces. As a result, the case remains part of [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }})’s wider pattern of rural light reports, but it does not rank among the province’s stronger or better-documented incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+The Jackfish Lake lights are a useful example of a recurring problem in [Saskatchewan UFO]({{ 'explanations-051262/' | relative_url }}) research: a sighting can sound dramatic, yet still provide very little reliable evidence. Reports from the Jackfish Lake area in 2018 described unusual coloured lights and orb-like objects, but the available information consists largely of brief witness accounts and photographs that were never supported by detailed investigation, radar data, multiple independent witnesses, or physical traces. As a result, the case remains part of [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }})’s wider pattern of rural light reports, but it does not rank among the province’s stronger or better-documented incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-1-dark.svg" | relative_url }}" alt="Jackfish Lake illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of prairie sighting clusters beyond [Langenburg]({{ 'langenburg/' | relative_url }}), Jackfish Lake matters less because of what it proves and more because of what it demonstrates about evidence. The reports show how easily unusual lights can become UFO stories when there is little information available to test alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+Within the broader story of prairie sighting clusters beyond [Langenburg]({{ 'langenburg/' | relative_url }}), Jackfish Lake matters less because of what it proves and more because of what it demonstrates about evidence. The reports show how easily unusual lights can become UFO stories when there is little information available to test alternative explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
 ## What can the Jackfish Lake lights prove?
 
 ### The reported lights near Jackfish Lake
 
-The best-known reports from Jackfish Lake emerged through the annual Canadian UFO survey covering 2018 [sightings]({{ 'sightings-3aa7bd/' | relative_url }}). According to summaries published in Saskatchewan news outlets, one witness reported seeing multi-coloured spherical lights near Jackfish Lake at around 2 a.m. on 29 June 2018. The account included claims of subsequent dreams and what the witness described as “spiritual attacks.” A second report from 5 July involved a photograph of a silver orb-like object in daylight, while another report later in July described a colourful bright ball that was also photographed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+The best-known reports from Jackfish Lake emerged through the annual Canadian UFO survey covering 2018 [sightings]({{ 'sightings-3aa7bd/' | relative_url }}). According to summaries published in Saskatchewan news outlets, one witness reported seeing multi-coloured spherical lights near Jackfish Lake at around 2 a.m. on 29 June 2018. The account included claims of subsequent dreams and what the witness described as “spiritual attacks.” A second report from 5 July involved a photograph of a silver orb-like object in daylight, while another report later in July described a colourful bright ball that was also photographed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
-At first glance, multiple reports from the same area within a few weeks may appear significant. Jackfish Lake is a large recreational lake surrounded by resort communities, beaches and open countryside, creating conditions where many people spend time outdoors and have clear views of the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jackfish Lake (Saskatchewan</span><span class="citation-popover-snippet">Jackfish Lake (Saskatchewan</span></span></span>
+At first glance, multiple reports from the same area within a few weeks may appear significant. Jackfish Lake is a large recreational lake surrounded by resort communities, beaches and open countryside, creating conditions where many people spend time outdoors and have clear views of the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jackfish Lake (Saskatchewan</span><span class="citation-popover-snippet">Jackfish Lake (Saskatchewan</span></span></span>
 
-However, the publicly available descriptions are extremely brief. There is no widely published record of coordinated witness interviews, instrument measurements, aviation correlation, weather analysis, or official investigation. The sightings therefore remain anecdotes rather than thoroughly documented events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW+2paNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+However, the publicly available descriptions are extremely brief. There is no widely published record of coordinated witness interviews, instrument measurements, aviation correlation, weather analysis, or official investigation. The sightings therefore remain anecdotes rather than thoroughly documented events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW+2paNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qaS94Z2IZG4" title="Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer">Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?</a></p><p class="youtube-embed-meta">Channel: CBC News Saskatchewan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qaS94Z2IZG4">Open on YouTube</a></p></div></div></div>
@@ -285,7 +285,7 @@ However, the publicly available descriptions are extremely brief. There is no wi
 
 The main weakness in the Jackfish Lake reports is not that the witnesses were necessarily mistaken. Rather, it is that many of the reported details are subjective and difficult to verify.
 
-In the most frequently cited account, the unusual lights were accompanied by claims of dreams and spiritual experiences. Such experiences may have been entirely real to the witness, but they cannot be independently tested and do not help investigators determine what was actually present in the sky. Instead, they make the report harder to analyse because personal interpretation becomes mixed with direct observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+In the most frequently cited account, the unusual lights were accompanied by claims of dreams and spiritual experiences. Such experiences may have been entirely real to the witness, but they cannot be independently tested and do not help investigators determine what was actually present in the sky. Instead, they make the report harder to analyse because personal interpretation becomes mixed with direct observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
 The photographic evidence is also limited. Photographs of distant bright objects often suffer from several problems:
 
@@ -301,9 +301,9 @@ The photographic evidence is also limited. Photographs of distant bright objects
 
 </div>
 
-A photograph that appears to show a bright orb does not automatically demonstrate that an unusual object was present. Without supporting information, investigators cannot easily distinguish between an unusual aerial object, a camera effect, or a conventional object seen under unusual conditions. The publicly available summaries of the Jackfish Lake reports provide little detail that would allow such testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+A photograph that appears to show a bright orb does not automatically demonstrate that an unusual object was present. Without supporting information, investigators cannot easily distinguish between an unusual aerial object, a camera effect, or a conventional object seen under unusual conditions. The publicly available summaries of the Jackfish Lake reports provide little detail that would allow such testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
-This places the case in a different category from stronger Canadian incidents that involved multiple witnesses, official investigations, radar observations, or physical evidence. The Jackfish Lake reports are interesting observations, but they do not reach that evidential standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larongenow.com">[larongeNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larongenow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+This places the case in a different category from stronger Canadian incidents that involved multiple witnesses, official investigations, radar observations, or physical evidence. The Jackfish Lake reports are interesting observations, but they do not reach that evidential standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larongenow.com">[larongeNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larongenow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-2-dark.svg" | relative_url }}" alt="Jackfish Lake illustration 2" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,9 +311,9 @@ This places the case in a different category from stronger Canadian incidents th
 
 One reason reports like those from Jackfish Lake continue to appear is that rural Saskatchewan provides excellent conditions for observing distant lights.
 
-Large lakes, open farmland and relatively low light pollution can make stars, planets, satellites, aircraft and atmospheric phenomena appear unusually bright. Observers often have very few nearby landmarks for judging distance, altitude or speed. A light that seems to hover over a lake may actually be far beyond it. A bright object near the horizon can appear larger, more colourful or more mobile than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernescapephotography.com">[Northern Escape Photography+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernescapephotography.com</span><span class="citation-popover-title">Northern Escape Photography Northern Lights in Saskatchewan</span><span class="citation-popover-snippet">Northern Escape PhotographyNorthern Lights in SaskatchewanJanuary 19, 2020 — 19 Jan 2020 — With many rural areas, small towns and village...</span><span class="citation-popover-meta">Published: January 19, 2020</span></span></span>
+Large lakes, open farmland and relatively low light pollution can make stars, planets, satellites, aircraft and atmospheric phenomena appear unusually bright. Observers often have very few nearby landmarks for judging distance, altitude or speed. A light that seems to hover over a lake may actually be far beyond it. A bright object near the horizon can appear larger, more colourful or more mobile than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernescapephotography.com">[Northern Escape Photography+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernescapephotography.com</span><span class="citation-popover-title">Northern Escape Photography Northern Lights in Saskatchewan</span><span class="citation-popover-snippet">Northern Escape PhotographyNorthern Lights in SaskatchewanJanuary 19, 2020 — 19 Jan 2020 — With many rural areas, small towns and village...</span><span class="citation-popover-meta">Published: January 19, 2020</span></span></span>
 
-Jackfish Lake itself sits in an area known for broad views across water and open prairie. Elevated viewpoints around the lake can provide long sightlines extending many kilometres. While those conditions are excellent for skywatching, they can also make it difficult to determine exactly what is being observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tourismsaskatchewan.com">[Tourism Saskatchewan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tourismsaskatchewan.com</span><span class="citation-popover-snippet">Tourism SaskatchewanCochin LighthouseThe 153 wooden steps up to the lighthouse take you to the top of Pirot Hill, giving you spectacular...</span></span></span>
+Jackfish Lake itself sits in an area known for broad views across water and open prairie. Elevated viewpoints around the lake can provide long sightlines extending many kilometres. While those conditions are excellent for skywatching, they can also make it difficult to determine exactly what is being observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tourismsaskatchewan.com">[Tourism Saskatchewan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tourismsaskatchewan.com</span><span class="citation-popover-snippet">Tourism SaskatchewanCochin LighthouseThe 153 wooden steps up to the lighthouse take you to the top of Pirot Hill, giving you spectacular...</span></span></span>
 
 This does not explain every sighting automatically. It does, however, explain why unusual light reports are common in Saskatchewan and why investigators are cautious about drawing conclusions from isolated observations.
 
@@ -322,7 +322,7 @@ This does not explain every sighting automatically. It does, however, explain wh
 
 ## How rural sightings should be checked
 
-The Jackfish Lake case illustrates the difference between a report and evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jackfish Lake (Saskatchewan</span><span class="citation-popover-snippet">Jackfish Lake (Saskatchewan</span></span></span>
+The Jackfish Lake case illustrates the difference between a report and evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jackfish Lake (Saskatchewan</span><span class="citation-popover-snippet">Jackfish Lake (Saskatchewan</span></span></span>
 
 When investigators assess a rural light sighting, several questions matter more than the initial description:
 
@@ -332,209 +332,209 @@ When investigators assess a rural light sighting, several questions matter more 
 4. **Was the object observed long enough to estimate movement accurately?** Brief sightings are much harder to evaluate.
 5. **Did any physical or instrumented evidence exist?** Radar, weather data and aviation [records]({{ 'records-f9e6ac/' | relative_url }}) can strengthen a case considerably.
 
-The publicly available Jackfish Lake reports provide little information in these areas. That does not prove the witnesses were wrong. It simply means the available evidence is too limited to support strong conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW+2paNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+The publicly available Jackfish Lake reports provide little information in these areas. That does not prove the witnesses were wrong. It simply means the available evidence is too limited to support strong conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW+2paNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-3-dark.svg" | relative_url }}" alt="Jackfish Lake illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the case fits in Saskatchewan UFO history
 
-The Jackfish Lake lights occupy a middle ground that is common in Saskatchewan UFO records. They are more specific than a vague rumour because named dates, locations and witness claims were recorded. Yet they remain far weaker than the province's most discussed incidents because the supporting evidence is sparse and largely anecdotal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
+The Jackfish Lake lights occupy a middle ground that is common in Saskatchewan UFO records. They are more specific than a vague rumour because named dates, locations and witness claims were recorded. Yet they remain far weaker than the province's most discussed incidents because the supporting evidence is sparse and largely anecdotal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasknow.com">[saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasknow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</span><span class="citation-popover-meta">Published: May 31, 2019</span></span></span>
 
-For readers exploring prairie sighting clusters beyond Langenburg, the lesson is straightforward. Rural reports can be sincere, vivid and memorable while still leaving investigators with very little to work with. The Jackfish Lake lights remain an example of an unresolved observation rather than a demonstrated mystery: intriguing enough to be recorded, but not strong enough to establish that anything extraordinary occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larongenow.com">[larongeNOW+2saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larongenow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+For readers exploring prairie sighting clusters beyond Langenburg, the lesson is straightforward. Rural reports can be sincere, vivid and memorable while still leaving investigators with very little to work with. The Jackfish Lake lights remain an example of an unresolved observation rather than a demonstrated mystery: intriguing enough to be recorded, but not strong enough to establish that anything extraordinary occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larongenow.com">[larongeNOW+2saskNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larongenow.com</span><span class="citation-popover-title">saskatchewan ufo reports in 2018 include jackfish lake prince albert</span><span class="citation-popover-snippet">Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4eG7Z5de1D0" title="The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer">The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: The Canadian Gothic Live Recordings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4eG7Z5de1D0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can the Jackfish Lake lights prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can the Jackfish Lake lights prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of stronger documented sightings, helping readers compare them with weakly evidenced rural light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of stronger documented sightings, helping readers compare them with weakly evidenced rural light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on critical thinking, evidence evaluation, and avoiding conclusions from insufficient data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on critical thinking, evidence evaluation, and avoiding conclusions from insufficient data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports are evaluated and why witness testimony alone rarely proves extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports are evaluated and why witness testimony alone rarely proves extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Shows the importance of documentation, investigation, and historical context when assessing sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the importance of documentation, investigation, and historical context when assessing sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="jackfish-lake-what-can-the-jackfish-lake-lights-prove-saskatchewan-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,114 +740,114 @@ For readers exploring prairie sighting clusters beyond Langenburg, the lesson is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sasknow.com  
    Title: saskatchewan ufo reports in 2018 include jackfish lake prince albert  
-   Link: <a href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</p></details>
+   Link:<a href="https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://sasknow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...May 31, 2019 — It was June 29, 2018, at around 2 a.m. when one person r...</p></details>
    Published: May 31, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: panow.com  
    Title: saskatchewan ufo reports in 2018 include jackfish lake prince albert  
-   Link: <a href="https://panow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — It was June 29, 2018, at around 2 a.m. when one person reportedly...</p></details>
+   Link:<a href="https://panow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — It was June 29, 2018, at around 2 a.m. when one person reportedly...</p></details>
    Published: June 29, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: larongenow.com  
    Title: saskatchewan ufo reports in 2018 include jackfish lake prince albert  
-   Link: <a href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</p></details>
+   Link:<a href="https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/" target="_blank" rel="noopener noreferrer nofollow">https://larongenow.com/2019/05/31/saskatchewan-ufo-reports-in-2018-include-jackfish-lake-prince-albert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan UFO reports in 2018 include Jackfish Lake...31 May 2019 — “The continued reporting of UFOs by the public and the...</p></details>
    Published: May 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Jackfish Lake (Saskatchewan)  
-   Link: <a href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jackfish_Lake_%28Saskatchewan%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Battlefords Provincial Park  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Battlefords_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Battlefords_Provincial_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Battlefords_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Battlefords_Provincial_Park</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: panow.com  
    Title: Studies show UFO sightings rising in Sask  
-   Link: <a href="https://panow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Canada11 Aug 2022 — Studies show UFO sightings rising in Sask. and Canada... Unidentified flying objects, or UFOs for short, have be...</p></details>
+   Link:<a href="https://panow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Canada11 Aug 2022 — Studies show UFO sightings rising in Sask. and Canada... Unidentified flying objects, or UFOs for short, have be...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: northernescapephotography.com  
    Title: Northern Escape Photography Northern Lights in Saskatchewan  
-   Link: <a href="https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Escape PhotographyNorthern Lights in SaskatchewanJanuary 19, 2020 — 19 Jan 2020 — With many rural areas, small towns and village...</p></details>
+   Link:<a href="https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://northernescapephotography.com/2020/01/19/northern-lights-in-saskatchewan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern Escape PhotographyNorthern Lights in SaskatchewanJanuary 19, 2020 — 19 Jan 2020 — With many rural areas, small towns and village...</p></details>
    Published: January 19, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tourismsaskatchewan.com  
-   Link: <a href="https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism SaskatchewanCochin LighthouseThe 153 wooden steps up to the lighthouse take you to the top of Pirot Hill, giving you spectacular...</p></details>
+   Link:<a href="https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismsaskatchewan.com/listings/130/cochin-lighthouse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tourism SaskatchewanCochin LighthouseThe 153 wooden steps up to the lighthouse take you to the top of Pirot Hill, giving you spectacular...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sask UFO sightings: r/saskatchewanSkip to main content Sask UFO sightings: r/saskatchewan... Like a year after I saw the 3 lights, tha...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sask UFO sightings: r/saskatchewanSkip to main content Sask UFO sightings: r/saskatchewan... Like a year after I saw the 3 lights, tha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/18ig6o7/unexplainable_sk_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/18ig6o7/unexplainable_sk_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplainable SK Lights: r/saskatchewanThe lights appeared as if they were regular stars in the sky, except for the movement they took o...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/18ig6o7/unexplainable_sk_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/18ig6o7/unexplainable_sk_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplainable SK Lights: r/saskatchewanThe lights appeared as if they were regular stars in the sky, except for the movement they took o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/1pcpx06/what_are_these_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1pcpx06/what_are_these_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are these lights: r/saskatchewanComing from Regina, precisely 190 kms from Saskatoon, just before Findlater, the heck are these? Lo...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/1pcpx06/what_are_these_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1pcpx06/what_are_these_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are these lights: r/saskatchewanComing from Regina, precisely 190 kms from Saskatoon, just before Findlater, the heck are these? Lo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: last year 1101 people reported seeing unusual lights and shapes in canadas skies  
-   Link: <a href="https://www.facebook.com/CTVNews/posts/last-year-1101-people-reported-seeing-unusual-lights-and-shapes-in-canadas-skies/2157422420966339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/last-year-1101-people-reported-seeing-unusual-lights-and-shapes-in-canadas-skies/2157422420966339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in a single year since the Canadian UFO Survey began in 1989.... Close encounters in Canada: UFO data reveals unexplained al...</p></details>
+   Link:<a href="https://www.facebook.com/CTVNews/posts/last-year-1101-people-reported-seeing-unusual-lights-and-shapes-in-canadas-skies/2157422420966339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/last-year-1101-people-reported-seeing-unusual-lights-and-shapes-in-canadas-skies/2157422420966339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports in a single year since the Canadian UFO Survey began in 1989.... Close encounters in Canada: UFO data reveals unexplained al...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sualtigazetesi.com  
    Title: saskatchewan does have lighthouses like this one at jackfish lake  
-   Link: <a href="https://www.sualtigazetesi.com/saskatchewan-does-have-lighthouses-like-this-one-at-jackfish-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.sualtigazetesi.com/saskatchewan-does-have-lighthouses-like-this-one-at-jackfish-lake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan Does Have Lighthouses, Like This One at...13 Jul 2025 — Attracting tourists from across Saskatchewan and beyond, the lighth...</p></details>
+   Link:<a href="https://www.sualtigazetesi.com/saskatchewan-does-have-lighthouses-like-this-one-at-jackfish-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.sualtigazetesi.com/saskatchewan-does-have-lighthouses-like-this-one-at-jackfish-lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saskatchewan Does Have Lighthouses, Like This One at...13 Jul 2025 — Attracting tourists from across Saskatchewan and beyond, the lighth...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: tornadowaterspout over jackfish lake saskatchewan  
-   Link: <a href="https://www.reddit.com/r/tornado/comments/lszs4t/tornadowaterspout_over_jackfish_lake_saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tornado/comments/lszs4t/tornadowaterspout_over_jackfish_lake_saskatchewan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tornado/waterspout over Jackfish Lake, Saskatchewan in...Tornado/waterspout over Jackfish Lake, Saskatchewan in July 1923. One of the ea...</p></details>
+   Link:<a href="https://www.reddit.com/r/tornado/comments/lszs4t/tornadowaterspout_over_jackfish_lake_saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tornado/comments/lszs4t/tornadowaterspout_over_jackfish_lake_saskatchewan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tornado/waterspout over Jackfish Lake, Saskatchewan in...Tornado/waterspout over Jackfish Lake, Saskatchewan in July 1923. One of the ea...</p></details>
    Published: July 1923  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CmaUlujo_yI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CmaUlujo_yI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w weeks back on a much warmer night. Taken from Meota beach.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/CmaUlujo_yI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CmaUlujo_yI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w weeks back on a much warmer night. Taken from Meota beach.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: netflix.com  
    Title: unsolved mysteries something in the sky  
-   Link: <a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;18 Oct 2022 — On the evening of March 8, 1994, more than 300 calls flooded into 911...</p></details>
+   Link:<a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Unsolved Mysteries&#x27; Volume 3: &#x27;Something In the Sky&#x27;18 Oct 2022 — On the evening of March 8, 1994, more than 300 calls flooded into 911...</p></details>
    Published: March 8, 1994  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farmer Sees 5 Metallic Rotating Objects Leave Circles On His Crops | Close Encounters...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianHistoryEhx/videos/while-saskatchewan-is-a-landlocked-province-you-can-still-find-a-lighthouse-ther/1658411305495217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianHistoryEhx/videos/while-saskatchewan-is-a-landlocked-province-you-can-still-find-a-lighthouse-ther/1658411305495217/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e there. It is the Cochin Lighthouse on Jackfish Lake...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianHistoryEhx/videos/while-saskatchewan-is-a-landlocked-province-you-can-still-find-a-lighthouse-ther/1658411305495217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianHistoryEhx/videos/while-saskatchewan-is-a-landlocked-province-you-can-still-find-a-lighthouse-ther/1658411305495217/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e there. It is the Cochin Lighthouse on Jackfish Lake...</p></details>

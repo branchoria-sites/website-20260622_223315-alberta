@@ -284,15 +284,15 @@ image: /assets/images/Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e-ov
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
-For PEI UFO history, this matters because several memorable Island reports involve lights seen across water or in sparse rural skies rather than close, detailed objects. The best first question is therefore not whether a witness was sincere, but whether the setting supplied enough clues to judge height, distance, motion and identity. Canadian agencies now use broad language for unidentified aerial phenomena, and official guidance recognises that drones, balloons, meteors, weather phenomena, satellites and ordinary aircraft can all enter the reporting stream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+For PEI UFO history, this matters because several memorable Island reports involve lights seen across water or in sparse rural skies rather than close, detailed objects. The best first question is therefore not whether a witness was sincere, but whether the setting supplied enough clues to judge height, distance, motion and identity. Canadian agencies now use broad language for unidentified aerial phenomena, and official guidance recognises that drones, balloons, meteors, weather phenomena, satellites and ordinary aircraft can all enter the reporting stream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
 ## Why PEI’s coast can make ordinary lights look strange
 
-PEI has more coastline than its small land area might suggest. Tourism and lighthouse sources commonly describe the Island as having more than 1,100 kilometres of coastline, with lighthouses, harbours and headlands marking the Gulf of St Lawrence and Northumberland Strait. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://welcomepei.com/pei-lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welcomepei.com">[Welcome PEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welcomepei.com</span><span class="citation-popover-title">Welcome PEIPEI Lighthouses</span><span class="citation-popover-snippet">February 12, 2014 — Prince Edward Island is home to 63 lighthouses spread along more than 1,100 kilometres of coastline. navigating the G...</span><span class="citation-popover-meta">Published: February 12, 2014</span></span></span> The Canadian Coast Guard’s Atlantic list of lights, buoys and fog signals explicitly covers the Coast of Prince Edward Island, Northumberland Strait and the Gulf and River St Lawrence, which is a reminder that the Island’s night landscape is not a blank horizon but a managed maritime environment full of navigational signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</span></span></span>
+PEI has more coastline than its small land area might suggest. Tourism and lighthouse sources commonly describe the Island as having more than 1,100 kilometres of coastline, with lighthouses, harbours and headlands marking the Gulf of St Lawrence and Northumberland Strait.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://welcomepei.com/pei-lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welcomepei.com">[Welcome PEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welcomepei.com</span><span class="citation-popover-title">Welcome PEIPEI Lighthouses</span><span class="citation-popover-snippet">February 12, 2014 — Prince Edward Island is home to 63 lighthouses spread along more than 1,100 kilometres of coastline. navigating the G...</span><span class="citation-popover-meta">Published: February 12, 2014</span></span></span> The Canadian Coast Guard’s Atlantic list of lights, buoys and fog signals explicitly covers the Coast of Prince Edward Island, Northumberland Strait and the Gulf and River St Lawrence, which is a reminder that the Island’s night landscape is not a blank horizon but a managed maritime environment full of navigational signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</span></span></span>
 
 That matters for UFO interpretation because a coastal witness may see a light without seeing the boat, buoy, lighthouse structure or shoreline that explains it. Over dark water, the human eye has fewer reference points. A light that is actually low and distant can seem to hover; a flashing navigation aid can seem to pulse deliberately; a vessel moving towards or away from the observer can appear nearly stationary; and a light partly masked by haze, sea spray or low cloud can appear to blink, split or vanish.
 
-Lighthouses are the most obvious example, but not the only one. The PEI Lighthouse Society lists several coastal lights with practical maritime histories, including Cape Bear, built to aid fishery and transportation on Northumberland Strait, and East Point, where the Gulf of St Lawrence and Northumberland Strait meet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://peilighthousesociety.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peilighthousesociety.ca">[Prince Edward Island Lighthouse Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peilighthousesociety.ca</span><span class="citation-popover-title">Prince Edward Island Lighthouse Society Home</span><span class="citation-popover-snippet">Lawrence and Northumberland Strait meet to create a show of nature&#x27;s force.Read more...</span></span></span> East Point Lighthouse is also described in Canada’s Historic Places register as standing at the eastern tip of PEI, overlooking waters where the Atlantic, Northumberland Strait and Gulf of St Lawrence meet; the same record notes that navigation around that tip of the Island was difficult enough to make a lighthouse welcome in 1867. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicplaces.ca">[Historic Places]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicplaces.ca</span><span class="citation-popover-snippet">Historic PlacesEast Point LighthouseLocated on the eastern tip of Prince Edward Island, the East Point Lighthouse overlooks the sea where...</span></span></span>
+Lighthouses are the most obvious example, but not the only one. The PEI Lighthouse Society lists several coastal lights with practical maritime histories, including Cape Bear, built to aid fishery and transportation on Northumberland Strait, and East Point, where the Gulf of St Lawrence and Northumberland Strait meet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://peilighthousesociety.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peilighthousesociety.ca">[Prince Edward Island Lighthouse Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peilighthousesociety.ca</span><span class="citation-popover-title">Prince Edward Island Lighthouse Society Home</span><span class="citation-popover-snippet">Lawrence and Northumberland Strait meet to create a show of nature&#x27;s force.Read more...</span></span></span> East Point Lighthouse is also described in Canada’s Historic Places register as standing at the eastern tip of PEI, overlooking waters where the Atlantic, Northumberland Strait and Gulf of St Lawrence meet; the same record notes that navigation around that tip of the Island was difficult enough to make a lighthouse welcome in 1867.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicplaces.ca">[Historic Places]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicplaces.ca</span><span class="citation-popover-snippet">Historic PlacesEast Point LighthouseLocated on the eastern tip of Prince Edward Island, the East Point Lighthouse overlooks the sea where...</span></span></span>
 
 The key point for UFO reports is not that a named lighthouse explains every sighting. It is that PEI’s shorelines contain many legitimate light sources, some fixed and some moving. A report that says “a bright light over the water” needs a bearing, an estimated elevation, a time, weather notes and a check against known aids to navigation before it can be treated as more than ambiguous.
 
@@ -302,11 +302,11 @@ The key point for UFO reports is not that a named lighthouse explains every sigh
 
 Many Island sightings become puzzling because the witness is looking across a mostly featureless scene. A light above a field, road or harbour can be compared with trees, poles, buildings, hills or clouds. A light over the Gulf of St Lawrence or Northumberland Strait may have almost no visible scale marker at all.
 
-This is where two common mistakes enter PEI reports. First, [witnesses]({{ 'witnesses/' | relative_url }}) often estimate distance from brightness. That is unreliable. The Canadian Aids to Navigation System warns that atmospheric conditions can have a considerable effect on light transmission and that the distance to a light cannot be reliably estimated from apparent brightness. It also notes that colour discrimination can become difficult under some conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waves-vagues.dfo-mpo.gc.ca">[Waves Vagues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waves-vagues.dfo-mpo.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> A bright white light may therefore feel nearby and airborne even when it is farther away, lower, or partly altered by the air between the observer and the source.
+This is where two common mistakes enter PEI reports. First, [witnesses]({{ 'witnesses/' | relative_url }}) often estimate distance from brightness. That is unreliable. The Canadian Aids to Navigation System warns that atmospheric conditions can have a considerable effect on light transmission and that the distance to a light cannot be reliably estimated from apparent brightness. It also notes that colour discrimination can become difficult under some conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waves-vagues.dfo-mpo.gc.ca">[Waves Vagues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waves-vagues.dfo-mpo.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span> A bright white light may therefore feel nearby and airborne even when it is farther away, lower, or partly altered by the air between the observer and the source.
 
-Second, witnesses often read apparent movement as real movement. In a dark or featureless visual field, a single point of light can seem to drift or wobble even if it is stationary. UFO investigators and sceptical analysts often call this the autokinetic effect: when a small isolated light in darkness appears to move because the observer lacks stable visual references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process</span></span></span> This is especially relevant for PEI shore observations because a person looking out over black water may be staring at one or two lights with little else in view.
+Second, witnesses often read apparent movement as real movement. In a dark or featureless visual field, a single point of light can seem to drift or wobble even if it is stationary. UFO investigators and sceptical analysts often call this the autokinetic effect: when a small isolated light in darkness appears to move because the observer lacks stable visual references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer UFO Identification Process</span><span class="citation-popover-snippet">Skeptical Inquirer UFO Identification Process</span></span></span> This is especially relevant for PEI shore observations because a person looking out over black water may be staring at one or two lights with little else in view.
 
-Atmospheric refraction can complicate matters further. Mirages and related optical effects occur when light bends through air layers of different temperature and density; over water, distant objects near the horizon can be displaced, stretched, lifted or distorted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">Open source on gsu.edu.</span></span></span> PEI’s spring and coastal weather can provide the kind of layered air that makes distant light interpretation harder. NAV CANADA’s Atlantic weather manual notes that fog is a major spring problem as Gulf ice breaks up and warmer air masses move into the Maritimes, with low stratus also developing in northerly winds off the Gulf. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navcanada.ca/en/lawm-atlantic-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[NAV CANADA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">NAV CANADAlawm-atlantic-en.pdf</span><span class="citation-popover-snippet">NAV CANADAlawm-atlantic-en.pdf</span></span></span>
+Atmospheric refraction can complicate matters further. Mirages and related optical effects occur when light bends through air layers of different temperature and density; over water, distant objects near the horizon can be displaced, stretched, lifted or distorted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperphysics.phy-astr.gsu.edu">[HyperPhysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperphysics.phy-astr.gsu.edu</span><span class="citation-popover-snippet">Open source on gsu.edu.</span></span></span> PEI’s spring and coastal weather can provide the kind of layered air that makes distant light interpretation harder. NAV CANADA’s Atlantic weather manual notes that fog is a major spring problem as Gulf ice breaks up and warmer air masses move into the Maritimes, with low stratus also developing in northerly winds off the Gulf.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navcanada.ca/en/lawm-atlantic-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[NAV CANADA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">NAV CANADAlawm-atlantic-en.pdf</span><span class="citation-popover-snippet">NAV CANADAlawm-atlantic-en.pdf</span></span></span>
 
 This does not prove that a specific PEI UFO report was a mirage. It does show why coastal reports should be handled cautiously when they depend on naked-eye impressions of height, distance and motion.
 
@@ -317,9 +317,9 @@ This does not prove that a specific PEI UFO report was a mirage. It does show wh
 
 Aircraft are an obvious candidate in many UFO reports, but PEI adds a particular twist: an approaching aircraft over a dark horizon may look like a hovering or slowly brightening object rather than a plane. If it is flying roughly towards the observer, its apparent sideways movement can be minimal. Landing lights can dominate the view before navigation lights become clear. If the aircraft later turns, descends or passes behind cloud, the same light can seem to change behaviour suddenly.
 
-Charlottetown Airport is PEI’s scheduled commercial airport, and its own live flight information shows regular connections with cities such as Toronto, Montreal, Ottawa and Calgary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyyyg.com">[YYG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyyyg.com</span><span class="citation-popover-title">arrivals departures</span><span class="citation-popover-snippet">arrivals departures</span></span></span> Travel PEI’s meetings site describes Charlottetown Airport as the province’s only commercial airport, with non-stop and seasonal routes through major hubs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meetpei.com/member/charlottetown-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meetpei.com">[Meet PEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meetpei.com</span><span class="citation-popover-snippet">Open source on meetpei.com.</span></span></span> That means aircraft checks should be routine for modern PEI sightings, especially those near evening arrival and departure windows.
+Charlottetown Airport is PEI’s scheduled commercial airport, and its own live flight information shows regular connections with cities such as Toronto, Montreal, Ottawa and Calgary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyyyg.com">[YYG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyyyg.com</span><span class="citation-popover-title">arrivals departures</span><span class="citation-popover-snippet">arrivals departures</span></span></span> Travel PEI’s meetings site describes Charlottetown Airport as the province’s only commercial airport, with non-stop and seasonal routes through major hubs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meetpei.com/member/charlottetown-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meetpei.com">[Meet PEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meetpei.com</span><span class="citation-popover-snippet">Open source on meetpei.com.</span></span></span> That means aircraft checks should be routine for modern PEI sightings, especially those near evening arrival and departure windows.
 
-The trap is that “aircraft” does not always look like a familiar plane. At night, even pilots are trained to be wary of visual illusions. Transport Canada’s night-flying safety material highlights deteriorating weather and the “black-hole illusion” as major hazards, and emphasises the need to cross-check visual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Hazards Associated with Flying at Night</span><span class="citation-popover-snippet">Transport Canada Hazards Associated with Flying at Night</span></span></span> For a ground witness on PEI, the same wider lesson applies: a dark foreground, dark sea and scattered lights can make the sky feel deeper, emptier and more mysterious than it is.
+The trap is that “aircraft” does not always look like a familiar plane. At night, even pilots are trained to be wary of visual illusions. Transport Canada’s night-flying safety material highlights deteriorating weather and the “black-hole illusion” as major hazards, and emphasises the need to cross-check visual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Hazards Associated with Flying at Night</span><span class="citation-popover-snippet">Transport Canada Hazards Associated with Flying at Night</span></span></span> For a ground witness on PEI, the same wider lesson applies: a dark foreground, dark sea and scattered lights can make the sky feel deeper, emptier and more mysterious than it is.
 
 Aircraft explanations are strongest when the sighting time, direction and apparent movement line up with flight data. They are weaker when the report includes close-range detail, multiple independent viewing angles, radar correlation, physical effects or a path inconsistent with known traffic. Most coastal-light reports sit between those extremes: plausible aircraft candidates exist, but the original data are often too thin to close the case.
 
@@ -329,7 +329,7 @@ Aircraft explanations are strongest when the sighting time, direction and appare
 
 Not every PEI misidentification risk is coastal. Some reports begin with a bright object crossing open sky, a sudden flash, or a silent light that appears and disappears. In those cases, the likely candidates widen to meteors, satellites, balloons, drones and other high-altitude objects.
 
-Transport Canada’s high-altitude object briefing is useful because it avoids sensational language. It says Canadian authorities have dealt with sightings of unidentified flying objects in Canadian airspace, but it also frames such events as aviation-safety matters involving possible remotely piloted aircraft, balloons, meteors, weather phenomena and birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span> The Office of the Chief Science Advisor’s Sky Canada material similarly states that astronomical objects such as planets, stars and meteors can be misidentified, and that drones, balloons, satellites, sky lanterns and experimental aircraft can also be reported as UAPs when their lighting or movement seems unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">classified as UAPs by observers...</span></span></span>
+Transport Canada’s high-altitude object briefing is useful because it avoids sensational language. It says Canadian authorities have dealt with sightings of unidentified flying objects in Canadian airspace, but it also frames such events as aviation-safety matters involving possible remotely piloted aircraft, balloons, meteors, weather phenomena and birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span> The Office of the Chief Science Advisor’s Sky Canada material similarly states that astronomical objects such as planets, stars and meteors can be misidentified, and that drones, balloons, satellites, sky lanterns and experimental aircraft can also be reported as UAPs when their lighting or movement seems unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">classified as UAPs by observers...</span></span></span>
 
 Meteors are a special source of confusion because they can be brief, bright and startling. A large fireball can seem much closer than it is, and witnesses in different places may describe the same object as travelling in different directions depending on their viewing angle. The practical distinction is duration. A meteor usually lasts seconds, not minutes. A light that remains in one area, brightens and dims repeatedly, or is filmed for a long period is less likely to be a simple meteor, though it may still be an aircraft, satellite, drone, lantern or marine light.
 
@@ -340,9 +340,9 @@ Satellites and spacecraft can also catch people out. They may appear as steady m
 
 ## The Kensington lesson: video does not automatically remove ambiguity
 
-The 2014 [Kensington]({{ 'kensington/' | relative_url }}) case is the clearest PEI example of how coastal lights can become a durable UFO story. The reported sighting involved John Sheppard at Twin Shores campground near Kensington, looking out over the Gulf of St Lawrence late at night and filming unusual lights. Secondary accounts of the case describe MUFON treating it as a notable or “confirmed” case, while sceptical responses raised [alternatives]({{ 'alternatives/' | relative_url }}) such as a drone, plane or lantern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">4670465 the 2014 kensington pei ufo sighting</span><span class="citation-popover-snippet">4670465 the 2014 kensington pei ufo sighting</span></span></span>
+The 2014 [Kensington]({{ 'kensington/' | relative_url }}) case is the clearest PEI example of how coastal lights can become a durable UFO story. The reported sighting involved John Sheppard at Twin Shores campground near Kensington, looking out over the Gulf of St Lawrence late at night and filming unusual lights. Secondary accounts of the case describe MUFON treating it as a notable or “confirmed” case, while sceptical responses raised [alternatives]({{ 'alternatives/' | relative_url }}) such as a drone, plane or lantern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">4670465 the 2014 kensington pei ufo sighting</span><span class="citation-popover-snippet">4670465 the 2014 kensington pei ufo sighting</span></span></span>
 
-The case is useful here not because it has been definitively solved, but because it shows the limits of a dark coastal video. A phone camera can prove that a light was present, preserve timing, and capture changes in brightness. It may not prove distance, size, height, identity or whether the source is over water, on the water, or much farther away than it appears. Vice’s critical coverage of the CBC-reported case noted that the footage showed small lights in a mostly black field of view, which is exactly the kind of visual setting where scale and motion are hardest to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Did the CBC Just Confirm the Existence of Aliens?</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?</span></span></span>
+The case is useful here not because it has been definitively solved, but because it shows the limits of a dark coastal video. A phone camera can prove that a light was present, preserve timing, and capture changes in brightness. It may not prove distance, size, height, identity or whether the source is over water, on the water, or much farther away than it appears. Vice’s critical coverage of the CBC-reported case noted that the footage showed small lights in a mostly black field of view, which is exactly the kind of visual setting where scale and motion are hardest to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">Did the CBC Just Confirm the Existence of Aliens?</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?</span></span></span>
 
 That does not make the witness foolish, dishonest or unimportant. It means that a coastal PEI video should be treated as a starting point, not a conclusion. The strongest follow-up questions are practical: What compass direction was the camera facing? What was the tide, weather and visibility? Were there vessels offshore? Were aircraft approaching or departing? Were there drones, lanterns or local events nearby? Did anyone else record the same light from a different location? Without those checks, the video remains interesting but underdetermined.
 
@@ -357,11 +357,11 @@ A good PEI UFO report does not need to be dramatic. It needs enough detail to se
 
 **Note the direction and elevation.** A compass bearing, even from a phone, is more useful than “over the water”. Elevation should be described modestly: near the horizon, halfway up the sky, overhead, or above a known landmark.
 
-**Separate brightness from distance.** A bright light is not necessarily close. Canadian navigation guidance explicitly warns that apparent brightness is a poor guide to distance, especially under changing atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waves-vagues.dfo-mpo.gc.ca">[Waves Vagues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waves-vagues.dfo-mpo.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+**Separate brightness from distance.** A bright light is not necessarily close. Canadian navigation guidance explicitly warns that apparent brightness is a poor guide to distance, especially under changing atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waves-vagues.dfo-mpo.gc.ca">[Waves Vagues]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waves-vagues.dfo-mpo.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
-**Check marine lights first on coastal reports.** PEI has fixed lighthouses, harbour lights, buoys and vessel traffic. The Canadian Coast Guard’s Atlantic aids-to-navigation publications exist precisely because coastal waters contain many formal light sources with defined characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</span></span></span>
+**Check marine lights first on coastal reports.** PEI has fixed lighthouses, harbour lights, buoys and vessel traffic. The Canadian Coast Guard’s Atlantic aids-to-navigation publications exist precisely because coastal waters contain many formal light sources with defined characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-navigation.canada.ca">[e-Navigation Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-navigation.canada.ca</span><span class="citation-popover-snippet">e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</span></span></span>
 
-**Check aircraft next.** Charlottetown’s live arrivals and departures, public flight trackers and known routes to Toronto, Montreal, Ottawa and western Canadian cities can quickly explain some lights that seem to hover, brighten or move slowly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyyyg.com">[YYG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyyyg.com</span><span class="citation-popover-title">arrivals departures</span><span class="citation-popover-snippet">arrivals departures</span></span></span>
+**Check aircraft next.** Charlottetown’s live arrivals and departures, public flight trackers and known routes to Toronto, Montreal, Ottawa and western Canadian cities can quickly explain some lights that seem to hover, brighten or move slowly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyyyg.com">[YYG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyyyg.com</span><span class="citation-popover-title">arrivals departures</span><span class="citation-popover-snippet">arrivals departures</span></span></span>
 
 **Treat short flashes differently from long sightings.** A one- or two-second streak suggests a meteor or re-entry candidate more strongly than a light observed for ten minutes. A long-duration light needs checks against aircraft, satellites, drones, vessels and fixed aids.
 
@@ -376,194 +376,194 @@ PEI’s coastal-light problem does not erase the province’s UFO history. It ex
 The fairest conclusion is that PEI is a high-ambiguity environment rather than a high-certainty one. Its open skies make unusual lights easier to notice, while its coastlines make those same lights easier to misread. For readers, investigators and local historians, the strongest approach is neither automatic debunking nor automatic belief. It is disciplined sorting: preserve the report, respect the witness, check the coastal and aviation setting, and reserve “unresolved” for cases where ordinary explanations have been tested rather than merely overlooked.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why PEI Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why PEI Skies Can Fool Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO reports and distinguishing observations from explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO reports and distinguishing observations from explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Provides context for how unusual aerial sightings are interpreted and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how unusual aerial sightings are interpreted and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify celestial objects often mistaken for unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify celestial objects often mistaken for unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Explains atmospheric effects that can distort lights, distance, and visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric effects that can distort lights, distance, and visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="explanations-b5b0c8-why-pei-skies-can-fool-witnesses-prince-edward-island-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,197 +769,197 @@ The fairest conclusion is that PEI is a high-ambiguity environment rather than a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>classified as UAPs by observers...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>classified as UAPs by observers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: e-navigation.canada.ca  
-   Link: <a href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</p></details>
+   Link:<a href="https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/description/eng/1449a2d2-ba89-4868-b606-931b7624c216</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalList of Lights, Buoys and Fog Signals for the Atlantic Coast9 Sept 2015 — Contains lights in the Bay of Fundy the Coas...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: e-navigation.canada.ca  
    Title: e-Navigation Portal CCG e-Nav  
-   Link: <a href="https://e-navigation.canada.ca/gn/index-en?category-aidsToNavigation=aidsToNavigation" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/index-en?category-aidsToNavigation=aidsToNavigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalCCG e-Nav - Data CatalogList of Lights, Buoys and Fog Signals for Pacific Coast. Contains lights in British Columbia i...</p></details>
+   Link:<a href="https://e-navigation.canada.ca/gn/index-en?category-aidsToNavigation=aidsToNavigation" target="_blank" rel="noopener noreferrer nofollow">https://e-navigation.canada.ca/gn/index-en?category-aidsToNavigation=aidsToNavigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e-Navigation PortalCCG e-Nav - Data CatalogList of Lights, Buoys and Fog Signals for Pacific Coast. Contains lights in British Columbia i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flyyyg.com  
    Title: arrivals departures  
-   Link: <a href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow">https://flyyyg.com/passengers/flights/arrivals_departures/</a>  
+   Link:<a href="https://flyyyg.com/passengers/flights/arrivals_departures/" target="_blank" rel="noopener noreferrer nofollow">https://flyyyg.com/passengers/flights/arrivals_departures/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: meetpei.com  
-   Link: <a href="https://meetpei.com/member/charlottetown-airport/" target="_blank" rel="noopener noreferrer nofollow">https://meetpei.com/member/charlottetown-airport/</a>  
+   Link:<a href="https://meetpei.com/member/charlottetown-airport/" target="_blank" rel="noopener noreferrer nofollow">https://meetpei.com/member/charlottetown-airport/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tc.canada.ca  
    Title: Transport Canada Hazards Associated with Flying at Night  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: audioboom.com  
    Title: 4670465 the 2014 kensington pei ufo sighting  
-   Link: <a href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting</a>  
+   Link:<a href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vice.com  
    Title: Did the CBC Just Confirm the Existence of Aliens?  
-   Link: <a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
+   Link:<a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: welcomepei.com  
    Title: Welcome PEIPEI Lighthouses  
-   Link: <a href="https://welcomepei.com/pei-lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://welcomepei.com/pei-lighthouses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2014 — Prince Edward Island is home to 63 lighthouses spread along more than 1,100 kilometres of coastline. navigating the G...</p></details>
+   Link:<a href="https://welcomepei.com/pei-lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://welcomepei.com/pei-lighthouses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2014 — Prince Edward Island is home to 63 lighthouses spread along more than 1,100 kilometres of coastline. navigating the G...</p></details>
    Published: February 12, 2014  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: peilighthousesociety.ca  
    Title: Prince Edward Island Lighthouse Society Home  
-   Link: <a href="https://peilighthousesociety.ca/" target="_blank" rel="noopener noreferrer nofollow">https://peilighthousesociety.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence and Northumberland Strait meet to create a show of nature&#x27;s force.Read more...</p></details>
+   Link:<a href="https://peilighthousesociety.ca/" target="_blank" rel="noopener noreferrer nofollow">https://peilighthousesociety.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence and Northumberland Strait meet to create a show of nature&#x27;s force.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: historicplaces.ca  
-   Link: <a href="https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729" target="_blank" rel="noopener noreferrer nofollow">https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic PlacesEast Point LighthouseLocated on the eastern tip of Prince Edward Island, the East Point Lighthouse overlooks the sea where...</p></details>
+   Link:<a href="https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729" target="_blank" rel="noopener noreferrer nofollow">https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic PlacesEast Point LighthouseLocated on the eastern tip of Prince Edward Island, the East Point Lighthouse overlooks the sea where...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: waves-vagues.dfo-mpo.gc.ca  
-   Link: <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf</a>  
+   Link:<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf" target="_blank" rel="noopener noreferrer nofollow">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349667.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer UFO Identification Process  
-   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
+   Link:<a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: navcanada.ca  
    Title: NAV CANADAlawm-atlantic-en.pdf  
-   Link: <a href="https://www.navcanada.ca/en/lawm-atlantic-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/lawm-atlantic-en.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/lawm-atlantic-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/lawm-atlantic-en.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: flyyyg.com  
-   Link: <a href="https://flyyyg.com/" target="_blank" rel="noopener noreferrer nofollow">https://flyyyg.com/</a>  
+   Link:<a href="https://flyyyg.com/" target="_blank" rel="noopener noreferrer nofollow">https://flyyyg.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/ecfs_07_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_07_en.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/ecfs_07_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_07_en.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: navcanada.ca  
    Title: ecfs 02 en  
-   Link: <a href="https://www.navcanada.ca/en/ecfs_02_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_02_en.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/ecfs_02_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_02_en.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/ecfs_05_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_05_en.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/ecfs_05_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_05_en.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/ecfs_04_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_04_en.pdf</a>  
+   Link:<a href="https://www.navcanada.ca/en/ecfs_04_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/ecfs_04_en.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
+   Link:<a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6Euxa6-ndk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=y6Euxa6-ndk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6Euxa6-ndk</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: waves-vagues.dfo-mpo.gc.ca  
-   Link: <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4107547x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4107547x.pdf</a>  
+   Link:<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4107547x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4107547x.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Canada's Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Edward Island UFO sighting UFO over Charlottetown, Prince Edward Island, Canada...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Edward Island UFO sighting UFO over Charlottetown, Prince Edward Island, Canada...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Why Are Many UFO Sightings Just Misidentification?  
-   Link: <a href="https://www.youtube.com/watch?v=dSfAIKDGvvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSfAIKDGvvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dSfAIKDGvvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSfAIKDGvvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: One of Canada’s Strangest Sightings (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Misidentification Explain UFO Sightings?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Misidentification Explain UFO Sightings?...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UFO over Charlottetown, Prince Edward Island, Canada  
-   Link: <a href="https://www.youtube.com/watch?v=HnEKhqtQdzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnEKhqtQdzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada’s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HnEKhqtQdzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnEKhqtQdzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada’s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: How Does Misidentification Explain UFO Sightings?  
-   Link: <a href="https://www.youtube.com/watch?v=Vio1ubWY9Gg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vio1ubWY9Gg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Many UFO Sightings Just Misidentification?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vio1ubWY9Gg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vio1ubWY9Gg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Many UFO Sightings Just Misidentification?...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWR5CXbjD1t/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWR5CXbjD1t/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DWR5CXbjD1t/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWR5CXbjD1t/?hl=en</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2024/mpo-dfo/Fs151-9-2024-03-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2024/mpo-dfo/Fs151-9-2024-03-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2024/mpo-dfo/Fs151-9-2024-03-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2024/mpo-dfo/Fs151-9-2024-03-eng.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN4Ak8Akr53/?hl=en</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1048433019096187/posts/1843632399576241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1048433019096187/posts/1843632399576241/</a>  
+   Link:<a href="https://www.facebook.com/groups/1048433019096187/posts/1843632399576241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1048433019096187/posts/1843632399576241/</a>  

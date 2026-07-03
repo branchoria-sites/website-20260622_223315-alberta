@@ -262,7 +262,7 @@ image: /assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_wit
 
 ## Introduction
 
-Old Crow occupies a distinctive place in [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) UFO history not because it has produced a large number of famous cases, but because it highlights a recurring problem in northern reporting: some sightings are difficult to document, investigate and preserve. Located north of the Arctic Circle and reachable only by air, Old Crow is Yukon’s most isolated permanent community. That isolation affects how unusual aerial reports are recorded, how quickly investigators can follow up with witnesses, and whether accounts survive long enough to enter public [archives]({{ 'archives-6c430a/' | relative_url }}) at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
+Old Crow occupies a distinctive place in [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) UFO history not because it has produced a large number of famous cases, but because it highlights a recurring problem in northern reporting: some sightings are difficult to document, investigate and preserve. Located north of the Arctic Circle and reachable only by air, Old Crow is Yukon’s most isolated permanent community. That isolation affects how unusual aerial reports are recorded, how quickly investigators can follow up with witnesses, and whether accounts survive long enough to enter public [archives]({{ 'archives-6c430a/' | relative_url }}) at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-1-dark.svg" | relative_url }}" alt="Old Crow illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,9 +270,9 @@ Within the broader story of Yukon UFO archives and reporting gaps, Old Crow illu
 
 ## Why Old Crow Reports Are Hard to Document
 
-The public record contains relatively few detailed Old Crow UFO cases. One reason is simple geography. Old Crow is the only Yukon community without road access, creating logistical barriers for investigators, journalists and researchers seeking first-hand interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
+The public record contains relatively few detailed Old Crow UFO cases. One reason is simple geography. Old Crow is the only Yukon community without road access, creating logistical barriers for investigators, journalists and researchers seeking first-hand interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
 
-The UFO*BC Yukon archive nevertheless shows that reports from Old Crow did reach investigators. In 2000, the archive highlighted “Two reports from our most Northern Yukon Community,” indicating that unusual aerial observations from Old Crow were being collected alongside sightings from elsewhere in Yukon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
+The UFO*BC Yukon archive nevertheless shows that reports from Old Crow did reach investigators. In 2000, the archive highlighted “Two reports from our most Northern Yukon Community,” indicating that unusual aerial observations from Old Crow were being collected alongside sightings from elsewhere in Yukon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
 
 The challenge is that many northern reports never receive the same level of follow-up seen in better-known cases. Investigators may have only a brief description, a second-hand account, or a delayed report received months or years after the event. Without rapid interviews, important details can disappear:
 
@@ -287,7 +287,7 @@ The challenge is that many northern reports never receive the same level of foll
 
 </div>
 
-These are not unique problems for UFO investigations, but distance and limited communications historically made them more acute in remote northern communities. Older Canadian UFO investigation practices recognised the importance of obtaining witness testimony quickly and assessing reliability while information remained fresh. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">As... systematically following up on reports and obtaining witness details and testimony.Read more...</span></span></span>
+These are not unique problems for UFO investigations, but distance and limited communications historically made them more acute in remote northern communities. Older Canadian UFO investigation practices recognised the importance of obtaining witness testimony quickly and assessing reliability while information remained fresh.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">As... systematically following up on reports and obtaining witness details and testimony.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OGCggCRTh1c" title="Document reveals first known Canadian UFO study in nearly 30 years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer">Document reveals first known Canadian UFO study in nearly 30 years</a></p><p class="youtube-embed-meta">Channel: CP24 &middot; Views: 7.3K &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OGCggCRTh1c">Open on YouTube</a></p></div></div></div>
@@ -296,9 +296,9 @@ These are not unique problems for UFO investigations, but distance and limited c
 
 Isolation does not make a report less credible. It changes how evidence can be gathered.
 
-In a major urban centre, an investigator might interview several witnesses within days, compare accounts, check local aviation activity and revisit the observation site. In Old Crow, travel costs, weather, seasonal conditions and communication limitations have often slowed that process. Historically, even telecommunications infrastructure in the community faced reliability challenges before later satellite improvements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Old Crow, Yukon</span><span class="citation-popover-snippet">Old Crow, Yukon</span></span></span>
+In a major urban centre, an investigator might interview several witnesses within days, compare accounts, check local aviation activity and revisit the observation site. In Old Crow, travel costs, weather, seasonal conditions and communication limitations have often slowed that process. Historically, even telecommunications infrastructure in the community faced reliability challenges before later satellite improvements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Old Crow, Yukon</span><span class="citation-popover-snippet">Old Crow, Yukon</span></span></span>
 
-As a result, northern cases can fall into an awkward middle category. They are not necessarily explained, but neither are they documented well enough to support strong conclusions. This is one reason that some Yukon sightings appear in archive indexes with only brief descriptions rather than extensive case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
+As a result, northern cases can fall into an awkward middle category. They are not necessarily explained, but neither are they documented well enough to support strong conclusions. This is one reason that some Yukon sightings appear in archive indexes with only brief descriptions rather than extensive case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
 
 The effect can also be cumulative. If witnesses feel that no investigator will visit, no official agency is interested, or no local reporting route exists, some experiences may never be reported at all. The resulting archive can therefore reflect reporting opportunities as much as actual sighting frequency.
 
@@ -321,7 +321,7 @@ Researchers examining Yukon UFO history face several possibilities when records 
 
 </div>
 
-The broader Canadian UFO record demonstrates how easily reports can become fragmented across government files, private collections, newspaper archives and investigator notes. Even Library and Archives Canada’s large federal UFO collection represents only part of the historical picture and contains significant limitations in location-specific searching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The broader Canadian UFO record demonstrates how easily reports can become fragmented across government files, private collections, newspaper archives and investigator notes. Even Library and Archives Canada’s large federal UFO collection represents only part of the historical picture and contains significant limitations in location-specific searching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 For Old Crow, where population size is small and access is difficult, these archival blind spots may be especially significant.
 
@@ -332,7 +332,7 @@ For Old Crow, where population size is small and access is difficult, these arch
 
 A recurring risk in UFO writing is treating remote northern communities as mysterious places where extraordinary stories should automatically be considered more remarkable than elsewhere. That approach is unhelpful and often misleading.
 
-Old Crow is a living community with its own history, culture and local priorities. Reports from residents should be evaluated using the same standards applied to witnesses anywhere else: what was observed, under what conditions, how consistently the event was described, and what corroborating information exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
+Old Crow is a living community with its own history, culture and local priorities. Reports from residents should be evaluated using the same standards applied to witnesses anywhere else: what was observed, under what conditions, how consistently the event was described, and what corroborating information exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
 
 Responsible treatment of northern testimony means:
 
@@ -353,189 +353,189 @@ The goal is neither to dismiss reports nor to romanticise them. It is to documen
 <img src="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-3-dark.svg" | relative_url }}" alt="Old Crow illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Old Crow Matters in Yukon UFO History
 
-Old Crow's importance lies less in any single celebrated sighting than in what it reveals about the limits of the historical record. The community demonstrates how remote geography can shape what survives in Yukon UFO archives and what disappears before researchers ever see it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
+Old Crow's importance lies less in any single celebrated sighting than in what it reveals about the limits of the historical record. The community demonstrates how remote geography can shape what survives in Yukon UFO archives and what disappears before researchers ever see it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community-statistics.service.yukon.ca">[community-statistics.service.yukon.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community-statistics.service.yukon.ca</span><span class="citation-popover-snippet">Open source on yukon.ca.</span></span></span>
 
 When readers encounter brief Old Crow entries in archival collections, the key question is often not whether the reported object was extraordinary. The more immediate question is whether enough information was ever gathered to evaluate the claim properly. In many northern cases, that is the real mystery.
 
-For Yukon researchers, Old Crow serves as a reminder that reporting systems matter. A sighting that receives prompt, respectful follow-up may become a useful historical record. A sighting that does not may fade into memory, leaving only hints that something unusual was once reported from one of Canada's most remote communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
+For Yukon researchers, Old Crow serves as a reminder that reporting systems matter. A sighting that receives prompt, respectful follow-up may become a useful historical record. A sighting that does not may fade into memory, leaving only hints that something unusual was once reported from one of Canada's most remote communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive- A recent and &quot;hair raising&quot; sighting</span><span class="citation-popover-snippet">March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</span><span class="citation-popover-meta">Published: March 30, 2000</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eYG7NBYWS1k" title="Canada’s top scientist releases new UFO report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eYG7NBYWS1k" target="_blank" rel="noopener noreferrer">Canada’s top scientist releases new UFO report</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eYG7NBYWS1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eYG7NBYWS1k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Remote Yukon Reports Risk Losing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Remote Yukon Reports Risk Losing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how unusual aerial reports are documented, investigated, and preserved, matching the article&#x27;s focus on reporting and archival c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual aerial reports are documented, investigated, and preserved, matching the article&#x27;s focus on reporting and archival c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports, case classification, and investigative methods relevant to remote-community sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, case classification, and investigative methods relevant to remote-community sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses how extraordinary accounts are collected and interpreted across different communities and traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how extraordinary accounts are collected and interpreted across different communities and traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Provides context for documenting unusual experiences without sensationalizing witnesses, aligning with the article&#x27;s treatment of norther...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for documenting unusual experiences without sensationalizing witnesses, aligning with the article&#x27;s treatment of norther...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-crow-what-remote-yukon-reports-risk-losing-yukon-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,116 +741,116 @@ For Yukon researchers, Old Crow serves as a reminder that reporting systems matt
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: community-statistics.service.yukon.ca  
-   Link: <a href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow">https://community-statistics.service.yukon.ca/pages/old-crow</a>  
+   Link:<a href="https://community-statistics.service.yukon.ca/pages/old-crow" target="_blank" rel="noopener noreferrer nofollow">https://community-statistics.service.yukon.ca/pages/old-crow</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Old Crow, Yukon  
-   Link: <a href="https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Old_Crow%2C_Yukon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufobc.ca  
    Title: Yukon UFO Sightings Archive- A recent and "hair raising" sighting  
-   Link: <a href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</p></details>
+   Link:<a href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2000! UFOs in Old Crow!... posted March 27, 2000 - Two reports from our most Northern Yukon Community. UFO...</p></details>
    Published: March 30, 2000  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Canada FOIA Part 18 Pages 5101 5400 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2018%20-%20Pages%205101-5400_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: yukon.ca  
    Title: records of the yukon government, yrg 1, series 1-12  
-   Link: <a href="https://yukon.ca/sites/default/files/tc/tc-yrg1-series-1-to-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yukon.ca/sites/default/files/tc/tc-yrg1-series-1-to-12.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Archives Introduction. A. NUMBERED FILES. 1894-1951, 49 feet 4 inches... aliens as residents Sampled July 1956. August 1957. 1956...</p></details>
+   Link:<a href="https://yukon.ca/sites/default/files/tc/tc-yrg1-series-1-to-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yukon.ca/sites/default/files/tc/tc-yrg1-series-1-to-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Archives Introduction. A. NUMBERED FILES. 1894-1951, 49 feet 4 inches... aliens as residents Sampled July 1956. August 1957. 1956...</p></details>
    Published: July 1956  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Document reveals first known Canadian UFO study in nearly 30 years  
-   Link: <a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s top scientist releases new UFO report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s top scientist releases new UFO report...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Canada’s top scientist releases new UFO report  
-   Link: <a href="https://www.youtube.com/watch?v=eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYG7NBYWS1k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFOs reported over Canada in 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYG7NBYWS1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFOs reported over Canada in 2025...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPBzvNkDOTk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Sky Canada Project UFO UAP report CTV News Canada’s top scientist releases new UFO report CTV News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPBzvNkDOTk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Sky Canada Project UFO UAP report CTV News Canada’s top scientist releases new UFO report CTV News...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As... systematically following up on reports and obtaining witness details and testimony.Read more...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As... systematically following up on reports and obtaining witness details and testimony.Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/the-skies-above-canadas-remote-yukon-wilderness-have-become-the-center-of-an-ext/779641288149034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/the-skies-above-canadas-remote-yukon-wilderness-have-become-the-center-of-an-ext/779641288149034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cylindrical UFO shot down over Canada&#x27;s Yukon wildernessUntil then, the Yukon UFO remains one of the most chilling and controversial enco...</p></details>
+   Link:<a href="https://www.facebook.com/whatthefacttttt/posts/the-skies-above-canadas-remote-yukon-wilderness-have-become-the-center-of-an-ext/779641288149034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/the-skies-above-canadas-remote-yukon-wilderness-have-become-the-center-of-an-ext/779641288149034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cylindrical UFO shot down over Canada&#x27;s Yukon wildernessUntil then, the Yukon UFO remains one of the most chilling and controversial enco...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vgg.ca  
-   Link: <a href="https://vgg.ca/media%20releases.php" target="_blank" rel="noopener noreferrer nofollow">https://vgg.ca/media%20releases.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Release HistoryGovernment of the Vuntut Gwitchin First Nation -- Old Crow, Yukon Territory, Canada... PDF, Old Crow Running on Sol...</p></details>
+   Link:<a href="https://vgg.ca/media%20releases.php" target="_blank" rel="noopener noreferrer nofollow">https://vgg.ca/media%20releases.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Release HistoryGovernment of the Vuntut Gwitchin First Nation -- Old Crow, Yukon Territory, Canada... PDF, Old Crow Running on Sol...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: goytm.ca  
-   Link: <a href="https://goytm.ca/exhibit/yukon-ufos-and-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://goytm.ca/exhibit/yukon-ufos-and-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon UFOs and EncountersYukon UFOs and Encounters. The Yukon borders were... Join Nicole Bauberger and Heather Von Steinhagen as they e...</p></details>
+   Link:<a href="https://goytm.ca/exhibit/yukon-ufos-and-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://goytm.ca/exhibit/yukon-ufos-and-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon UFOs and EncountersYukon UFOs and Encounters. The Yukon borders were... Join Nicole Bauberger and Heather Von Steinhagen as they e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2331181783986128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2331181783986128/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Old Crow, Yukon, CanadaAlien &amp; Ufo mysteries. 10K members. Join · UFO, Aliens, Unexplained P... 70K members. Join · UFOS...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2331181783986128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2331181783986128/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Old Crow, Yukon, CanadaAlien &amp; Ufo mysteries. 10K members. Join · UFO, Aliens, Unexplained P... 70K members. Join · UFOS...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: the 1600 km trip was expected to take 21 days it lasted eight hours and confused  
-   Link: <a href="https://www.facebook.com/nzherald.co.nz/posts/the-1600-km-trip-was-expected-to-take-21-days-it-lasted-eight-hours-and-confused/10158490751381302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nzherald.co.nz/posts/the-1600-km-trip-was-expected-to-take-21-days-it-lasted-eight-hours-and-confused/10158490751381302/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1600 km trip was expected to take 21 days. It lasted...The 1600 km trip was expected to take 21 days. It lasted eight hours and conf...</p></details>
+   Link:<a href="https://www.facebook.com/nzherald.co.nz/posts/the-1600-km-trip-was-expected-to-take-21-days-it-lasted-eight-hours-and-confused/10158490751381302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nzherald.co.nz/posts/the-1600-km-trip-was-expected-to-take-21-days-it-lasted-eight-hours-and-confused/10158490751381302/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1600 km trip was expected to take 21 days. It lasted...The 1600 km trip was expected to take 21 days. It lasted eight hours and conf...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O_pGSOayXJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_pGSOayXJ8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=O_pGSOayXJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_pGSOayXJ8</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kelownacapnews.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
+   Link:<a href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cfjctoday.com  
    Title: some of the best known canadian ufo sightings over the years  
-   Link: <a href="https://cfjctoday.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://cfjctoday.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over...18 Jul 2025 — May 20, 1967, near Falcon Lake, Man.: Stefan Michalak, who claimed to...</p></details>
+   Link:<a href="https://cfjctoday.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://cfjctoday.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over...18 Jul 2025 — May 20, 1967, near Falcon Lake, Man.: Stefan Michalak, who claimed to...</p></details>
    Published: May 20, 1967  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govGeorge-Knapp-Written-Testimony.pdf9 Sept 2025 — When you see a UFO, change course and get out. I was able to get a follow-up to...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govGeorge-Knapp-Written-Testimony.pdf9 Sept 2025 — When you see a UFO, change course and get out. I was able to get a follow-up to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2135326560238319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2135326560238319/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sual aerial phenomena and unexplained movements. •. &quot;I saw a UFO...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2135326560238319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2135326560238319/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sual aerial phenomena and unexplained movements. •. &quot;I saw a UFO...</p></details>

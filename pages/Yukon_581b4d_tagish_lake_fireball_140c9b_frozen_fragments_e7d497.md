@@ -262,17 +262,17 @@ image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_
 
 ## Introduction
 
-The Tagish Lake fireball stopped being a mystery when witness testimony was matched with something far more powerful: physical evidence. A week after the spectacular January 2000 sky event over [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) and northern British Columbia, local outdoorsman Jim Brook found black fragments scattered across the frozen surface of the Taku Arm of Tagish Lake. Those fragments turned an extraordinary sight in the sky into a documented meteorite fall that could be tested, analysed and independently verified. The recovery mattered not simply because rocks were found, but because they were found quickly, handled carefully and preserved in near-pristine condition. In a region where unusual aerial events can easily enter local UFO lore, the Tagish Lake case became a model example of how recovered evidence can resolve uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
+The Tagish Lake fireball stopped being a mystery when witness testimony was matched with something far more powerful: physical evidence. A week after the spectacular January 2000 sky event over [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) and northern British Columbia, local outdoorsman Jim Brook found black fragments scattered across the frozen surface of the Taku Arm of Tagish Lake. Those fragments turned an extraordinary sight in the sky into a documented meteorite fall that could be tested, analysed and independently verified. The recovery mattered not simply because rocks were found, but because they were found quickly, handled carefully and preserved in near-pristine condition. In a region where unusual aerial events can easily enter local UFO lore, the Tagish Lake case became a model example of how recovered evidence can resolve uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-1-dark.svg" | relative_url }}" alt="Frozen fragments illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The week after the fireball
 
-On 18 January 2000, thousands of people across Yukon, northern British Columbia and neighbouring regions saw a brilliant fireball streak across the sky. [Instrument records]({{ 'instrument-records/' | relative_url }}), photographs and eyewitness reports narrowed down the likely fall area, but for several days no meteorite material had been recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
+On 18 January 2000, thousands of people across Yukon, northern British Columbia and neighbouring regions saw a brilliant fireball streak across the sky. [Instrument records]({{ 'instrument-records/' | relative_url }}), photographs and eyewitness reports narrowed down the likely fall area, but for several days no meteorite material had been recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
 
-The breakthrough came on 25 January. Jim Brook was travelling near his hunting lodge on the Taku Arm of Tagish Lake when he noticed dark objects sitting on top of the snow-covered ice. He recognised that they might be fragments from the recent fireball and began collecting them. Over two days he recovered several dozen pieces, totalling roughly one kilogram. A fresh snowfall soon covered the surface and prevented additional immediate searches, making Brook's discovery especially significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca+2LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
+The breakthrough came on 25 January. Jim Brook was travelling near his hunting lodge on the Taku Arm of Tagish Lake when he noticed dark objects sitting on top of the snow-covered ice. He recognised that they might be fragments from the recent fireball and began collecting them. Over two days he recovered several dozen pieces, totalling roughly one kilogram. A fresh snowfall soon covered the surface and prevented additional immediate searches, making Brook's discovery especially significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca+2LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
 
-For investigators, this was the crucial transition point. Before the discovery, the event was known through observations and instrument data. After the discovery, researchers possessed physical samples that could be examined in laboratories and compared with known meteorite types. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
+For investigators, this was the crucial transition point. Before the discovery, the event was known through observations and instrument data. After the discovery, researchers possessed physical samples that could be examined in laboratories and compared with known meteorite types.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OlZx-H0qmPk" title="Iconic: Tagish Lake Meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer">Iconic: Tagish Lake Meteorite</a></p><p class="youtube-embed-meta">Channel: Royal Ontario Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OlZx-H0qmPk">Open on YouTube</a></p></div></div></div>
@@ -281,16 +281,16 @@ For investigators, this was the crucial transition point. Before the discovery, 
 
 Finding the fragments was only half the story. The way Brook handled them proved just as important as the discovery itself.
 
-Carbon-rich meteorites are particularly vulnerable to contamination after landing. Contact with liquid water, soil, biological material or even oils from human skin can alter their chemistry. Once contamination occurs, scientists can struggle to determine which compounds came from space and which originated on Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
+Carbon-rich meteorites are particularly vulnerable to contamination after landing. Contact with liquid water, soil, biological material or even oils from human skin can alter their chemistry. Once contamination occurs, scientists can struggle to determine which compounds came from space and which originated on Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
 
 Brook made two decisions that later researchers repeatedly highlighted:
 
-* He avoided handling the specimens with bare hands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rom.on.ca">[rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rom.on.ca</span><span class="citation-popover-title">looking back new year meteorite discovery</span><span class="citation-popover-snippet">Looking Back at a New-Year Meteorite Discovery5 Jan 2022 — Even more remarkably, Brook made the important decisions to not handle the spe...</span></span></span>
-* He kept the recovered material frozen rather than allowing it to thaw and weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
+* He avoided handling the specimens with bare hands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rom.on.ca">[rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rom.on.ca</span><span class="citation-popover-title">looking back new year meteorite discovery</span><span class="citation-popover-snippet">Looking Back at a New-Year Meteorite Discovery5 Jan 2022 — Even more remarkably, Brook made the important decisions to not handle the spe...</span></span></span>
+* He kept the recovered material frozen rather than allowing it to thaw and weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
 
-These choices preserved some of the cleanest meteorite samples ever recovered from a witnessed fall. The fragments had landed on winter lake ice rather than on soil or vegetation, reducing exposure to terrestrial contamination. The cold northern conditions effectively acted as a natural freezer until the specimens could be transferred to scientific collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
+These choices preserved some of the cleanest meteorite samples ever recovered from a witnessed fall. The fragments had landed on winter lake ice rather than on soil or vegetation, reducing exposure to terrestrial contamination. The cold northern conditions effectively acted as a natural freezer until the specimens could be transferred to scientific collections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Mr. Brook</span><span class="citation-popover-snippet">Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</span></span></span>
 
-This preservation became especially valuable because Tagish Lake proved to be an unusually fragile and primitive carbonaceous meteorite. Researchers were able to study organic compounds, water-bearing minerals and other delicate materials with far greater confidence than would have been possible if the samples had weathered for months or years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repository.arizona.edu/handle/10150/656113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.arizona.edu">[Arizona Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.arizona.edu</span><span class="citation-popover-snippet">Arizona RepositoryThe fall and recovery of the Tagish Lake meteoriteby AR Hildebrand · 2006 · Cited by 147 — The Tagish Lake C2 (ungroupe...</span></span></span>
+This preservation became especially valuable because Tagish Lake proved to be an unusually fragile and primitive carbonaceous meteorite. Researchers were able to study organic compounds, water-bearing minerals and other delicate materials with far greater confidence than would have been possible if the samples had weathered for months or years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repository.arizona.edu/handle/10150/656113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.arizona.edu">[Arizona Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.arizona.edu</span><span class="citation-popover-snippet">Arizona RepositoryThe fall and recovery of the Tagish Lake meteoriteby AR Hildebrand · 2006 · Cited by 147 — The Tagish Lake C2 (ungroupe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-3-dark.svg" | relative_url }}" alt="Frozen fragments illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -300,7 +300,7 @@ This preservation became especially valuable because Tagish Lake proved to be an
 
 Once scientists obtained the fragments, the question was no longer whether the fireball had been unusual. The question became what kind of object had produced it.
 
-Laboratory examination confirmed that the recovered pieces were meteorites and linked them directly to the January fireball. Their composition identified them as a rare carbonaceous chondrite, classified as an ungrouped C2 meteorite. The recovered material matched the expected fall location derived from eyewitness observations, satellite detections and trajectory calculations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
+Laboratory examination confirmed that the recovered pieces were meteorites and linked them directly to the January fireball. Their composition identified them as a rare carbonaceous chondrite, classified as an ungrouped C2 meteorite. The recovered material matched the expected fall location derived from eyewitness observations, satellite detections and trajectory calculations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake Jim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagi</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish LakeJim Brook recovered several dozen meteorites totaling ~ 1 kg on the ice of Taku Arm, Tagis...</span></span></span>
 
 The chain of evidence became unusually strong:
 
@@ -334,194 +334,194 @@ The recovered fragments changed the standard of proof. Scientists no longer had 
 That is why Jim Brook's frozen fragments occupy such an important place in the Tagish Lake story. They provided the missing link between a dramatic eyewitness event and a verifiable scientific explanation. In a region where unusual objects in the sky are sometimes reported as unidentified phenomena, the Tagish Lake recovery remains a textbook example of how physical evidence can turn a mystery into a solved case. [collections.rom.on.ca+2Royal Ontario Museum](https://collections.rom.on.ca/objects/1827361/tagish-lake)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How frozen fragments solved the sky mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How frozen fragments solved the sky mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain of iron and ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134989-M.jpg" alt="Cover for Rain of iron and ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
-        </h4>
-        <p class="fr-book-author">By Lewis, John S.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rain of iron and ice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134989-M.jpg" alt="Cover for Rain of iron and ice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
+</h4>
+<p class="fr-book-author">By Lewis, John S.</p>
         
-        <p class="fr-book-desc">First published 1996. Subjects: Impact, Comets, Environmental aspects, Asteroids, Environmental aspects of Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1996. Subjects: Impact, Comets, Environmental aspects, Asteroids, Environmental aspects of Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space: Meteorites and Meteorite Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space: Meteorites and Meteorite Hunters">Rocks from Space: Meteorites and Meteorite Hunters</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space: Meteorites and Meteorite Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space: Meteorites and Meteorite Hunters">Rocks from Space: Meteorites and Meteorite Hunters</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Focuses on meteorite discoveries, recoveries, and the scientific value of recovered fragments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on meteorite discoveries, recoveries, and the scientific value of recovered fragments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Very Short Introduction">Meteorites: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Timothy McCoy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Very Short Introduction">Meteorites: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Timothy McCoy</p>
         
-        <p class="fr-book-desc">Explains how meteorites are recovered, classified, and studied, directly matching the Tagish Lake recovery story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how meteorites are recovered, classified, and studied, directly matching the Tagish Lake recovery story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites%3A+A+Very+Short+Introduction+Timothy+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain of iron and ice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space: Meteorites and Meteorite Hunters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rain+of+iron+and+ice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rain of iron and ice</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space: Meteorites and Meteorite Hunters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="frozen-fragments-how-frozen-fragments-solved-the-sky-mystery-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,86 +727,86 @@ That is why Jim Brook's frozen fragments occupy such an important place in the T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: collections.rom.on.ca  
    Title: Mr. Brook  
-   Link: <a href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/objects/1827361/tagish-lake</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</p></details>
+   Link:<a href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/objects/1827361/tagish-lake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake - ROM Collections - Royal Ontario MuseumJim Brook, returning to his hunting lodge on the Taku Arm of Tagish Lake, noticed pie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rom.on.ca  
    Title: looking back new year meteorite discovery  
-   Link: <a href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking Back at a New-Year Meteorite Discovery5 Jan 2022 — Even more remarkably, Brook made the important decisions to not handle the spe...</p></details>
+   Link:<a href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking Back at a New-Year Meteorite Discovery5 Jan 2022 — Even more remarkably, Brook made the important decisions to not handle the spe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: repository.arizona.edu  
-   Link: <a href="https://repository.arizona.edu/handle/10150/656113" target="_blank" rel="noopener noreferrer nofollow">https://repository.arizona.edu/handle/10150/656113</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona RepositoryThe fall and recovery of the Tagish Lake meteoriteby AR Hildebrand · 2006 · Cited by 147 — The Tagish Lake C2 (ungroupe...</p></details>
+   Link:<a href="https://repository.arizona.edu/handle/10150/656113" target="_blank" rel="noopener noreferrer nofollow">https://repository.arizona.edu/handle/10150/656113</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona RepositoryThe fall and recovery of the Tagish Lake meteoriteby AR Hildebrand · 2006 · Cited by 147 — The Tagish Lake C2 (ungroupe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dspace.mit.edu  
-   Link: <a href="https://dspace.mit.edu/handle/1721.1/60837" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/handle/1721.1/60837</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>light: the secret history of the Tagish Lake Fireballby JS Berdahl · 2010 — A week after the fall, outdoorsman Jim Brook discovered blac...</p></details>
+   Link:<a href="https://dspace.mit.edu/handle/1721.1/60837" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/handle/1721.1/60837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>light: the secret history of the Tagish Lake Fireballby JS Berdahl · 2010 — A week after the fall, outdoorsman Jim Brook discovered blac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: yukonscienceinstitute.org  
-   Link: <a href="https://www.yukonscienceinstitute.org/2001-2002.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yukonscienceinstitute.org/2001-2002.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2001-2002Subsequent recovery of meteoritic material from the ice surface of the Taku Arm of Tagish Lake occurred between January and May...</p></details>
+   Link:<a href="https://www.yukonscienceinstitute.org/2001-2002.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yukonscienceinstitute.org/2001-2002.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2001-2002Subsequent recovery of meteoritic material from the ice surface of the Taku Arm of Tagish Lake occurred between January and May...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canadacommons.ca  
-   Link: <a href="https://canadacommons.ca/artifacts/41618289/iconic/42517348/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/41618289/iconic/42517348/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic: Tagish Lake MeteoriteThe meteorite was recovered by Jim Brook, who preserved the fragments by freezing them. The Royal Ontario Mu...</p></details>
+   Link:<a href="https://canadacommons.ca/artifacts/41618289/iconic/42517348/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/41618289/iconic/42517348/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iconic: Tagish Lake MeteoriteThe meteorite was recovered by Jim Brook, who preserved the fragments by freezing them. The Royal Ontario Mu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake MeteoriteJim Brook recovered several dozen meteorites totaling ~1 kg on the ice of Taku Arm, Tagish Lake, on January 25 and 2...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake MeteoriteJim Brook recovered several dozen meteorites totaling ~1 kg on the ice of Taku Arm, Tagish Lake, on January 25 and 2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lake Recovery — Peter BrownJim Brook, who lives in the remote area just south of the Yukon/British Columbia border where it was thought m...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lake Recovery — Peter BrownJim Brook, who lives in the remote area just south of the Yukon/British Columbia border where it was thought m...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: tagish lake canada 911  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lake, CanadaThe first meteorites were recovered by Jim Brook, who was driving over the ice of the Taku Arm of Tagish Lake. The general ar...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lake, CanadaThe first meteorites were recovered by Jim Brook, who was driving over the ice of the Taku Arm of Tagish Lake. The general ar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astrobiology.nasa.gov  
-   Link: <a href="https://astrobiology.nasa.gov/nai/articles/2002/1/28/the-tagish-lake-meteorite/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/nai/articles/2002/1/28/the-tagish-lake-meteorite/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite28 Jan 2002 — To date, 500 more fragments have been found near Tagish Lake and hundreds have be...</p></details>
+   Link:<a href="https://astrobiology.nasa.gov/nai/articles/2002/1/28/the-tagish-lake-meteorite/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/nai/articles/2002/1/28/the-tagish-lake-meteorite/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite28 Jan 2002 — To date, 500 more fragments have been found near Tagish Lake and hundreds have be...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Tagish Lake (meteorite)  
-   Link: <a href="https://en.wikipedia.org/wiki/Tagish_Lake_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tagish_Lake_%28meteorite%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake (meteorite)The Tagish Lake meteorite fell at 16:43 UTC on 18 January 2000 in the Tagish Lake area in northwestern British...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tagish_Lake_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tagish_Lake_%28meteorite%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tagish Lake (meteorite)The Tagish Lake meteorite fell at 16:43 UTC on 18 January 2000 in the Tagish Lake area in northwestern British...</p></details>
    Published: January 2000  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cmsw.mit.edu  
-   Link: <a href="https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light - The Secret History of the Tagish Lake Fireballby T Levenson · 2010 — A week after the fall, outdoorsman Jim Brook discovered blac...</p></details>
+   Link:<a href="https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cmsw.mit.edu/wp/wp-content/uploads/2016/06/227233756-James-Berdahl-Morning-Light-The-Secret-History-of-the-Tagish-Lake-Fireball.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light - The Secret History of the Tagish Lake Fireballby T Levenson · 2010 — A week after the fall, outdoorsman Jim Brook discovered blac...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Carbonaceous chondrite meteorites  
-   Link: <a href="https://www.youtube.com/watch?v=-dKIzbLVmy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-dKIzbLVmy4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid samples hint at how life formed on Earth, researchers say...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-dKIzbLVmy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-dKIzbLVmy4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid samples hint at how life formed on Earth, researchers say...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006M%26PS...41..407H</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Snow cover persisted on the ice of Taku Arm (Tagish Lake) until late April.Read mor...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006M%26PS...41..407H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Snow cover persisted on the ice of Taku Arm (Tagish Lake) until late April.Read mor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Iconic: Tagish Lake Meteorite  
-   Link: <a href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OlZx-H0qmPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carbonaceous chondrite meteorites - why they are important...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OlZx-H0qmPk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carbonaceous chondrite meteorites - why they are important...</p></details>

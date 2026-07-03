@@ -256,7 +256,7 @@ image: /assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_si
 
 ## Introduction
 
-The key question in the [West Bathurst]({{ 'west-bathurst/' | relative_url }}) case is not whether an unidentified object crashed in the woods, but what witness Aurele Doucet believed he had seen and how precisely he thought he could locate it. In August 1962, Doucet reported that an object passed overhead near his home in West Bathurst, [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}), and appeared to come down in forest roughly a mile away. That combination of a witness, a recent event, and an apparently identifiable landing area was enough to move the report into Canada's official reporting system for unusual sky events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+The key question in the [West Bathurst]({{ 'west-bathurst/' | relative_url }}) case is not whether an unidentified object crashed in the woods, but what witness Aurele Doucet believed he had seen and how precisely he thought he could locate it. In August 1962, Doucet reported that an object passed overhead near his home in West Bathurst, [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}), and appeared to come down in forest roughly a mile away. That combination of a witness, a recent event, and an apparently identifiable landing area was enough to move the report into Canada's official reporting system for unusual sky events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-1-dark.svg" | relative_url }}" alt="Sighting trail illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,9 +267,9 @@ Within the broader history of New Brunswick UFO and sky-object reports, the impo
 
 ## The August 1962 witness account
 
-The surviving record indicates that Aurele Doucet reported seeing an object move overhead near West Bathurst before apparently descending into nearby woodland. The crucial detail was his belief that it had fallen approximately one mile from his home. That estimate transformed the event from a simple observation into a potential recovery case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+The surviving record indicates that Aurele Doucet reported seeing an object move overhead near West Bathurst before apparently descending into nearby woodland. The crucial detail was his belief that it had fallen approximately one mile from his home. That estimate transformed the event from a simple observation into a potential recovery case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
-The timing is also unusually clear. Historical research into Michael W. Burke-Gaffney's files shows that the report reached him through RCMP channels in August 1962. Correspondence cited by later historians places the RCMP communication and Burke-Gaffney's follow-up efforts on 15 August 1962, indicating that officials treated the report as sufficiently recent to justify prompt inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+The timing is also unusually clear. Historical research into Michael W. Burke-Gaffney's files shows that the report reached him through RCMP channels in August 1962. Correspondence cited by later historians places the RCMP communication and Burke-Gaffney's follow-up efforts on 15 August 1962, indicating that officials treated the report as sufficiently recent to justify prompt inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 What stands out is that the original claim was framed less as a mystery in the sky than as a possible fall to the ground. In practical terms, a witness who believes an object has landed nearby provides investigators with something to check. Even if the estimate proves inaccurate, it offers a starting point that many UFO reports lack.
 
@@ -278,13 +278,13 @@ What stands out is that the original claim was framed less as a mystery in the s
 
 ## Why the forest location mattered
 
-Doucet's reference to a wooded area about a mile away was the most important location clue in the entire case. West Bathurst was surrounded by extensive forested terrain, and a report of an object descending into such an area naturally raised the possibility of a meteorite, aircraft debris, or some other recoverable material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+Doucet's reference to a wooded area about a mile away was the most important location clue in the entire case. West Bathurst was surrounded by extensive forested terrain, and a report of an object descending into such an area naturally raised the possibility of a meteorite, aircraft debris, or some other recoverable material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 From an investigative perspective, the location clue mattered for three reasons:
 
 * **It implied a finite search area.** A one-mile estimate is far from exact, but it is much more useful than a report of a distant object vanishing over the horizon.
 * **It suggested physical evidence might exist.** Investigators could ask whether anyone had searched the area or found traces of an impact.
-* **It matched meteorite-reporting procedures of the period.** Canadian researchers were actively interested in reports that hinted at a recent fall because recoverable meteorites could quickly disappear through weather, forestry activity, or simple difficulty of access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+* **It matched meteorite-reporting procedures of the period.** Canadian researchers were actively interested in reports that hinted at a recent fall because recoverable meteorites could quickly disappear through weather, forestry activity, or simple difficulty of access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 The location clue therefore explains why the report moved beyond a local conversation and into correspondence involving scientific authorities. The possibility of finding something tangible was more significant than the aerial observation itself.
 
@@ -292,7 +292,7 @@ The location clue therefore explains why the report moved beyond a local convers
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-2-dark.svg" | relative_url }}" alt="Sighting trail illustration 2" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How precise was the location?
 
-The surviving descriptions do not provide map coordinates, a named woodlot, or a documented search route. The "about a mile away" estimate appears to have remained an approximate witness judgement rather than a surveyed location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+The surviving descriptions do not provide map coordinates, a named woodlot, or a documented search route. The "about a mile away" estimate appears to have remained an approximate witness judgement rather than a surveyed location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 That limitation is important when assessing the case. Human observers often misjudge distance, especially when viewing objects against the sky. An object that appears to descend into nearby woods may actually be much farther away. The available records do not show that Doucet or investigators ever identified a definite impact site.
 
@@ -303,7 +303,7 @@ As a result, the forest location functioned more as a lead than as evidence. It 
 
 ## What the report did and did not establish
 
-The timeline created by Doucet's account established several things with reasonable confidence. A resident of West Bathurst reported a falling object in August 1962; the report entered RCMP channels; and it was forwarded to Michael W. Burke-Gaffney for assessment because it appeared to involve a possible physical fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+The timeline created by Doucet's account established several things with reasonable confidence. A resident of West Bathurst reported a falling object in August 1962; the report entered RCMP channels; and it was forwarded to Michael W. Burke-Gaffney for assessment because it appeared to involve a possible physical fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 However, the report did not establish:
 
@@ -313,206 +313,206 @@ However, the report did not establish:
 * That an unidentified craft landed.
 * That a meteorite struck the forest.
 * That any object was recovered from the reported area.
-* That investigators confirmed an impact site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+* That investigators confirmed an impact site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 </div>
 
-Later correspondence associated with the case pointed toward a mundane explanation involving a parachute flare reportedly released by local youths. If correct, that explanation would account for both the appearance of a descending object and Doucet's impression that something had come down nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+Later correspondence associated with the case pointed toward a mundane explanation involving a parachute flare reportedly released by local youths. If correct, that explanation would account for both the appearance of a descending object and Doucet's impression that something had come down nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
-For the history of unusual-object reporting in New Brunswick, the lasting significance of the West Bathurst case is therefore not a recovered object or a dramatic mystery. It is the way a witness's estimate—an object apparently falling into forest about a mile away—generated a traceable chain of official attention. The location clue gave the report enough specificity to be investigated, even though the evidence ultimately failed to demonstrate that anything extraordinary had landed near West Bathurst. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
+For the history of unusual-object reporting in New Brunswick, the lasting significance of the West Bathurst case is therefore not a recovered object or a dramatic mystery. It is the way a witness's estimate—an object apparently falling into forest about a mile away—generated a traceable chain of official attention. The location clue gave the report enough specificity to be investigated, even though the evidence ultimately failed to demonstrate that anything extraordinary had landed near West Bathurst.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erudit.org">[erudit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erudit.org</span><span class="citation-popover-title">Michael W</span><span class="citation-popover-snippet">Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</span><span class="citation-popover-meta">Published: August 1962</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-3-dark.svg" | relative_url }}" alt="Sighting trail illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did Doucet think fell near West Bathurst?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did Doucet think fell near West Bathurst?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reports and the assessment of unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reports and the assessment of unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses how specific sightings are documented, investigated, and explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how specific sightings are documented, investigated, and explained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible witness testimony and official follow-up procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible witness testimony and official follow-up procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        <p class="fr-book-desc">Relevant because the witness believed a physical object may have fallen nearby.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant because the witness believed a physical object may have fallen nearby.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="{{ '/assets/images/marketplace-covers/ba31d36476c4410af7dd.jpg' | relative_url }}" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift"><img src="{{ '/assets/images/marketplace-covers/ba31d36476c4410af7dd.jpg' | relative_url }}" alt="Listing image for 20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm FedEx Express ATR Airplane Model Diecast Metal Aircraft Collectible Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box"><img src="{{ '/assets/images/marketplace-covers/2737a348ab755a556d34.jpg' | relative_url }}" alt="Listing image for British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box"><img src="{{ '/assets/images/marketplace-covers/2737a348ab755a556d34.jpg' | relative_url }}" alt="Listing image for British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">British Airways Boeing 747-400 Small Diecast Plane with Stand In Original Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="{{ '/assets/images/marketplace-covers/a5430c39abaa057cee31.jpg' | relative_url }}" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale"><img src="{{ '/assets/images/marketplace-covers/a5430c39abaa057cee31.jpg' | relative_url }}" alt="Listing image for 20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">20cm Diecast Metal Alloy Antonov An-225 &quot;Mriya&quot; Airplane Model 1/400 Scale</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER"><img src="{{ '/assets/images/marketplace-covers/94043c86e0a54a515192.jpg' | relative_url }}" alt="Listing image for NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">NEW 16cm British Airways Concorde Die Cast Metal Aircraft Plane Model UK SELLER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search<span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sighting-trail-what-did-doucet-think-fell-near-west-bathurst-new-brunswick-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,75 +718,75 @@ For the history of unusual-object reporting in New Brunswick, the lasting signif
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: erudit.org  
    Title: Michael W  
-   Link: <a href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</p></details>
+   Link:<a href="https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/scientia/2020-v42-n1-scientia05473/1071264ar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burke-Gaffney and the UFO Debate in Atlantic...by M Hayes · 2020 — In August 1962, he received a report from the RCMP about a potential...</p></details>
    Published: August 1962  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: erudit.org  
    Title: v42n1 complet  
-   Link: <a href="https://www.erudit.org/projspec/scientia/v42n1_complet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/projspec/scientia/v42n1_complet.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Journal of the History of Science, Technology...In August 1962, he received a report from the RCMP about a potential meteorite...</p></details>
+   Link:<a href="https://www.erudit.org/projspec/scientia/v42n1_complet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/projspec/scientia/v42n1_complet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Journal of the History of Science, Technology...In August 1962, he received a report from the RCMP about a potential meteorite...</p></details>
    Published: August 1962  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>new after but who not they have –; her she &#x27; two been other when there all % during into school time may years more most only over city...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new after but who not they have –; her she &#x27; two been other when there all % during into school time may years more most only over city...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia word frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... new 3169437 they 3168680 after 3155890; 3007392 been 2800339 her 2751735... august 840...</p></details>
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_word_frequencies.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_word_frequencies.txt... new 3169437 they 3168680 after 3155890; 3007392 been 2800339 her 2751735... august 840...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia doc frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txt... new 1147848 other 1137955 all 1115516 their 1100984; 1060261 when 1022967... august 477...</p></details>
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txt... new 1147848 other 1137955 all 1115516 their 1100984; 1060261 when 1022967... august 477...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e november college held order...Read more...</p></details>
+   Link:<a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e november college held order...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: canadiantradeind1946unse djvu.txt  
-   Link: <a href="https://archive.org/stream/canadiantradeind1946unse/canadiantradeind1946unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/canadiantradeind1946unse/canadiantradeind1946unse_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Canadian Trade Index 1946&quot;A line drawing of the Internet Archive headquarters building façade.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/canadiantradeind1946unse/canadiantradeind1946unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/canadiantradeind1946unse/canadiantradeind1946unse_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Canadian Trade Index 1946&quot;A line drawing of the Internet Archive headquarters building façade.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: v2p2publicacc1990canauoft djvu.txt  
-   Link: <a href="https://archive.org/stream/v2p2publicacc1990canauoft/v2p2publicacc1990canauoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/v2p2publicacc1990canauoft/v2p2publicacc1990canauoft_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. FN publication! I&lt;*&#x27;l Government of Canada Gouvernement du Canada Prepared by...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/v2p2publicacc1990canauoft/v2p2publicacc1990canauoft_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/v2p2publicacc1990canauoft/v2p2publicacc1990canauoft_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. FN publication! I&lt;*&#x27;l Government of Canada Gouvernement du Canada Prepared by...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yumpu.com  
-   Link: <a href="https://www.yumpu.com/en/document/view/3192736/the-royal-gazette-gazette-royale-gouvernement-du-nouveau-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/3192736/the-royal-gazette-gazette-royale-gouvernement-du-nouveau-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gouvernement du...2 Nov 2012 — The Royal Gazette Gazette royale - Gouvernement du Nouveau...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/3192736/the-royal-gazette-gazette-royale-gouvernement-du-nouveau-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/3192736/the-royal-gazette-gazette-royale-gouvernement-du-nouveau-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gouvernement du...2 Nov 2012 — The Royal Gazette Gazette royale - Gouvernement du Nouveau...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. [Friedman](&amp;#123;&amp;#123; &#x27;friedman/&#x27; | relative_url &amp;#125;&amp;#125;) - UFO Expert - Interview with Bill Boggs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. [Friedman](&amp;#123;&amp;#123; &#x27;friedman/&#x27; | relative_url &amp;#125;&amp;#125;) - UFO Expert - Interview with Bill Boggs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: One of Canada's Strangest Sightings (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton UFO Conference is out of this world...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton UFO Conference is out of this world...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Stanton T. Friedman  
-   Link: <a href="https://www.youtube.com/watch?v=iirIvcWLB9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iirIvcWLB9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iirIvcWLB9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iirIvcWLB9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified...</p></details>

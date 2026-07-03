@@ -266,23 +266,23 @@ Modern [Ontario UFO reports]({{ 'report-numbers/' | relative_url }}) often enter
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-1-dark.svg" | relative_url }}" alt="CADORS illustration 1" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A CADORS entry does not mean that Transport Canada has confirmed a mysterious craft. The system exists to record aviation occurrences that could affect flight safety. An unusual object in controlled airspace, a bright light reported by a flight crew, a suspected drone, a balloon, a meteor or an unidentified object can all generate a record. For researchers examining Ontario's modern UFO history, CADORS is valuable not because it proves extraordinary claims but because it preserves contemporaneous reports from trained observers operating in an environment where accurate reporting matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+A CADORS entry does not mean that Transport Canada has confirmed a mysterious craft. The system exists to record aviation occurrences that could affect flight safety. An unusual object in controlled airspace, a bright light reported by a flight crew, a suspected drone, a balloon, a meteor or an unidentified object can all generate a record. For researchers examining Ontario's modern UFO history, CADORS is valuable not because it proves extraordinary claims but because it preserves contemporaneous reports from trained observers operating in an environment where accurate reporting matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 ## What CADORS Is Designed to Capture
 
-CADORS was established as an aviation occurrence reporting system, not as a UFO archive. Transport Canada describes it as a tool for collecting and distributing information about civil aviation occurrences so that hazards and operational problems can be identified quickly. Reports come largely from NAV CANADA air traffic services, although airports, operators, government agencies and members of the public can also contribute information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+CADORS was established as an aviation occurrence reporting system, not as a UFO archive. Transport Canada describes it as a tool for collecting and distributing information about civil aviation occurrences so that hazards and operational problems can be identified quickly. Reports come largely from NAV CANADA air traffic services, although airports, operators, government agencies and members of the public can also contribute information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
-The key point for Ontario UFO researchers is that the system records events affecting aviation operations. A pilot reporting an unidentified light near an approach path, a controller tracking an unexpected object on radar, or a crew observing something that cannot immediately be identified may all generate an occurrence report. The database therefore captures a category of [sightings]({{ 'sightings/' | relative_url }}) that differs from most civilian UFO reports: many involve professional observers operating aircraft, communicating with air traffic control, and making reports within established safety procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+The key point for Ontario UFO researchers is that the system records events affecting aviation operations. A pilot reporting an unidentified light near an approach path, a controller tracking an unexpected object on radar, or a crew observing something that cannot immediately be identified may all generate an occurrence report. The database therefore captures a category of [sightings]({{ 'sightings/' | relative_url }}) that differs from most civilian UFO reports: many involve professional observers operating aircraft, communicating with air traffic control, and making reports within established safety procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
-Unlike the historical federal UFO files held by Library and [Archives]({{ 'archives-675dfa/' | relative_url }}) Canada, which mainly cover the period from 1947 to the early 1980s, CADORS represents an ongoing modern reporting mechanism. It forms part of the transition from the archival era of UFO paperwork to contemporary aviation-safety reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+Unlike the historical federal UFO files held by Library and [Archives]({{ 'archives-675dfa/' | relative_url }}) Canada, which mainly cover the period from 1947 to the early 1980s, CADORS represents an ongoing modern reporting mechanism. It forms part of the transition from the archival era of UFO paperwork to contemporary aviation-safety reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 ## Why a UAP Entry Does Not Mean an Exotic Object
 
-One of the most important cautions comes directly from Transport Canada. The department has stated that the term "UFO" in CADORS can refer to many ordinary phenomena, including drones, balloons, meteors, weather effects and birds. Officials explicitly warn that a CADORS UFO entry should not be interpreted as evidence of extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+One of the most important cautions comes directly from Transport Canada. The department has stated that the term "UFO" in CADORS can refer to many ordinary phenomena, including drones, balloons, meteors, weather effects and birds. Officials explicitly warn that a CADORS UFO entry should not be interpreted as evidence of extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
-This warning matters because database searches can create a misleading impression. A reader may find a report labelled as a UFO and assume it remained unexplained. In reality, CADORS entries are often preliminary records produced shortly after an event. They document what was reported at the time, not necessarily the final explanation. Transport Canada has repeatedly described the system as a repository of occurrence information rather than a catalogue of confirmed conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+This warning matters because database searches can create a misleading impression. A reader may find a report labelled as a UFO and assume it remained unexplained. In reality, CADORS entries are often preliminary records produced shortly after an event. They document what was reported at the time, not necessarily the final explanation. Transport Canada has repeatedly described the system as a repository of occurrence information rather than a catalogue of confirmed conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
-The distinction mirrors a broader theme in Ontario UFO history. Historical files from the Department of Transport, National Research Council and Department of National Defence frequently preserved reports because something was initially unidentified, not because investigators concluded that something extraordinary had occurred. CADORS continues that pattern in a modern aviation context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The distinction mirrors a broader theme in Ontario UFO history. Historical files from the Department of Transport, National Research Council and Department of National Defence frequently preserved reports because something was initially unidentified, not because investigators concluded that something extraordinary had occurred. CADORS continues that pattern in a modern aviation context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
@@ -301,13 +301,13 @@ A typical aviation occurrence may include:
 * Radio communications with air traffic control.
 * Multiple observers in separate aircraft.
 * Weather and flight-operation information.
-* Follow-up by aviation authorities if safety concerns exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2tsb.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+* Follow-up by aviation authorities if safety concerns exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2tsb.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 </div>
 
-These details can make a report more useful for later analysis. A pilot observing an unusual light over northern Ontario, for example, is often reporting from a known position and can provide information about direction, altitude and duration. Air traffic recordings and radar information may sometimes provide additional context, although not every occurrence generates extensive follow-up documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+These details can make a report more useful for later analysis. A pilot observing an unusual light over northern Ontario, for example, is often reporting from a known position and can provide information about direction, altitude and duration. Air traffic recordings and radar information may sometimes provide additional context, although not every occurrence generates extensive follow-up documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
-At the same time, aviation reports have their own limitations. Flight crews may observe distant lights without enough information to determine size, distance or speed accurately. Atmospheric effects, celestial objects, satellites, military activity and conventional aircraft can all create confusing visual impressions, particularly at night. A report's appearance in CADORS therefore strengthens the documentary record without automatically strengthening the extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+At the same time, aviation reports have their own limitations. Flight crews may observe distant lights without enough information to determine size, distance or speed accurately. Atmospheric effects, celestial objects, satellites, military activity and conventional aircraft can all create confusing visual impressions, particularly at night. A report's appearance in CADORS therefore strengthens the documentary record without automatically strengthening the extraordinary interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-2-dark.svg" | relative_url }}" alt="CADORS illustration 2" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,9 +315,9 @@ At the same time, aviation reports have their own limitations. Flight crews may 
 
 Ontario appears regularly in modern aviation occurrence records because it contains some of Canada's busiest airspace, including the Greater Toronto Area, major international airports, northern resource routes and extensive cross-border traffic.
 
-Aviation-related UFO reports from Ontario have ranged from unusual lights observed by pilots to reports of large orange objects and unidentified airborne lights seen near flight paths. Some cases have attracted attention because professional crews made the observations, while others entered the database through airport or public reports. Researchers examining CADORS have noted that the reports often involve lights, distant objects or phenomena that were not immediately identifiable rather than dramatic close encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in Canada</span><span class="citation-popover-snippet">Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaApril 10, 2024 — The impressively large UFO was orange in color and hovered...</span><span class="citation-popover-meta">Published: April 10, 2024</span></span></span>
+Aviation-related UFO reports from Ontario have ranged from unusual lights observed by pilots to reports of large orange objects and unidentified airborne lights seen near flight paths. Some cases have attracted attention because professional crews made the observations, while others entered the database through airport or public reports. Researchers examining CADORS have noted that the reports often involve lights, distant objects or phenomena that were not immediately identifiable rather than dramatic close encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in Canada</span><span class="citation-popover-snippet">Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaApril 10, 2024 — The impressively large UFO was orange in color and hovered...</span><span class="citation-popover-meta">Published: April 10, 2024</span></span></span>
 
-The reporting pattern itself is revealing. Most entries are brief and operational in tone. They focus on what was observed, where it was observed and whether flight safety might have been affected. This contrasts sharply with popular UFO narratives, which often emphasise speculation about the object's nature. CADORS records are primarily concerned with risk assessment and situational awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+The reporting pattern itself is revealing. Most entries are brief and operational in tone. They focus on what was observed, where it was observed and whether flight safety might have been affected. This contrasts sharply with popular UFO narratives, which often emphasise speculation about the object's nature. CADORS records are primarily concerned with risk assessment and situational awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DF26dbtFwKc" title="UFO sightings rising in Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DF26dbtFwKc" target="_blank" rel="noopener noreferrer">UFO sightings rising in Canada</a></p><p class="youtube-embed-meta">Channel: CityNews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DF26dbtFwKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DF26dbtFwKc">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ The reporting pattern itself is revealing. Most entries are brief and operationa
 
 The shift from historical UFO archives to CADORS reflects a broader change in how Canadian institutions handle unidentified aerial reports.
 
-During the Cold War and the early decades of UFO reporting, unusual sightings might be routed through defence, scientific or transportation agencies and eventually preserved in federal UFO files. Today, Canada has no dedicated government UFO investigation programme equivalent to those historical collections. Instead, reports are dispersed through existing systems according to their practical significance. Aviation-related events are often captured through CADORS, while other reports may be handled by local authorities, scientific organisations or civilian reporting groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+During the Cold War and the early decades of UFO reporting, unusual sightings might be routed through defence, scientific or transportation agencies and eventually preserved in federal UFO files. Today, Canada has no dedicated government UFO investigation programme equivalent to those historical collections. Instead, reports are dispersed through existing systems according to their practical significance. Aviation-related events are often captured through CADORS, while other reports may be handled by local authorities, scientific organisations or civilian reporting groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 This helps explain why modern Ontario UFO history looks different from the province's archival record. Researchers searching for contemporary evidence are less likely to find a central government case file and more likely to encounter aviation occurrence reports, safety records and scattered institutional documentation.
 
@@ -345,7 +345,7 @@ It can tell us:
 * That a report was made.
 * When and where it occurred.
 * Whether aviation personnel considered it noteworthy.
-* How the event entered Canada's aviation safety system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+* How the event entered Canada's aviation safety system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 </div>
 
@@ -357,204 +357,204 @@ It usually cannot tell us:
 * The ultimate identity of every reported object.
 * Whether an observation had a mundane explanation discovered later.
 * Whether a sighting represented a genuinely anomalous event.
-* Whether multiple reports describe the same phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+* Whether multiple reports describe the same phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
 </div>
 
-For modern Ontario UFO research, that limitation is not a weakness so much as a reminder of what the records are designed to do. CADORS preserves evidence that an unusual aerial event was reported within the aviation system. It provides a documented starting point for investigation, but it does not transform unidentified observations into confirmed mysteries. In that sense, it occupies the same place in the modern era that federal UFO archives occupied in earlier decades: a valuable record of reports, not a final verdict on what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
+For modern Ontario UFO research, that limitation is not a weakness so much as a reminder of what the records are designed to do. CADORS preserves evidence that an unusual aerial event was reported within the aviation system. It provides a documented starting point for investigation, but it does not transform unidentified observations into confirmed mysteries. In that sense, it occupies the same place in the modern era that federal UFO archives occupied in earlier decades: a valuable record of reports, not a final verdict on what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">It is also used to capture information</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-3-dark.svg" | relative_url }}" alt="CADORS illustration 3" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Reports Become Aviation Safety Records. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Reports Become Aviation Safety Records. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on pilot, military and aviation witness reports, aligning closely with aviation-recorded UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on pilot, military and aviation witness reports, aligning closely with aviation-recorded UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UAP evidence, official records and aviation-related encounters in a contemporary context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UAP evidence, official records and aviation-related encounters in a contemporary context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports without assuming extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports without assuming extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand how advanced aerospace technology can influence interpretations of unusual aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how advanced aerospace technology can influence interpretations of unusual aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Style Aviation Metal Sign Aircraft Plane"><img src="{{ '/assets/images/marketplace-covers/75b8fe67d350fd22d70b.jpg' | relative_url }}" alt="Listing image for Vintage Style Aviation Metal Sign Aircraft Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Style Aviation Metal Sign Aircraft Plane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Style Aviation Metal Sign Aircraft Plane"><img src="{{ '/assets/images/marketplace-covers/75b8fe67d350fd22d70b.jpg' | relative_url }}" alt="Listing image for Vintage Style Aviation Metal Sign Aircraft Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Style Aviation Metal Sign Aircraft Plane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;"><img src="{{ '/assets/images/marketplace-covers/da0ea65f564899132d54.jpg' | relative_url }}" alt="Listing image for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;"><img src="{{ '/assets/images/marketplace-covers/da0ea65f564899132d54.jpg' | relative_url }}" alt="Listing image for ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">ENAMEL METAL SIGN, &#x27;PHILLIPS AVIATION&#x27;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American Aviation, Retro Vintage Metal Sign, Man Cave"><img src="{{ '/assets/images/marketplace-covers/8d058b417492878f6694.jpg' | relative_url }}" alt="Listing image for North American Aviation, Retro Vintage Metal Sign, Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">North American Aviation, Retro Vintage Metal Sign, Man Cave</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American Aviation, Retro Vintage Metal Sign, Man Cave"><img src="{{ '/assets/images/marketplace-covers/8d058b417492878f6694.jpg' | relative_url }}" alt="Listing image for North American Aviation, Retro Vintage Metal Sign, Man Cave" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">North American Aviation, Retro Vintage Metal Sign, Man Cave</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs"><img src="{{ '/assets/images/marketplace-covers/80e158271727cec93af9.jpg' | relative_url }}" alt="Listing image for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs"><img src="{{ '/assets/images/marketplace-covers/80e158271727cec93af9.jpg' | relative_url }}" alt="Listing image for Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Spitfire Metal Wall Sign 3 Pack WWII Aircraft Aviation Decor Round Tin Signs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation metal sign" data-ebay-reference="cadors-when-ufo-reports-become-aviation-safety-records-ontario-aviation-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,150 +760,150 @@ For modern Ontario UFO research, that limitation is not a weakness so much as a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: It is also used to capture information  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>form to facilitate the reporting of UFOs across various government departments.Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>form to facilitate the reporting of UFOs across various government departments.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tsb.gc.ca  
-   Link: <a href="https://www.tsb.gc.ca/eng/medias-media/fiches-facts/a17o0038/a17o0038-20190131-03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/medias-media/fiches-facts/a17o0038/a17o0038-20190131-03.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of Canada31 Jan 2019 — Data examined in this investigation were gathered from the Transportation Safety Board...</p></details>
+   Link:<a href="https://www.tsb.gc.ca/eng/medias-media/fiches-facts/a17o0038/a17o0038-20190131-03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/medias-media/fiches-facts/a17o0038/a17o0038-20190131-03.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of Canada31 Jan 2019 — Data examined in this investigation were gathered from the Transportation Safety Board...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Orange UFO '50 Times Bigger' Than a Plane Seen in Canada  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaApril 10, 2024 — The impressively large UFO was orange in color and hovered...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c0uq5q/canadian_aviation_incident_report_orange_ufo_50/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orange UFO &#x27;50 Times Bigger&#x27; Than a Plane Seen in CanadaApril 10, 2024 — The impressively large UFO was orange in color and hovered...</p></details>
    Published: April 10, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: syfy.com  
    Title: unidentified aerial phenomena ufos in canada  
-   Link: <a href="https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena have been tracked in...23 Apr 2021 — A recent story from VICE World News dives into these unexplained phen...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena have been tracked in...23 Apr 2021 — A recent story from VICE World News dives into these unexplained phen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.gc.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — Until recently, the term “UFO” was used to describe aerial phenome...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — Until recently, the term “UFO” was used to describe aerial phenome...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tsb.gc.ca  
-   Link: <a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/2011/a11q0170/a11q0170.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/2011/a11q0170/a11q0170.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Investigation Report A11Q01709 Jan 2014 — The Board is therefore concerned that until flight crews in aircraft that are taking o...</p></details>
+   Link:<a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/2011/a11q0170/a11q0170.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/2011/a11q0170/a11q0170.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Investigation Report A11Q01709 Jan 2014 — The Board is therefore concerned that until flight crews in aircraft that are taking o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO sightings rising in Canada  
-   Link: <a href="https://www.youtube.com/watch?v=DF26dbtFwKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DF26dbtFwKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DF26dbtFwKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DF26dbtFwKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Canada's UFO survey results released  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aa.com.tr  
    Title: canada ufo sightings include reports from airline crews  
-   Link: <a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The skies above Canada were fertile ground for what could be UFOs with at least 17...Read more...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The skies above Canada were fertile ground for what could be UFOs with at least 17...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s top scientist releases new UFO reportCanada&#x27;s top scientist releases new UFO report. 202. Dislike... ” The acronym UAP stands f...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s top scientist releases new UFO reportCanada&#x27;s top scientist releases new UFO report. 202. Dislike... ” The acronym UAP stands f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
+   Link:<a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bst.gc.ca  
-   Link: <a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report an air transportation occurrenceReport the occurrence as soon as possible by the quickest means available Call direct 819-994-3741...</p></details>
+   Link:<a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report an air transportation occurrenceReport the occurrence as soon as possible by the quickest means available Call direct 819-994-3741...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVLondon/posts/watch-canadas-transportation-department-had-a-ufo-lead-who-tried-to-quell-media-/968103378649238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVLondon/posts/watch-canadas-transportation-department-had-a-ufo-lead-who-tried-to-quell-media-/968103378649238/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Canada&#x27;s transportation department had a UFO &#x27;...Canada&#x27;s transportation department had a UFO &#x27;lead&#x27; Known as CADORS, the strange...</p></details>
+   Link:<a href="https://www.facebook.com/CTVLondon/posts/watch-canadas-transportation-department-had-a-ufo-lead-who-tried-to-quell-media-/968103378649238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVLondon/posts/watch-canadas-transportation-department-had-a-ufo-lead-who-tried-to-quell-media-/968103378649238/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Canada&#x27;s transportation department had a UFO &#x27;...Canada&#x27;s transportation department had a UFO &#x27;lead&#x27; Known as CADORS, the strange...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-09-Canada-Civil-Aviation-Daily-Occurrence-Reporting-Systems-CADORS-presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-09-Canada-Civil-Aviation-Daily-Occurrence-Reporting-Systems-CADORS-presentation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cadorsCADORS. • Civil Aviation Daily Occurrence Reporting System. • Aviation accidents and incidents within the National Civil. Air Trans...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-09-Canada-Civil-Aviation-Daily-Occurrence-Reporting-Systems-CADORS-presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-09-Canada-Civil-Aviation-Daily-Occurrence-Reporting-Systems-CADORS-presentation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cadorsCADORS. • Civil Aviation Daily Occurrence Reporting System. • Aviation accidents and incidents within the National Civil. Air Trans...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: flyvfc.com  
-   Link: <a href="https://flyvfc.com/assets/files/mediahandler/documents/p18s75moen1qia1659fts1f1e89j4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flyvfc.com/assets/files/mediahandler/documents/p18s75moen1qia1659fts1f1e89j4.pdf</a>  
+   Link:<a href="https://flyvfc.com/assets/files/mediahandler/documents/p18s75moen1qia1659fts1f1e89j4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flyvfc.com/assets/files/mediahandler/documents/p18s75moen1qia1659fts1f1e89j4.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: numerous reports of mysterious lights very high very fast️watch full video on yo  
-   Link: <a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>😨Numerous Reports of Mysterious LightsMysterious Lights Over Nova Scotia – CADORS Report #2024A1739 ✨ On December 13, 2024, at 0015Z (12...</p></details>
+   Link:<a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>😨Numerous Reports of Mysterious LightsMysterious Lights Over Nova Scotia – CADORS Report #2024A1739 ✨ On December 13, 2024, at 0015Z (12...</p></details>
    Published: December 13, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgZ_2Y0_6d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual object spotted on Winnipeg flightAn incident report has been filed with Transport Canada... Grok AI Was Asked Why Aliens Haven&#x27;t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hgZ_2Y0_6d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual object spotted on Winnipeg flightAn incident report has been filed with Transport Canada... Grok AI Was Asked Why Aliens Haven&#x27;t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings had been reported in Canada in 2017. “The continued reporting of UFOs by the public and the yearly increase in numbers of U...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings had been reported in Canada in 2017. “The continued reporting of UFOs by the public and the yearly increase in numbers of U...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: from unidentified objects to a strange light canadian aviation officials receive  
-   Link: <a href="https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not all UFO cases involving pilots are classified as UFOs; sometimes these show up...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNews/posts/from-unidentified-objects-to-a-strange-light-canadian-aviation-officials-receive/525308449630853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not all UFO cases involving pilots are classified as UFOs; sometimes these show up...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>em which collects information about operational occurrences...</p></details>
+   Link:<a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em which collects information about operational occurrences...</p></details>

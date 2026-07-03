@@ -262,22 +262,22 @@ image: /assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince
 
 ## Introduction
 
-The Prince George sighting of 1 January 1969 is a small but revealing episode in [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }})’s UFO history. Unlike many later reports that survive only through retellings, this case entered Canada’s official record system and remains traceable through the federal UFO archive. According to archived summaries, three unrelated witnesses in Prince George reported seeing a round, glowing object in the late afternoon sky. The object was described as yellow-orange in colour and appeared to climb from roughly 2,000 feet to around 10,000 feet before disappearing from view. Although the report was never confirmed as anything extraordinary, its preservation in government files makes it an important example of how unusual aerial observations from northern British Columbia became part of Canada's documented UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+The Prince George sighting of 1 January 1969 is a small but revealing episode in [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }})’s UFO history. Unlike many later reports that survive only through retellings, this case entered Canada’s official record system and remains traceable through the federal UFO archive. According to archived summaries, three unrelated witnesses in Prince George reported seeing a round, glowing object in the late afternoon sky. The object was described as yellow-orange in colour and appeared to climb from roughly 2,000 feet to around 10,000 feet before disappearing from view. Although the report was never confirmed as anything extraordinary, its preservation in government files makes it an important example of how unusual aerial observations from northern British Columbia became part of Canada's documented UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-1-dark.svg" | relative_url }}" alt="Prince George illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Prince George 1969 case still matters
 
-Within the broader history of Interior and northern British Columbia sightings, the Prince George report stands out less because of what was seen and more because of what happened afterwards. Many local stories survive only through newspaper recollections or oral accounts. This one entered a formal reporting chain and was catalogued by federal agencies, allowing later researchers to verify that a report existed even if the underlying evidence remained limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
+Within the broader history of Interior and northern British Columbia sightings, the Prince George report stands out less because of what was seen and more because of what happened afterwards. Many local stories survive only through newspaper recollections or oral accounts. This one entered a formal reporting chain and was catalogued by federal agencies, allowing later researchers to verify that a report existed even if the underlying evidence remained limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
 
-That distinction matters when evaluating historical UFO claims. A preserved government file does not automatically make a sighting more credible, but it does establish that officials considered the report worthy of recording. For historians of British Columbia UFO activity, Prince George provides a useful case study in the difference between a documented event and an explained event. The first can be demonstrated; the second may remain uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
+That distinction matters when evaluating historical UFO claims. A preserved government file does not automatically make a sighting more credible, but it does establish that officials considered the report worthy of recording. For historians of British Columbia UFO activity, Prince George provides a useful case study in the difference between a documented event and an explained event. The first can be demonstrated; the second may remain uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses reportedly saw
 
-The surviving summary of the case is brief. On New Year's Day 1969, three apparently unrelated witnesses observed a strange round object in the sky over Prince George. The object reportedly emitted a yellow-orange glow and seemed to rise significantly in altitude during the observation. Later summaries describe the object as a sphere or round aerial object rather than a structured craft with obvious wings or other aircraft features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+The surviving summary of the case is brief. On New Year's Day 1969, three apparently unrelated witnesses observed a strange round object in the sky over Prince George. The object reportedly emitted a yellow-orange glow and seemed to rise significantly in altitude during the observation. Later summaries describe the object as a sphere or round aerial object rather than a structured craft with obvious wings or other aircraft features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 Several aspects of the report attracted attention:
 
@@ -288,22 +288,22 @@ Several aspects of the report attracted attention:
 * The witnesses were described as unrelated to one another.
 * The object was observed in daylight or late-afternoon conditions rather than complete darkness.
 * Observers reported apparent vertical movement or ascent.
-* The object was described as glowing rather than reflecting sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+* The object was described as glowing rather than reflecting sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 </div>
 
-At the same time, the surviving descriptions are sparse. Publicly available summaries do not provide detailed witness interviews, photographs, radar returns, instrument measurements, or extensive investigative findings. As with many historical UFO cases, the most widely repeated details are only a condensed version of a longer original report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
+At the same time, the surviving descriptions are sparse. Publicly available summaries do not provide detailed witness interviews, photographs, radar returns, instrument measurements, or extensive investigative findings. As with many historical UFO cases, the most widely repeated details are only a condensed version of a longer original report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vPsGi8EUzVo" title="From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vPsGi8EUzVo" target="_blank" rel="noopener noreferrer">From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 10.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vPsGi8EUzVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vPsGi8EUzVo">Open on YouTube</a></p></div></div></div>
 
 ## How the case entered official records
 
-The strongest historical value of the Prince George sighting is its documentary trail. Canada's federal UFO archive contains multiple entries associated with Prince George on 1 January 1969. These records appear in Library and Archives Canada's "Canada's UFOs: The Search for the Unknown" collection, which indexes reports gathered by agencies such as the Royal Canadian Mounted Police, Department of National Defence, Department of Transport, and National Research Council. Library and Archives Canada+2Library and Archives Canada <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
+The strongest historical value of the Prince George sighting is its documentary trail. Canada's federal UFO archive contains multiple entries associated with Prince George on 1 January 1969. These records appear in Library and Archives Canada's "Canada's UFOs: The Search for the Unknown" collection, which indexes reports gathered by agencies such as the Royal Canadian Mounted Police, Department of National Defence, Department of Transport, and National Research Council. Library and Archives Canada+2Library and Archives Canada<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
 
-The archive lists several Prince George records connected to the same date, with document dates extending into January 1969. The presence of multiple record numbers suggests that correspondence or related paperwork moved through more than one administrative channel rather than existing as a single isolated note. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
+The archive lists several Prince George records connected to the same date, with document dates extending into January 1969. The presence of multiple record numbers suggests that correspondence or related paperwork moved through more than one administrative channel rather than existing as a single isolated note.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
 
-This bureaucratic trail illustrates how Canadian UFO reporting functioned during the period. Reports could be passed among police, defence, transportation, and scientific agencies, generating files even when investigators reached no dramatic conclusion. The result is that some sightings from relatively remote regions of British Columbia survive today because they were processed through federal record-keeping systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
+This bureaucratic trail illustrates how Canadian UFO reporting functioned during the period. Reports could be passed among police, defence, transportation, and scientific agencies, generating files even when investigators reached no dramatic conclusion. The result is that some sightings from relatively remote regions of British Columbia survive today because they were processed through federal record-keeping systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-2-dark.svg" | relative_url }}" alt="Prince George illustration 2" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,7 +311,7 @@ This bureaucratic trail illustrates how Canadian UFO reporting functioned during
 
 A common misunderstanding in UFO history is that the existence of an official file somehow validates the extraordinary interpretation of a sighting. The Prince George case demonstrates why that assumption is unsafe.
 
-Library and Archives Canada explicitly notes that its UFO collection represents records accumulated by government departments between 1947 and the early 1980s. The archive preserves reports, correspondence, forms and investigations, but the existence of a file does not mean officials concluded that an unknown craft was present. Many entries were eventually explained, while others remained unresolved because the available information was insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
+Library and Archives Canada explicitly notes that its UFO collection represents records accumulated by government departments between 1947 and the early 1980s. The archive preserves reports, correspondence, forms and investigations, but the existence of a file does not mean officials concluded that an unknown craft was present. Many entries were eventually explained, while others remained unresolved because the available information was insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
 
 The Prince George report illustrates several limitations familiar to UFO researchers:
 
@@ -321,11 +321,11 @@ The Prince George report illustrates several limitations familiar to UFO researc
 * Witnesses described an unusual object, but perception of altitude and distance can be difficult to judge.
 * The surviving public summaries are extremely short.
 * No widely cited physical evidence is associated with the case.
-* The archival record confirms reporting, not interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+* The archival record confirms reporting, not interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 </div>
 
-Possible conventional explanations cannot be ruled out from the surviving information alone. Bright atmospheric phenomena, balloons, unusual lighting effects, astronomical objects seen under unusual conditions, or misidentified aircraft have all appeared as explanations in other Canadian UFO investigations. Because the available record is limited, no definitive explanation has achieved broad acceptance, but neither is there evidence strong enough to establish an extraordinary conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
+Possible conventional explanations cannot be ruled out from the surviving information alone. Bright atmospheric phenomena, balloons, unusual lighting effects, astronomical objects seen under unusual conditions, or misidentified aircraft have all appeared as explanations in other Canadian UFO investigations. Because the available record is limited, no definitive explanation has achieved broad acceptance, but neither is there evidence strong enough to establish an extraordinary conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4eG7Z5de1D0" title="The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer">The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: The Canadian Gothic Live Recordings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4eG7Z5de1D0">Open on YouTube</a></p></div></div></div>
@@ -334,200 +334,200 @@ Possible conventional explanations cannot be ruled out from the surviving inform
 
 The Prince George sighting occupies a middle ground that is common in British Columbia's historical UFO record. It is stronger than an unsupported local legend because documentary evidence shows that a report was filed and archived. Yet it is weaker than a landmark case supported by photographs, radar data, physical traces, or extensive investigative documentation.
 
-For readers interested in Interior and northern close-range sighting claims, that balance is precisely why the case remains useful. It shows how an unusual observation by multiple witnesses could enter Canada's official UFO reporting system and remain visible to historians decades later. The enduring significance of the Prince George incident lies not in proving that something extraordinary crossed the skies of northern British Columbia on New Year's Day 1969, but in demonstrating how such reports became part of the province's documented historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
+For readers interested in Interior and northern close-range sighting claims, that balance is precisely why the case remains useful. It shows how an unusual observation by multiple witnesses could enter Canada's official UFO reporting system and remain visible to historians decades later. The enduring significance of the Prince George incident lies not in proving that something extraordinary crossed the skies of northern British Columbia on New Year's Day 1969, but in demonstrating how such reports became part of the province's documented historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-3-dark.svg" | relative_url }}" alt="Prince George illustration 3" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Prince George 1969 case still matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Prince George 1969 case still matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses government records, official investigations, and documented UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government records, official investigations, and documented UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings, witness reports, and evidential limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings, witness reports, and evidential limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on how official agencies recorded and assessed unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how official agencies recorded and assessed unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places individual sightings into a broader historical and comparative context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places individual sightings into a broader historical and comparative context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="prince-george-why-the-prince-george-1969-case-still-matters-british-columbia-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ For readers interested in Interior and northern close-range sighting claims, tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ For readers interested in Interior and northern close-range sighting claims, tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ For readers interested in Interior and northern close-range sighting claims, tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ For readers interested in Interior and northern close-range sighting claims, tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ For readers interested in Interior and northern close-range sighting claims, tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,114 +733,114 @@ For readers interested in Interior and northern close-range sighting claims, tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownThese documents were accumulated between 1947 and the early 1980s and represent all record...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada Results  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1286</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1/1/1969. 1/30/1969. 37024-8777-6638. Prince George, BC. 1/1/1969. 1/30/1969. 37024-8780-13247. Prince George, BC. 1/1/1969.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1296" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1296</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownOct 29, 2007 — ARCHIVED - Canada&#x27;s UFOs: The Search for the...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1296" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;brws_s=&amp;q7=Royal+Canadian+Mounted+Police&amp;sk=1296</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownOct 29, 2007 — ARCHIVED - Canada&#x27;s UFOs: The Search for the...</p></details>
 
-5. <a id="endnote-5"></a>
-   Source: collectionscanada.gc.ca  
-   Title: Item Display  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9121&amp;record_id=37024-9121-6839" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9121&amp;record_id=37024-9121-6839</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/6/1969. Document Date: 3/13/1969. Location: Fort Nelson, BC. Record Group: Royal Canadian Mounted...Read more...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;isn_id_nbr=4678&amp;page_id_nbr=1043&amp;record_id=4678-1043-7842" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;isn_id_nbr=4678&amp;page_id_nbr=1043&amp;record_id=4678-1043-7842</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentified...</p></details>
-
-7. <a id="endnote-7"></a>
+5.<a id="endnote-5"></a>
    Source: collectionscanada.gc.ca  
    Title: Item Display  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9188&amp;record_id=37024-9188-6889" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9188&amp;record_id=37024-9188-6889</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9121&amp;record_id=37024" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9121&amp;record_id=37024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/6/1969. Document Date: 3/13/1969. Location: Fort Nelson, BC. Record Group: Royal Canadian Mounted...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+6.<a id="endnote-6"></a>
+   Source: collectionscanada.gc.ca  
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;isn_id_nbr=4678&amp;page_id_nbr=1043&amp;record_id=4678" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;isn_id_nbr=4678&amp;page_id_nbr=1043&amp;record_id=4678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentified...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: collectionscanada.gc.ca  
+   Title: Item Display  
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9188&amp;record_id=37024" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=25&amp;isn_id_nbr=37024&amp;page_id_nbr=9188&amp;record_id=37024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
+
+8.<a id="endnote-8"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=111" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=111" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lac-bac.gc.ca  
    Title: Item Display  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=&amp;isn_id_nbr=4677&amp;record_id=4677-912-7748" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=&amp;isn_id_nbr=4677&amp;record_id=4677-912-7748</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=&amp;isn_id_nbr=4677&amp;record_id=4677" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=&amp;isn_id_nbr=4677&amp;record_id=4677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: activehistory.ca  
    Title: Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Active HistoryFeb 10, 2017 — It officially ran from 1952 until 1969, at which point the infamous Condon Report denied any scientific basi...</p></details>
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Active HistoryFeb 10, 2017 — It officially ran from 1952 until 1969, at which point the infamous Condon Report denied any scientific basi...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087</a>  
+   Link:<a href="https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: book-of-thoth.com  
    Title: THo THThe Book of THo TH (Leaves of Wisdom)  
-   Link: <a href="https://www.book-of-thoth.com/thebook/index_php/ufo_sightings_in_canada.html" target="_blank" rel="noopener noreferrer nofollow">https://www.book-of-thoth.com/thebook/index_php/ufo_sightings_in_canada.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. In Prince George, British Columbia, three unrelated witnesses reported a strange, round object in the late afternoon sky on...</p></details>
+   Link:<a href="https://www.book-of-thoth.com/thebook/index_php/ufo_sightings_in_canada.html" target="_blank" rel="noopener noreferrer nofollow">https://www.book-of-thoth.com/thebook/index_php/ufo_sightings_in_canada.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. In Prince George, British Columbia, three unrelated witnesses reported a strange, round object in the late afternoon sky on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cryptidz.fandom.com  
    Title: Alien Sightings of Canada  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Canada" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Canada | Cryptid Wiki - FandomThis is a list of alleged sightings of Aliens or UFOs in Canada. Aliens are any living creatur...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Canada" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_Sightings_of_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Canada | Cryptid Wiki - FandomThis is a list of alleged sightings of Aliens or UFOs in Canada. Aliens are any living creatur...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: marefa.org  
    Title: قائمة مشاهدة أجسام طائرة  
-   Link: <a href="https://www.marefa.org/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9_%D8%A3%D8%AC%D8%B3%D8%A7%D9%85_%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9" target="_blank" rel="noopener noreferrer nofollow">https://www.marefa.org/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9_%D8%A3%D8%AC%D8%B3%D8%A7%D9%85_%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>المعرفةThree unrelated witnesses reported a strange, round object in the late afternoon sky. The sphere radiated a yellow-orange light an...</p></details>
+   Link:<a href="https://www.marefa.org/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9_%D8%A3%D8%AC%D8%B3%D8%A7%D9%85_%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9" target="_blank" rel="noopener noreferrer nofollow">https://www.marefa.org/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9_%D8%A3%D8%AC%D8%B3%D8%A7%D9%85_%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>المعرفةThree unrelated witnesses reported a strange, round object in the late afternoon sky. The sphere radiated a yellow-orange light an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Canadian UFO Report  
-   Link: <a href="https://www.scribd.com/document/440960553/Canadian-UFO-Report-vol-1-no-7-1970" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/440960553/Canadian-UFO-Report-vol-1-no-7-1970</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vol 1 No 7 - 1970The UFO what we know of hall lightning. phenomenon is too widespread and popularly To find a clue to the nature of accep...</p></details>
+   Link:<a href="https://www.scribd.com/document/440960553/Canadian-UFO-Report-vol-1-no" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/440960553/Canadian-UFO-Report-vol-1-no</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vol 1 No 7 - 1970The UFO what we know of hall lightning. phenomenon is too widespread and popularly To find a clue to the nature of accep...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in thRead more...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in thRead more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From flying saucers to orbs: Pentagon&#x27;s declassified UFO files released...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=25&amp;isn_id_nbr=4677&amp;page_id_nbr=971&amp;record_id=4677-971-7778" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=25&amp;isn_id_nbr=4677&amp;page_id_nbr=971&amp;record_id=4677-971-7778</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=25&amp;isn_id_nbr=4677&amp;page_id_nbr=971&amp;record_id=4677" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;interval=25&amp;isn_id_nbr=4677&amp;page_id_nbr=971&amp;record_id=4677</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: DETYO4o NYIC  
-   Link: <a href="https://www.instagram.com/p/DETYO4oNYIC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DETYO4oNYIC/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Prince GeorgeWhile 1969 gave us the Apollo 11 Moon Landing, UFO sightings like this one remind us of how much wonder sti...</p></details>
+   Link:<a href="https://www.instagram.com/p/DETYO4oNYIC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DETYO4oNYIC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Prince GeorgeWhile 1969 gave us the Apollo 11 Moon Landing, UFO sightings like this one remind us of how much wonder sti...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Science writer releasing book on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>

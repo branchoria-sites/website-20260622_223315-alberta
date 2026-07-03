@@ -256,11 +256,11 @@ image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_record
 
 ## Introduction
 
-The Tagish Lake fireball is often cited in [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) skywatching history because it demonstrates how a spectacular and initially mysterious event can be tested against hard measurements rather than witness impressions alone. On 18 January 2000, observers across Yukon, northern British Columbia, Alaska and the Northwest Territories reported a brilliant daylight fireball, loud detonations and shaking. In many UFO cases, investigators must rely heavily on human testimony. In the Tagish Lake case, however, satellite sensors, seismic instruments and infrasound detectors independently recorded the event, allowing researchers to reconstruct what happened with unusual precision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+The Tagish Lake fireball is often cited in [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) skywatching history because it demonstrates how a spectacular and initially mysterious event can be tested against hard measurements rather than witness impressions alone. On 18 January 2000, observers across Yukon, northern British Columbia, Alaska and the Northwest Territories reported a brilliant daylight fireball, loud detonations and shaking. In many UFO cases, investigators must rely heavily on human testimony. In the Tagish Lake case, however, satellite sensors, seismic instruments and infrasound detectors independently recorded the event, allowing researchers to reconstruct what happened with unusual precision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-1-dark.svg" | relative_url }}" alt="Instrument records illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers interested in Yukon UFO history, this matters because the fireball began as an unidentified aerial event but quickly became one of the best-documented meteorite falls ever recorded in Canada. The instrument record narrowed the range of possible explanations long before meteorite fragments were recovered from the frozen surface of Tagish Lake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+For readers interested in Yukon UFO history, this matters because the fireball began as an unidentified aerial event but quickly became one of the best-documented meteorite falls ever recorded in Canada. The instrument record narrowed the range of possible explanations long before meteorite fragments were recovered from the frozen surface of Tagish Lake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OlZx-H0qmPk" title="Iconic: Tagish Lake Meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer">Iconic: Tagish Lake Meteorite</a></p><p class="youtube-embed-meta">Channel: Royal Ontario Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OlZx-H0qmPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OlZx-H0qmPk">Open on YouTube</a></p></div></div></div>
@@ -269,7 +269,7 @@ For readers interested in Yukon UFO history, this matters because the fireball b
 
 ### Satellites, seismic stations and infrasound
 
-The most important feature of the Tagish Lake investigation was that multiple independent systems detected the same event. Infrared and optical sensors aboard United States Department of Defense [satellites]({{ 'satellites-8f2167/' | relative_url }}) recorded the fireball's passage through the atmosphere. At the same time, the shock wave generated by the object's fragmentation was detected by regional seismic stations and by instruments designed to record infrasound, extremely low-frequency sound waves that can travel long distances through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An entry model for the Tagish Lake fireball using seismic</span><span class="citation-popover-snippet">seismic and infrasound stations (Brown et al., 2002). More than 500 meteorites were recovered, with the largest fragment 2.3 kg, and a t...</span></span></span>
+The most important feature of the Tagish Lake investigation was that multiple independent systems detected the same event. Infrared and optical sensors aboard United States Department of Defense [satellites]({{ 'satellites-8f2167/' | relative_url }}) recorded the fireball's passage through the atmosphere. At the same time, the shock wave generated by the object's fragmentation was detected by regional seismic stations and by instruments designed to record infrasound, extremely low-frequency sound waves that can travel long distances through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An entry model for the Tagish Lake fireball using seismic</span><span class="citation-popover-snippet">seismic and infrasound stations (Brown et al., 2002). More than 500 meteorites were recovered, with the largest fragment 2.3 kg, and a t...</span></span></span>
 
 Each system measured something different:
 
@@ -278,24 +278,24 @@ Each system measured something different:
 
 * Satellite sensors measured the brightness and energy released during atmospheric entry.
 * Infrasound stations recorded the acoustic energy generated by fragmentation and shock waves.
-* Seismic stations detected ground vibrations caused when those atmospheric shock waves coupled into the Earth's surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+* Seismic stations detected ground vibrations caused when those atmospheric shock waves coupled into the Earth's surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 </div>
 
-Because the measurements came from separate technologies operating for different purposes, investigators could compare them against one another. If all three pointed to the same trajectory, timing and energy release, confidence in the reconstruction increased dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+Because the measurements came from separate technologies operating for different purposes, investigators could compare them against one another. If all three pointed to the same trajectory, timing and energy release, confidence in the reconstruction increased dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-qPyBxLKMhg" title="They Tracked a Meteorite and then Found It in 15 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-qPyBxLKMhg" target="_blank" rel="noopener noreferrer">They Tracked a Meteorite and then Found It in 15 Minutes</a></p><p class="youtube-embed-meta">Channel: Out There Learning &middot; Views: 384.3K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-qPyBxLKMhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-qPyBxLKMhg">Open on YouTube</a></p></div></div></div>
 
 ## What the records measured
 
-Satellite observations provided the first quantitative estimate of the fireball's energy. Researchers analysing the data concluded that the final seconds of flight released roughly 1.1 × 10¹² joules of optical energy. Combined with modelling of the object's atmospheric passage, the measurements indicated a meteoroid several metres across before entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+Satellite observations provided the first quantitative estimate of the fireball's energy. Researchers analysing the data concluded that the final seconds of flight released roughly 1.1 × 10¹² joules of optical energy. Combined with modelling of the object's atmospheric passage, the measurements indicated a meteoroid several metres across before entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
-The infrasound record offered a second, independent estimate. Scientists calculated a total energy release of approximately 1.66 kilotons of TNT equivalent, with uncertainty ranges reflecting the limits of atmospheric modelling. Importantly, this estimate broadly agreed with the energy implied by the satellite data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+The infrasound record offered a second, independent estimate. Scientists calculated a total energy release of approximately 1.66 kilotons of TNT equivalent, with uncertainty ranges reflecting the limits of atmospheric modelling. Importantly, this estimate broadly agreed with the energy implied by the satellite data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
-Seismic records added another layer of detail. Rather than showing a single explosive breakup, the signals suggested extensive fragmentation over a large altitude range, roughly from 50 kilometres down to 32 kilometres above the ground. This helped researchers understand how the incoming body disintegrated and why a wide strewn field of meteorite fragments was produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+Seismic records added another layer of detail. Rather than showing a single explosive breakup, the signals suggested extensive fragmentation over a large altitude range, roughly from 50 kilometres down to 32 kilometres above the ground. This helped researchers understand how the incoming body disintegrated and why a wide strewn field of meteorite fragments was produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
-The combined measurements allowed investigators to estimate that the original object was about four metres in diameter and had a pre-atmospheric mass of roughly 56 tonnes before most of it was destroyed during entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+The combined measurements allowed investigators to estimate that the original object was about four metres in diameter and had a pre-atmospheric mass of roughly 56 tonnes before most of it was destroyed during entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-2-dark.svg" | relative_url }}" alt="Instrument records illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,213 +312,213 @@ The Tagish Lake case followed a different path because investigators were not fo
 * The general trajectory through the atmosphere.
 * The energy released during fragmentation.
 * The altitude range where breakup occurred.
-* The likely fall area for surviving fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+* The likely fall area for surviving fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 </div>
 
-This transformed the investigation from one centred on perception into one centred on measurement. Researchers could test hypotheses against recorded data rather than relying solely on recollection. When meteorite fragments were later recovered from the predicted fall zone, the physical evidence matched the instrumental reconstruction, further strengthening the explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">G, ReVelle D. 0., Tagliaferri E., and A. R. Hildebrand. 2002. An entry model for the Tagish Lake fireball using seismic, satellite, and i...</span></span></span>
+This transformed the investigation from one centred on perception into one centred on measurement. Researchers could test hypotheses against recorded data rather than relying solely on recollection. When meteorite fragments were later recovered from the predicted fall zone, the physical evidence matched the instrumental reconstruction, further strengthening the explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">G, ReVelle D. 0., Tagliaferri E., and A. R. Hildebrand. 2002. An entry model for the Tagish Lake fireball using seismic, satellite, and i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d2QKVGGJXZs" title="Seismic sensors track space debris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d2QKVGGJXZs" target="_blank" rel="noopener noreferrer">Seismic sensors track space debris</a></p><p class="youtube-embed-meta">Channel: News of the World &middot; Views: 53 &middot; Uploaded: January 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d2QKVGGJXZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d2QKVGGJXZs">Open on YouTube</a></p></div></div></div>
 
 ## A benchmark for evaluating unusual Yukon sky reports
 
-Within the broader history of UFO reports in Yukon, the Tagish Lake fireball serves as a useful benchmark. It shows what a strong evidential chain looks like: eyewitness observations, independent instrument detections, scientific modelling and finally recovered material from the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+Within the broader history of UFO reports in Yukon, the Tagish Lake fireball serves as a useful benchmark. It shows what a strong evidential chain looks like: eyewitness observations, independent instrument detections, scientific modelling and finally recovered material from the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
-Not every unusual aerial report can be resolved this completely. Many sightings lack precise timing, occur outside instrument coverage or leave no physical trace. The Tagish Lake case therefore highlights an important distinction in UFO research: an event may begin as unidentified, but the availability of satellite, seismic and infrasound records can sharply reduce uncertainty. In this instance, those records closed much of the gap between a startling sky mystery and a well-understood meteorite fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
+Not every unusual aerial report can be resolved this completely. Many sightings lack precise timing, occur outside instrument coverage or leave no physical trace. The Tagish Lake case therefore highlights an important distinction in UFO research: an event may begin as unidentified, but the availability of satellite, seismic and infrasound records can sharply reduce uncertainty. In this instance, those records closed much of the gap between a startling sky mystery and a well-understood meteorite fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid.physics.uwo.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Open source on uwo.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-3-dark.svg" | relative_url }}" alt="Instrument records illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When instruments backed the witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When instruments backed the witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
         
-        <p class="fr-book-desc">Covers the scientific analysis techniques that underpin reconstruction of meteorite events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the scientific analysis techniques that underpin reconstruction of meteorite events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GGgB46rFBY8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Roberta J. M. Olson, Jay M. Pasachoff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GGgB46rFBY8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Roberta J. M. Olson, Jay M. Pasachoff</p>
         
-        <p class="fr-book-desc">Provides context for how remarkable celestial events move from eyewitness reports to scientific understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how remarkable celestial events move from eyewitness reports to scientific understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Roberta+J.+M.+Olson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Meteorites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Meteorites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3d34a128f50d58376eb5.jpg' | relative_url }}" alt="Listing image for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3d34a128f50d58376eb5.jpg' | relative_url }}" alt="Listing image for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="instrument-records-when-instruments-backed-the-witnesses-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,91 +724,91 @@ Not every unusual aerial report can be resolved this completely. Many sightings 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate An entry model for the Tagish Lake fireball using seismic  
-   Link: <a href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seismic and infrasound stations (Brown et al., 2002). More than 500 meteorites were recovered, with the largest fragment 2.3 kg, and a t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227732478_An_entry_model_for_the_Tagish_Lake_fireball_using_seismic_satellite_and_infrasound_records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seismic and infrasound stations (Brown et al., 2002). More than 500 meteorites were recovered, with the largest fragment 2.3 kg, and a t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupTagish Lake Meteorite [18-Jan-2000] Overview Satellite Detection. The Western Meteor Physics Group studies...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupTagish Lake Meteorite [18-Jan-2000] Overview Satellite Detection. The Western Meteor Physics Group studies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aquarid.physics.uwo.ca  
    Title: ca Fireball Events  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/lake.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/lake.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Events - Western Meteor Physics GroupThe Tagish Lake Fireball and Meteorite [18-Jan-2000] Research Activities Meteor Infrasound. Infrasou...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/lake.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/lake.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Events - Western Meteor Physics GroupThe Tagish Lake Fireball and Meteorite [18-Jan-2000] Research Activities Meteor Infrasound. Infrasou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/is_shelter.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_shelter.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundWind noise generically affects all infrasound measurements. The noise is generated by turbulence at all scales close to the mic...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/is_shelter.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_shelter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundWind noise generically affects all infrasound measurements. The noise is generated by turbulence at all scales close to the mic...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006M%26PS...41..407H</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>G, ReVelle D. 0., Tagliaferri E., and A. R. Hildebrand. 2002. An entry model for the Tagish Lake fireball using seismic, satellite, and i...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2006M%26PS...41..407H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2006M%26PS...41..407H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G, ReVelle D. 0., Tagliaferri E., and A. R. Hildebrand. 2002. An entry model for the Tagish Lake fireball using seismic, satellite, and i...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eartharxiv.org  
-   Link: <a href="https://eartharxiv.org/repository/object/5772/download/11279/" target="_blank" rel="noopener noreferrer nofollow">https://eartharxiv.org/repository/object/5772/download/11279/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eoroids can be recorded by infrasound and seismic sensors (Brown et al., 2003; D&#x27;Auria et al., 2006; Edwards...</p></details>
+   Link:<a href="https://eartharxiv.org/repository/object/5772/download/11279/" target="_blank" rel="noopener noreferrer nofollow">https://eartharxiv.org/repository/object/5772/download/11279/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eoroids can be recorded by infrasound and seismic sensors (Brown et al., 2003; D&#x27;Auria et al., 2006; Edwards...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hal.science  
-   Link: <a href="https://hal.science/hal-00855474v1/html_references" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-00855474v1/html_references</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledBrown, D. Revelle, E. Tagliaferri, and A. Hildebrand, An entry model for the Tagish Lake fireball using seismic, satellite and in...</p></details>
+   Link:<a href="https://hal.science/hal-00855474v1/html_references" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-00855474v1/html_references</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledBrown, D. Revelle, E. Tagliaferri, and A. Hildebrand, An entry model for the Tagish Lake fireball using seismic, satellite and in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: geoconvention.com  
-   Link: <a href="https://geoconvention.com/wp-content/uploads/abstracts/2010/0708_GC2010_The_Tagish_Lake_Meteorite.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geoconvention.com/wp-content/uploads/abstracts/2010/0708_GC2010_The_Tagish_Lake_Meteorite.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>O., Tagliaferri, E. and Hildebrand, A. R., 2002. An entry model for the Tagish Lake fireball using seismic, satellite and infrasound...</p></details>
+   Link:<a href="https://geoconvention.com/wp-content/uploads/abstracts/2010/0708_GC2010_The_Tagish_Lake_Meteorite.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geoconvention.com/wp-content/uploads/abstracts/2010/0708_GC2010_The_Tagish_Lake_Meteorite.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O., Tagliaferri, E. and Hildebrand, A. R., 2002. An entry model for the Tagish Lake fireball using seismic, satellite and infrasound...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: osti.gov  
    Title: An entry model for the Tagish Lake fireball using seismic,  
-   Link: <a href="https://www.osti.gov/servlets/purl/2587515" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/2587515</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Curated Dataset of Regional Meteor Events with...by EA Silber · 2025 · Cited by 3 — We present a curated, openly accessible dataset of...</p></details>
+   Link:<a href="https://www.osti.gov/servlets/purl/2587515" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/2587515</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Curated Dataset of Regional Meteor Events with...by EA Silber · 2025 · Cited by 3 — We present a curated, openly accessible dataset of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: repository.arizona.edu  
    Title: Brown, P. G.; Re Velle, D. O.; Tagliaferri, E.; Hildebrand, A. R  
-   Link: <a href="https://repository.arizona.edu/handle/10150/641314" target="_blank" rel="noopener noreferrer nofollow">https://repository.arizona.edu/handle/10150/641314</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Planetary Science, Volume 37, Number 5 (2002)by DW Mittlefehldt · 2002 · Cited by 71 — An entry model for the Tagish Lake fireball usin...</p></details>
+   Link:<a href="https://repository.arizona.edu/handle/10150/641314" target="_blank" rel="noopener noreferrer nofollow">https://repository.arizona.edu/handle/10150/641314</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Planetary Science, Volume 37, Number 5 (2002)by DW Mittlefehldt · 2002 · Cited by 71 — An entry model for the Tagish Lake fireball usin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubs.geoscienceworld.org  
-   Link: <a href="https://pubs.geoscienceworld.org/ssa/bssa/article/99/5/3055/342232/Frequency-Dependent-Acoustic-Seismic-Coupling-of" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/ssa/bssa/article/99/5/3055/342232/Frequency-Dependent-Acoustic-Seismic-Coupling-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>R.. (. 2002.). An entry model for the Tagish Lake fireball using seismic, satellite and infrasound records.. Meteoritics Planet. Sci. 37...</p></details>
+   Link:<a href="https://pubs.geoscienceworld.org/ssa/bssa/article/99/5/3055/342232/Frequency-Dependent-Acoustic-Seismic-Coupling-of" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/ssa/bssa/article/99/5/3055/342232/Frequency-Dependent-Acoustic-Seismic-Coupling-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>R.. (. 2002.). An entry model for the Tagish Lake fireball using seismic, satellite and infrasound records.. Meteoritics Planet. Sci. 37...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.westernu.ca  
    Title: ca New project to monitor satellites over Canada  
-   Link: <a href="https://news.westernu.ca/2023/09/camera-monitor-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2023/09/camera-monitor-satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>project to monitor satellites over Canada - Western News14 Sept 2023 — Western University researchers are now tracking satellites are in...</p></details>
+   Link:<a href="https://news.westernu.ca/2023/09/camera-monitor-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2023/09/camera-monitor-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>project to monitor satellites over Canada - Western News14 Sept 2023 — Western University researchers are now tracking satellites are in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: agupubs.onlinelibrary.wiley.com  
    Title: Meteoritics & Planetary Sciences, 37(5), 661  
-   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105773" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105773</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seismoacoustic Detection and Characterization of...by SP Hicks · 2023 · Cited by 8 — An entry model for the Tagish Lake fireball using s...</p></details>
+   Link:<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105773" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL105773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seismoacoustic Detection and Characterization of...by SP Hicks · 2023 · Cited by 8 — An entry model for the Tagish Lake fireball using s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: astrobiology.nasa.gov  
    Title: the tagish lake meteorite  
-   Link: <a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite: | News28 Jan 2002 — At 5 meters (or 15 feet) across, the rocky core triggered Department of D...</p></details>
+   Link:<a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA AstrobiologyThe Tagish Lake Meteorite: | News28 Jan 2002 — At 5 meters (or 15 feet) across, the rocky core triggered Department of D...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.westernu.ca  
    Title: camera monitor satellites update  
-   Link: <a href="https://news.westernu.ca/2025/06/camera-monitor-satellites-update/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2025/06/camera-monitor-satellites-update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>project monitors satellites over the High Arctic for...17 Jun 2025 — Western team uses meteor tracking camera tech to observe satellites...</p></details>
+   Link:<a href="https://news.westernu.ca/2025/06/camera-monitor-satellites-update/" target="_blank" rel="noopener noreferrer nofollow">https://news.westernu.ca/2025/06/camera-monitor-satellites-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>project monitors satellites over the High Arctic for...17 Jun 2025 — Western team uses meteor tracking camera tech to observe satellites...</p></details>

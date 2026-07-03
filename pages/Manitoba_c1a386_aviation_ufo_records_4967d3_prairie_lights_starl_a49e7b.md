@@ -262,15 +262,15 @@ image: /assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights
 
 ## Introduction
 
-In January 2024, a series of unusual light sightings over the Canadian Prairies briefly became one of the most discussed aviation-related UFO stories in recent Canadian memory. Pilots flying near and north of Winnipeg reported multiple bright lights, sometimes appearing in triangular formations and seemingly moving in ways that did not match their expectations. Air traffic controllers heard reports from several crews rather than a single witness, which immediately gave the event more weight than an ordinary public sighting. Yet the same incident has also become a useful example of a growing challenge in aviation: highly credible observers can still misidentify modern satellite constellations, particularly SpaceX's Starlink system. The episode matters in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})'s UFO history because it sits at the intersection of pilot testimony, official aviation reporting, and a plausible technological explanation that does not fully satisfy every observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
+In January 2024, a series of unusual light sightings over the Canadian Prairies briefly became one of the most discussed aviation-related UFO stories in recent Canadian memory. Pilots flying near and north of Winnipeg reported multiple bright lights, sometimes appearing in triangular formations and seemingly moving in ways that did not match their expectations. Air traffic controllers heard reports from several crews rather than a single witness, which immediately gave the event more weight than an ordinary public sighting. Yet the same incident has also become a useful example of a growing challenge in aviation: highly credible observers can still misidentify modern satellite constellations, particularly SpaceX's Starlink system. The episode matters in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})'s UFO history because it sits at the intersection of pilot testimony, official aviation reporting, and a plausible technological explanation that does not fully satisfy every observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-1-dark.svg" | relative_url }}" alt="Prairie lights illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Were the prairie lights satellites or something stranger?
 
-The reports emerged during the early hours of 19 January 2024. According to widely circulated air traffic control recordings, a pilot operating north of Winnipeg contacted controllers to ask whether any military activity was taking place nearby. The crew reported seeing numerous bright lights in formation. Other aircraft soon described similar observations, with some witnesses referring to triangular arrangements and unusual motion. Controllers checked for known military activity but did not immediately identify a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
+The reports emerged during the early hours of 19 January 2024. According to widely circulated air traffic control recordings, a pilot operating north of Winnipeg contacted controllers to ask whether any military activity was taking place nearby. The crew reported seeing numerous bright lights in formation. Other aircraft soon described similar observations, with some witnesses referring to triangular arrangements and unusual motion. Controllers checked for known military activity but did not immediately identify a cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
 
-What made the incident notable was not a single dramatic claim but the number of aviation professionals involved. Multiple flight crews independently reported seeing lights. In UFO research, corroborating witnesses are often treated as a sign that an event deserves attention. In aviation, however, corroboration does not automatically establish the nature of what was seen. It confirms that several observers perceived something unusual, not necessarily that the object itself was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
+What made the incident notable was not a single dramatic claim but the number of aviation professionals involved. Multiple flight crews independently reported seeing lights. In UFO research, corroborating witnesses are often treated as a sign that an event deserves attention. In aviation, however, corroboration does not automatically establish the nature of what was seen. It confirms that several observers perceived something unusual, not necessarily that the object itself was extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
 
 For Manitoba researchers, the case is particularly interesting because it occurred within the same aviation-reporting environment discussed elsewhere in Transport Canada and NAV CANADA records. Unlike folklore-based UFO reports, this was an event heard in real time through operational aviation channels.
 
@@ -279,7 +279,7 @@ For Manitoba researchers, the case is particularly interesting because it occurr
 
 ## What pilots and Winnipeg control reported
 
-The recorded exchanges reveal experienced crews attempting to describe lights that did not fit familiar [patterns]({{ 'patterns/' | relative_url }}). Some witnesses reported several bright points arranged in a rough formation. Others described apparent movement, rotation, or changes in brightness. Pilots also noted uncertainty about altitude and distance, a common problem in night-sky observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
+The recorded exchanges reveal experienced crews attempting to describe lights that did not fit familiar [patterns]({{ 'patterns/' | relative_url }}). Some witnesses reported several bright points arranged in a rough formation. Others described apparent movement, rotation, or changes in brightness. Pilots also noted uncertainty about altitude and distance, a common problem in night-sky observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
 
 This is one reason aviation sightings can be both valuable and difficult to interpret.
 
@@ -314,11 +314,11 @@ The prairie lights incident demonstrates both sides of that equation. The witnes
 
 ## How Starlink reflections could fit the sighting
 
-As discussion of the event spread, attention quickly turned toward Starlink satellites. The Starlink constellation consists of thousands of satellites in low Earth orbit. Depending on orbital position, observer location and the angle of sunlight, individual satellites or groups of satellites can suddenly become very bright. They may appear, fade, reappear and seem to shift relative to one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+As discussion of the event spread, attention quickly turned toward Starlink satellites. The Starlink constellation consists of thousands of satellites in low Earth orbit. Depending on orbital position, observer location and the angle of sunlight, individual satellites or groups of satellites can suddenly become very bright. They may appear, fade, reappear and seem to shift relative to one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
-Recent scientific work examining pilot reports has shown that Starlink satellites can generate sightings that initially appear highly unusual. Researchers reconstructed a 2022 aviation case in which multiple commercial pilots reported an unidentified aerial phenomenon. Using orbital data and aircraft tracking information, they concluded that the observed lights matched a recently launched Starlink satellite train. The study argued that improving awareness of satellite behaviour could reduce aviation confusion and unnecessary safety concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Recent scientific work examining pilot reports has shown that Starlink satellites can generate sightings that initially appear highly unusual. Researchers reconstructed a 2022 aviation case in which multiple commercial pilots reported an unidentified aerial phenomenon. Using orbital data and aircraft tracking information, they concluded that the observed lights matched a recently launched Starlink satellite train. The study argued that improving awareness of satellite behaviour could reduce aviation confusion and unnecessary safety concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
-Another 2024 study examined extreme Starlink flares and found that sunlight reflecting from the satellites can produce unexpectedly bright events. Under the right geometry, satellites may appear much brighter than casual observers expect and can create the impression of unusual aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
+Another 2024 study examined extreme Starlink flares and found that sunlight reflecting from the satellites can produce unexpectedly bright events. Under the right geometry, satellites may appear much brighter than casual observers expect and can create the impression of unusual aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
 
 These findings align with several features of the prairie reports:
 
@@ -326,10 +326,10 @@ These findings align with several features of the prairie reports:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Multiple lights were visible simultaneously.
-* The lights appeared high above the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
+* The lights appeared high above the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
 * Witnesses described changing brightness.
 * The formation-like appearance could result from several satellites following related orbital paths.
-* No independent evidence emerged for military aircraft or unknown craft in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
+* No independent evidence emerged for military aircraft or unknown craft in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.iheart.com">[iHeart+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.iheart.com</span><span class="citation-popover-snippet">Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</span></span></span>
 
 </div>
 
@@ -339,11 +339,11 @@ Importantly, a Starlink explanation does not require pilots to have been careles
 <img src="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-2-dark.svg" | relative_url }}" alt="Prairie lights illustration 2" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved after a plausible explanation
 
-The strongest current interpretation is that the prairie lights were connected to satellites, most likely Starlink-related reflections or satellite groupings seen under favourable illumination conditions. That explanation fits both the timing and the visual characteristics reported by witnesses. It is also consistent with a growing number of similar aviation sightings around the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The strongest current interpretation is that the prairie lights were connected to satellites, most likely Starlink-related reflections or satellite groupings seen under favourable illumination conditions. That explanation fits both the timing and the visual characteristics reported by witnesses. It is also consistent with a growing number of similar aviation sightings around the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 However, some uncertainty remains.
 
-Publicly available reconstructions have not answered every detail described in the radio traffic. Questions remain about why some crews perceived rotation, why certain lights appeared to change configuration, and whether all observers were viewing precisely the same objects. Human perception, viewing angle and cockpit geometry may account for much of this, but the available evidence is not detailed enough to reconstruct every observation perfectly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
+Publicly available reconstructions have not answered every detail described in the radio traffic. Questions remain about why some crews perceived rotation, why certain lights appeared to change configuration, and whether all observers were viewing precisely the same objects. Human perception, viewing angle and cockpit geometry may account for much of this, but the available evidence is not detailed enough to reconstruct every observation perfectly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan</span><span class="citation-popover-snippet">on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</span></span></span>
 
 That uncertainty should not be confused with evidence for something exotic. In aviation investigations, a plausible explanation supported by known physical mechanisms generally carries more weight than an unresolved mystery. The prairie lights episode is therefore best understood not as a dramatic unresolved UFO case, but as a cautionary example of how modern satellite constellations have complicated the interpretation of unusual aerial sightings.
 
@@ -352,7 +352,7 @@ That uncertainty should not be confused with evidence for something exotic. In a
 
 ## Why the case matters in Manitoba's UFO history
 
-The January 2024 prairie lights reports occupy an important place in Manitoba's aviation-related UFO record because they illustrate a modern investigative problem. Earlier decades often focused on aircraft, weather balloons, planets or military activity as potential explanations. Today, investigators must also consider thousands of satellites capable of producing unexpected visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The January 2024 prairie lights reports occupy an important place in Manitoba's aviation-related UFO record because they illustrate a modern investigative problem. Earlier decades often focused on aircraft, weather balloons, planets or military activity as potential explanations. Today, investigators must also consider thousands of satellites capable of producing unexpected visual effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 For readers examining Transport Canada records and aviation sightings, the key lesson is straightforward: trained pilot testimony deserves serious attention, but it does not eliminate the need for careful identification work. The prairie lights incident shows how a report can be both sincere and unusual while still having a plausible conventional explanation. That combination—credible witnesses, official aviation reporting and a strong but not absolutely definitive explanation—is exactly what makes the case a useful chapter in Manitoba's contemporary UFO history.
 
@@ -360,194 +360,194 @@ For readers examining Transport Canada records and aviation sightings, the key l
 <img src="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-3-dark.svg" | relative_url }}" alt="Prairie lights illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the prairie lights satellites or something stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the prairie lights satellites or something stranger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly focuses on aviation witnesses, military personnel, and documented UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly focuses on aviation witnesses, military personnel, and documented UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores contemporary sightings, official investigations, and competing explanations for unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contemporary sightings, official investigations, and competing explanations for unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and classification of sightings, including cases involving trained observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and classification of sightings, including cases involving trained observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides alternative frameworks for interpreting unusual aerial sightings and unexplained lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides alternative frameworks for interpreting unusual aerial sightings and unexplained lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/599e54bbdff8784c1a83.jpg' | relative_url }}" alt="Listing image for Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Collectible Boeing Lanyard 737 787 Dreamliner - Aeroplane - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight-fly Past Memorabilia Book Two Photos."><img src="{{ '/assets/images/marketplace-covers/7c46a14632513277878f.jpg' | relative_url }}" alt="Listing image for Flight-fly Past Memorabilia Book Two Photos." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight-fly Past Memorabilia Book Two Photos.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight-fly Past Memorabilia Book Two Photos."><img src="{{ '/assets/images/marketplace-covers/7c46a14632513277878f.jpg' | relative_url }}" alt="Listing image for Flight-fly Past Memorabilia Book Two Photos." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight-fly Past Memorabilia Book Two Photos.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="prairie-lights-were-the-prairie-lights-satellites-or-something-stranger-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For readers examining Transport Canada records and aviation sightings, the key l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For readers examining Transport Canada records and aviation sightings, the key l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For readers examining Transport Canada records and aviation sightings, the key l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For readers examining Transport Canada records and aviation sightings, the key l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For readers examining Transport Canada records and aviation sightings, the key l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,128 +753,128 @@ For readers examining Transport Canada records and aviation sightings, the key l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.iheart.com  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-02-02-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Pilots Report Seeing Mysterious Lights Over...2 Feb 2024 — The strangeness started when a pilot flying north of Winnipeg...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
    Title: You Tube Pilots report 'triangles' over Canadian prairies on Jan  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Jan. 19, 2024, several pilots over the Canadian prairies reported &quot;seeing multiple lights sometimes in a triangle formatio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tc.canada.ca  
    Title: aim 2024 1 rac e  
-   Link: <a href="https://tc.canada.ca/sites/default/files/2024-03/aim-2024-1_rac-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2024-03/aim-2024-1_rac-e.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Air Pilot (CAP) also have an instrument flight...</p></details>
+   Link:<a href="https://tc.canada.ca/sites/default/files/2024-03/aim-2024-1_rac-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2024-03/aim-2024-1_rac-e.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Air Pilot (CAP) also have an instrument flight...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NvGUJ8BZfGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NvGUJ8BZfGk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ector – December 9, 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NvGUJ8BZfGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NvGUJ8BZfGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ector – December 9, 2024...</p></details>
    Published: December 9, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Unusual Sightings: Pilots Describe 'Bizarre' Lights and 'Triangles' Over Canada  
-   Link: <a href="https://www.youtube.com/watch?v=mqo-vEXs1-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqo-vEXs1-U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve Starlink UFOs with Sitrec...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mqo-vEXs1-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mqo-vEXs1-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve Starlink UFOs with Sitrec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How to Solve Starlink UFOs with Sitrec  
-   Link: <a href="https://www.youtube.com/watch?v=WkzRJQ3rWa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkzRJQ3rWa0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These UFOs are Starlink Flares, 100%...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkzRJQ3rWa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkzRJQ3rWa0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These UFOs are Starlink Flares, 100%...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: These UFOs are Starlink Flares, 100%  
-   Link: <a href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ea8BCl2yVU0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solved: Mile-Long Mothership UFO (Starlink)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ea8BCl2yVU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solved: Mile-Long Mothership UFO (Starlink)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Solved: Mile-Long Mothership UFO (Starlink)  
-   Link: <a href="https://www.youtube.com/watch?v=Ev9QOZOieFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ev9QOZOieFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jan 19 2024&quot; pilots Canada lights Unusual Sightings: Pilots Describe &#x27;Bizarre&#x27; Lights and &#x27;Triangles&#x27; Over Canada - Jan 19, 2024 The Exp...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ev9QOZOieFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ev9QOZOieFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jan 19 2024&quot; pilots Canada lights Unusual Sightings: Pilots Describe &#x27;Bizarre&#x27; Lights and &#x27;Triangles&#x27; Over Canada - Jan 19, 2024 The Exp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mick West  
-   Link: <a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e-WDx7byI0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk on Why You Can See Starlink Satellites The Sigma Life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e-WDx7byI0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk on Why You Can See Starlink Satellites The Sigma Life...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Early on Jan  
-   Link: <a href="https://www.facebook.com/PureCountry927/posts/early-on-jan-19-several-pilots-reported-multiple-lights-sometimes-in-a-triangle-/781418787337511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PureCountry927/posts/early-on-jan-19-several-pilots-reported-multiple-lights-sometimes-in-a-triangle-/781418787337511/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19, several pilots reported &quot;multiple lights...Early on Jan. 19, several pilots reported &quot;multiple lights sometimes in a triangle format...</p></details>
+   Link:<a href="https://www.facebook.com/PureCountry927/posts/early-on-jan-19-several-pilots-reported-multiple-lights-sometimes-in-a-triangle-/781418787337511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PureCountry927/posts/early-on-jan-19-several-pilots-reported-multiple-lights-sometimes-in-a-triangle-/781418787337511/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19, several pilots reported &quot;multiple lights...Early on Jan. 19, several pilots reported &quot;multiple lights sometimes in a triangle format...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWR5CXbjD1t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWR5CXbjD1t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A WestJet flight traveling from Winnipeg to Calgary...A WestJet flight traveling from Winnipeg to Calgary reported spotting a mysterious...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWR5CXbjD1t/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWR5CXbjD1t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A WestJet flight traveling from Winnipeg to Calgary...A WestJet flight traveling from Winnipeg to Calgary reported spotting a mysterious...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: alpa.org  
-   Link: <a href="https://www.alpa.org/press-room/2025/02/aviation-leaders-call-on-canadas-transport-ministers-to-strengthen-not-weaken-safety-protections" target="_blank" rel="noopener noreferrer nofollow">https://www.alpa.org/press-room/2025/02/aviation-leaders-call-on-canadas-transport-ministers-to-strengthen-not-weaken-safety-protections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Leaders Call on Canada&#x27;s Transport Ministers to...21 Feb 2025 — Canada&#x27;s air traffic controllers and airline pilots are calling...</p></details>
+   Link:<a href="https://www.alpa.org/press-room/2025/02/aviation-leaders-call-on-canadas-transport-ministers-to-strengthen-not-weaken-safety-protections" target="_blank" rel="noopener noreferrer nofollow">https://www.alpa.org/press-room/2025/02/aviation-leaders-call-on-canadas-transport-ministers-to-strengthen-not-weaken-safety-protections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Leaders Call on Canada&#x27;s Transport Ministers to...21 Feb 2025 — Canada&#x27;s air traffic controllers and airline pilots are calling...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: coasttocoastam.com  
    Title: video multiple pilots report seeing mysterious lights over canadian prairies  
-   Link: <a href="https://www.coasttocoastam.com/article/video-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/video-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: Multiple Pilots Report Seeing Mysterious Lights...2 Feb 2024 — A remarkable air traffic control recording from Canada features mu...</p></details>
+   Link:<a href="https://www.coasttocoastam.com/article/video-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/video-multiple-pilots-report-seeing-mysterious-lights-over-canadian-prairies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video: Multiple Pilots Report Seeing Mysterious Lights...2 Feb 2024 — A remarkable air traffic control recording from Canada features mu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100088448510670/posts/multiple-pilots-reportsflashing-lights-in-a-triangle-over-canada-news-aviation-t/388811040743843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100088448510670/posts/multiple-pilots-reportsflashing-lights-in-a-triangle-over-canada-news-aviation-t/388811040743843/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MULTIPLE PILOTS REPORTS&quot;FLASHING LIGHTS&quot; IN A...February 3, 2024 Back in January, multiple pilots witnessed mysterious lights in a trian...</p></details>
+   Link:<a href="https://www.facebook.com/100088448510670/posts/multiple-pilots-reportsflashing-lights-in-a-triangle-over-canada-news-aviation-t/388811040743843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100088448510670/posts/multiple-pilots-reportsflashing-lights-in-a-triangle-over-canada-news-aviation-t/388811040743843/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MULTIPLE PILOTS REPORTS&quot;FLASHING LIGHTS&quot; IN A...February 3, 2024 Back in January, multiple pilots witnessed mysterious lights in a trian...</p></details>
    Published: February 3, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXKvdLsjWwg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXKvdLsjWwg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t and, in Quebec, they switch seamlessly between English and French...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXKvdLsjWwg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXKvdLsjWwg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t and, in Quebec, they switch seamlessly between English and French...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: 😨Numerous Reports of Mysterious Lights  
-   Link: <a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2024 Back in January, multiple pilots witnessed mysterious lights in a triangular formation over the Canadian Prairies. Audio...</p></details>
+   Link:<a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2024 Back in January, multiple pilots witnessed mysterious lights in a triangular formation over the Canadian Prairies. Audio...</p></details>
    Published: February 3, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ffic control audio. Gloria Figueroa and 11 others.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/at-least-four-flights-reported-multiple-lights-sometimes-in-a-triangle-formation/892962499505746/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ffic control audio. Gloria Figueroa and 11 others.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024Yes, 1-5 degrees above the horizon after sundown will correlate to being S...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024Yes, 1-5 degrees above the horizon after sundown will correlate to being S...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cbaa-acaa.ca  
    Title: government regulatory affair  
-   Link: <a href="https://www.cbaa-acaa.ca/government_regulatory_affair.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cbaa-acaa.ca/government_regulatory_affair.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government &amp; Regulatory Affairs10 Oct 2025 — Welcome to CBAA&#x27;s Government &amp; Regulatory Affairs Update. This new monthly update will featu...</p></details>
+   Link:<a href="https://www.cbaa-acaa.ca/government_regulatory_affair.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cbaa-acaa.ca/government_regulatory_affair.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government &amp; Regulatory Affairs10 Oct 2025 — Welcome to CBAA&#x27;s Government &amp; Regulatory Affairs Update. This new monthly update will featu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Winnipeg/comments/1afn467/pilots_describe_bizarre_lights_and_triangles_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Winnipeg/comments/1afn467/pilots_describe_bizarre_lights_and_triangles_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ine pilots over Winnipeg and the Praries...</p></details>
+   Link:<a href="https://www.reddit.com/r/Winnipeg/comments/1afn467/pilots_describe_bizarre_lights_and_triangles_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Winnipeg/comments/1afn467/pilots_describe_bizarre_lights_and_triangles_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ine pilots over Winnipeg and the Praries...</p></details>

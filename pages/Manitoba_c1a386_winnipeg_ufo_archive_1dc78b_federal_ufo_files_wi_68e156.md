@@ -256,22 +256,22 @@ image: /assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_fi
 
 ## Introduction
 
-For readers exploring Winnipeg’s place in Canada’s UFO record trail, one of the most important facts is that federal UFO files did not arrive in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) through a single transfer from Ottawa. Instead, reports passed through a shifting network of military, transport, policing and scientific agencies before copies, datasets and archival collections gradually became accessible to Winnipeg-based researchers, especially Chris Rutkowski and Ufology Research. The result is a paper trail that is unusually rich but also unusually fragmented. Understanding how those records moved explains why Canada’s UFO archive is spread across multiple institutions and why researchers in Winnipeg became key custodians of material that originated across the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+For readers exploring Winnipeg’s place in Canada’s UFO record trail, one of the most important facts is that federal UFO files did not arrive in [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) through a single transfer from Ottawa. Instead, reports passed through a shifting network of military, transport, policing and scientific agencies before copies, datasets and archival collections gradually became accessible to Winnipeg-based researchers, especially Chris Rutkowski and Ufology Research. The result is a paper trail that is unusually rich but also unusually fragmented. Understanding how those records moved explains why Canada’s UFO archive is spread across multiple institutions and why researchers in Winnipeg became key custodians of material that originated across the country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-1-dark.svg" | relative_url }}" alt="Federal Files illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Canada’s UFO Paper Trail Is So Fragmented
 
-Unlike some popular portrayals of UFO investigations, Canada never maintained one permanent national UFO office that received, analysed and archived every report. Different federal bodies handled sightings according to their own responsibilities. A pilot might contact aviation authorities, a member of the public might contact police, a military observer might file through defence channels, and scientific organisations sometimes received reports for evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+Unlike some popular portrayals of UFO investigations, Canada never maintained one permanent national UFO office that received, analysed and archived every report. Different federal bodies handled sightings according to their own responsibilities. A pilot might contact aviation authorities, a member of the public might contact police, a military observer might file through defence channels, and scientific organisations sometimes received reports for evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 That decentralised system left records scattered across departments. Library and [Archives]({{ 'archives/' | relative_url }}) Canada identifies four principal federal sources for historical UFO files:
 
 * Department of National Defence
-* Department of Transport * Royal Canadian Mounted Police <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[rcmp.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">genealogy and archival research</span><span class="citation-popover-snippet">6 Mar 2025 — Are you undertaking a research project on the RCMP? If so, the following information will help you get started with your res...</span></span></span> * National Research Council (NRC) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-title">ARCHIVE D</span><span class="citation-popover-snippet">ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada. National Res...</span></span></span>
+* Department of Transport * Royal Canadian Mounted Police<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[rcmp.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">genealogy and archival research</span><span class="citation-popover-snippet">6 Mar 2025 — Are you undertaking a research project on the RCMP? If so, the following information will help you get started with your res...</span></span></span> * National Research Council (NRC)<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[lac-bac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-title">ARCHIVE D</span><span class="citation-popover-snippet">ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada. National Res...</span></span></span>
 
-The surviving federal collection contains roughly 9,500 digitised documents dating from 1947 to the early 1980s, including sighting reports, correspondence, procedures and internal memoranda. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The surviving federal collection contains roughly 9,500 digitised documents dating from 1947 to the early 1980s, including sighting reports, correspondence, procedures and internal memoranda.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-For researchers, the practical consequence is that a search for one incident may require checking several record groups rather than a single archive. A sighting could generate RCMP paperwork, military correspondence and scientific commentary, all stored separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+For researchers, the practical consequence is that a search for one incident may require checking several record groups rather than a single archive. A sighting could generate RCMP paperwork, military correspondence and scientific commentary, all stored separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 ## Which Federal Bodies Kept Older UFO Records
 
@@ -282,19 +282,19 @@ The path that eventually led records toward Winnipeg began inside federal agenci
 
 ### National Defence and military reporting
 
-The Department of National Defence received reports that appeared relevant to air defence, military operations or national security. During the Cold War, unusual aerial observations naturally attracted military attention because officials had to consider aircraft, balloons and potential foreign activity before anything more exotic. Many reports therefore entered defence filing systems even when no extraordinary conclusion followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The Department of National Defence received reports that appeared relevant to air defence, military operations or national security. During the Cold War, unusual aerial observations naturally attracted military attention because officials had to consider aircraft, balloons and potential foreign activity before anything more exotic. Many reports therefore entered defence filing systems even when no extraordinary conclusion followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 ### Transport authorities
 
-The Department of Transport and later Transport Canada became important repositories because pilots, airport personnel and aviation observers often reported unusual objects through aviation channels. These records tended to focus on flight safety and identification rather than speculation about origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The Department of Transport and later Transport Canada became important repositories because pilots, airport personnel and aviation observers often reported unusual objects through aviation channels. These records tended to focus on flight safety and identification rather than speculation about origins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 ### RCMP involvement
 
-The RCMP frequently acted as a receiving agency when citizens reported strange aerial events. Police were often responsible for documenting witness statements, forwarding information and determining whether an incident required additional investigation. Historical reporting procedures linked police records to broader federal channels rather than leaving them solely within local detachments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[Bac LAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Bac LAC1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+The RCMP frequently acted as a receiving agency when citizens reported strange aerial events. Police were often responsible for documenting witness statements, forwarding information and determining whether an incident required additional investigation. Historical reporting procedures linked police records to broader federal channels rather than leaving them solely within local detachments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[Bac LAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">Bac LAC1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 ### The National Research Council
 
-The NRC eventually became one of the most significant scientific repositories for UFO-related reports. Archival descriptions show that the NRC gathered and maintained collections of what it termed “non-meteoric sightings”, preserving reports that did not appear to be conventional meteor events. These holdings later became crucial for historians and civilian researchers attempting to reconstruct Canada’s UFO reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-snippet">It took... Canada&#x27;s UFOs: The search for the unknown.&quot; The reports for...Read more...</span></span></span>
+The NRC eventually became one of the most significant scientific repositories for UFO-related reports. Archival descriptions show that the NRC gathered and maintained collections of what it termed “non-meteoric sightings”, preserving reports that did not appear to be conventional meteor events. These holdings later became crucial for historians and civilian researchers attempting to reconstruct Canada’s UFO reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-snippet">It took... Canada&#x27;s UFOs: The search for the unknown.&quot; The reports for...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-2-dark.svg" | relative_url }}" alt="Federal Files illustration 2" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,13 +302,13 @@ The NRC eventually became one of the most significant scientific repositories fo
 
 The movement from government files to Winnipeg researchers occurred through several mechanisms rather than a single release.
 
-First, many historical records were eventually transferred to Library and Archives Canada as part of ordinary archival preservation. Once catalogued and digitised, researchers anywhere in Canada could inspect them. This process transformed departmental paperwork into publicly accessible historical records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+First, many historical records were eventually transferred to Library and Archives Canada as part of ordinary archival preservation. Once catalogued and digitised, researchers anywhere in Canada could inspect them. This process transformed departmental paperwork into publicly accessible historical records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-Second, federal agencies increasingly reduced their own active interest in routine UFO investigations. As reporting systems changed, civilian researchers sometimes became informal destinations for reports that no longer fit a clear government programme. The Sky Canada project notes that Canadian UFO reports were being received by multiple organisations with limited coordination, creating a patchwork reporting environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">Canada. They include:.Read more...</span></span></span>
+Second, federal agencies increasingly reduced their own active interest in routine UFO investigations. As reporting systems changed, civilian researchers sometimes became informal destinations for reports that no longer fit a clear government programme. The Sky Canada project notes that Canadian UFO reports were being received by multiple organisations with limited coordination, creating a patchwork reporting environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">Canada. They include:.Read more...</span></span></span>
 
-A particularly important link was Chris Rutkowski’s long-running effort to collect and catalogue Canadian sightings. The Office of the Chief Science Advisor describes the [Canadian UFO Survey]({{ 'survey-data/' | relative_url }}) as the country's longest-running and most recognised UFO reporting database. The same review notes that Rutkowski developed relationships with federal officials and eventually received reports from government sources, including National Defence and Transport Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...In 2023, they tallied 570 UFO reports; since 1989, over 24,000 Canadi...</span></span></span>
+A particularly important link was Chris Rutkowski’s long-running effort to collect and catalogue Canadian sightings. The Office of the Chief Science Advisor describes the [Canadian UFO Survey]({{ 'survey-data/' | relative_url }}) as the country's longest-running and most recognised UFO reporting database. The same review notes that Rutkowski developed relationships with federal officials and eventually received reports from government sources, including National Defence and Transport Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial...In 2023, they tallied 570 UFO reports; since 1989, over 24,000 Canadi...</span></span></span>
 
-Rutkowski later explained that Transport Canada began forwarding reports to support his research work. This did not make him a government investigator; rather, it reflected the absence of a single national civilian repository and the existence of a researcher already maintaining a nationwide catalogue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefWill the Government Act on the Sky Canada Project Report?26 Feb 2025 — “Transport Canada explained they had begun sending me U...</span></span></span>
+Rutkowski later explained that Transport Canada began forwarding reports to support his research work. This did not make him a government investigator; rather, it reflected the absence of a single national civilian repository and the existence of a researcher already maintaining a nationwide catalogue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefWill the Government Act on the Sky Canada Project Report?26 Feb 2025 — “Transport Canada explained they had begun sending me U...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yjChc432GMU" title="Science writer releasing book on UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer">Science writer releasing book on UFOs</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yjChc432GMU">Open on YouTube</a></p></div></div></div>
@@ -317,11 +317,11 @@ Rutkowski later explained that Transport Canada began forwarding reports to supp
 
 Winnipeg’s importance comes less from federal authority than from accumulation.
 
-For decades, Rutkowski collected official reports, witness accounts, correspondence, case files and survey data from across Canada. By the late 2010s, this material had grown into one of the country's largest UFO-related research collections. In 2019, he began transferring major holdings to the University of Manitoba, creating a permanent academic archive in Winnipeg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eventscalendar.umanitoba.ca">[Events Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eventscalendar.umanitoba.ca</span><span class="citation-popover-title">Events Calendar Libraries</span><span class="citation-popover-snippet">Events CalendarLibraries - “The Falcon Lake UFO Files”7 Nov 2019 — With this lecture, Chris Rutkowski launches the creation of his UFO Ar...</span></span></span>
+For decades, Rutkowski collected official reports, witness accounts, correspondence, case files and survey data from across Canada. By the late 2010s, this material had grown into one of the country's largest UFO-related research collections. In 2019, he began transferring major holdings to the University of Manitoba, creating a permanent academic archive in Winnipeg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eventscalendar.umanitoba.ca">[Events Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eventscalendar.umanitoba.ca</span><span class="citation-popover-title">Events Calendar Libraries</span><span class="citation-popover-snippet">Events CalendarLibraries - “The Falcon Lake UFO Files”7 Nov 2019 — With this lecture, Chris Rutkowski launches the creation of his UFO Ar...</span></span></span>
 
-The collection reportedly included tens of thousands of civilian reports as well as thousands of government documents. That meant material originating in Ottawa, military offices, transport departments, police files and scientific agencies could be studied alongside private investigations and annual survey records in one Manitoba location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">canadian ufo collection falcon lake incident</span><span class="citation-popover-snippet">Live ScienceThousands of Government UFO Reports Now Available at...12 Dec 2019 — Rutkowski&#x27;s collection includes more than 20,000 UFO re...</span></span></span>
+The collection reportedly included tens of thousands of civilian reports as well as thousands of government documents. That meant material originating in Ottawa, military offices, transport departments, police files and scientific agencies could be studied alongside private investigations and annual survey records in one Manitoba location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">canadian ufo collection falcon lake incident</span><span class="citation-popover-snippet">Live ScienceThousands of Government UFO Reports Now Available at...12 Dec 2019 — Rutkowski&#x27;s collection includes more than 20,000 UFO re...</span></span></span>
 
-This is why Winnipeg occupies a distinctive place in Canadian UFO history. The city is not where most federal UFO files were created. It became important because researchers assembled copies and related records from many different federal channels and preserved them together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityaffairs.ca">[University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityaffairs.ca</span><span class="citation-popover-snippet">University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — A donation of 30,000 UFO-related materials...</span></span></span>
+This is why Winnipeg occupies a distinctive place in Canadian UFO history. The city is not where most federal UFO files were created. It became important because researchers assembled copies and related records from many different federal channels and preserved them together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityaffairs.ca">[University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityaffairs.ca</span><span class="citation-popover-snippet">University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — A donation of 30,000 UFO-related materials...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bcSI4rw0M4Q" title="Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer">Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)</a></p><p class="youtube-embed-meta">Channel: McNally Robinson Online Events</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bcSI4rw0M4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bcSI4rw0M4Q">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ This is why Winnipeg occupies a distinctive place in Canadian UFO history. The c
 
 One of the most common misunderstandings about Canadian UFO archives is assuming that records are organised primarily by location.
 
-In reality, a [Manitoba sighting]({{ 'patterns/' | relative_url }}) might appear in several different administrative systems. A witness could contact local police, whose report moved to federal authorities. A pilot might report the same event through aviation channels. Scientists might later evaluate the case independently. Each step could create a separate document trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+In reality, a [Manitoba sighting]({{ 'patterns/' | relative_url }}) might appear in several different administrative systems. A witness could contact local police, whose report moved to federal authorities. A pilot might report the same event through aviation channels. Scientists might later evaluate the case independently. Each step could create a separate document trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 This creates three challenges:
 
@@ -339,7 +339,7 @@ This creates three challenges:
 
 * **Multiple file locations:** records may exist under defence, transport, police or scientific collections.
 * **Different filing conventions:** agencies often organised material by date, correspondence series or administrative process rather than by province.
-* **Duplicate but incomplete records:** one file may contain witness testimony while another contains technical analysis or follow-up correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+* **Duplicate but incomplete records:** one file may contain witness testimony while another contains technical analysis or follow-up correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 </div>
 
@@ -349,183 +349,183 @@ As a result, searching only for “Manitoba UFO” or a specific town name can o
 <img src="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-3-dark.svg" | relative_url }}" alt="Federal Files illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Manitoba’s UFO Record
 
-The significance of Winnipeg’s archive is not that it proves extraordinary claims. Its value lies in reconstructing how reports moved through Canada’s institutions. The surviving records show a long history of observations being logged, forwarded, assessed and archived by different agencies for different reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The significance of Winnipeg’s archive is not that it proves extraordinary claims. Its value lies in reconstructing how reports moved through Canada’s institutions. The surviving records show a long history of observations being logged, forwarded, assessed and archived by different agencies for different reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-For Manitoba’s place in Canadian UFO history, the key mechanism is therefore archival rather than investigative. Federal departments generated records; Library and Archives Canada preserved many of them; and Winnipeg researchers assembled, cross-referenced and ultimately archived large portions of the resulting paper trail. That process helps explain why Canada’s UFO history can now be studied in far greater detail than the fragmented reporting system that originally created it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+For Manitoba’s place in Canadian UFO history, the key mechanism is therefore archival rather than investigative. Federal departments generated records; Library and Archives Canada preserved many of them; and Winnipeg researchers assembled, cross-referenced and ultimately archived large portions of the resulting paper trail. That process helps explain why Canada’s UFO history can now be studied in far greater detail than the fragmented reporting system that originally created it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Canada’s UFO Paper Trail Is So Fragmented. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Canada’s UFO Paper Trail Is So Fragmented. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigation methods, reporting systems, and the challenges of evaluating sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigation methods, reporting systems, and the challenges of evaluating sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official records, government involvement, and documentary evidence, closely matching discussion of federal UFO files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official records, government involvement, and documentary evidence, closely matching discussion of federal UFO files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines how governments collected, handled, and archived UFO reports, directly relevant to fragmented official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how governments collected, handled, and archived UFO reports, directly relevant to fragmented official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by a key official investigator and provides insight into how governments processed and documented UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by a key official investigator and provides insight into how governments processed and documented UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="federal-files-why-canada-s-ufo-paper-trail-is-so-fragmented-manitoba-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,170 +731,170 @@ For Manitoba’s place in Canadian UFO history, the key mechanism is therefore a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial...In 2023, they tallied 570 UFO reports; since 1989, over 24,000 Canadi...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial...In 2023, they tallied 570 UFO reports; since 1989, over 24,000 Canadi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports if needed. This led to Rutkowski eventually receiving reports directly from federal agencies such as DND and Transport Canada...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports if needed. This led to Rutkowski eventually receiving reports directly from federal agencies such as DND and Transport Canada...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/services/public/access-information-privacy/make-atip-request.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/services/public/access-information-privacy/make-atip-request.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/services/public/access-information-privacy/make-atip-request.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/services/public/access-information-privacy/make-atip-request.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The [Falcon Lake](&amp;#123;&amp;#123; &#x27;falcon-lake/&#x27; | relative_url &amp;#125;&amp;#125;) incident, part 115 May 2019 — In the context that the UFO phenomenon is viewed as perhaps a physical type of...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The [Falcon Lake](&amp;#123;&amp;#123; &#x27;falcon-lake/&#x27; | relative_url &amp;#125;&amp;#125;) incident, part 115 May 2019 — In the context that the UFO phenomenon is viewed as perhaps a physical type of...</p></details>
    Published: May 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rcmp.ca  
    Title: genealogy and archival research  
-   Link: <a href="https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2025 — Are you undertaking a research project on the RCMP? If so, the following information will help you get started with your res...</p></details>
+   Link:<a href="https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmp.ca/en/history-rcmp/genealogy-and-archival-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2025 — Are you undertaking a research project on the RCMP? If so, the following information will help you get started with your res...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Science writer releasing book on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files government declassified Chris Rutkowski Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five De...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files government declassified Chris Rutkowski Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five De...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefWill the Government Act on the Sky Canada Project Report?26 Feb 2025 — “Transport Canada explained they had begun sending me U...</p></details>
+   Link:<a href="https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/canadas-uap-challenges-will-the-government-act-on-the-sky-canada-project-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefWill the Government Act on the Sky Canada Project Report?26 Feb 2025 — “Transport Canada explained they had begun sending me U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bac LAC1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bac LAC1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most...</p></details>
    Published: October 1967  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Canada findings · 02 International Disclosure  
-   Link: <a href="https://ufotransparency.com/international/findings/ca" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/findings/ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada findings · 02 International DisclosureMay 8, 2026 — The 29th and final installment of Library and Archives Canada&#x27;s 8,759-page UFO...</p></details>
+   Link:<a href="https://ufotransparency.com/international/findings/ca" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/findings/ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada findings · 02 International DisclosureMay 8, 2026 — The 29th and final installment of Library and Archives Canada&#x27;s 8,759-page UFO...</p></details>
    Published: May 8, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It took... Canada&#x27;s UFOs: The search for the unknown.&quot; The reports for...Read more...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It took... Canada&#x27;s UFOs: The search for the unknown.&quot; The reports for...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...See Library and Archives Canada&#x27;s online Thematic Guide &quot;Unide...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...See Library and Archives Canada&#x27;s online Thematic Guide &quot;Unide...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eventscalendar.umanitoba.ca  
    Title: Events Calendar Libraries  
-   Link: <a href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Events CalendarLibraries - “The Falcon Lake UFO Files”7 Nov 2019 — With this lecture, Chris Rutkowski launches the creation of his UFO Ar...</p></details>
+   Link:<a href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Events CalendarLibraries - “The Falcon Lake UFO Files”7 Nov 2019 — With this lecture, Chris Rutkowski launches the creation of his UFO Ar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: universityaffairs.ca  
-   Link: <a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — A donation of 30,000 UFO-related materials...</p></details>
+   Link:<a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...25 Feb 2020 — A donation of 30,000 UFO-related materials...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: livescience.com  
    Title: canadian ufo collection falcon lake incident  
-   Link: <a href="https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThousands of Government UFO Reports Now Available at...12 Dec 2019 — Rutkowski&#x27;s collection includes more than 20,000 UFO re...</p></details>
+   Link:<a href="https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/canadian-ufo-collection-falcon-lake-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThousands of Government UFO Reports Now Available at...12 Dec 2019 — Rutkowski&#x27;s collection includes more than 20,000 UFO re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lac-bac.gc.ca  
    Title: ARCHIVE D  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada. National Res...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada. National Res...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025In this episode of The Canadian Gothic, I&#x27;m joined by leading Canadian UFO researcher Chris Rutk...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025In this episode of The Canadian Gothic, I&#x27;m joined by leading Canadian UFO researcher Chris Rutk...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more details the better! Cl...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The the better! Cl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tourismwinnipeg.com  
-   Link: <a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg, Manitoba: Canada&#x27;s Twilight ZoneRutkowski is an internationally renowned UFO... University of Manitoba&#x27;s Archives and Special...</p></details>
+   Link:<a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg, Manitoba: Canada&#x27;s Twilight ZoneRutkowski is an internationally renowned UFO... University of Manitoba&#x27;s Archives and Special...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: themanitoban.com  
-   Link: <a href="https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/" target="_blank" rel="noopener noreferrer nofollow">https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TOPICS:University of Manitoba... Chris Rutkowski. The burned shirt, burned hat, Mayo...Read more...</p></details>
+   Link:<a href="https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/" target="_blank" rel="noopener noreferrer nofollow">https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TOPICS:University of Manitoba... Chris Rutkowski. The burned shirt, burned hat, Mayo...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vice.com  
    Title: this university just acquired a massive collection of ufo files  
-   Link: <a href="https://www.vice.com/en/article/this-university-just-acquired-a-massive-collection-of-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/this-university-just-acquired-a-massive-collection-of-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This University Just Acquired a Massive Collection of UFO...Dec 10, 2019 — Rutkowski believes that the Falcon Lake case is one of the be...</p></details>
+   Link:<a href="https://www.vice.com/en/article/this-university-just-acquired-a-massive-collection-of-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/this-university-just-acquired-a-massive-collection-of-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This University Just Acquired a Massive Collection of UFO...Dec 10, 2019 — Rutkowski believes that the Falcon Lake case is one of the be...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mentalfloss.com  
    Title: ufo sighting documents donated to university of manitoba  
-   Link: <a href="https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Enthusiast Donates 30000 Sighting-Related...Dec 12, 2019 — Ufologist Chris Rutkowski has donated his collection of 30000 documents r...</p></details>
+   Link:<a href="https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/610260/ufo-sighting-documents-donated-to-university-of-manitoba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Enthusiast Donates 30000 Sighting-Related...Dec 12, 2019 — Ufologist Chris Rutkowski has donated his collection of 30000 documents r...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report a UFO sighting above...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report a UFO sighting above...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thewalrus.ca  
    Title: what ufo fears tell us about government trust  
-   Link: <a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Fears Tell Us about Trust in Government17 Feb 2023 — Released ten years after the NRC catalogued the final sighting as part of C...</p></details>
+   Link:<a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Fears Tell Us about Trust in Government17 Feb 2023 — Released ten years after the NRC catalogued the final sighting as part of C...</p></details>

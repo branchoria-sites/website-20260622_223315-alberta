@@ -256,7 +256,7 @@ image: /assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturna
 
 ## Introduction
 
-Many of [Ontario]({{ 'why-ontario-matters-in-canadian-ufo/' | relative_url }})'s UFO reports are not dramatic encounters involving structured craft, radar tracks or close-range observations. They are simple night-time lights: bright points, moving lights, hovering glows or distant objects seen against a dark sky. Modern Canadian UFO surveys consistently show that nocturnal lights are the single largest reporting category, and recent survey data indicate that roughly half of all Canadian UFO reports fall into this group. Most are eventually linked to satellites, aircraft, stars, planets or other ordinary sky phenomena, though some remain unresolved because too little information is available to identify them confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+Many of [Ontario]({{ 'why-ontario-matters-in-canadian-ufo/' | relative_url }})'s UFO reports are not dramatic encounters involving structured craft, radar tracks or close-range observations. They are simple night-time lights: bright points, moving lights, hovering glows or distant objects seen against a dark sky. Modern Canadian UFO surveys consistently show that nocturnal lights are the single largest reporting category, and recent survey data indicate that roughly half of all Canadian UFO reports fall into this group. Most are eventually linked to satellites, aircraft, stars, planets or other ordinary sky phenomena, though some remain unresolved because too little information is available to identify them confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturnal_li_07a87f-Illustration-1-dark.svg" | relative_url }}" alt="Night Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturnal_li_07a87f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturnal_li_07a87f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ For Ontario, this matters because the province combines large urban populations,
 
 ## Nocturnal Lights as the Dominant Report Type
 
-The annual Canadian UFO Survey, compiled by Ufology Research, categorises reports by appearance and behaviour. Across Canada, nocturnal lights have long represented the largest single category in the database, outweighing reports of discs, triangles, structured craft or close encounters. The survey's coding system records details such as duration, colour, movement, number of witnesses and evaluation, allowing researchers to compare patterns over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</span></span></span>
+The annual Canadian UFO Survey, compiled by Ufology Research, categorises reports by appearance and behaviour. Across Canada, nocturnal lights have long represented the largest single category in the database, outweighing reports of discs, triangles, structured craft or close encounters. The survey's coding system records details such as duration, colour, movement, number of witnesses and evaluation, allowing researchers to compare patterns over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</span></span></span>
 
 Ontario's contribution to the national totals means that the province naturally contains many of these reports. A typical account may describe:
 
@@ -279,7 +279,7 @@ Ontario's contribution to the national totals means that the province naturally 
 
 </div>
 
-Examples appear regularly in Ontario media coverage and survey summaries. Reports from communities such as Barrie have included descriptions of star-like lights apparently changing shape and orange lights crossing the night sky. Such observations are genuine experiences for witnesses, but the appearance alone rarely provides enough information to identify the source immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[Sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">Glowing objects and bright lights among reported UFO</span><span class="citation-popover-snippet">April 14, 2016 — 14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, according to the 2015 Canadian UFO Survey re...</span><span class="citation-popover-meta">Published: April 14, 2016</span></span></span>
+Examples appear regularly in Ontario media coverage and survey summaries. Reports from communities such as Barrie have included descriptions of star-like lights apparently changing shape and orange lights crossing the night sky. Such observations are genuine experiences for witnesses, but the appearance alone rarely provides enough information to identify the source immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[Sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">Glowing objects and bright lights among reported UFO</span><span class="citation-popover-snippet">April 14, 2016 — 14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, according to the 2015 Canadian UFO Survey re...</span><span class="citation-popover-meta">Published: April 14, 2016</span></span></span>
 
 The key statistical point is that large numbers of UFO reports do not necessarily indicate large numbers of extraordinary events. They often indicate large numbers of people observing unfamiliar lights under difficult viewing conditions.
 
@@ -311,7 +311,7 @@ When investigators examine Ontario night-light reports, the first questions usua
 
 ### Satellites
 
-Satellite [sightings]({{ 'sightings/' | relative_url }}) have become increasingly important in the modern reporting era. Large satellite constellations have dramatically increased the number of visible objects crossing the night sky. Shortly after sunset or before sunrise, illuminated satellites can appear unexpectedly bright and can travel silently across the horizon. Scientific studies of satellite constellations show that hundreds of satellites may be visible above the horizon under suitable conditions, with a smaller number bright enough to be seen with the naked eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</span></span></span>
+Satellite [sightings]({{ 'sightings/' | relative_url }}) have become increasingly important in the modern reporting era. Large satellite constellations have dramatically increased the number of visible objects crossing the night sky. Shortly after sunset or before sunrise, illuminated satellites can appear unexpectedly bright and can travel silently across the horizon. Scientific studies of satellite constellations show that hundreds of satellites may be visible above the horizon under suitable conditions, with a smaller number bright enough to be seen with the naked eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</span></span></span>
 
 Witnesses unfamiliar with satellite behaviour often interpret these lights as unusual because they:
 
@@ -331,7 +331,7 @@ Witnesses unfamiliar with satellite behaviour often interpret these lights as un
 
 Ontario contains some of Canada's busiest aviation corridors. Traffic associated with Toronto Pearson, Billy Bishop Toronto City Airport, Ottawa, Hamilton, London and cross-border routes means aircraft are frequently visible at night.
 
-Aircraft approaching the observer can appear nearly stationary for several minutes before seeming to move suddenly. Landing lights can create the impression of a hovering object, particularly when viewed from a distance. Aviation reporting systems and Transport Canada records demonstrate that unusual aerial observations are sometimes reported by pilots as well, though many are later linked to identifiable causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+Aircraft approaching the observer can appear nearly stationary for several minutes before seeming to move suddenly. Landing lights can create the impression of a hovering object, particularly when viewed from a distance. Aviation reporting systems and Transport Canada records demonstrate that unusual aerial observations are sometimes reported by pilots as well, though many are later linked to identifiable causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
 ### Bright Stars and Planets
 
@@ -360,7 +360,7 @@ A report that describes:
 
 offers far more investigative value than a report containing only a description of brightness or colour.
 
-The Canadian UFO Survey's coding system specifically records duration and movement because these details often determine whether a case can be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</span></span></span>
+The Canadian UFO Survey's coding system specifically records duration and movement because these details often determine whether a case can be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</span></span></span>
 
 For example, a stationary light observed for an hour may be more consistent with a bright planet than with an aircraft. Conversely, a light crossing a large section of sky in a few minutes may fit a satellite pass better than a hovering object.
 
@@ -372,207 +372,207 @@ Not every nocturnal-light report receives a definitive explanation. Some remain 
 
 A witness may not record the exact time, direction, weather conditions or duration. Photographs may be blurry. Multiple [explanations]({{ 'explanations-221c83/' | relative_url }}) may remain plausible. In these circumstances, investigators often cannot move beyond an "unknown" or "insufficient information" assessment.
 
-This distinction is important. Recent Canadian survey data found only a small percentage of reports classified as unexplained, and the survey itself stresses that unexplained does not mean extraterrestrial. It simply means that the evidence available was insufficient to identify the object confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings in canada 2025</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year....10 Mar 2026 — Out of all those 2025 reports, 3.42 per cent were classi...</span></span></span>
+This distinction is important. Recent Canadian survey data found only a small percentage of reports classified as unexplained, and the survey itself stresses that unexplained does not mean extraterrestrial. It simply means that the evidence available was insufficient to identify the object confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings in canada 2025</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year....10 Mar 2026 — Out of all those 2025 reports, 3.42 per cent were classi...</span></span></span>
 
 ## What Night-Light Reports Tell Us About Ontario
 
 Within Ontario's UFO statistics, nocturnal-light reports reveal more about observation conditions than about extraordinary aerial phenomena. They show where people are looking, what catches attention in the modern sky, and how technological changes influence reporting patterns.
 
-The growth of satellite constellations, the density of aviation traffic around major cities, and the widespread use of smartphones have all altered the kinds of lights people notice and report. At the same time, the continuing dominance of simple night-light cases reinforces a consistent finding from decades of Canadian UFO research: most reports begin with an unidentified light, but many can be linked to ordinary objects once investigators know exactly when, where and in which direction the witness was looking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+The growth of satellite constellations, the density of aviation traffic around major cities, and the widespread use of smartphones have all altered the kinds of lights people notice and report. At the same time, the continuing dominance of simple night-light cases reinforces a consistent finding from decades of Canadian UFO research: most reports begin with an unidentified light, but many can be linked to ordinary objects once investigators know exactly when, where and in which direction the witness was looking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why So Many Reports Are Night Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why So Many Reports Are Night Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines UFO reports and evidence while discussing how sightings are evaluated and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports and evidence while discussing how sightings are evaluated and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduced influential UFO report categories, including nocturnal lights, making it especially relevant to this topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced influential UFO report categories, including nocturnal lights, making it especially relevant to this topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Focuses on identifying conventional explanations such as aircraft, stars, planets, and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on identifying conventional explanations such as aircraft, stars, planets, and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers recognize astronomical objects that are commonly mistaken for unusual lights in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize astronomical objects that are commonly mistaken for unusual lights in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3d34a128f50d58376eb5.jpg' | relative_url }}" alt="Listing image for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3d34a128f50d58376eb5.jpg' | relative_url }}" alt="Listing image for NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">NIGHT SKY AT GIANT&#x27;S CAUSEWAY IN IRELAND FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/59650a88f6cd636a787e.jpg' | relative_url }}" alt="Listing image for Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Planets in Night Sky Stars Luxury Galaxy Living Room Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-af7be5-why-so-many-reports-are-night-lights-ontario-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The growth of satellite constellations, the density of aviation traffic around m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The growth of satellite constellations, the density of aviation traffic around m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The growth of satellite constellations, the density of aviation traffic around m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The growth of satellite constellations, the density of aviation traffic around m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The growth of satellite constellations, the density of aviation traffic around m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,123 +778,123 @@ The growth of satellite constellations, the density of aviation traffic around m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sudbury.com  
    Title: Glowing objects and bright lights among reported UFO  
-   Link: <a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2016 — 14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, according to the 2015 Canadian UFO Survey re...</p></details>
+   Link:<a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2016 — 14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, according to the 2015 Canadian UFO Survey re...</p></details>
    Published: April 14, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.01992</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</p></details>
+   Link:<a href="https://arxiv.org/abs/2003.01992" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.01992</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Impact of Satellite Constellations on Astronomical Observations with ESO telescopes in the Visible and Infrared DomainsMarch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Canada&#x27;s UFOs... Similarly, approximately half of the documents refer to a specific UFO sighting location...Read more...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search Canada&#x27;s UFOs... Similarly, approximately half of the documents refer to a specific UFO sighting location...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Report from the Office of the Chief Science...Jan 15, 2025 — Appendix B - Canadian survey of public views of UAPs; Aliens / Extr...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Report from the Office of the Chief Science...Jan 15, 2025 — Appendix B - Canadian survey of public views of UAPs; Aliens / Extr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...March 10, 2026 — 10 Mar 2026 — Data collected by Ufology Research found...</p></details>
    Published: March 10, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: globalnews.ca  
    Title: ufo sightings in canada 2025  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsReports of UFO sightings in Canada jumped last year....10 Mar 2026 — Out of all those 2025 reports, 3.42 per cent were classi...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsReports of UFO sightings in Canada jumped last year....10 Mar 2026 — Out of all those 2025 reports, 3.42 per cent were classi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataUFO hovering over cityscape during sunset with dramatic clouds. How we code the data. Our Proc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more details the better! Cl...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The the better! Cl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
    Title: winnipeg based ufology research releases annual report on canadian ufo sightings  
-   Link: <a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
+   Link:<a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — Among the 1,000 Canadians polled, more than half (56%) believe in U...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — Among the 1,000 Canadians polled, more than half (56%) believe in U...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)Canada recorded 1,052 UFO sightings in 2025… that&#x27;s one every eight hours. In this epi...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)Canada recorded 1,052 UFO sightings in 2025… that&#x27;s one every eight hours. In this epi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ottawa.citynews.ca  
    Title: bright lights light fingered aliens all part of annual report on ufo sightings  
-   Link: <a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
+   Link:<a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our...Read more...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVqq8RQjtep/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVqq8RQjtep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In scientific and investigative circles, several criteria help determine whether...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVqq8RQjtep/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVqq8RQjtep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In scientific and investigative circles, several criteria help determine whether...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: everythinggp.com  
    Title: alberta third best region for canadian ufo sightings study  
-   Link: <a href="https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/" target="_blank" rel="noopener noreferrer nofollow">https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta third-best region for Canadian UFO sightings: study16 Apr 2024 — Alberta has frequently found itself near the top of the UFO sigh...</p></details>
+   Link:<a href="https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/" target="_blank" rel="noopener noreferrer nofollow">https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta third-best region for Canadian UFO sightings: study16 Apr 2024 — Alberta has frequently found itself near the top of the UFO sigh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/belief is these are man made and we just haven&#x27;t been told what/why...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/belief is these are man made and we just haven&#x27;t been told what/why...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vice.com  
    Title: air canada westjet porter pilots ufo sightings  
-   Link: <a href="https://www.vice.com/en/article/air-canada-westjet-porter-pilots-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/air-canada-westjet-porter-pilots-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Airline Pilots Keep Reporting UFOs Over...21 Apr 2021 — [CADORS](&amp;#123;&amp;#123; &#x27;cadors/&#x27; | relative_url &amp;#125;&amp;#125;) contains nearly 300,000 aviation incident reports on everythin...</p></details>
+   Link:<a href="https://www.vice.com/en/article/air-canada-westjet-porter-pilots-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/air-canada-westjet-porter-pilots-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Airline Pilots Keep Reporting UFOs Over...21 Apr 2021 — [CADORS](&amp;#123;&amp;#123; &#x27;cadors/&#x27; | relative_url &amp;#125;&amp;#125;) contains nearly 300,000 aviation incident reports on everythin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: syfy.com  
    Title: ufo reports donated to canadian university  
-   Link: <a href="https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of official government UFO reports just...18 Dec 2019 — Canadian ufologist Chris Rutkowski donates thousands of UFO report doc...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-reports-donated-to-canadian-university</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of official government UFO reports just...18 Dec 2019 — Canadian ufologist Chris Rutkowski donates thousands of UFO report doc...</p></details>

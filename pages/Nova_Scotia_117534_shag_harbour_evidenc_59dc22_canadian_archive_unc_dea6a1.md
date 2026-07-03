@@ -256,17 +256,17 @@ image: /assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_ar
 
 ## Introduction
 
-The [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) incident is often described as Canada’s best-documented UFO case, but that description can be misleading if readers assume “best documented” means “solved”. The surviving records are valuable precisely because they show both sides of the story at once. They preserve a genuine emergency response, multiple witness reports and official concern about an unidentified object, yet they also reveal how much remains unknown. The archives strengthen the case that something unusual was reported off [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) in October 1967, but they do not establish what that object was. The gap between what is documented and what is claimed later is one of the most important lessons of the Shag Harbour record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+The [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) incident is often described as Canada’s best-documented UFO case, but that description can be misleading if readers assume “best documented” means “solved”. The surviving records are valuable precisely because they show both sides of the story at once. They preserve a genuine emergency response, multiple witness reports and official concern about an unidentified object, yet they also reveal how much remains unknown. The archives strengthen the case that something unusual was reported off [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) in October 1967, but they do not establish what that object was. The gap between what is documented and what is claimed later is one of the most important lessons of the Shag Harbour record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-1-dark.svg" | relative_url }}" alt="Archive Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Shag Harbour sits in Canadian UFO records
 
-Shag Harbour occupies an unusual place within Canadian UFO history because it generated a larger official [paper trail]({{ 'paper-trail/' | relative_url }}) than most sightings. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada maintains dedicated collections related to the incident and describes it as Canada's most famous UFO case, noting that it was investigated by the RCMP and Canadian Forces. Those records exist alongside broader federal UFO files gathered from the Department of National Defence, Department of Transport, National Research Council and RCMP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+Shag Harbour occupies an unusual place within Canadian UFO history because it generated a larger official [paper trail]({{ 'paper-trail/' | relative_url }}) than most sightings. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada maintains dedicated collections related to the incident and describes it as Canada's most famous UFO case, noting that it was investigated by the RCMP and Canadian Forces. Those records exist alongside broader federal UFO files gathered from the Department of National Defence, Department of Transport, National Research Council and RCMP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
-That archival footprint matters because most UFO reports leave little behind beyond newspaper stories or personal recollections. In contrast, Shag Harbour produced police reports, military communications, search-and-rescue records and later archival cataloguing. Researchers can therefore compare witness memories against documents created close to the event rather than relying entirely on decades-later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
+That archival footprint matters because most UFO reports leave little behind beyond newspaper stories or personal recollections. In contrast, Shag Harbour produced police reports, military communications, search-and-rescue records and later archival cataloguing. Researchers can therefore compare witness memories against documents created close to the event rather than relying entirely on decades-later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
 
-The case also sits within a larger Canadian record of unexplained aerial reports. Archived federal UFO databases contain entries from Nova Scotia and elsewhere, including later reports from the Shag Harbour area itself. The existence of these records does not validate extraordinary explanations, but it does show that Canadian agencies historically collected and preserved reports of unusual aerial phenomena rather than treating every case as trivial. Library and Archives Canada+2Library and Archives Canada <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</span></span></span>
+The case also sits within a larger Canadian record of unexplained aerial reports. Archived federal UFO databases contain entries from Nova Scotia and elsewhere, including later reports from the Shag Harbour area itself. The existence of these records does not validate extraordinary explanations, but it does show that Canadian agencies historically collected and preserved reports of unusual aerial phenomena rather than treating every case as trivial. Library and Archives Canada+2Library and Archives Canada<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada Results</span><span class="citation-popover-snippet">Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZaMbXghrpM" title="The Shag Harbour UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Event</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 181.4K &middot; Uploaded: January 2024 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZaMbXghrpM">Open on YouTube</a></p></div></div></div>
@@ -275,11 +275,11 @@ The case also sits within a larger Canadian record of unexplained aerial reports
 
 The strongest conclusions supported by the archive are relatively modest.
 
-First, numerous witnesses reported unusual lights over southern Nova Scotia on 4 October 1967. Second, authorities initially treated the event as a possible aircraft accident. Third, search efforts were launched because responders believed something might have entered the water. Fourth, those searches failed to identify a crashed aircraft or recover wreckage that would explain the event. These points appear consistently across official records and later archival summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+First, numerous witnesses reported unusual lights over southern Nova Scotia on 4 October 1967. Second, authorities initially treated the event as a possible aircraft accident. Third, search efforts were launched because responders believed something might have entered the water. Fourth, those searches failed to identify a crashed aircraft or recover wreckage that would explain the event. These points appear consistently across official records and later archival summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
-Another important fact is that official communications used the language of an unidentified object. Researchers who examined government files found references to unidentified flying objects in correspondence and telex traffic. That is often presented as dramatic evidence, but its real significance is narrower. It shows that officials did not immediately determine a conventional explanation. It does not demonstrate that they identified an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
+Another important fact is that official communications used the language of an unidentified object. Researchers who examined government files found references to unidentified flying objects in correspondence and telex traffic. That is often presented as dramatic evidence, but its real significance is narrower. It shows that officials did not immediately determine a conventional explanation. It does not demonstrate that they identified an extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
 
-The archives also support a negative finding that is sometimes overlooked: extensive searching did not produce the kind of physical evidence that would settle the matter. No confirmed wreckage, occupants, flight recorder, identifiable aircraft debris or equivalent material entered the public record. The absence of such evidence is one reason the case remains unresolved despite its fame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
+The archives also support a negative finding that is sometimes overlooked: extensive searching did not produce the kind of physical evidence that would settle the matter. No confirmed wreckage, occupants, flight recorder, identifiable aircraft debris or equivalent material entered the public record. The absence of such evidence is one reason the case remains unresolved despite its fame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-2-dark.svg" | relative_url }}" alt="Archive Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -287,7 +287,7 @@ The archives also support a negative finding that is sometimes overlooked: exten
 
 The central uncertainty arises because documentation and explanation are not the same thing.
 
-Archives can establish that reports were made, who responded and what actions followed. They are far less capable of revealing the true nature of an object when no definitive physical evidence survives. The Shag Harbour files document uncertainty remarkably well, but they do not eliminate it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+Archives can establish that reports were made, who responded and what actions followed. They are far less capable of revealing the true nature of an object when no definitive physical evidence survives. The Shag Harbour files document uncertainty remarkably well, but they do not eliminate it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 Several limitations shape the historical record:
 
@@ -297,7 +297,7 @@ Several limitations shape the historical record:
 * Most observations occurred at night and over water, conditions that make distance, size and motion difficult to judge.
 * The official search response was designed to locate a possible aircraft accident, not to conduct a controlled scientific investigation of an unknown phenomenon.
 * Many later accounts rely on memory recorded years or decades after the event.
-* Physical evidence that could conclusively identify the object was never publicly produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Macleans.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
+* Physical evidence that could conclusively identify the object was never publicly produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Macleans.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</span></span></span>
 
 </div>
 
@@ -310,11 +310,11 @@ This creates what might be called an uncertainty gap. The archive is strong enou
 
 The greatest challenge for anyone studying Shag Harbour is separating documented history from later additions.
 
-Over the decades, the incident attracted books, documentaries, conferences and tourism. Some later narratives introduced claims about underwater tracking, military retrieval operations, hidden evidence or linked incidents elsewhere along the Nova Scotia coast. These stories are often far more dramatic than the core records from 1967. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: view902.com">[View 902+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">view902.com</span><span class="citation-popover-title">View 902Impact to Contact</span><span class="citation-popover-snippet">The Shag Harbour UFO Case Re-Examined11 Apr 2016 — Impact to Contact by Chris Styles and Graham Simms is the definitive study of Canada&#x27;s...</span></span></span>
+Over the decades, the incident attracted books, documentaries, conferences and tourism. Some later narratives introduced claims about underwater tracking, military retrieval operations, hidden evidence or linked incidents elsewhere along the Nova Scotia coast. These stories are often far more dramatic than the core records from 1967.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: view902.com">[View 902+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">view902.com</span><span class="citation-popover-title">View 902Impact to Contact</span><span class="citation-popover-snippet">The Shag Harbour UFO Case Re-Examined11 Apr 2016 — Impact to Contact by Chris Styles and Graham Simms is the definitive study of Canada&#x27;s...</span></span></span>
 
-The archival record does not support all of these expansions equally. In many cases, the evidence consists primarily of retrospective testimony rather than contemporaneous documents. Some claims may be sincere recollections, but they are harder to verify than the original police and military records created during the emergency response. That difference in evidential quality is crucial. A witness interview from decades later and a report written during the event are not interchangeable sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macleans.ca">[Macleans.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macleans.ca</span><span class="citation-popover-title">the shag harbour ufo incident</span><span class="citation-popover-snippet">People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</span></span></span>
+The archival record does not support all of these expansions equally. In many cases, the evidence consists primarily of retrospective testimony rather than contemporaneous documents. Some claims may be sincere recollections, but they are harder to verify than the original police and military records created during the emergency response. That difference in evidential quality is crucial. A witness interview from decades later and a report written during the event are not interchangeable sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macleans.ca">[Macleans.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macleans.ca</span><span class="citation-popover-title">the shag harbour ufo incident</span><span class="citation-popover-snippet">People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</span></span></span>
 
-A useful example is the recurring idea that the case involved a confirmed recovery or retrieval. Public discussions often present this as established fact. Yet even UFO researchers and online discussions sympathetic to the mystery frequently acknowledge that the publicly available records document searches rather than a verified recovery. [The search]({{ 'the-search/' | relative_url }}) itself is well supported; the alleged recovery is not supported by comparable documentary evidence in the public archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Shag Harbour UFO crash and retrievalIt&#x27;s public record that a search was carried out, but all public records indicate nothing w...</span></span></span>
+A useful example is the recurring idea that the case involved a confirmed recovery or retrieval. Public discussions often present this as established fact. Yet even UFO researchers and online discussions sympathetic to the mystery frequently acknowledge that the publicly available records document searches rather than a verified recovery. [The search]({{ 'the-search/' | relative_url }}) itself is well supported; the alleged recovery is not supported by comparable documentary evidence in the public archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Shag Harbour UFO crash and retrievalIt&#x27;s public record that a search was carried out, but all public records indicate nothing w...</span></span></span>
 
 For that reason, archival attention does not simply make the case stronger. It also acts as a check on exaggeration. The surviving records help distinguish what can be documented from what has been inferred, remembered, speculated about or added later.
 
@@ -324,203 +324,203 @@ For that reason, archival attention does not simply make the case stronger. It a
 
 Shag Harbour remains important in Nova Scotia's UFO history not because it proves an extraordinary explanation, but because it demonstrates how historical evidence works in an unresolved case.
 
-The archives show a genuine event that prompted official concern and generated an unusually rich documentary trail. They preserve enough evidence to reject the idea that the story was invented long after the fact. At the same time, they preserve enough uncertainty to prevent confident conclusions about what was actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+The archives show a genuine event that prompted official concern and generated an unusually rich documentary trail. They preserve enough evidence to reject the idea that the story was invented long after the fact. At the same time, they preserve enough uncertainty to prevent confident conclusions about what was actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
-That balance is what makes Shag Harbour distinctive within Canadian UFO records. The documentation is stronger than in most cases, yet the unanswered question remains. The files narrow the range of possibilities, but they do not close it. In that sense, the archive is not the solution to the mystery; it is the clearest record of why the mystery persists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+That balance is what makes Shag Harbour distinctive within Canadian UFO records. The documentation is stronger than in most cases, yet the unanswered question remains. The files narrow the range of possibilities, but they do not close it. In that sense, the archive is not the solution to the mystery; it is the clearest record of why the mystery persists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AffaetLkx2U" title="Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident【4K】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer">Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident【4K】</a></p><p class="youtube-embed-meta">Channel: Exploring with Wade</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AffaetLkx2U">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the records still do not solve it. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the records still do not solve it. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official records, witness testimony, and the limits of government documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official records, witness testimony, and the limits of government documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains why documented UFO reports can remain unresolved even when substantial evidence exists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why documented UFO reports can remain unresolved even when substantial evidence exists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Demonstrates how official case files often clarify events without fully solving them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how official case files often clarify events without fully solving them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Explores how evidence can be substantial yet insufficient for definitive conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how evidence can be substantial yet insufficient for definitive conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="archive-gap-why-the-records-still-do-not-solve-it-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,186 +726,186 @@ That balance is what makes Shag Harbour distinctive within Canadian UFO records.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
    Published: October 1967  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
    Published: October 1967  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardThe Canadian National Archives still preserve files containing telex exchanges between Halifax and Ottawa, RCMP repor...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardThe Canadian National Archives still preserve files containing telex exchanges between Halifax and Ottawa, RCMP repor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO crash and retrievalIt&#x27;s public record that a search was carried out, but all public records indicate nothing w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO crash and retrievalIt&#x27;s public record that a search was carried out, but all public records indicate nothing w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: macleans.ca  
    Title: the shag harbour ufo incident  
-   Link: <a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</p></details>
+   Link:<a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — Halifax newspaper covers 1967 Shag Harbor UFO sighting. In the timeline of the incide...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: view902.com  
    Title: View 902Impact to Contact  
-   Link: <a href="https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/" target="_blank" rel="noopener noreferrer nofollow">https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Case Re-Examined11 Apr 2016 — Impact to Contact by Chris Styles and Graham Simms is the definitive study of Canada&#x27;s...</p></details>
+   Link:<a href="https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/" target="_blank" rel="noopener noreferrer nofollow">https://view902.com/impact-to-contact-the-shag-harbour-ufo-case-re-examined/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Case Re-Examined11 Apr 2016 — Impact to Contact by Chris Styles and Graham Simms is the definitive study of Canada&#x27;s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca1967 Shag Harbour UFO Sighting and Related ResearchThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous U...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.ca1967 Shag Harbour UFO Sighting and Related ResearchThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous U...</p></details>
    Published: October 1967  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaRead More: Major! UFO Crash Lands in Canada and Is Being Covered Up by Government! Is it Alien or Is it..Read...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaRead More: Major! UFO Crash Lands in Canada and Is Being Covered Up by Government! Is it Alien or Is it..Read...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — In part one of this two-part episode, we unravel Canada&#x27;s most infamous UFO ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — In part one of this two-part episode, we unravel Canada&#x27;s most infamous UFO ca...</p></details>
    Published: May 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canada.ca  
    Title: military history  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/military-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/military-history.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — Search and access our extensive collection of records of the Canadian men and women who have served in the military and in...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/military-history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/military-history.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — Search and access our extensive collection of records of the Canadian men and women who have served in the military and in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPbDa5D7IUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Canada's Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour&#x27;s UFO mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour&#x27;s UFO mystery...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</p></details>
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — Hundreds of UFO sightings are reported across Cana...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada Results  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=441</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada Item Display  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=37024&amp;page_id_nbr=9371&amp;record_id=37024-9371-7000" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=37024&amp;page_id_nbr=9371&amp;record_id=37024-9371-7000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaItem Display - Canada&#x27;s UFOs: The Search for the UnknownOct 29, 2007 — Unidentified flying objects, sighting o...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=37024&amp;page_id_nbr=9371&amp;record_id=37024" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=37024&amp;page_id_nbr=9371&amp;record_id=37024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaItem Display - Canada&#x27;s UFOs: The Search for the UnknownOct 29, 2007 — Unidentified flying objects, sighting o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: ufo crash defcon mystery underwater  
-   Link: <a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a68066027/ufo-crash-defcon-mystery-underwater/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although the Coast Guard found only yellow foam at the scene, diver investigations yielded no physical evidence. Decades later, ufologist...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=4680&amp;page_id_nbr=1268&amp;record_id=4680-1268-7977" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=4680&amp;page_id_nbr=1268&amp;record_id=4680-1268-7977</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=4680&amp;page_id_nbr=1268&amp;record_id=4680" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;isn_id_nbr=4680&amp;page_id_nbr=1268&amp;record_id=4680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Item Display - Canada&#x27;s UFOs: The Search for the UnknownHerzberg Institute of Astrophysics - Reports on non-meteoric sightings, unidentif...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=616" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=616</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=616" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=616</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institutional links. ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown. Archived Content.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/7998815/the-shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/7998815/the-shag-harbour-ufo-incident</a>  
+   Link:<a href="https://globalnews.ca/video/7998815/the-shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/7998815/the-shag-harbour-ufo-incident</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hangar1publishing.com  
    Title: shag harbour incident  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoooW2V02Sm2-6_XRlhxjkXp1n3DkFncAqRYsB0P8F6CbCIifG_A" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoooW2V02Sm2-6_XRlhxjkXp1n3DkFncAqRYsB0P8F6CbCIifG_A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Undeniable UFO MysteryExplore Canada&#x27;s most documented UFO mystery: the 1967 Shag Harbour incident that bewildered officials, ca...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoooW2V02Sm2-6_XRlhxjkXp1n3DkFncAqRYsB0P8F6CbCIifG_A" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoooW2V02Sm2-6_XRlhxjkXp1n3DkFncAqRYsB0P8F6CbCIifG_A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Undeniable UFO MysteryExplore Canada&#x27;s most documented UFO mystery: the 1967 Shag Harbour incident that bewildered officials, ca...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideWe have included bookmarks in each of the PDF files of key stories and reports highlighted by Dr David Clarke. This will make it eas...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideWe have included bookmarks in each of the PDF files of key stories and reports highlighted by Dr David Clarke. This will make it eas...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO EventThe Shag Harbour UFO Event. 181K views · 2 years ago. Mysteries... Schoolyard witnesses in mass UFO sighting d...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZaMbXghrpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO EventThe Shag Harbour UFO Event. 181K views · 2 years ago. Mysteries... Schoolyard witnesses in mass UFO sighting d...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.gc.ca  
    Title: management public reporting unidentified aerial phenomena canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search fo...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...Archived webpages from Library and Archives Canada, Canada&#x27;s UFOs: The Search fo...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: digitalcollections.trentu.ca  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — It is not an official document; it is not part of the national archives coll...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — It is not an official document; it is not part of the national archives coll...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
    Title: bac-lac.gc.ca The Shag Harbour UFO Incident  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection search22 Apr 2026 — This documentary is about the unexplained incident in October 1967, when two u...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection search22 Apr 2026 — This documentary is about the unexplained incident in October 1967, when two u...</p></details>
    Published: October 1967  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thescubanews.com  
    Title: shag harbour nova scotia ufo incident  
-   Link: <a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The object was never definitively identified and was officially labeled as an unident...</p></details>
+   Link:<a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The object was never definitively identified and was officially labeled as an unident...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: publicsafety.gc.ca  
-   Link: <a href="https://www.publicsafety.gc.ca/lbrr/archives/cn000040051899-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsafety.gc.ca/lbrr/archives/cn000040051899-eng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>available from the collection of Public...Read more...</p></details>
+   Link:<a href="https://www.publicsafety.gc.ca/lbrr/archives/cn000040051899-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.publicsafety.gc.ca/lbrr/archives/cn000040051899-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>available from the collection of Public...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incidentThe object was never officially identified, and was therefore referred to as an unidentified flying object (U...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incidentThe object was never officially identified, and was therefore referred to as an unidentified flying object (U...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: letterboxd.com  
    Title: shag harbour ufo incident  
-   Link: <a href="https://letterboxd.com/film/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/shag-harbour-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2000)Ratings · Popular reviews · Recent reviews · Popular Lists · I Fucking Love Aliens · UFO documentaries worth watching · yoUFOlogy.R...</p></details>
+   Link:<a href="https://letterboxd.com/film/shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/shag-harbour-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2000)Ratings · Popular reviews · Recent reviews · Popular Lists · I Fucking Love Aliens · UFO documentaries worth watching · yoUFOlogy.R...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: astonishinglegends.com  
    Title: ep 321 the shag harbor incident  
-   Link: <a href="https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Rights Reserved. Unexplainable Phenomena, UFOs &amp; AliensForrest Burgess January 18, 2026...Read more...</p></details>
+   Link:<a href="https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2026/01/17/ep-321-the-shag-harbor-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Rights Reserved. Unexplainable Phenomena, UFOs &amp; AliensForrest Burgess January 18, 2026...Read more...</p></details>
    Published: January 18, 2026  

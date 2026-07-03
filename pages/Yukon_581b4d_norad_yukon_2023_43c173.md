@@ -274,19 +274,19 @@ image: /assets/images/Yukon_581b4d_norad_yukon_2023_43c173-overview-social.jpg
 
 ## Introduction
 
-On 11 February 2023, NORAD shot down an unidentified high-altitude object over central [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) after Canadian and United States aircraft tracked it from Alaska into Canadian airspace. The official reason was not that anyone had proved an extraordinary UFO claim. It was that the object was flying at about 39,000 to 40,000 feet, close to the cruising altitude of civilian aircraft, and Canadian officials judged it a reasonable flight-safety risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
+On 11 February 2023, NORAD shot down an unidentified high-altitude object over central [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) after Canadian and United States aircraft tracked it from Alaska into Canadian airspace. The official reason was not that anyone had proved an extraordinary UFO claim. It was that the object was flying at about 39,000 to 40,000 feet, close to the cruising altitude of civilian aircraft, and Canadian officials judged it a reasonable flight-safety risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-overview.webp" | relative_url }}" alt="Overview image for 2023 Object" loading="eager" decoding="sync" fetchpriority="high">
-The Yukon object matters because it is one of the clearest modern examples of a UFO becoming a real defence and aviation incident without becoming evidence of alien visitation. It was “unidentified” in the practical sense: officials did not publicly establish its origin, purpose or exact construction, and the debris was not recovered. Later reporting and released imagery made a balloon-like explanation more plausible, but did not close the case completely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
+The Yukon object matters because it is one of the clearest modern examples of a UFO becoming a real defence and aviation incident without becoming evidence of alien visitation. It was “unidentified” in the practical sense: officials did not publicly establish its origin, purpose or exact construction, and the debris was not recovered. Later reporting and released imagery made a balloon-like explanation more plausible, but did not close the case completely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
 
 ## What officials said happened
 
-NORAD, the joint Canada–United States command responsible for aerospace warning, aerospace control and maritime warning for North America, detected the object over Alaska late on Friday 10 February 2023. Two US F-22 aircraft monitored it in US airspace, and Canadian CF-18 and CP-140 aircraft later joined the operation after it entered Canadian airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement on todays actions by north american aerospace defense command</span><span class="citation-popover-snippet">Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</span></span></span>
+NORAD, the joint Canada–United States command responsible for aerospace warning, aerospace control and maritime warning for North America, detected the object over Alaska late on Friday 10 February 2023. Two US F-22 aircraft monitored it in US airspace, and Canadian CF-18 and CP-140 aircraft later joined the operation after it entered Canadian airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement on todays actions by north american aerospace defense command</span><span class="citation-popover-snippet">Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</span></span></span>
 
-The decision to shoot it down was made through both Canadian and US political and military channels. Canadian Prime Minister Justin Trudeau said he ordered the takedown after the object violated Canadian airspace, while the Pentagon said President Joe Biden authorised US fighter aircraft assigned to NORAD to work with Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement on todays actions by north american aerospace defense command</span><span class="citation-popover-snippet">Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</span></span></span>
+The decision to shoot it down was made through both Canadian and US political and military channels. Canadian Prime Minister Justin Trudeau said he ordered the takedown after the object violated Canadian airspace, while the Pentagon said President Joe Biden authorised US fighter aircraft assigned to NORAD to work with Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement on todays actions by north american aerospace defense command</span><span class="citation-popover-snippet">Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</span></span></span>
 
-Canada’s Department of National Defence later summarised the incident in more precise terms: aircraft assigned to NORAD downed a high-altitude airborne object over central Yukon, approximately 100 miles from the Canada–US border, after NORAD detected it and launched Canadian and US fighters to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
+Canada’s Department of National Defence later summarised the incident in more precise terms: aircraft assigned to NORAD downed a high-altitude airborne object over central Yukon, approximately 100 miles from the Canada–US border, after NORAD detected it and launched Canadian and US fighters to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
 
 This was not a local police sighting or a vague witness report from a remote road. It was a tracked airspace event handled by a binational defence command, with fighter aircraft, political authorisation and a later search for wreckage. That makes it unusually important in Yukon’s UFO history, even though it also shows why “UFO” is often a misleading public shorthand. In this case, the central issue was not a mysterious light in the sky; it was an object in controlled northern airspace.
 
@@ -294,11 +294,11 @@ This was not a local police sighting or a vague witness report from a remote roa
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-1-dark.svg" | relative_url }}" alt="2023 Object illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the altitude changed the response
 
-The most important figure in the Yukon incident is not the object’s shape. It is its altitude. Canadian defence material says the object was flying at 39,000 feet and posed a reasonable threat to the safety of civilian flight. Contemporary public statements put the altitude at roughly 40,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
+The most important figure in the Yukon incident is not the object’s shape. It is its altitude. Canadian defence material says the object was flying at 39,000 feet and posed a reasonable threat to the safety of civilian flight. Contemporary public statements put the altitude at roughly 40,000 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</span></span></span>
 
 That altitude matters because it sits in the broad band used by commercial and private jet traffic. A small object at that height does not need to be hostile to become dangerous. If it is drifting, hard to see, not broadcasting, or poorly characterised, it creates a risk-management problem for air defence and aviation authorities.
 
-The Yukon decision also came in a tense sequence. A Chinese surveillance balloon had been shot down off the coast of South Carolina on 4 February 2023. A separate high-altitude object was shot down near Alaska on 10 February, and another was downed over Lake Huron on 12 February. The Yukon object therefore appeared during a short period of heightened North American airspace vigilance, not in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/02/04/what-we-know-china-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Everything we know about the mysterious objects shot down over North America</span><span class="citation-popover-snippet">and Canadian military forces downed four airborne objects over North America, escalating concerns about aerial surveillance and prompting...</span></span></span>
+The Yukon decision also came in a tense sequence. A Chinese surveillance balloon had been shot down off the coast of South Carolina on 4 February 2023. A separate high-altitude object was shot down near Alaska on 10 February, and another was downed over Lake Huron on 12 February. The Yukon object therefore appeared during a short period of heightened North American airspace vigilance, not in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2023/02/04/what-we-know-china-balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Everything we know about the mysterious objects shot down over North America</span><span class="citation-popover-snippet">and Canadian military forces downed four airborne objects over North America, escalating concerns about aerial surveillance and prompting...</span></span></span>
 
 That timing can be read in two ways. It may suggest a genuine burst of unusual balloon or high-altitude object activity. It may also suggest that radar filters, command attention and political tolerance for uncertainty had changed after the Chinese balloon incident. Either way, the Yukon case shows how quickly an unidentified object can move from “unknown” to “must be dealt with” when it enters defended airspace at an awkward altitude.
 
@@ -307,19 +307,19 @@ That timing can be read in two ways. It may suggest a genuine burst of unusual b
 
 ## What was seen before the shootdown
 
-Officials initially gave limited descriptions. Canada’s defence minister, Anita Anand, described the object as small and cylindrical, and said it was smaller than the Chinese balloon shot down earlier that month. Local reporting from northern Canada carried the same broad description: a “small, cylindrical object” over central Yukon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Norad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon</span><span class="citation-popover-snippet">Cabin Radio Norad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon</span></span></span>
+Officials initially gave limited descriptions. Canada’s defence minister, Anita Anand, described the object as small and cylindrical, and said it was smaller than the Chinese balloon shot down earlier that month. Local reporting from northern Canada carried the same broad description: a “small, cylindrical object” over central Yukon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Norad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon</span><span class="citation-popover-snippet">Cabin Radio Norad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon</span></span></span>
 
-Later reporting based on Canadian access-to-information material added a more specific visual description. A released image, obtained through Canadian records requests, was grainy and unclear, but reports described the object as balloon-like, with references to a metallic-looking upper section, a white lower portion and a wire or payload beneath it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of unidentified object shot down over canada</span><span class="citation-popover-snippet">The AviationistFirst Image of Unidentified Object Shot Down By F-22 Over...25 Sept 2024 — CTVNews.ca recently obtained a photograph of t...</span></span></span>
+Later reporting based on Canadian access-to-information material added a more specific visual description. A released image, obtained through Canadian records requests, was grainy and unclear, but reports described the object as balloon-like, with references to a metallic-looking upper section, a white lower portion and a wire or payload beneath it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">image of unidentified object shot down over canada</span><span class="citation-popover-snippet">The AviationistFirst Image of Unidentified Object Shot Down By F-22 Over...25 Sept 2024 — CTVNews.ca recently obtained a photograph of t...</span></span></span>
 
 That later image did not transform the case into a solved identification. It did, however, weaken the most exotic readings of the incident. A blurry photograph of a pale, balloon-like object with a possible suspended payload fits the world of research, commercial, recreational or surveillance balloons far better than it supports claims of extraordinary technology. The public evidence still leaves questions, but those questions are mostly about ownership, purpose, classification and recovery — not about whether the object performed impossible manoeuvres.
 
 ## How the search unfolded in Yukon
 
-After the shootdown, Canadian authorities began searching for debris in difficult northern terrain. The RCMP later said the highest-probability area had been searched and no debris had been found. Snowfall, falling recovery odds and the assessment that the object was not tied to a scenario requiring extraordinary search efforts led the RCMP to end the Yukon search on 17 February 2023. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
+After the shootdown, Canadian authorities began searching for debris in difficult northern terrain. The RCMP later said the highest-probability area had been searched and no debris had been found. Snowfall, falling recovery odds and the assessment that the object was not tied to a scenario requiring extraordinary search efforts led the RCMP to end the Yukon search on 17 February 2023.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
 
 This is a crucial point for judging the evidence. The absence of recovered wreckage means there was no public laboratory confirmation of the object’s materials, electronics, manufacturer or payload. For UFO history, that leaves the case officially and practically unresolved in one sense: the object was not publicly identified by recovered debris.
 
-But the failed recovery does not automatically make the case more mysterious. Yukon’s terrain, winter conditions and snowpack are enough to explain why a small object shot down over a remote area might not be recovered quickly, or at all. The RCMP’s language is also important: the search was ended not because the incident had been solved, but because the remaining recovery effort no longer appeared justified by the available risk assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
+But the failed recovery does not automatically make the case more mysterious. Yukon’s terrain, winter conditions and snowpack are enough to explain why a small object shot down over a remote area might not be recovered quickly, or at all. The RCMP’s language is also important: the search was ended not because the incident had been solved, but because the remaining recovery effort no longer appeared justified by the available risk assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-title">yukon search debris suspended</span><span class="citation-popover-snippet">The highest probability area has...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-2-dark.svg" | relative_url }}" alt="2023 Object illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,9 +327,9 @@ But the failed recovery does not automatically make the case more mysterious. Yu
 
 The Yukon object remains unidentified in the narrow, evidence-based sense that authorities did not publicly produce debris and did not publish a final confirmed owner, origin or technical analysis. That is enough to keep it in Yukon’s UFO and UAP history.
 
-It does not follow that the object was inexplicable. The available evidence points toward a small high-altitude object, probably balloon-like, drifting at an altitude considered hazardous to civilian aviation. US and Canadian officials discussed the importance of recovering it to determine purpose or origin, while later reporting suggested officials were considering benign possibilities tied to commercial, research or recreational activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
+It does not follow that the object was inexplicable. The available evidence points toward a small high-altitude object, probably balloon-like, drifting at an altitude considered hazardous to civilian aviation. US and Canadian officials discussed the importance of recovering it to determine purpose or origin, while later reporting suggested officials were considering benign possibilities tied to commercial, research or recreational activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
 
-A widely discussed possibility was that the Yukon object could have been a hobby or “pico” balloon. Amateur radio observers noted that a small balloon associated with the callsign K9YO had stopped reporting around the same broad time and region. That idea was plausible enough to enter serious public discussion, but it was not confirmed by recovered debris or an official identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">image released of mysterious object shot down over yukon in 2023.13668</span></span></span>
+A widely discussed possibility was that the Yukon object could have been a hobby or “pico” balloon. Amateur radio observers noted that a small balloon associated with the callsign K9YO had stopped reporting around the same broad time and region. That idea was plausible enough to enter serious public discussion, but it was not confirmed by recovered debris or an official identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">image released of mysterious object shot down over yukon in 2023.13668</span><span class="citation-popover-snippet">image released of mysterious object shot down over yukon in 2023.13668</span></span></span>
 
 The fairest assessment is therefore cautious: the Yukon object was a real tracked object, a real NORAD response and a real Canadian airspace incident. It was not just a rumour. But the public record does not show extraordinary behaviour, alien technology or a confirmed hostile platform. The unresolved part is identification, not physics.
 
@@ -342,7 +342,7 @@ Most Yukon UFO stories are remembered because of witnesses: drivers on winter hi
 
 That difference changes the reader’s questions. For a classic sighting, the key issues are witness consistency, timing, sky conditions and possible astronomical or aviation explanations. For the 2023 Yukon object, the key issues are airspace governance, NORAD detection, rules for responding to unknown objects, recovery limitations and public transparency.
 
-The case also sits neatly beside Canada’s later Sky Canada work, which reviewed how unidentified aerial phenomena reports are managed in Canada. Sky Canada emphasised that its work was about reporting systems and public management, not proving what UAPs are. That distinction fits the Yukon incident well: the most useful lesson is not that Canada encountered something beyond explanation, but that Canada’s institutions need clear ways to handle, communicate and investigate aerial uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">management public reporting unidentified aerial phenomena canada</span></span></span>
+The case also sits neatly beside Canada’s later Sky Canada work, which reviewed how unidentified aerial phenomena reports are managed in Canada. Sky Canada emphasised that its work was about reporting systems and public management, not proving what UAPs are. That distinction fits the Yukon incident well: the most useful lesson is not that Canada encountered something beyond explanation, but that Canada’s institutions need clear ways to handle, communicate and investigate aerial uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">management public reporting unidentified aerial phenomena canada</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixXpG5Hvij4" title="PM Justin Trudeau comments on aerial object shot down over Yukon – February 12, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixXpG5Hvij4" target="_blank" rel="noopener noreferrer">PM Justin Trudeau comments on aerial object shot down over Yukon – February 12, 2023</a></p><p class="youtube-embed-meta">Channel: cpac</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixXpG5Hvij4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixXpG5Hvij4">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ The case also sits neatly beside Canada’s later Sky Canada work, which reviewe
 
 The Yukon object shows why the word “UFO” causes so much confusion. In ordinary public speech, UFO often implies alien craft. In aviation and defence contexts, it can simply mean an object has not yet been identified. Those are very different claims.
 
-Canadian sources and later reporting treated the Yukon object as an airspace and safety issue. NORAD’s role was to detect, monitor and control a potential airspace threat. The RCMP’s role was to search for debris. Defence officials’ concern was altitude, airspace violation and flight safety. None of those facts require an extraterrestrial interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">About NORADNORAD is a United States and Canada bi-national organization charged with the missions of aerospace warning, aerospace co...</span></span></span>
+Canadian sources and later reporting treated the Yukon object as an airspace and safety issue. NORAD’s role was to detect, monitor and control a potential airspace threat. The RCMP’s role was to search for debris. Defence officials’ concern was altitude, airspace violation and flight safety. None of those facts require an extraterrestrial interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-snippet">About NORADNORAD is a United States and Canada bi-national organization charged with the missions of aerospace warning, aerospace co...</span></span></span>
 
 This does not make the case uninteresting. In some ways, it makes it more important. It shows what happens when a UFO report moves out of the realm of anecdote and into the machinery of state response. The object did not need to be alien, dramatic or technologically impossible to force a serious decision. It only needed to be unidentified, airborne, in the wrong place, at the wrong altitude, during a moment of heightened concern.
 
@@ -366,194 +366,194 @@ For Yukon, the case adds a modern official counterpart to older witness-led UFO 
 The final public picture remains incomplete. The object was detected, followed and shot down. Its debris was not recovered. A later image made a balloon-like explanation more plausible. No public evidence has established an extraordinary origin. The most balanced reading is that the Yukon object remains unidentified in documentation, but not especially mysterious in its likely category: a small high-altitude object treated as a flight-safety and sovereignty problem under NORAD command.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Was an Object Shot Down Over Yukon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Was an Object Shot Down Over Yukon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses unidentified aerial objects, military tracking, and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses unidentified aerial objects, military tracking, and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores classified aerospace programs and defense-related aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores classified aerospace programs and defense-related aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on military aviation, air-defense technology, and aerospace development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on military aviation, air-defense technology, and aerospace development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines classified aerospace operations and the culture surrounding unidentified aircraft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classified aerospace operations and the culture surrounding unidentified aircraft reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue"><img src="{{ '/assets/images/marketplace-covers/4b30c0d6288b26daac7b.jpg' | relative_url }}" alt="Listing image for 1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 NUOTIE SU-57 Fighter Jet Diecast Alloy Model Splinter Camo White Blue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="2023-object-why-was-an-object-shot-down-over-yukon-yukon-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ The final public picture remains incomplete. The object was detected, followed a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ The final public picture remains incomplete. The object was detected, followed a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ The final public picture remains incomplete. The object was detected, followed a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The final public picture remains incomplete. The object was detected, followed a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ The final public picture remains incomplete. The object was detected, followed a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,188 +759,188 @@ The final public picture remains incomplete. The object was detected, followed a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: key issues  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Issues – High-Altitude Objects5 Jul 2023 — The object was flying at an altitude of 39,000 feet and posed a reasonable threat to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rcmp.ca  
    Title: yukon search debris suspended  
-   Link: <a href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The highest probability area has...Read more...</p></details>
+   Link:<a href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The highest probability area has...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: statement on todays actions by north american aerospace defense command  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3295989/statement-on-todays-actions-by-north-american-aerospace-defense-command/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement on Today&#x27;s Actions by North American...11 Feb 2023 —... Canada to take down a high-altitude airborne object...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About NORADNORAD is a United States and Canada bi-national organization charged with the missions of aerospace warning, aerospace co...</p></details>
+   Link:<a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About NORADNORAD is a United States and Canada bi-national organization charged with the missions of aerospace warning, aerospace co...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
    Title: Everything we know about the mysterious objects shot down over North America  
-   Link: <a href="https://www.axios.com/2023/02/04/what-we-know-china-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/04/what-we-know-china-balloon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Canadian military forces downed four airborne objects over North America, escalating concerns about aerial surveillance and prompting...</p></details>
+   Link:<a href="https://www.axios.com/2023/02/04/what-we-know-china-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/02/04/what-we-know-china-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Canadian military forces downed four airborne objects over North America, escalating concerns about aerial surveillance and prompting...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: image released of mysterious object shot down over yukon in 2023.13668  
-   Link: <a href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/</a>  
+   Link:<a href="https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/image-released-of-mysterious-object-shot-down-over-yukon-in-2023.13668/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.gc.ca  
    Title: management public reporting unidentified aerial phenomena canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tc.canada.ca  
    Title: ca4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canada.ca  
    Title: domestic continental defence  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/pacp-march-6-2023-arctic-waters-surveillance-oag-report-6/domestic-continental-defence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/pacp-march-6-2023-arctic-waters-surveillance-oag-report-6/domestic-continental-defence.html</a>  
+   Link:<a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/pacp-march-6-2023-arctic-waters-surveillance-oag-report-6/domestic-continental-defence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/pacp-march-6-2023-arctic-waters-surveillance-oag-report-6/domestic-continental-defence.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: csps.aerospace.org  
-   Link: <a href="https://csps.aerospace.org/sites/default/files/2021-08/NORAD%20Agreement%20May96.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csps.aerospace.org/sites/default/files/2021-08/NORAD%20Agreement%20May96.pdf</a>  
+   Link:<a href="https://csps.aerospace.org/sites/default/files/2021-08/NORAD%20Agreement%20May96.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csps.aerospace.org/sites/default/files/2021-08/NORAD%20Agreement%20May96.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: efforts underway to recover object downed over lake huron  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3296905/efforts-underway-to-recover-object-downed-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3296905/efforts-underway-to-recover-object-downed-over-lake-huron/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3296905/efforts-underway-to-recover-object-downed-over-lake-huron/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3296905/efforts-underway-to-recover-object-downed-over-lake-huron/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
+   Link:<a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theaviationist.com  
    Title: image of unidentified object shot down over canada  
-   Link: <a href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistFirst Image of Unidentified Object Shot Down By F-22 Over...25 Sept 2024 — CTVNews.ca recently obtained a photograph of t...</p></details>
+   Link:<a href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistFirst Image of Unidentified Object Shot Down By F-22 Over...25 Sept 2024 — CTVNews.ca recently obtained a photograph of t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cabinradio.ca  
    Title: Cabin Radio Norad jets shoot down 'small, cylindrical object' over Yukon  
-   Link: <a href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/</a>  
+   Link:<a href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: norad and us northern command statement on the high altitude surveillance balloo  
-   Link: <a href="https://www.facebook.com/USNORTHCOM/posts/norad-and-us-northern-command-statement-on-the-high-altitude-surveillance-balloo/550368953790302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USNORTHCOM/posts/norad-and-us-northern-command-statement-on-the-high-altitude-surveillance-balloo/550368953790302/</a>  
+   Link:<a href="https://www.facebook.com/USNORTHCOM/posts/norad-and-us-northern-command-statement-on-the-high-altitude-surveillance-balloo/550368953790302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USNORTHCOM/posts/norad-and-us-northern-command-statement-on-the-high-altitude-surveillance-balloo/550368953790302/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/</a>  
 
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Title: canadas department of national defence has released an updated image of an unide  
-   Link: <a href="https://www.facebook.com/news5wcyb/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/1037582248398283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news5wcyb/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/1037582248398283/</a>  
-
-21. <a id="endnote-21"></a>
-   Source: facebook.com  
-   Link: <a href="https://www.facebook.com/noradsanta/posts/norads-mission-is-to-provide-aerospace-warning-and-aerospace-control-247365-and-/336624455748560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/noradsanta/posts/norads-mission-is-to-provide-aerospace-warning-and-aerospace-control-247365-and-/336624455748560/</a>  
-
-22. <a id="endnote-22"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: canadas department of national defence has released an updated image of an unide  
-   Link: <a href="https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/</a>  
+   Link:<a href="https://www.facebook.com/news5wcyb/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/1037582248398283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news5wcyb/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/1037582248398283/</a>  
 
-23. <a id="endnote-23"></a>
+21.<a id="endnote-21"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/noradsanta/posts/norads-mission-is-to-provide-aerospace-warning-and-aerospace-control-247365-and-/336624455748560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/noradsanta/posts/norads-mission-is-to-provide-aerospace-warning-and-aerospace-control-247365-and-/336624455748560/</a>  
+
+22.<a id="endnote-22"></a>
+   Source: facebook.com  
+   Title: canadas department of national defence has released an updated image of an unide  
+   Link:<a href="https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/</a>  
+
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CanadianForces/comments/1h9kgjx/canadas_air_force_took_video_of_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CanadianForces/comments/1h9kgjx/canadas_air_force_took_video_of_object_shot_down/</a>  
+   Link:<a href="https://www.reddit.com/r/CanadianForces/comments/1h9kgjx/canadas_air_force_took_video_of_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CanadianForces/comments/1h9kgjx/canadas_air_force_took_video_of_object_shot_down/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
+   Link:<a href="https://abc7ny.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: foxnews.com  
    Title: norad confirms high altitude airborne object flying over northern canada  
-   Link: <a href="https://www.foxnews.com/world/norad-confirms-high-altitude-airborne-object-flying-over-northern-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/norad-confirms-high-altitude-airborne-object-flying-over-northern-canada</a>  
+   Link:<a href="https://www.foxnews.com/world/norad-confirms-high-altitude-airborne-object-flying-over-northern-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/norad-confirms-high-altitude-airborne-object-flying-over-northern-canada</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: treaty-accord.gc.ca  
-   Link: <a href="https://www.treaty-accord.gc.ca/text-texte.aspx?id=105060" target="_blank" rel="noopener noreferrer nofollow">https://www.treaty-accord.gc.ca/text-texte.aspx?id=105060</a>  
+   Link:<a href="https://www.treaty-accord.gc.ca/text-texte.aspx?id=105060" target="_blank" rel="noopener noreferrer nofollow">https://www.treaty-accord.gc.ca/text-texte.aspx?id=105060</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cgai.ca  
-   Link: <a href="https://www.cgai.ca/norad_remaining_relevant" target="_blank" rel="noopener noreferrer nofollow">https://www.cgai.ca/norad_remaining_relevant</a>  
+   Link:<a href="https://www.cgai.ca/norad_remaining_relevant" target="_blank" rel="noopener noreferrer nofollow">https://www.cgai.ca/norad_remaining_relevant</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: PM Justin Trudeau comments on aerial object shot down over Yukon –  
-   Link: <a href="https://www.youtube.com/watch?v=ixXpG5Hvij4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixXpG5Hvij4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Minister Anita Anand comments on aerial object shot down over Yukon – February 11, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ixXpG5Hvij4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixXpG5Hvij4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Minister Anita Anand comments on aerial object shot down over Yukon – February 11, 2023...</p></details>
    Published: February 12, 2023  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=alg9-gVjFTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=alg9-gVjFTA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PM Justin Trudeau comments on aerial object shot down over Yukon – February 12, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=alg9-gVjFTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=alg9-gVjFTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PM Justin Trudeau comments on aerial object shot down over Yukon – February 12, 2023...</p></details>
    Published: February 12, 2023  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vNmxXO3--sE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vNmxXO3--sE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. fighter jet shot down unidentified object in northern Canada...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vNmxXO3--sE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vNmxXO3--sE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. fighter jet shot down unidentified object in northern Canada...</p></details>
    Published: February 13, 2023  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fle8fk/335_pages_of_documents_released_by_canadian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fle8fk/335_pages_of_documents_released_by_canadian/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fle8fk/335_pages_of_documents_released_by_canadian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fle8fk/335_pages_of_documents_released_by_canadian/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/4-flying-objects-shot-north-america-timeline-key/story?id=97068603" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/4-flying-objects-shot-north-america-timeline-key/story?id=97068603</a>  
+   Link:<a href="https://abcnews.com/Politics/4-flying-objects-shot-north-america-timeline-key/story?id=97068603" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/4-flying-objects-shot-north-america-timeline-key/story?id=97068603</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2023-02-13/canada-pm-says-teams-searching-for-shot-down-object-debris/101964134" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-02-13/canada-pm-says-teams-searching-for-shot-down-object-debris/101964134</a>  
+   Link:<a href="https://www.abc.net.au/news/2023-02-13/canada-pm-says-teams-searching-for-shot-down-object-debris/101964134" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-02-13/canada-pm-says-teams-searching-for-shot-down-object-debris/101964134</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cpac.ca  
-   Link: <a href="https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334" target="_blank" rel="noopener noreferrer nofollow">https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334</a>  
+   Link:<a href="https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334" target="_blank" rel="noopener noreferrer nofollow">https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theaviationgeekclub.com  
-   Link: <a href="https://theaviationgeekclub.com/first-image-released-of-mysterious-object-shot-down-by-usaf-f-22-over-canada-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/first-image-released-of-mysterious-object-shot-down-by-usaf-f-22-over-canada-in-2023/</a>  
+   Link:<a href="https://theaviationgeekclub.com/first-image-released-of-mysterious-object-shot-down-by-usaf-f-22-over-canada-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/first-image-released-of-mysterious-object-shot-down-by-usaf-f-22-over-canada-in-2023/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gzeromedia/posts/canada-participated-in-an-international-meeting-on-unidentified-anomalous-phenom/569525375376251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gzeromedia/posts/canada-participated-in-an-international-meeting-on-unidentified-anomalous-phenom/569525375376251/</a>  
+   Link:<a href="https://www.facebook.com/gzeromedia/posts/canada-participated-in-an-international-meeting-on-unidentified-anomalous-phenom/569525375376251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gzeromedia/posts/canada-participated-in-an-international-meeting-on-unidentified-anomalous-phenom/569525375376251/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1foj41x/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1foj41x/image_released_of_mysterious_object_shot_down/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1foj41x/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1foj41x/image_released_of_mysterious_object_shot_down/</a>  

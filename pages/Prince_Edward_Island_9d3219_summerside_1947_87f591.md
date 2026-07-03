@@ -274,15 +274,15 @@ image: /assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-overvie
 
 ## Introduction
 
-The Summerside flying-disc report of July 1947 is important less because it is a strong UFO case and more because it places [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}) inside the first North American “flying saucer” wave. Four people near North Bedeque, close to Summerside, reportedly saw a bright object high in a clear daytime sky for about 30 seconds before it moved away to the south. The surviving description is brief: luminous, glistening, shapeless or star-like, fast, silent, and not like an aeroplane. That is enough to make it historically interesting, but not enough to identify it with confidence. The case shows how quickly the new saucer language reached Atlantic Canada, and how difficult early reports are to test when they survive mainly through short newspaper-wire accounts and later sighting chronologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The Summerside flying-disc report of July 1947 is important less because it is a strong UFO case and more because it places [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}) inside the first North American “flying saucer” wave. Four people near North Bedeque, close to Summerside, reportedly saw a bright object high in a clear daytime sky for about 30 seconds before it moved away to the south. The surviving description is brief: luminous, glistening, shapeless or star-like, fast, silent, and not like an aeroplane. That is enough to make it historically interesting, but not enough to identify it with confidence. The case shows how quickly the new saucer language reached Atlantic Canada, and how difficult early reports are to test when they survive mainly through short newspaper-wire accounts and later sighting chronologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-overview.webp" | relative_url }}" alt="Overview image for Summerside" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1947 flying-disc moment
 
-The Summerside report appeared during the first modern saucer panic, only days after American pilot Kenneth Arnold’s 24 June 1947 report near Mount Rainier popularised the language of “flying saucers” and “flying discs”. The phrase spread rapidly through newspapers, and by early July reports were being carried across the United States and Canada. The Canadian UFO archive maintained by Library and Archives Canada treats 1947 as the starting point for its federal UFO [records]({{ 'records-10b687/' | relative_url }}), with government documents later accumulated from the Department of National Defence, Department of Transport, National Research Council and Royal Canadian Mounted Police. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+The Summerside report appeared during the first modern saucer panic, only days after American pilot Kenneth Arnold’s 24 June 1947 report near Mount Rainier popularised the language of “flying saucers” and “flying discs”. The phrase spread rapidly through newspapers, and by early July reports were being carried across the United States and Canada. The Canadian UFO archive maintained by Library and Archives Canada treats 1947 as the starting point for its federal UFO [records]({{ 'records-10b687/' | relative_url }}), with government documents later accumulated from the Department of National Defence, Department of Transport, National Research Council and Royal Canadian Mounted Police.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-That timing matters. Summerside was not a late Cold War case filtered through decades of abduction stories, conspiracy claims or television UFO culture. It belonged to the first media-driven moment when ordinary [witnesses]({{ 'witnesses/' | relative_url }}), newspaper editors, scientists and military officials were still trying to decide what “flying discs” even were. Many reports in that wave were vague daylight observations of bright, fast, reflective objects. Some were likely balloons, aircraft reflections, meteors, fireworks, weather effects, pranks or errors of perception; others were simply left unresolved because nobody collected enough information at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/1947c.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947UFO REPORTS: 1947Dr. and Mrs. C.K. Gunn and two friends said they saw strange objects &quot;traveling at great speed high in the s...</span></span></span>
+That timing matters. Summerside was not a late Cold War case filtered through decades of abduction stories, conspiracy claims or television UFO culture. It belonged to the first media-driven moment when ordinary [witnesses]({{ 'witnesses/' | relative_url }}), newspaper editors, scientists and military officials were still trying to decide what “flying discs” even were. Many reports in that wave were vague daylight observations of bright, fast, reflective objects. Some were likely balloons, aircraft reflections, meteors, fireworks, weather effects, pranks or errors of perception; others were simply left unresolved because nobody collected enough information at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/1947c.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947UFO REPORTS: 1947Dr. and Mrs. C.K. Gunn and two friends said they saw strange objects &quot;traveling at great speed high in the s...</span></span></span>
 
 For Prince Edward Island, this makes the case a useful historical marker. It suggests that the Island was drawn into the new saucer vocabulary almost immediately, not decades later through imported UFO folklore. It also shows why the province’s early UFO record is fragile: the report is real as a reported event, but the evidence is a small newspaper item, not a full investigation.
 
@@ -290,34 +290,34 @@ For Prince Edward Island, this makes the case a useful historical marker. It sug
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-1-dark.svg" | relative_url }}" alt="Summerside illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What happened near Summerside
 
-The core account comes from Canadian Press reporting published on 3 July 1947. Four Summerside residents — Dr and Mrs C.K. Gunn, Roland Philipson and Philipson’s daughter — were travelling along the highway at North Bedeque, several miles from Summerside, when Miss Philipson first noticed an object in the sky. The report says all four saw it plainly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The core account comes from Canadian Press reporting published on 3 July 1947. Four Summerside residents — Dr and Mrs C.K. Gunn, Roland Philipson and Philipson’s daughter — were travelling along the highway at North Bedeque, several miles from Summerside, when Miss Philipson first noticed an object in the sky. The report says all four saw it plainly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
-The object was described in ways that are striking but imprecise. Philipson called it a shapeless object that glistened in bright sunlight. Mrs Gunn compared it to a large star moving across a clear sky. The object was said to be high, fast, silent, visible for about 30 seconds, and moving away in a southerly direction. The newspaper framing connected it directly with the “so-called flying saucers” being reported in western Canada and the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The object was described in ways that are striking but imprecise. Philipson called it a shapeless object that glistened in bright sunlight. Mrs Gunn compared it to a large star moving across a clear sky. The object was said to be high, fast, silent, visible for about 30 seconds, and moving away in a southerly direction. The newspaper framing connected it directly with the “so-called flying saucers” being reported in western Canada and the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
-A later sighting chronology compiled from 1947 wave material lists the case as number 133, dated 1 July 1947, near Summerside at North Bedeque. It records one object, a daytime sighting, Dr C.K. Gunn as head of an experimental fox farm, Mrs Gunn, Roland Phillipson and daughter Anne as witnesses, and the description as bright, luminous, shapeless, high in the sky, moving fast on a straight level course to the south for about 30 seconds. The chronology also lists “None” for the Air Force explanation, meaning no explanation was recorded there rather than that a formal investigation proved the object extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Sighting Grid.xls</span><span class="citation-popover-snippet">SightingGrid.xls...</span></span></span>
+A later sighting chronology compiled from 1947 wave material lists the case as number 133, dated 1 July 1947, near Summerside at North Bedeque. It records one object, a daytime sighting, Dr C.K. Gunn as head of an experimental fox farm, Mrs Gunn, Roland Phillipson and daughter Anne as witnesses, and the description as bright, luminous, shapeless, high in the sky, moving fast on a straight level course to the south for about 30 seconds. The chronology also lists “None” for the Air Force explanation, meaning no explanation was recorded there rather than that a formal investigation proved the object extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Sighting Grid.xls</span><span class="citation-popover-snippet">SightingGrid.xls...</span></span></span>
 
-The small differences between accounts are worth noticing. Some versions spell the witness surname Philipson, others Phillipson. Some say “bright, luminous object”; others compress the description into “strange objects” or “shapeless, but glistening in the sunlight”. That does not destroy the case, but it reminds the reader that the story has passed through wire-service summaries, newspaper reprints and later UFO cataloguing. The closer one stays to the 3 July Canadian Press account, the less dramatic and more ambiguous the event becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The small differences between accounts are worth noticing. Some versions spell the witness surname Philipson, others Phillipson. Some say “bright, luminous object”; others compress the description into “strange objects” or “shapeless, but glistening in the sunlight”. That does not destroy the case, but it reminds the reader that the story has passed through wire-service summaries, newspaper reprints and later UFO cataloguing. The closer one stays to the 3 July Canadian Press account, the less dramatic and more ambiguous the event becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
 
 ## What the Summerside report adds
 
-The report adds three things to Prince Edward Island’s UFO history. First, it gives the province an early place in the 1947 flying-disc wave. PEI was not merely a later recipient of national UFO culture; it appears in the same first burst of newspaper attention that shaped the language of modern UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The report adds three things to Prince Edward Island’s UFO history. First, it gives the province an early place in the 1947 flying-disc wave. PEI was not merely a later recipient of national UFO culture; it appears in the same first burst of newspaper attention that shaped the language of modern UFO reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
-Second, it connects Island reporting to a wider Atlantic Canadian pattern in which local sightings were quickly handed to journalists, astronomers and official sources for comment. In the same period, the Halifax-based astronomer Michael W. Burke-Gaffney became a public scientific voice on unusual aerial reports. A 2020 study in *Scientia Canadensis* describes him as unusually willing, among Canadian academics, to engage publicly with UFO reports while still resisting unsupported extraterrestrial claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artefacts-discovery.researcher.life">[Artefacts Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artefacts-discovery.researcher.life</span><span class="citation-popover-snippet">Artefacts DiscoveryMichael W. Burke-Gaffney and the UFO Debate in Atlantic Canada, 1947-1969...</span></span></span>
+Second, it connects Island reporting to a wider Atlantic Canadian pattern in which local sightings were quickly handed to journalists, astronomers and official sources for comment. In the same period, the Halifax-based astronomer Michael W. Burke-Gaffney became a public scientific voice on unusual aerial reports. A 2020 study in *Scientia Canadensis* describes him as unusually willing, among Canadian academics, to engage publicly with UFO reports while still resisting unsupported extraterrestrial claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artefacts-discovery.researcher.life">[Artefacts Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artefacts-discovery.researcher.life</span><span class="citation-popover-snippet">Artefacts DiscoveryMichael W. Burke-Gaffney and the UFO Debate in Atlantic Canada, 1947-1969...</span></span></span>
 
-Third, the Summerside case sits beside the town’s aviation setting. RCAF Station Summerside had been built during the Second World War and, after a brief closure in 1946, reopened in 1947 as the home of No. 1 Air Navigation School. That does not explain the sighting, and the North Bedeque report does not say the object came from the air station. It does, however, make Summerside a particularly relevant Island location for sky reports: aircraft, training activity and public familiarity with aviation were part of the local environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploresummerside.com/member/air-force-heritage-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploresummerside.com">[Explore Summerside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploresummerside.com</span><span class="citation-popover-title">air force heritage park</span><span class="citation-popover-snippet">Explore SummersideAir Force Heritage Park... RCAF Station Summerside. Although it closed briefly in 1946, the station reopened in 1947 as...</span></span></span>
+Third, the Summerside case sits beside the town’s aviation setting. RCAF Station Summerside had been built during the Second World War and, after a brief closure in 1946, reopened in 1947 as the home of No. 1 Air Navigation School. That does not explain the sighting, and the North Bedeque report does not say the object came from the air station. It does, however, make Summerside a particularly relevant Island location for sky reports: aircraft, training activity and public familiarity with aviation were part of the local environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://exploresummerside.com/member/air-force-heritage-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploresummerside.com">[Explore Summerside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploresummerside.com</span><span class="citation-popover-title">air force heritage park</span><span class="citation-popover-snippet">Explore SummersideAir Force Heritage Park... RCAF Station Summerside. Although it closed briefly in 1946, the station reopened in 1947 as...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-2-dark.svg" | relative_url }}" alt="Summerside illustration 2" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the evidence is thin
 
-The main weakness is simple: the case has no known detailed witness statements, photographs, official Canadian investigation file, radar data, aircraft log comparison or weather analysis attached to it in the easily accessible public record. Library and Archives Canada explains that its UFO collection contains about 9,500 digitised documents, but also cautions that date and location searches are incomplete because many records lack standardised dates or specific places. A search failure for Summerside 1947 therefore does not prove no paperwork ever existed, but the public evidence available today is still sparse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The main weakness is simple: the case has no known detailed witness statements, photographs, official Canadian investigation file, radar data, aircraft log comparison or weather analysis attached to it in the easily accessible public record. Library and Archives Canada explains that its UFO collection contains about 9,500 digitised documents, but also cautions that date and location searches are incomplete because many records lack standardised dates or specific places. A search failure for Summerside 1947 therefore does not prove no paperwork ever existed, but the public evidence available today is still sparse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-The description itself is also difficult to test. “Large star”, “shapeless”, “glistening”, “high in the sky” and “great speed” are common phrases in early saucer reports, but they do not give enough information to calculate size, altitude, distance or actual speed. A small nearby object, a distant aircraft reflection, a balloon catching sunlight, a meteor-like daylight fireball, or an unusual atmospheric reflection can all become misleading when the observer lacks distance cues. The short duration — about 30 seconds — leaves little time for comparison with landmarks or instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The description itself is also difficult to test. “Large star”, “shapeless”, “glistening”, “high in the sky” and “great speed” are common phrases in early saucer reports, but they do not give enough information to calculate size, altitude, distance or actual speed. A small nearby object, a distant aircraft reflection, a balloon catching sunlight, a meteor-like daylight fireball, or an unusual atmospheric reflection can all become misleading when the observer lacks distance cues. The short duration — about 30 seconds — leaves little time for comparison with landmarks or instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
-The 1947 wave also created a strong expectation effect. Newspapers were full of saucer reports, jokes, military comments and speculative [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). The same Canadian Press item that carried the Summerside account placed it in a stream of reports from elsewhere, including scientific and military reactions. That context does not mean the witnesses imagined the object, but it does mean the language available to describe it had already been shaped by the saucer story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
+The 1947 wave also created a strong expectation effect. Newspapers were full of saucer reports, jokes, military comments and speculative [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). The same Canadian Press item that carried the Summerside account placed it in a stream of reports from elsewhere, including scientific and military reactions. That context does not mean the witnesses imagined the object, but it does mean the language available to describe it had already been shaped by the saucer story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[Saturday Night Uforia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-title">north Bedeque, several miles</span><span class="citation-popover-snippet">Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yjChc432GMU" title="Science writer releasing book on UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer">Science writer releasing book on UFOs</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yjChc432GMU">Open on YouTube</a></p></div></div></div>
@@ -335,194 +335,194 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-3-dark.svg" | relative_url }}" alt="Summerside illustration 3" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_summerside_1947_87f591-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Flying Discs Reached Summerside. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Flying Discs Reached Summerside. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia, 3rd Ed. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12030289-M.jpg" alt="Cover for The UFO Encyclopedia, 3rd Ed." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia, 3rd Ed.">The UFO Encyclopedia, 3rd Ed.</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides historical context for early saucer reports and how cases are catalogued.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for early saucer reports and how cases are catalogued.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers over America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers over America">Flying Saucers over America</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers over America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers over America">Flying Saucers over America</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains the 1947 North American flying saucer craze that framed the Summerside report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the 1947 North American flying saucer craze that framed the Summerside report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical context for early saucer reports and how cases are catalogued.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for early saucer reports and how cases are catalogued.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Shows how early post-1947 flying-saucer interpretation developed in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how early post-1947 flying-saucer interpretation developed in popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers over America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia%2C+3rd+Ed.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia, 3rd Ed.</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+over+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers over America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with"><img src="{{ '/assets/images/marketplace-covers/afc7ae7c85fafd0a8738.jpg' | relative_url }}" alt="Listing image for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with"><img src="{{ '/assets/images/marketplace-covers/afc7ae7c85fafd0a8738.jpg' | relative_url }}" alt="Listing image for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="{{ '/assets/images/marketplace-covers/486c79127d0d1b191e87.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space"><img src="{{ '/assets/images/marketplace-covers/486c79127d0d1b191e87.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen 22.28 grams, Astronomy Gift, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="{{ '/assets/images/marketplace-covers/085d3e7ce9a4559f8405.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="{{ '/assets/images/marketplace-covers/085d3e7ce9a4559f8405.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metallic Meteorite Specimen Irregular Shape"><img src="{{ '/assets/images/marketplace-covers/34b6c86fbdf9bcb226a6.jpg' | relative_url }}" alt="Listing image for Metallic Meteorite Specimen Irregular Shape" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Metallic Meteorite Specimen Irregular Shape</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metallic Meteorite Specimen Irregular Shape"><img src="{{ '/assets/images/marketplace-covers/34b6c86fbdf9bcb226a6.jpg' | relative_url }}" alt="Listing image for Metallic Meteorite Specimen Irregular Shape" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Metallic Meteorite Specimen Irregular Shape</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="summerside-how-flying-discs-reached-summerside-prince-edward-island-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,128 +728,128 @@ A balanced classification would be “unresolved but weakly evidenced”. It is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: saturdaynightuforia.com  
    Title: north Bedeque, several miles  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</p></details>
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partthree.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saturday Night UforiaIt Seemed Impossible But There It Is -- Part ThreeSUMMERSIDE, P.E.I., July 3 (CP) -- Four Summerside citizens Wednes...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
    Title: Sighting Grid.xls  
-   Link: <a href="https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SightingGrid.xls...</p></details>
+   Link:<a href="https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/SightingChronology.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SightingGrid.xls...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/1947c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1947c.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947UFO REPORTS: 1947Dr. and Mrs. C.K. Gunn and two friends said they saw strange objects &quot;traveling at great speed high in the s...</p></details>
+   Link:<a href="https://www.project1947.com/fig/1947c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1947c.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947UFO REPORTS: 1947Dr. and Mrs. C.K. Gunn and two friends said they saw strange objects &quot;traveling at great speed high in the s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rcaf.info  
-   Link: <a href="https://rcaf.info/rcaf-stations/prince-edward-island-rcaf-stations/rcaf-station-summerside/" target="_blank" rel="noopener noreferrer nofollow">https://rcaf.info/rcaf-stations/prince-edward-island-rcaf-stations/rcaf-station-summerside/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RCAF Station SummersideInformation and Links on the former Canadian Forces Base and RCAF Station Summerside, Prince Edward Island. Start...</p></details>
+   Link:<a href="https://rcaf.info/rcaf-stations/prince-edward-island-rcaf-stations/rcaf-station-summerside/" target="_blank" rel="noopener noreferrer nofollow">https://rcaf.info/rcaf-stations/prince-edward-island-rcaf-stations/rcaf-station-summerside/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCAF Station SummersideInformation and Links on the former Canadian Forces Base and RCAF Station Summerside, Prince Edward Island. Start...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: CFB Summerside  
-   Link: <a href="https://en.wikipedia.org/wiki/CFB_Summerside" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Summerside</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/CFB_Summerside" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Summerside</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: Canada FOIA Part 12 Pages 3301 3600 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: artefacts-discovery.researcher.life  
-   Link: <a href="https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artefacts DiscoveryMichael W. Burke-Gaffney and the UFO Debate in Atlantic Canada, 1947-1969...</p></details>
+   Link:<a href="https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://artefacts-discovery.researcher.life/full_text/DA-2/bd/bd965c3cb0a533e4b425ccc910d45cf1/full_text/92d36db7b3e337010ac90198499e88d9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Artefacts DiscoveryMichael W. Burke-Gaffney and the UFO Debate in Atlantic Canada, 1947-1969...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: exploresummerside.com  
    Title: air force heritage park  
-   Link: <a href="https://exploresummerside.com/member/air-force-heritage-park/" target="_blank" rel="noopener noreferrer nofollow">https://exploresummerside.com/member/air-force-heritage-park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore SummersideAir Force Heritage Park... RCAF Station Summerside. Although it closed briefly in 1946, the station reopened in 1947 as...</p></details>
+   Link:<a href="https://exploresummerside.com/member/air-force-heritage-park/" target="_blank" rel="noopener noreferrer nofollow">https://exploresummerside.com/member/air-force-heritage-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore SummersideAir Force Heritage Park... RCAF Station Summerside. Although it closed briefly in 1946, the station reopened in 1947 as...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/heritagePEI/photos/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342433965787587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342433965787587/</a>  
+   Link:<a href="https://www.facebook.com/heritagePEI/photos/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342433965787587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342433965787587/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: saturdaynightuforia.com  
-   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partfour.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partfour.html</a>  
+   Link:<a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partfour.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/itseemedimpossible-partfour.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: militarybruce.com  
    Title: prince edward island  
-   Link: <a href="https://militarybruce.com/abandoned-canadian-military-bases/closed-bases-with-military-presence/prince-edward-island/" target="_blank" rel="noopener noreferrer nofollow">https://militarybruce.com/abandoned-canadian-military-bases/closed-bases-with-military-presence/prince-edward-island/</a>  
+   Link:<a href="https://militarybruce.com/abandoned-canadian-military-bases/closed-bases-with-military-presence/prince-edward-island/" target="_blank" rel="noopener noreferrer nofollow">https://militarybruce.com/abandoned-canadian-military-bases/closed-bases-with-military-presence/prince-edward-island/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canadaufohistory.com  
    Title: before 1947  
-   Link: <a href="https://www.canadaufohistory.com/before-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/before-1947</a>  
+   Link:<a href="https://www.canadaufohistory.com/before-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/before-1947</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER CANADA, WHAT DOES THE CANADIAN GOVERNMENT KNOW ABOUT UAP?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs OVER CANADA, WHAT DOES THE CANADIAN GOVERNMENT KNOW ABOUT UAP?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2024/mdn-dnd/D2-469-2023-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2024/mdn-dnd/D2-469-2023-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2024/mdn-dnd/D2-469-2023-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2024/mdn-dnd/D2-469-2023-eng.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aviationheritagepei.ca  
-   Link: <a href="https://www.aviationheritagepei.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationheritagepei.ca/</a>  
+   Link:<a href="https://www.aviationheritagepei.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationheritagepei.ca/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PEI.Guardian/posts/david-groom-said-he-was-honoured-when-he-heard-he-had-been-chosen-to-receive-thi/10159042818893067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PEI.Guardian/posts/david-groom-said-he-was-honoured-when-he-heard-he-had-been-chosen-to-receive-thi/10159042818893067/</a>  
+   Link:<a href="https://www.facebook.com/PEI.Guardian/posts/david-groom-said-he-was-honoured-when-he-heard-he-had-been-chosen-to-receive-thi/10159042818893067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PEI.Guardian/posts/david-groom-said-he-was-honoured-when-he-heard-he-had-been-chosen-to-receive-thi/10159042818893067/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2016/aac-aafc/agrhist/A54-2-27-1986-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2016/aac-aafc/agrhist/A54-2-27-1986-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2016/aac-aafc/agrhist/A54-2-27-1986-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2016/aac-aafc/agrhist/A54-2-27-1986-eng.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airforceparkpei.ca  
-   Link: <a href="https://www.airforceparkpei.ca/gallery.php" target="_blank" rel="noopener noreferrer nofollow">https://www.airforceparkpei.ca/gallery.php</a>  
+   Link:<a href="https://www.airforceparkpei.ca/gallery.php" target="_blank" rel="noopener noreferrer nofollow">https://www.airforceparkpei.ca/gallery.php</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/87666681025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/87666681025/</a>  
+   Link:<a href="https://www.facebook.com/groups/87666681025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/87666681025/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: airforceparkpei.ca  
-   Link: <a href="https://www.airforceparkpei.ca/display.php" target="_blank" rel="noopener noreferrer nofollow">https://www.airforceparkpei.ca/display.php</a>  
+   Link:<a href="https://www.airforceparkpei.ca/display.php" target="_blank" rel="noopener noreferrer nofollow">https://www.airforceparkpei.ca/display.php</a>  

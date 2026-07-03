@@ -274,7 +274,7 @@ image: /assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84-overvi
 
 ## Introduction
 
-Vancouver became a saucer-era hotspot less because one spectacular local case settled the UFO question and more because the city turned sightings into public culture. During the 1950s and 1960s, Vancouver had civilian [saucer clubs]({{ 'saucer-clubs/' | relative_url }}), public lectures, press coverage, federal-file reports and ordinary witnesses trying to decide whether unusual lights were aircraft, astronomy, fantasy or something genuinely unexplained. The best evidence shows a city where UFO belief was socially active, not a city where flying saucers were proven. Library and Archives Canada’s UFO collection includes records from the Department of National Defence, Department of Transport, National Research Council and RCMP, while Vancouver’s club history shows how reports also circulated through meetings, newsletters, newspaper stories and public events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Vancouver became a saucer-era hotspot less because one spectacular local case settled the UFO question and more because the city turned sightings into public culture. During the 1950s and 1960s, Vancouver had civilian [saucer clubs]({{ 'saucer-clubs/' | relative_url }}), public lectures, press coverage, federal-file reports and ordinary witnesses trying to decide whether unusual lights were aircraft, astronomy, fantasy or something genuinely unexplained. The best evidence shows a city where UFO belief was socially active, not a city where flying saucers were proven. Library and Archives Canada’s UFO collection includes records from the Department of National Defence, Department of Transport, National Research Council and RCMP, while Vancouver’s club history shows how reports also circulated through meetings, newsletters, newspaper stories and public events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84-overview.webp" | relative_url }}" alt="Overview image for Vancouver Era" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,13 +282,13 @@ That distinction matters for [British Columbia]({{ 'what-makes-british-columbias
 
 ## The 1950s and 1960s saucer culture
 
-The classic flying-saucer era began after the widely reported 1947 Kenneth Arnold sighting in the United States, but it quickly became a Canadian public issue too. In Vancouver, the topic moved from newspaper curiosity into organised civic life. A local historical account identifies at least two UFO-related groups active in the city: the Vancouver Area Flying Saucer Club, dated there to roughly 1956 to around 1979, and the UBC Varsity Flying Saucer Club, dated to about 1957 to 1963. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
+The classic flying-saucer era began after the widely reported 1947 Kenneth Arnold sighting in the United States, but it quickly became a Canadian public issue too. In Vancouver, the topic moved from newspaper curiosity into organised civic life. A local historical account identifies at least two UFO-related groups active in the city: the Vancouver Area Flying Saucer Club, dated there to roughly 1956 to around 1979, and the UBC Varsity Flying Saucer Club, dated to about 1957 to 1963.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
 
-The Vancouver Area Flying Saucer Club is the more important of the two for saucer-era public belief. Its first president was Margaret Fewster, a Vancouver contralto and music teacher, and the club was founded with Herbert D. Clark, a retired electrical contractor. A contemporary newspaper description quoted by the local historical account had Fewster presenting the club as loyal and non-subversive, while Clark’s remarks were more openly contactee-flavoured, including references to “solar system brothers” and expected contact with saucer occupants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
+The Vancouver Area Flying Saucer Club is the more important of the two for saucer-era public belief. Its first president was Margaret Fewster, a Vancouver contralto and music teacher, and the club was founded with Herbert D. Clark, a retired electrical contractor. A contemporary newspaper description quoted by the local historical account had Fewster presenting the club as loyal and non-subversive, while Clark’s remarks were more openly contactee-flavoured, including references to “solar system brothers” and expected contact with saucer occupants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
 
 This combination is revealing. Vancouver saucer culture was not simply a fringe belief hidden from polite society, nor was it a sober scientific society detached from cosmic speculation. It sat between those worlds. Respectable citizens, students, public halls, newspaper curiosity and strong believers all overlapped. That made the city an unusually good example of how UFO belief worked in practice: not as a single doctrine, but as a mixed social scene where curiosity, scepticism, spirituality, entertainment and anxiety about official secrecy could all coexist.
 
-The clubs also gave Vancouver a repeat audience for travelling saucer speakers. In 1956, the Vancouver club hosted Daniel W. Fry, an American contactee figure, and a Vancouver Sun report quoted by the local history account described a crowd overflowing two rooms at the Vancouver Art Gallery to hear him. In 1959, George Hunt Williamson spoke to the Vancouver group on “The City That Existed Before the Moon”, advertised with an academic-sounding affiliation that the same account describes as fictitious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
+The clubs also gave Vancouver a repeat audience for travelling saucer speakers. In 1956, the Vancouver club hosted Daniel W. Fry, an American contactee figure, and a Vancouver Sun report quoted by the local history account described a crowd overflowing two rooms at the Vancouver Art Gallery to hear him. In 1959, George Hunt Williamson spoke to the Vancouver group on “The City That Existed Before the Moon”, advertised with an academic-sounding affiliation that the same account describes as fictitious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
 
 Those events matter because they show that the saucer-era story in Vancouver was not only about isolated sightings. It was also about audience formation. A person who had seen a light over the city could find a room full of people ready to discuss it. A curious student could join a campus club. A committed believer could hear American contactees in a mainstream public venue. Even people who rejected the claims were exposed to them as a visible part of urban culture.
 
@@ -296,15 +296,15 @@ Those events matter because they show that the saucer-era story in Vancouver was
 <img src="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84-Illustration-1-dark.svg" | relative_url }}" alt="Vancouver Era illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_vancouver_saucer_era_81af84-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Federal-file Vancouver reports
 
-Vancouver’s saucer-era record is also part of the Canadian federal paper trail. Library and Archives Canada says its UFO collection contains about 9,500 digitised documents accumulated between 1947 and the early 1980s, including correspondence, sighting reports, memos, procedures and general records. The collection was assembled from four federal bodies: National Defence, Transport, the National Research Council and the RCMP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Vancouver’s saucer-era record is also part of the Canadian federal paper trail. Library and Archives Canada says its UFO collection contains about 9,500 digitised documents accumulated between 1947 and the early 1980s, including correspondence, sighting reports, memos, procedures and general records. The collection was assembled from four federal bodies: National Defence, Transport, the National Research Council and the RCMP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-That archive is important, but it needs careful reading. LAC itself warns that only about half of the records refer to a specific sighting location and that dates and locations are not always standardised. A search for “Vancouver” therefore does not capture everything connected to Vancouver, and a Vancouver-related report may appear under a department, file series, witness address or broader British Columbia location rather than a neat city label. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+That archive is important, but it needs careful reading. LAC itself warns that only about half of the records refer to a specific sighting location and that dates and locations are not always standardised. A search for “Vancouver” therefore does not capture everything connected to Vancouver, and a Vancouver-related report may appear under a department, file series, witness address or broader British Columbia location rather than a neat city label.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-One concrete Vancouver item appears in historian Matthew Hayes’s study of Canadian UFO investigation: a “UFO Sighting Report, Vancouver, BC, 19 July 1965”, preserved in the National Research Council-related archival file series. Hayes notes that the [July 1965 Vancouver]({{ '1965-sighting/' | relative_url }}) witness was described in a telex as an “intelligent business man” who “did not believe in UFOs until this morning”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+One concrete Vancouver item appears in historian Matthew Hayes’s study of Canadian UFO investigation: a “UFO Sighting Report, Vancouver, BC, 19 July 1965”, preserved in the National Research Council-related archival file series. Hayes notes that the [July 1965 Vancouver]({{ '1965-sighting/' | relative_url }}) witness was described in a telex as an “intelligent business man” who “did not believe in UFOs until this morning”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
 The wording is valuable because it captures a recurring saucer-era pattern: credibility was often built by presenting a witness as reluctant, practical or previously sceptical. A believer saying “I saw a saucer” was easy to dismiss. A businessperson, pilot, police officer or official saying that an experience changed their mind carried more social weight. That did not prove the object was extraordinary, but it did affect how the story travelled.
 
-Another Vancouver-linked example comes from public correspondence rather than a sighting report. In July 1960, Vancouver resident Ken Kaasen wrote to the Defence Research Board, Canada’s postwar military science agency, arguing that Canada and the United States were not in full control of their skies and that hidden American information would soon force Canadian disclosure. The reply from C.A. Pope stressed that the vast majority of reports had been explained by known phenomena and that the remainder did not show evidence of a threat to Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+Another Vancouver-linked example comes from public correspondence rather than a sighting report. In July 1960, Vancouver resident Ken Kaasen wrote to the Defence Research Board, Canada’s postwar military science agency, arguing that Canada and the United States were not in full control of their skies and that hidden American information would soon force Canadian disclosure. The reply from C.A. Pope stressed that the vast majority of reports had been explained by known phenomena and that the remainder did not show evidence of a threat to Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
 Kaasen’s letters are not proof of saucers over Vancouver. They are evidence of something historically important: by 1960, Vancouver belief was already entangled with the idea that officials were withholding information. In that sense, Vancouver’s saucer era sits within a wider Canadian transition from “what did witnesses see?” to “what do officials know, and why will they not say more?”
 
@@ -313,11 +313,11 @@ Kaasen’s letters are not proof of saucers over Vancouver. They are evidence of
 
 ## How official Canada handled saucer reports
 
-Canadian officialdom did not treat Vancouver reports as part of a single dramatic UFO investigation. The federal system was fragmented. Reports and queries could move through National Defence, Transport, the RCMP, the National Research Council or local police channels. This is why Vancouver’s saucer-era record feels uneven: some claims became forms or telexes, some became letters, and many public stories stayed outside [official files]({{ 'official-files/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Canadian officialdom did not treat Vancouver reports as part of a single dramatic UFO investigation. The federal system was fragmented. Reports and queries could move through National Defence, Transport, the RCMP, the National Research Council or local police channels. This is why Vancouver’s saucer-era record feels uneven: some claims became forms or telexes, some became letters, and many public stories stayed outside [official files]({{ 'official-files/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-The broader national setting helps explain that unevenness. Canada had Project Magnet, associated with Department of Transport engineer Wilbert Smith, and Project Second Storey, a Defence Research Board committee chaired by National Research Council astronomer Peter Millman. A 2025 Canadian government report on public UAP reporting summarises Project Second Storey as a 1952 committee set up to examine “flying saucers” over Canadian territory as reported by armed-services branches. It says the committee developed a standard reporting form, held six meetings between 1952 and 1954, and concluded that UFOs posed no security threat and were not of scientific interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">sky canada report</span></span></span>
+The broader national setting helps explain that unevenness. Canada had Project Magnet, associated with Department of Transport engineer Wilbert Smith, and Project Second Storey, a Defence Research Board committee chaired by National Research Council astronomer Peter Millman. A 2025 Canadian government report on public UAP reporting summarises Project Second Storey as a 1952 committee set up to examine “flying saucers” over Canadian territory as reported by armed-services branches. It says the committee developed a standard reporting form, held six meetings between 1952 and 1954, and concluded that UFOs posed no security threat and were not of scientific interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">sky canada report</span></span></span>
 
-After that, official Canada did not simply stop receiving reports. The same government report says that between 1954 and 1967, reports still went to federal departments and agencies, including the RCMP, Transport Canada and National Defence, as well as local police and non-federal organisations. These bodies sometimes made inquiries or logged sightings, but the approach was largely passive and inconsistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">sky canada report</span></span></span>
+After that, official Canada did not simply stop receiving reports. The same government report says that between 1954 and 1967, reports still went to federal departments and agencies, including the RCMP, Transport Canada and National Defence, as well as local police and non-federal organisations. These bodies sometimes made inquiries or logged sightings, but the approach was largely passive and inconsistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">sky canada report</span><span class="citation-popover-snippet">sky canada report</span></span></span>
 
 This matters for Vancouver because it weakens two opposite myths. The first myth is that every saucer-era report was deeply investigated by a hidden Canadian UFO programme. The second is that official files are meaningless because officials ignored everything. The reality is more ordinary and more frustrating: reports were often received, filed, forwarded or briefly assessed, but not necessarily investigated in a way that could later satisfy either believers or sceptics.
 
@@ -327,11 +327,11 @@ This matters for Vancouver because it weakens two opposite myths. The first myth
 
 The most distinctive Vancouver feature is not a single “best case”; it is the feedback loop between sightings, clubs, media and government correspondence. A person saw something. A club offered a place to interpret it. Newspapers made saucers part of local entertainment and debate. Official replies, especially cautious or dismissive ones, sometimes strengthened the belief that authorities were avoiding the issue.
 
-The Vancouver Area Flying Saucer Club actively recruited younger members. Hayes’s archival work notes that by at least 1956, members were meeting to discuss UFOs and seeking “younger folk” because adults were not the only people asking questions. The January-February 1957 club newsletter, held by the City of Vancouver Archives, described a junior branch with Sunday afternoon meetings in members’ homes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+The Vancouver Area Flying Saucer Club actively recruited younger members. Hayes’s archival work notes that by at least 1956, members were meeting to discuss UFOs and seeking “younger folk” because adults were not the only people asking questions. The January-February 1957 club newsletter, held by the City of Vancouver Archives, described a junior branch with Sunday afternoon meetings in members’ homes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
 This is a striking local detail. Vancouver saucer belief was not just late-night speculation by adults. It entered family spaces, youth culture and informal education. That does not make the claims more reliable as evidence of unusual craft, but it does make the movement historically significant. UFO ideas were being handed down, debated and normalised in local social settings.
 
-The same club brought major contactee culture into Vancouver. Hayes records that on 7 May 1964, the Vancouver Area Flying Saucer Club hosted George Van Tassel, a California aircraft mechanic and contactee associated with Giant Rock and later with the Integratron. A separate archive entry for a 1964 KVOS-TV interview describes Van Tassel discussing claims of alien contact, anti-gravity technology and a time-travel formula. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+The same club brought major contactee culture into Vancouver. Hayes records that on 7 May 1964, the Vancouver Area Flying Saucer Club hosted George Van Tassel, a California aircraft mechanic and contactee associated with Giant Rock and later with the Integratron. A separate archive entry for a 1964 KVOS-TV interview describes Van Tassel discussing claims of alien contact, anti-gravity technology and a time-travel formula.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
 Van Tassel’s Vancouver appearance shows how the city was connected to the wider North American saucer circuit. Vancouver did not develop its UFO culture in isolation. It absorbed American contactee themes, Canadian official-secrecy concerns and local witness reports, then gave them a British Columbia setting.
 
@@ -344,12 +344,12 @@ The strongest reading of Vancouver’s saucer-era evidence is cautious. The city
 
 Several features made stories feel credible at the time:
 
-* **Reluctant witnesses.** The 1965 Vancouver report’s description of a previously non-believing “business man” shows how disbelief before the event was used to support witness seriousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
-* **Respectable organisers.** Margaret Fewster’s public role gave the Vancouver Area Flying Saucer Club a more civic face than a purely fringe group would have had. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
-* **Public venues.** Overflowing talks at places such as the Vancouver Art Gallery made saucer claims feel like a live public question rather than a private eccentricity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
-* **Official caution.** Replies such as C.A. Pope’s to Ken Kaasen, stressing known explanations and lack of threat evidence, reassured sceptics but also fed believers’ suspicion that officials were managing the issue rather than openly exploring it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+* **Reluctant witnesses.** The 1965 Vancouver report’s description of a previously non-believing “business man” shows how disbelief before the event was used to support witness seriousness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+* **Respectable organisers.** Margaret Fewster’s public role gave the Vancouver Area Flying Saucer Club a more civic face than a purely fringe group would have had.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
+* **Public venues.** Overflowing talks at places such as the Vancouver Art Gallery made saucer claims feel like a live public question rather than a private eccentricity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanasitwas.wordpress.com">[Vana Sit Was]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanasitwas.wordpress.com</span><span class="citation-popover-snippet">Flying Saucer Clubs &#124; Vancouver As It Was: A Photo-Historical Journey...</span></span></span>
+* **Official caution.** Replies such as C.A. Pope’s to Ken Kaasen, stressing known explanations and lack of threat evidence, reassured sceptics but also fed believers’ suspicion that officials were managing the issue rather than openly exploring it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
-The main doubts are equally important. The sources available for Vancouver saucer-era cases are often brief, second-hand, mediated through newspapers, or preserved as fragments in federal files. Many reports lack enough information about direction, duration, angular size, weather, aircraft activity, astronomical conditions or independent witnesses to allow confident reconstruction. LAC’s own search guidance underlines the disorder of the archive: dates, locations and document types vary, and many records are generic rather than detailed case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The main doubts are equally important. The sources available for Vancouver saucer-era cases are often brief, second-hand, mediated through newspapers, or preserved as fragments in federal files. Many reports lack enough information about direction, duration, angular size, weather, aircraft activity, astronomical conditions or independent witnesses to allow confident reconstruction. LAC’s own search guidance underlines the disorder of the archive: dates, locations and document types vary, and many records are generic rather than detailed case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 This is why “unidentified” should be read carefully. A Vancouver report that remains unidentified in a file is not the same as a confirmed anomalous craft. It may simply mean that the report was too sparse, too late, too poorly measured or too lightly investigated to identify. In saucer-era Vancouver, the human evidence is often better than the physical evidence: we can see what people believed, feared, hoped and debated more clearly than we can identify what they saw.
 
@@ -368,194 +368,194 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Vancouver Became a Saucer Era Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Vancouver Became a Saucer Era Hotspot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses the saucer era and public investigation culture that shaped UFO interest in places such as Vancouver.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the saucer era and public investigation culture that shaped UFO interest in places such as Vancouver.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the formative 1950s flying-saucer period discussed throughout the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the formative 1950s flying-saucer period discussed throughout the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores official reports and government documentation, echoing the article&#x27;s focus on federal files and credibility debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official reports and government documentation, echoing the article&#x27;s focus on federal files and credibility debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the public culture, media attention, and organized UFO enthusiasm of the 1950s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the public culture, media attention, and organized UFO enthusiasm of the 1950s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts"><img src="{{ '/assets/images/marketplace-covers/070df7279cf7aea0794b.jpg' | relative_url }}" alt="Listing image for Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts"><img src="{{ '/assets/images/marketplace-covers/070df7279cf7aea0794b.jpg' | relative_url }}" alt="Listing image for Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 2 Complete Kit inc Satellite Dish, Router, Ethernet Adaptor, Mounts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)"><img src="{{ '/assets/images/marketplace-covers/ef2f4eefbd7b314a2bcd.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)"><img src="{{ '/assets/images/marketplace-covers/ef2f4eefbd7b314a2bcd.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite"><img src="{{ '/assets/images/marketplace-covers/80a76ff98a854ae6b6cd.jpg' | relative_url }}" alt="Listing image for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite"><img src="{{ '/assets/images/marketplace-covers/80a76ff98a854ae6b6cd.jpg' | relative_url }}" alt="Listing image for Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 30M/98FT Waterproof Outdoor Cable for Mini/Rectangular Satellite</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for spacex starlink"><img src="{{ '/assets/images/marketplace-covers/a704701bd45c877d7be9.jpg' | relative_url }}" alt="Listing image for spacex starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">spacex starlink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for spacex starlink"><img src="{{ '/assets/images/marketplace-covers/a704701bd45c877d7be9.jpg' | relative_url }}" alt="Listing image for spacex starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">spacex starlink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="vancouver-era-how-vancouver-became-a-saucer-era-hotspot-british-columbia-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,112 +761,112 @@ For readers following British Columbia’s wider UFO story, Vancouver’s saucer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vanasitwas.wordpress.com  
    Title: Vana Sit Was  
-   Link: <a href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer Clubs | Vancouver As It Was: A Photo-Historical Journey...</p></details>
+   Link:<a href="https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://vanasitwas.wordpress.com/2020/11/21/flying-saucer-clubs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer Clubs | Vancouver As It Was: A Photo-Historical Journey...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: digitalcollections.trentu.ca  
    Title: Digital Collections  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee...</p></details>
    Published: March 12, 1910  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 24 Pages 6901 7200  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2024%20-%20Pages%206901-7200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2024%20-%20Pages%206901-7200.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2024%20-%20Pages%206901-7200.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2024%20-%20Pages%206901-7200.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 20 Pages 5701 6000  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: superepicfailpedia.fandom.com  
    Title: Project Magnet  
-   Link: <a href="https://superepicfailpedia.fandom.com/wiki/Project_Magnet" target="_blank" rel="noopener noreferrer nofollow">https://superepicfailpedia.fandom.com/wiki/Project_Magnet</a>  
+   Link:<a href="https://superepicfailpedia.fandom.com/wiki/Project_Magnet" target="_blank" rel="noopener noreferrer nofollow">https://superepicfailpedia.fandom.com/wiki/Project_Magnet</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canadaufohistory.com  
-   Link: <a href="https://www.canadaufohistory.com/1954-1966" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1954-1966</a>  
+   Link:<a href="https://www.canadaufohistory.com/1954-1966" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1954-1966</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ingeniumcanada.org  
-   Link: <a href="https://ingeniumcanada.org/channel/articles/canadas-introduction-to-a-deadly-game-of-drones-an-all-too-brief-look-at-the" target="_blank" rel="noopener noreferrer nofollow">https://ingeniumcanada.org/channel/articles/canadas-introduction-to-a-deadly-game-of-drones-an-all-too-brief-look-at-the</a>  
+   Link:<a href="https://ingeniumcanada.org/channel/articles/canadas-introduction-to-a-deadly-game-of-drones-an-all-too-brief-look-at-the" target="_blank" rel="noopener noreferrer nofollow">https://ingeniumcanada.org/channel/articles/canadas-introduction-to-a-deadly-game-of-drones-an-all-too-brief-look-at-the</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: atollon.com.au  
    Title: The Integratron  
-   Link: <a href="https://atollon.com.au/article/the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/the-integratron-george-van-tassel/</a>  
+   Link:<a href="https://atollon.com.au/article/the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/the-integratron-george-van-tassel/</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thewalrus.ca  
    Title: what ufo fears tell us about government trust  
-   Link: <a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</p></details>
+   Link:<a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WalrusWhat UFO Fears Tell Us about Trust in Government17 Feb 2023 — In July 1960, Vancouver resident Ken Kaasen wrote a letter to the...</p></details>
    Published: July 1960  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaUFO sightings in Canada. Article · Talk. Language; Loading… Download PDF; Watch... Stefan Michalak claimed he...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaUFO sightings in Canada. Article · Talk. Language; Loading… Download PDF; Watch... Stefan Michalak claimed he...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO sighting in Northern Canada  
-   Link: <a href="https://www.youtube.com/watch?v=gG6iN2UIfXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG6iN2UIfXA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gG6iN2UIfXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG6iN2UIfXA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=kX91dySxqXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX91dySxqXQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Northern Canada - W5 speaks to eyewitnesses (1972) | W5 Vault...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kX91dySxqXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX91dySxqXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Northern Canada - W5 speaks to eyewitnesses (1972) | W5 Vault...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Avrocar: Canada's Flying Saucer That Couldn't Fly Straight  
-   Link: <a href="https://www.youtube.com/watch?v=J52oo-s969I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J52oo-s969I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J52oo-s969I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J52oo-s969I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2392895724481400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2392895724481400/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2392895724481400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2392895724481400/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdnsfzinearchive.org  
-   Link: <a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/manitoba-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/manitoba-clubs/</a>  
+   Link:<a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/manitoba-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/manitoba-clubs/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mabel.wwu.edu  
-   Link: <a href="https://mabel.wwu.edu/do/d2f3f730-a37b-4850-ada5-6635524370cf" target="_blank" rel="noopener noreferrer nofollow">https://mabel.wwu.edu/do/d2f3f730-a37b-4850-ada5-6635524370cf</a>  
+   Link:<a href="https://mabel.wwu.edu/do/d2f3f730-a37b-4850-ada5-6635524370cf" target="_blank" rel="noopener noreferrer nofollow">https://mabel.wwu.edu/do/d2f3f730-a37b-4850-ada5-6635524370cf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdnsfzinearchive.org  
-   Link: <a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/new-brunswick-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/new-brunswick-clubs/</a>  
+   Link:<a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/new-brunswick-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/new-brunswick-clubs/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdnsfzinearchive.org  
-   Link: <a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/ontario-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/ontario-clubs/</a>  
+   Link:<a href="https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/ontario-clubs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdnsfzinearchive.org/sf-clubs/canadian-encyclopedia-topic-sf-clubs-a-z-province-by-province/ontario-clubs/</a>  

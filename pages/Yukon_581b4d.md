@@ -302,7 +302,7 @@ image: /assets/images/Yukon_581b4d-overview-social.jpg
 
 ## Introduction
 
-The balanced answer is this: Yukon has a genuine place in Canadian UFO history, but the evidence varies sharply by case. Some reports are detailed and multi-witness, some are folklore-like or weakly documented, some are almost certainly ordinary sky phenomena, and the 2023 incident shows how “unidentified” can mean “not yet characterised” rather than “unexplainable”. Canadian federal records, Transport Canada guidance and the Sky Canada review all stress the same caution: UFO or UAP does not mean extraterrestrial; it means the available information has not identified the object or phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The balanced answer is this: Yukon has a genuine place in Canadian UFO history, but the evidence varies sharply by case. Some reports are detailed and multi-witness, some are folklore-like or weakly documented, some are almost certainly ordinary sky phenomena, and the 2023 incident shows how “unidentified” can mean “not yet characterised” rather than “unexplainable”. Canadian federal records, Transport Canada guidance and the Sky Canada review all stress the same caution: UFO or UAP does not mean extraterrestrial; it means the available information has not identified the object or phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Yukon&#x27;s Skies?" loading="eager" decoding="sync" fetchpriority="high">
@@ -310,15 +310,15 @@ The balanced answer is this: Yukon has a genuine place in Canadian UFO history, 
 
 Yukon is a good place for unusual sky reports for very ordinary reasons. It has dark skies, long winter nights, aurora displays, remote highways, scattered communities and large areas where a bright object can be seen by a small number of people without many independent cameras, radar tracks or immediate investigators nearby. That does not make witnesses unreliable; it means that the setting often produces vivid experiences with limited hard data.
 
-The territory also sits within a serious aviation and defence geography. Northern airspace is watched through Canadian and United States systems, including NORAD, while civilian safety information may flow through Transport Canada, NAV CANADA, the RCMP and other bodies depending on the event. Sky Canada, the Office of the Chief Science Advisor’s review of public UAP reporting, found that Canadian reports can arrive through many channels and that the absence of a single, standardised system makes trends hard to analyse cleanly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The territory also sits within a serious aviation and defence geography. Northern airspace is watched through Canadian and United States systems, including NORAD, while civilian safety information may flow through Transport Canada, NAV CANADA, the RCMP and other bodies depending on the event. Sky Canada, the Office of the Chief Science Advisor’s review of public UAP reporting, found that Canadian reports can arrive through many channels and that the absence of a single, standardised system makes trends hard to analyse cleanly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-That matters for Yukon because a report from a driver near Fox Lake, a pilot report in controlled airspace, a police call, a meteor seen over the southern Yukon, and a high-altitude object tracked by NORAD are not the same kind of evidence. They may all be called “UFOs” in popular speech, but they require different questions: Was there radar data? Were there independent witnesses? Did air traffic control have a correlated target? Was there a meteor shower, satellite train, balloon launch, aircraft route or aurora activity? Transport Canada has explicitly warned that “UFO” in aviation occurrence records can refer to drones, balloons, meteors, weather phenomena, birds or other things, and should not be read as extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+That matters for Yukon because a report from a driver near Fox Lake, a pilot report in controlled airspace, a police call, a meteor seen over the southern Yukon, and a high-altitude object tracked by NORAD are not the same kind of evidence. They may all be called “UFOs” in popular speech, but they require different questions: Was there radar data? Were there independent witnesses? Did air traffic control have a correlated target? Was there a meteor shower, satellite train, balloon launch, aircraft route or aurora activity? Transport Canada has explicitly warned that “UFO” in aviation occurrence records can refer to drones, balloons, meteors, weather phenomena, birds or other things, and should not be read as extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 ## The 1996 Klondike Highway case: Yukon’s signature UFO story
 
-The best-known Yukon UFO case occurred on 11 December 1996 along a long stretch of the Klondike Highway. UFO*BC’s Yukon archive, compiled by investigator Martin Jasek, presents the event as a series of sightings around Fox Lake, Carmacks, Pelly Crossing and Mayo, with the archive’s index describing “31 witnesses” and its detailed case material identifying a minimum group of named witnesses in several communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive</span><span class="citation-popover-snippet">Yukon UFO Sightings Archive</span></span></span>
+The best-known Yukon UFO case occurred on 11 December 1996 along a long stretch of the Klondike Highway. UFO*BC’s Yukon archive, compiled by investigator Martin Jasek, presents the event as a series of sightings around Fox Lake, Carmacks, Pelly Crossing and Mayo, with the archive’s index describing “31 witnesses” and its detailed case material identifying a minimum group of named witnesses in several communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive</span><span class="citation-popover-snippet">Yukon UFO Sightings Archive</span></span></span>
 
-The strongest part of the case is not a photograph or official file; it is the pattern of witness testimony. In one detailed Fox Lake account, two men travelling separately between Whitehorse and Carmacks said they saw a huge, lit object over Fox Lake. UFO*BC’s account says the men were interviewed separately, that their vehicles stopped on the snowy highway, and that the object was described as large, smooth and outlined or marked by rows of lights. One witness said the object lit up the valley strongly enough to cast shadows; another later contacted the Whitehorse airport tower and was reportedly told nothing was known to have been over Fox Lake that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
+The strongest part of the case is not a photograph or official file; it is the pattern of witness testimony. In one detailed Fox Lake account, two men travelling separately between Whitehorse and Carmacks said they saw a huge, lit object over Fox Lake. UFO*BC’s account says the men were interviewed separately, that their vehicles stopped on the snowy highway, and that the object was described as large, smooth and outlined or marked by rows of lights. One witness said the object lit up the valley strongly enough to cast shadows; another later contacted the Whitehorse airport tower and was reportedly told nothing was known to have been over Fox Lake that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
 
 For readers, the important point is that the 1996 case is memorable because it is a corridor event, not a single-person light-in-the-sky report. The claimed sightings were spread across communities connected by the highway, which makes the story more interesting than a brief isolated observation. At the same time, the public evidence remains mostly testimonial. There is no widely accepted debris, instrument record, official conclusion or clear photographic proof that turns the report into a solved physical event.
 
@@ -328,17 +328,17 @@ The main doubts are practical. Eyewitnesses can be sincere and still misjudge si
 <img src="{{ "/assets/images/Yukon_581b4d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Yukon&#x27;s Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Older and local reports: a real archive, uneven evidence
 
-Yukon has more than one famous report. The UFO*BC Yukon archive lists cases from Whitehorse, Watson Lake, Tagish Lake, Dawson City, Carcross, Pelly Crossing, [Old Crow]({{ 'old-crow/' | relative_url }}), Ross River, Lake Laberge and other areas. Its index includes claims ranging from a 1952 Watson Lake “flying disc” case drawn from declassified Canadian government files to 1970s youth reports, 1980s and 1990s close-range claims, photographed lights, school-bus stories and later Whitehorse sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive</span><span class="citation-popover-snippet">Yukon UFO Sightings Archive</span></span></span>
+Yukon has more than one famous report. The UFO*BC Yukon archive lists cases from Whitehorse, Watson Lake, Tagish Lake, Dawson City, Carcross, Pelly Crossing, [Old Crow]({{ 'old-crow/' | relative_url }}), Ross River, Lake Laberge and other areas. Its index includes claims ranging from a 1952 Watson Lake “flying disc” case drawn from declassified Canadian government files to 1970s youth reports, 1980s and 1990s close-range claims, photographed lights, school-bus stories and later Whitehorse sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Yukon UFO Sightings Archive</span><span class="citation-popover-snippet">Yukon UFO Sightings Archive</span></span></span>
 
 That archive is useful because it preserves local UFO culture and points researchers towards dates, places and witness narratives. It is not the same as a government conclusion. The entries are a mixture of stronger and weaker material: some appear to be linked to official files or named newspaper [archives]({{ 'archives-6c430a/' | relative_url }}), while others are personal accounts, abduction narratives, photographs of uncertain value, or reports that would need fresh corroboration before being treated as historically firm.
 
-The range of cases also shows how “Yukon UFO history” should be read. It is not just a list of spectacular objects. It includes rural memory, small-community reporting, local media interest, witness networks, conferences and private investigators filling gaps left by limited official follow-up. Sky Canada specifically notes that groups such as UFO*BC have investigated British Columbia and Yukon sightings, and that citizen-led organisations often operate where official reporting systems are fragmented or limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The range of cases also shows how “Yukon UFO history” should be read. It is not just a list of spectacular objects. It includes rural memory, small-community reporting, local media interest, witness networks, conferences and private investigators filling gaps left by limited official follow-up. Sky Canada specifically notes that groups such as UFO*BC have investigated British Columbia and Yukon sightings, and that citizen-led organisations often operate where official reporting systems are fragmented or limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 ## The 2000 Tagish Lake fireball shows why explanations matter
 
-One of the most useful Yukon-adjacent examples is not a UFO in the mysterious sense at all. On 18 January 2000, a spectacular meteor raced across the north-western Canadian sky and was widely seen from Yukon and northern British Columbia. Scientific accounts identify it as the Tagish Lake meteorite fall; fragments were recovered from the frozen lake area, making it an important event for planetary science rather than an unresolved UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">recovery article</span><span class="citation-popover-snippet">Western Meteor Physics GroupTagish Lake Recovery — Peter BrownA spectacular meteor raced across the northwest Canadian sky just after 8:4...</span></span></span>
+One of the most useful Yukon-adjacent examples is not a UFO in the mysterious sense at all. On 18 January 2000, a spectacular meteor raced across the north-western Canadian sky and was widely seen from Yukon and northern British Columbia. Scientific accounts identify it as the Tagish Lake meteorite fall; fragments were recovered from the frozen lake area, making it an important event for planetary science rather than an unresolved UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">recovery article</span><span class="citation-popover-snippet">Western Meteor Physics GroupTagish Lake Recovery — Peter BrownA spectacular meteor raced across the northwest Canadian sky just after 8:4...</span></span></span>
 
-This matters because a fireball can be startling, bright, loud and rare. Witnesses may report flashes, booms, smoke, glowing fragments or apparent movement that feels unlike everyday aircraft. In the Tagish Lake case, recovery of meteorite fragments changed the story from “strange thing in the sky” to “identified natural event”. UFO*BC itself carried a page on the January 2000 Yukon fireball, noting that fragments were recovered and kept frozen before being reported to Geological Survey of Canada staff in Whitehorse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/ykfireballjan2000.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-snippet">Open source on ufobc.ca.</span></span></span>
+This matters because a fireball can be startling, bright, loud and rare. Witnesses may report flashes, booms, smoke, glowing fragments or apparent movement that feels unlike everyday aircraft. In the Tagish Lake case, recovery of meteorite fragments changed the story from “strange thing in the sky” to “identified natural event”. UFO*BC itself carried a page on the January 2000 Yukon fireball, noting that fragments were recovered and kept frozen before being reported to Geological Survey of Canada staff in Whitehorse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/ykfireballjan2000.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-snippet">Open source on ufobc.ca.</span></span></span>
 
 For Yukon UFO history, the lesson is not that all sightings are meteors. It is that high-quality resolution usually needs more than memory: timing, direction, multiple reports, physical traces, astronomical checks, flight data, weather data and follow-up. Without those, a dramatic sky event can remain culturally powerful but evidentially thin.
 
@@ -347,19 +347,19 @@ For Yukon UFO history, the lesson is not that all sightings are meteors. It is t
 
 ## The 2023 Yukon object: a UFO by definition, not by implication
 
-The February 2023 Yukon object is the territory’s most important modern “unidentified” airspace incident because it involved national leaders, NORAD, fighter aircraft, the RCMP and international media. On 11 February 2023, Canadian Prime Minister Justin Trudeau said he ordered action after NORAD detected an unidentified object that crossed into Canadian airspace; a United States F-22 shot it down over Yukon after Canadian and United States aircraft were scrambled. Associated Press reported that Defence Minister Anita Anand said the object was flying at about 40,000 feet and posed a threat to civilian flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
+The February 2023 Yukon object is the territory’s most important modern “unidentified” airspace incident because it involved national leaders, NORAD, fighter aircraft, the RCMP and international media. On 11 February 2023, Canadian Prime Minister Justin Trudeau said he ordered action after NORAD detected an unidentified object that crossed into Canadian airspace; a United States F-22 shot it down over Yukon after Canadian and United States aircraft were scrambled. Associated Press reported that Defence Minister Anita Anand said the object was flying at about 40,000 feet and posed a threat to civilian flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
 
-Local and Indigenous concerns were immediate because the suspected crash area was in central Yukon, roughly between Dawson City and Mayo. APTN reported that First Nations leaders near the believed crash area were concerned about possible impacts on citizens, and that the area involved communities connected with Na-Cho Nyäk Dun and Trʼondëk Hwëchʼin First Nations. That reporting is important because the incident was not just an abstract air-defence story; it happened over northern lands where search activity, safety questions and information sharing mattered locally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aptnnews.ca">[APTN News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aptnnews.ca</span><span class="citation-popover-title">APTN News Unidentified object shot down in Yukon causing concern</span><span class="citation-popover-snippet">APTN News Unidentified object shot down in Yukon causing concern</span></span></span>
+Local and Indigenous concerns were immediate because the suspected crash area was in central Yukon, roughly between Dawson City and Mayo. APTN reported that First Nations leaders near the believed crash area were concerned about possible impacts on citizens, and that the area involved communities connected with Na-Cho Nyäk Dun and Trʼondëk Hwëchʼin First Nations. That reporting is important because the incident was not just an abstract air-defence story; it happened over northern lands where search activity, safety questions and information sharing mattered locally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aptnnews.ca">[APTN News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aptnnews.ca</span><span class="citation-popover-title">APTN News Unidentified object shot down in Yukon causing concern</span><span class="citation-popover-snippet">APTN News Unidentified object shot down in Yukon causing concern</span></span></span>
 
-The case did not end with a recovered object. On 17 February 2023, the RCMP said it had discontinued the Yukon search because the highest-probability area had been searched, debris had not been found, snowfall reduced the chance of recovery, and the object was not believed to be tied to a scenario requiring extraordinary search efforts. That leaves the object officially unresolved in the everyday sense: not recovered, not publicly identified from debris, and not available for laboratory analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-snippet">Open source on rcmp.ca.</span></span></span>
+The case did not end with a recovered object. On 17 February 2023, the RCMP said it had discontinued the Yukon search because the highest-probability area had been searched, debris had not been found, snowfall reduced the chance of recovery, and the object was not believed to be tied to a scenario requiring extraordinary search efforts. That leaves the object officially unresolved in the everyday sense: not recovered, not publicly identified from debris, and not available for laboratory analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmp.ca">[Royal Canadian Mounted Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmp.ca</span><span class="citation-popover-snippet">Open source on rcmp.ca.</span></span></span>
 
-The most sober interpretation is that the [2023 object]({{ '2023-object/' | relative_url }}) belongs in aviation-security and high-altitude balloon context before it belongs in alien speculation. Transport Canada’s March 2023 briefing material treated high-altitude object incidents as flight-safety matters and explained that balloons are regulated aircraft under Canadian aviation rules. Later reporting and analysis discussed the possibility of balloon-like objects, including amateur or research balloons, but without recovered Yukon debris those suggestions remain explanations to weigh rather than a final public identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+The most sober interpretation is that the [2023 object]({{ '2023-object/' | relative_url }}) belongs in aviation-security and high-altitude balloon context before it belongs in alien speculation. Transport Canada’s March 2023 briefing material treated high-altitude object incidents as flight-safety matters and explained that balloons are regulated aircraft under Canadian aviation rules. Later reporting and analysis discussed the possibility of balloon-like objects, including amateur or research balloons, but without recovered Yukon debris those suggestions remain explanations to weigh rather than a final public identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 ## What official Canadian records can and cannot prove
 
-Canada has a genuine federal UFO record, and Yukon researchers should start there rather than with folklore alone. Library and Archives Canada says its UFO collection came from the Department of National Defence, Department of Transport, National Research Council and RCMP, with documents accumulated between 1947 and the early 1980s. The collection contains about 9,500 digitised documents, including correspondence, reports, memos and procedures, though not all records include a clear date or location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Canada has a genuine federal UFO record, and Yukon researchers should start there rather than with folklore alone. Library and Archives Canada says its UFO collection came from the Department of National Defence, Department of Transport, National Research Council and RCMP, with documents accumulated between 1947 and the early 1980s. The collection contains about 9,500 digitised documents, including correspondence, reports, memos and procedures, though not all records include a clear date or location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-Sky Canada adds the broader institutional picture. It notes that the National Research Council collected and studied UAP reports from 1967 until the 1990s, that the NRC stopped collecting UFO reports in 1995, and that the related material was transferred to Library and Archives Canada. It also describes earlier Canadian efforts such as Project Magnet and Project Second Storey, while stressing that the federal approach was intermittent and often lacked continuity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Sky Canada adds the broader institutional picture. It notes that the National Research Council collected and studied UAP reports from 1967 until the 1990s, that the NRC stopped collecting UFO reports in 1995, and that the related material was transferred to Library and Archives Canada. It also describes earlier Canadian efforts such as Project Magnet and Project Second Storey, while stressing that the federal approach was intermittent and often lacked continuity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For Yukon, this means older cases should be checked against federal files where possible, but readers should not expect a complete official answer. Many reports were not investigated deeply; some were simply logged, forwarded or filed. The absence of a dramatic official conclusion does not prove a cover-up, and the presence of a government document does not prove an extraordinary object. It proves that someone reported something and that a department handled the paperwork.
 
@@ -367,28 +367,28 @@ For Yukon, this means older cases should be checked against federal files where 
 <img src="{{ "/assets/images/Yukon_581b4d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Yukon&#x27;s Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Yukon sightings are hard to rank
 
-The most convincing Yukon reports tend to have several features: multiple independent witnesses, a precise time and location, immediate reporting, consistency across accounts, and some attempt to check aircraft, weather, astronomy or official records. The 1996 Klondike Highway case has several of these strengths in testimonial form, especially the number and spread of witnesses, but it lacks the kind of instrument record or physical evidence that would move it beyond “unresolved”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
+The most convincing Yukon reports tend to have several features: multiple independent witnesses, a precise time and location, immediate reporting, consistency across accounts, and some attempt to check aircraft, weather, astronomy or official records. The 1996 Klondike Highway case has several of these strengths in testimonial form, especially the number and spread of witnesses, but it lacks the kind of instrument record or physical evidence that would move it beyond “unresolved”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
 
 Weaker reports usually have the opposite pattern. They may be remembered years later, described in very dramatic language, tied to abduction claims, or supported only by a single ambiguous photograph. They may still be culturally interesting, especially in small communities where a story is remembered and retold, but they should not be presented as established events. A public-facing Yukon UFO history should preserve the distinction between “reported”, “investigated”, “unexplained” and “demonstrated”.
 
-The 2023 object sits in a separate category. It was officially tracked and acted upon, so it is stronger than a normal witness report in terms of institutional response. Yet it is weaker than a solved case because the debris was not recovered and the public evidence does not establish exactly what it was. It is therefore a confirmed airspace incident involving an unidentified object, not a confirmed exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
+The 2023 object sits in a separate category. It was officially tracked and acted upon, so it is stronger than a normal witness report in terms of institutional response. Yet it is weaker than a solved case because the debris was not recovered and the public evidence does not establish exactly what it was. It is therefore a confirmed airspace incident involving an unidentified object, not a confirmed exotic craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
 
 ## The role of pilots, airports and northern airspace
 
 Yukon’s UFO history cannot be separated from aviation. Whitehorse is the territory’s main aviation hub, remote communities depend heavily on air travel, and northern routes can involve military, commercial, medevac, cargo and private aircraft. A strange light seen near a highway may be a community story; a strange object seen in controlled airspace may become an aviation occurrence.
 
-Transport Canada’s Civil Aviation Daily Occurrence Reporting System, or CADORS, is relevant because it captures preliminary aviation occurrence information. Transport Canada says CADORS information can involve Canadian-registered aircraft, Canadian airports, Canadian sovereign airspace and international airspace for which Canada has accepted responsibility, but it also warns that CADORS data is preliminary, unsubstantiated and subject to change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+Transport Canada’s Civil Aviation Daily Occurrence Reporting System, or CADORS, is relevant because it captures preliminary aviation occurrence information. Transport Canada says CADORS information can involve Canadian-registered aircraft, Canadian airports, Canadian sovereign airspace and international airspace for which Canada has accepted responsibility, but it also warns that CADORS data is preliminary, unsubstantiated and subject to change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
-This is especially important for readers used to United States UFO language. Canadian cases do not automatically flow through American reporting systems, and Canadian terminology is shaped by Canadian institutions: Transport Canada, NAV CANADA, the RCMP, the Department of National Defence, the Royal Canadian Air Force and NORAD where air defence is involved. Yukon’s 2023 incident became international because NORAD is binational, but the local investigation and public-safety dimensions still involved Canadian authorities and Yukon communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+This is especially important for readers used to United States UFO language. Canadian cases do not automatically flow through American reporting systems, and Canadian terminology is shaped by Canadian institutions: Transport Canada, NAV CANADA, the RCMP, the Department of National Defence, the Royal Canadian Air Force and NORAD where air defence is involved. Yukon’s 2023 incident became international because NORAD is binational, but the local investigation and public-safety dimensions still involved Canadian authorities and Yukon communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ltfhuiq_gwg" title="Search still underway for unidentified object shot down over Yukon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ltfhuiq_gwg" target="_blank" rel="noopener noreferrer">Search still underway for unidentified object shot down over Yukon</a></p><p class="youtube-embed-meta">Channel: The Canadian Press</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ltfhuiq_gwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ltfhuiq_gwg">Open on YouTube</a></p></div></div></div>
 
 ## What changed after Sky Canada
 
-Sky Canada did not solve Yukon’s historical UFO cases, but it changed the public frame for discussing them. Its report argues that “UAP” is a broader and less loaded term than “UFO”, and that unidentified sightings do not imply extraterrestrial origin, defiance of science, or permanent mystery. It also notes that stigma can discourage witnesses from reporting, which matters in places such as Yukon where small-community dynamics may make people cautious about speaking publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Sky Canada did not solve Yukon’s historical UFO cases, but it changed the public frame for discussing them. Its report argues that “UAP” is a broader and less loaded term than “UFO”, and that unidentified sightings do not imply extraterrestrial origin, defiance of science, or permanent mystery. It also notes that stigma can discourage witnesses from reporting, which matters in places such as Yukon where small-community dynamics may make people cautious about speaking publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-The project also found a reporting problem. Canada lacks a cohesive, standardised system for public UAP reports, and sightings can be routed through aviation, military, police, civil society or media channels depending on circumstances. It estimated that 600 to 1,000 UAP sightings are reported annually in Canada, while also warning that fragmented data collection and duplicate reports make exact numbers difficult to establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The project also found a reporting problem. Canada lacks a cohesive, standardised system for public UAP reports, and sightings can be routed through aviation, military, police, civil society or media channels depending on circumstances. It estimated that 600 to 1,000 UAP sightings are reported annually in Canada, while also warning that fragmented data collection and duplicate reports make exact numbers difficult to establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For a Yukon reader, the practical takeaway is simple: the territory’s UFO history should be treated as a set of evidence problems, not a belief test. A report may be sincere and still unresolved. An official response may be serious and still have a mundane explanation. A famous case may deserve attention while falling short of proof. The most useful question is not “aliens or hoax?” but “what information would identify this, and do we have it?”
 
@@ -401,7 +401,7 @@ Yukon’s most interesting UFO material sits between two bad habits: dismissing 
 
 A strong Yukon case should have clear date, time and location; multiple witnesses who can be compared; early reporting rather than decades-later memory; checks against aircraft, [satellites]({{ 'satellites-8f2167/' | relative_url }}), balloons, meteors and aurora; and, where possible, official or aviation records. A weaker case may still be worth preserving as local history, but it should be labelled as anecdotal or unverified. A debunked or explained case should not be kept mysterious just because the original story is more exciting.
 
-By that standard, the 1996 Klondike Highway reports remain Yukon’s most compelling historical UFO cluster, mainly because of the number of witnesses and the geographic spread of the accounts. The 2023 shootdown remains Yukon’s most consequential official unidentified-object incident, mainly because it involved NORAD, civil aviation risk and a failed recovery search. The Tagish Lake fireball remains the best reminder that a spectacular northern sky event can look extraordinary at first and still become an identified natural event once evidence is recovered. Western Meteor Physics Group+3ufobc.ca+3AP News <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
+By that standard, the 1996 Klondike Highway reports remain Yukon’s most compelling historical UFO cluster, mainly because of the number of witnesses and the geographic spread of the accounts. The 2023 shootdown remains Yukon’s most consequential official unidentified-object incident, mainly because it involved NORAD, civil aviation risk and a failed recovery search. The Tagish Lake fireball remains the best reminder that a spectacular northern sky event can look extraordinary at first and still become an identified natural event once evidence is recovered. Western Meteor Physics Group+3ufobc.ca+3AP News<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufobc.ca">[ufobc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufobc.ca</span><span class="citation-popover-title">Case 22: Witness Testimony FOX 2 and 3</span><span class="citation-popover-snippet">Case 22: Witness Testimony FOX 2 and 3</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Yukon&#x27;s Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -412,194 +412,194 @@ Yukon deserves a serious place in Canadian UFO history, but not because it prove
 The Fox Lake and Klondike Highway accounts show why witness testimony can be powerful and persistent. The 2023 central Yukon shootdown shows why governments sometimes act quickly around unidentified objects without claiming anything extraterrestrial. The Tagish Lake meteorite shows why explanations can arrive only after careful follow-up and physical evidence. Taken together, Yukon’s UFO record is best understood as unresolved in parts, explained in parts, and historically important because it reveals how Canada’s north turns sky mysteries into community stories, official files and continuing public questions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Yukon&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Yukon&#x27;s Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses unexplained aerial phenomena using witness testimony, military sources, and investigative reporting similar to themes...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses unexplained aerial phenomena using witness testimony, military sources, and investigative reporting similar to themes...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, helping readers understand how cases like those from Yukon are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, helping readers understand how cases like those from Yukon are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Connects contemporary UAP discussions, military responses, and unidentified-object incidents such as the 2023 Yukon shootdown.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects contemporary UAP discussions, military responses, and unidentified-object incidents such as the 2023 Yukon shootdown.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Explores how extraordinary aerial and encounter reports are investigated and interpreted, complementing a balanced discussion of Yukon si...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary aerial and encounter reports are investigated and interpreted, complementing a balanced discussion of Yukon si...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport."><img src="{{ '/assets/images/marketplace-covers/ca4d9591f2d80bb6610a.jpg' | relative_url }}" alt="Listing image for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Airport Code Sign Metal Display Aviation Gift - Any Airport.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport."><img src="{{ '/assets/images/marketplace-covers/ca4d9591f2d80bb6610a.jpg' | relative_url }}" alt="Listing image for Custom Airport Code Sign Metal Display Aviation Gift - Any Airport." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Airport Code Sign Metal Display Aviation Gift - Any Airport.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/44d3121f3b80e7f6dbec.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/44d3121f3b80e7f6dbec.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="what-really-happened-in-yukons-skies-what-really-happened-in-yukon-s-skies-yukon-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,175 +805,175 @@ The Fox Lake and Klondike Highway accounts show why witness testimony can be pow
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufobc.ca  
    Title: Yukon UFO Sightings Archive  
-   Link: <a href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/</a>  
+   Link:<a href="https://www.ufobc.ca/yukon/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufobc.ca  
-   Link: <a href="https://www.ufobc.ca/yukon/22index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/22index.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 22: IndexFeb 3, 2000 — On December 11th, 1996 an incredible &quot;UFO event&quot; took place along a 216 km (134 mile) stretch of the Klondike...</p></details>
+   Link:<a href="https://www.ufobc.ca/yukon/22index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/22index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case 22: IndexFeb 3, 2000 — On December 11th, 1996 an incredible &quot;UFO event&quot; took place along a 216 km (134 mile) stretch of the Klondike...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufobc.ca  
    Title: Case 22: Witness Testimony FOX 2 and 3  
-   Link: <a href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/22fox2and3.htm</a>  
+   Link:<a href="https://www.ufobc.ca/yukon/22fox2and3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/22fox2and3.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufobc.ca  
-   Link: <a href="https://www.ufobc.ca/yukon/ykfireballjan2000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/ykfireballjan2000.html</a>  
+   Link:<a href="https://www.ufobc.ca/yukon/ykfireballjan2000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/yukon/ykfireballjan2000.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rcmp.ca  
-   Link: <a href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended</a>  
+   Link:<a href="https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/news/2023/02/yukon-search-debris-suspended</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: international.canada.ca  
-   Link: <a href="https://international.canada.ca/en/global-affairs/corporate/transparency/briefing-documents/parliamentary-committee/2025-11-27-faae" target="_blank" rel="noopener noreferrer nofollow">https://international.canada.ca/en/global-affairs/corporate/transparency/briefing-documents/parliamentary-committee/2025-11-27-faae</a>  
+   Link:<a href="https://international.canada.ca/en/global-affairs/corporate/transparency/briefing-documents/parliamentary-committee/2025-11-27-faae" target="_blank" rel="noopener noreferrer nofollow">https://international.canada.ca/en/global-affairs/corporate/transparency/briefing-documents/parliamentary-committee/2025-11-27-faae</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canada.ca  
    Title: 2021 22 Departmental Results Report  
-   Link: <a href="https://www.canada.ca/content/dam/dnd-mdn/documents/reports/2022/2021-22-Departmental-Results-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/content/dam/dnd-mdn/documents/reports/2022/2021-22-Departmental-Results-Report.pdf</a>  
+   Link:<a href="https://www.canada.ca/content/dam/dnd-mdn/documents/reports/2022/2021-22-Departmental-Results-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/content/dam/dnd-mdn/documents/reports/2022/2021-22-Departmental-Results-Report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tc.canada.ca  
    Title: civil aviation daily occurrence reporting system cadors  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
+   Link:<a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aquarid.physics.uwo.ca  
    Title: recovery article  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupTagish Lake Recovery — Peter BrownA spectacular meteor raced across the northwest Canadian sky just after 8:4...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics GroupTagish Lake Recovery — Peter BrownA spectacular meteor raced across the northwest Canadian sky just after 8:4...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aptnnews.ca  
    Title: APTN News Unidentified object shot down in Yukon causing concern  
-   Link: <a href="https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/</a>  
+   Link:<a href="https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.aptnnews.ca/national-news/first-nations-in-yukon-looking-for-information-on-unidentified-object/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theaviationist.com  
    Title: image of unidentified object shot down over canada  
-   Link: <a href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/</a>  
+   Link:<a href="https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2024/09/25/image-of-unidentified-object-shot-down-over-canada/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: canadas department of national defence has released an updated image of an unide  
-   Link: <a href="https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/</a>  
+   Link:<a href="https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc3340/posts/canadas-department-of-national-defence-has-released-an-updated-image-of-an-unide/980309670791805/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: syfy.com  
    Title: canadas tagish lake meteorite found to contain cosmic compounds  
-   Link: <a href="https://www.syfy.com/syfy-wire/canadas-tagish-lake-meteorite-found-to-contain-cosmic-compounds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/canadas-tagish-lake-meteorite-found-to-contain-cosmic-compounds</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/canadas-tagish-lake-meteorite-found-to-contain-cosmic-compounds" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/canadas-tagish-lake-meteorite-found-to-contain-cosmic-compounds</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: carlkop.home.xs4all.nl  
-   Link: <a href="https://carlkop.home.xs4all.nl/yukon.html" target="_blank" rel="noopener noreferrer nofollow">https://carlkop.home.xs4all.nl/yukon.html</a>  
+   Link:<a href="https://carlkop.home.xs4all.nl/yukon.html" target="_blank" rel="noopener noreferrer nofollow">https://carlkop.home.xs4all.nl/yukon.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Tagish Lake meteorite  
-   Link: <a href="https://www.youtube.com/watch?v=WjA3MsA5gIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WjA3MsA5gIU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=WjA3MsA5gIU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WjA3MsA5gIU</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufofiles.app  
-   Link: <a href="https://ufofiles.app/sightings/canada/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/sightings/canada/</a>  
+   Link:<a href="https://ufofiles.app/sightings/canada/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/sightings/canada/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iDgDxav3d0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDgDxav3d0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon UAP Mystery: Daniel Otis on the Delayed Image Release and North American Defense Flaws...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iDgDxav3d0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iDgDxav3d0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon UAP Mystery: Daniel Otis on the Delayed Image Release and North American Defense Flaws...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Best Evidence: Top 10 UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=QB3nMhF52C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QB3nMhF52C8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Yukon&quot; UFO OR UAP 1996 OR 2023 Best Evidence: Top 10 UFO Sightings - 1996 Yukon case (#8) Paul Kimball...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QB3nMhF52C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QB3nMhF52C8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Yukon&quot; UFO OR UAP 1996 OR 2023 Best Evidence: Top 10 UFO Sightings - 1996 Yukon case (#8) Paul Kimball...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=L3eBVQIWQXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L3eBVQIWQXQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another flying object shot down over Yukon territory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L3eBVQIWQXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L3eBVQIWQXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another flying object shot down over Yukon territory...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Another flying object shot down over Yukon territory  
-   Link: <a href="https://www.youtube.com/watch?v=CRxl2R7aqKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CRxl2R7aqKo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Evidence: Top 10 UFO Sightings - 1996 Yukon case (#8)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CRxl2R7aqKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CRxl2R7aqKo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Evidence: Top 10 UFO Sightings - 1996 Yukon case (#8)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thealaskafrontier/posts/ufo-unidentified-frozen-object-on-valdez-glacier-lake-brian-e-reed/997153299117695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thealaskafrontier/posts/ufo-unidentified-frozen-object-on-valdez-glacier-lake-brian-e-reed/997153299117695/</a>  
+   Link:<a href="https://www.facebook.com/thealaskafrontier/posts/ufo-unidentified-frozen-object-on-valdez-glacier-lake-brian-e-reed/997153299117695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thealaskafrontier/posts/ufo-unidentified-frozen-object-on-valdez-glacier-lake-brian-e-reed/997153299117695/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mynbc15/posts/canadian-defense-department-releases-new-image-of-ufo-shot-down-by-us-fighter-je/1017527300411562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/canadian-defense-department-releases-new-image-of-ufo-shot-down-by-us-fighter-je/1017527300411562/</a>  
+   Link:<a href="https://www.facebook.com/mynbc15/posts/canadian-defense-department-releases-new-image-of-ufo-shot-down-by-us-fighter-je/1017527300411562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mynbc15/posts/canadian-defense-department-releases-new-image-of-ufo-shot-down-by-us-fighter-je/1017527300411562/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cpac.ca  
-   Link: <a href="https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334" target="_blank" rel="noopener noreferrer nofollow">https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334</a>  
+   Link:<a href="https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334" target="_blank" rel="noopener noreferrer nofollow">https://www.cpac.ca/headline-politics/episode/defence-minister-comments-on-aerial-object-shot-down-over-yukon?id=beac9044-1ae4-4877-b4c2-704a74927334</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/</a>  
+   Link:<a href="https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1fojwia/image_released_of_mysterious_object_shot_down/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: x.com  
-   Link: <a href="https://x.com/JustinTrudeau/status/1624527579116871681" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JustinTrudeau/status/1624527579116871681</a>  
+   Link:<a href="https://x.com/JustinTrudeau/status/1624527579116871681" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JustinTrudeau/status/1624527579116871681</a>  

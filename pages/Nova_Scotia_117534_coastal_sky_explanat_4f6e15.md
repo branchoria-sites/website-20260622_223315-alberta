@@ -284,13 +284,13 @@ Lights over water are one of the most important ordinary explanations in [Nova S
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15-overview.webp" | relative_url }}" alt="Overview image for Coastal Skies" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Nova Scotia’s best-known case, [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) in 1967, began as a report of lights descending towards the sea and was treated first as a possible aircraft crash, not as a ready-made alien story. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada describes Shag Harbour as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces, while the federal Sky Canada material stresses a basic but often forgotten point: “unidentified” does not mean extraterrestrial, unexplainable, or immune to later identification with better data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+This matters because Nova Scotia’s best-known case, [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) in 1967, began as a report of lights descending towards the sea and was treated first as a possible aircraft crash, not as a ready-made alien story. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada describes Shag Harbour as Canada’s most famous UFO incident and notes that it was investigated by the RCMP and Canadian Forces, while the federal Sky Canada material stresses a basic but often forgotten point: “unidentified” does not mean extraterrestrial, unexplainable, or immune to later identification with better data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 ## Why the coast changes what witnesses think they saw
 
 A night light over open water is hard to judge because the usual clues are missing. There may be no buildings, hills, trees or nearby traffic to show distance and scale. A white light a few kilometres offshore can look like a low-flying object; a distant aircraft turning towards the observer can seem to hover; a vessel’s working lights can look suspended above the sea; and a bright planet or star near the horizon can appear to flash, change colour or move when viewed through unstable air.
 
-Nova Scotia is especially suited to this kind of confusion. Its UFO history is not just a sky story but a sea-and-sky story: fishing communities, harbour approaches, ferry routes, offshore traffic, lighthouses, military and search-and-rescue activity, and fast-changing Atlantic weather all share the same visual space. The province’s lighthouse history is a reminder that visible night lights have long been deliberately placed around the coast; Nova Scotia Archives notes that by the late nineteenth century light establishments formed a chain around mainland Nova Scotia and Cape Breton Island. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[Nova Scotia Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Nova Scotia ArchivesNova Scotia Archives - Lighthouses of Nova Scotia...</span></span></span>
+Nova Scotia is especially suited to this kind of confusion. Its UFO history is not just a sky story but a sea-and-sky story: fishing communities, harbour approaches, ferry routes, offshore traffic, lighthouses, military and search-and-rescue activity, and fast-changing Atlantic weather all share the same visual space. The province’s lighthouse history is a reminder that visible night lights have long been deliberately placed around the coast; Nova Scotia Archives notes that by the late nineteenth century light establishments formed a chain around mainland Nova Scotia and Cape Breton Island.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.novascotia.ca">[Nova Scotia Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.novascotia.ca</span><span class="citation-popover-snippet">Nova Scotia ArchivesNova Scotia Archives - Lighthouses of Nova Scotia...</span></span></span>
 
 That does not make coastal witnesses unreliable. It means many reports begin in a setting where honest observation is not the same as accurate identification. The strongest Nova Scotia UFO analysis therefore starts with a practical question: what ordinary light sources were present, and how would they have looked from the witness’s position at that time?
 
@@ -298,15 +298,15 @@ That does not make coastal witnesses unreliable. It means many reports begin in 
 <img src="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15-Illustration-1-dark.svg" | relative_url }}" alt="Coastal Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_coastal_sky_explanat_4f6e15-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, vessels and flares over the Atlantic
 
-Aircraft are one of the most common ordinary candidates in Nova Scotia sighting reports because the province sits under civil, military and search-and-rescue activity. Halifax Stanfield reported more than 4.1 million passengers in 2025 and described growth in international traffic, making the airport a major source of regular night-time aircraft movements over and near the province. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halifaxstanfield.ca">[Halifax Stanfield International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halifaxstanfield.ca</span><span class="citation-popover-snippet">Halifax Stanfield International AirportInternational Travel Drives Increased Traffic at Halifax Stanfield - Halifax Stanfield Internation...</span></span></span>
+Aircraft are one of the most common ordinary candidates in Nova Scotia sighting reports because the province sits under civil, military and search-and-rescue activity. Halifax Stanfield reported more than 4.1 million passengers in 2025 and described growth in international traffic, making the airport a major source of regular night-time aircraft movements over and near the province.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halifaxstanfield.ca">[Halifax Stanfield International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halifaxstanfield.ca</span><span class="citation-popover-snippet">Halifax Stanfield International AirportInternational Travel Drives Increased Traffic at Halifax Stanfield - Halifax Stanfield Internation...</span></span></span>
 
 [Aircraft lights]({{ 'aircraft-lights/' | relative_url }}) can mislead in several ways. Landing lights pointed towards an observer may appear almost stationary. Navigation lights can seem to blink in patterns that are difficult to interpret from the ground. A banking aircraft can appear to change speed sharply. Two aircraft on different tracks can look like one structured object. A descending aircraft over the sea can also appear to be dropping into the water, especially when the observer has no clear horizon reference.
 
-Military and search-and-rescue activity adds another layer. The Royal Canadian Air Force describes 14 Wing Greenwood as providing long-range patrol training, regular surveillance over the Atlantic Ocean and primary air search-and-rescue support on Canada’s East Coast. Its own public material includes recent examples of night training in Nova Scotia and hoist training off Halifax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">14 Wing Greenwood</span><span class="citation-popover-snippet">14 Wing Greenwood - Canada.ca...</span></span></span> NORAD has also announced planned live-fly air-defence exercises over Nova Scotia, including CF-18 participation near Canadian Forces Base Greenwood, while stressing that such exercises are planned and controlled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-title">air defense exercise over nova scotia</span><span class="citation-popover-snippet">&gt; North American Aerospace Defense Command &gt; Press Releases...</span></span></span>
+Military and search-and-rescue activity adds another layer. The Royal Canadian Air Force describes 14 Wing Greenwood as providing long-range patrol training, regular surveillance over the Atlantic Ocean and primary air search-and-rescue support on Canada’s East Coast. Its own public material includes recent examples of night training in Nova Scotia and hoist training off Halifax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">14 Wing Greenwood</span><span class="citation-popover-snippet">14 Wing Greenwood - Canada.ca...</span></span></span> NORAD has also announced planned live-fly air-defence exercises over Nova Scotia, including CF-18 participation near Canadian Forces Base Greenwood, while stressing that such exercises are planned and controlled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norad.mil">[NORAD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norad.mil</span><span class="citation-popover-title">air defense exercise over nova scotia</span><span class="citation-popover-snippet">&gt; North American Aerospace Defense Command &gt; Press Releases...</span></span></span>
 
 For a UFO report, that kind of context matters. A witness may not know that an exercise, search-and-rescue sortie, patrol aircraft, helicopter or training flight is active. They may simply see bright moving lights at night, sometimes over water, sometimes near the coast, and describe them in the only language available: strange, silent, hovering, descending or flashing.
 
-Vessels and [marine navigation]({{ 'marine-lights/' | relative_url }}) lights create a different problem. The Canadian Coast Guard’s aids-to-navigation system includes lighted visual aids, fog signals, nautical charts, navigational warnings and notices to mariners; it also warns that aids can be seasonal, damaged, moved, temporarily discontinued or replaced by lower-intensity lights in winter conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">canadian aids navigation system 2023</span><span class="citation-popover-snippet">The Canadian Aids to Navigation System 2023 - Canada.ca...</span></span></span> To someone on shore, especially in poor visibility, a buoy, lighthouse, fishing vessel, ferry or offshore working light may not read as “marine” at all. It may simply be a light in the dark, apparently above the water.
+Vessels and [marine navigation]({{ 'marine-lights/' | relative_url }}) lights create a different problem. The Canadian Coast Guard’s aids-to-navigation system includes lighted visual aids, fog signals, nautical charts, navigational warnings and notices to mariners; it also warns that aids can be seasonal, damaged, moved, temporarily discontinued or replaced by lower-intensity lights in winter conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">canadian aids navigation system 2023</span><span class="citation-popover-snippet">The Canadian Aids to Navigation System 2023 - Canada.ca...</span></span></span> To someone on shore, especially in poor visibility, a buoy, lighthouse, fishing vessel, ferry or offshore working light may not read as “marine” at all. It may simply be a light in the dark, apparently above the water.
 
 Flares deserve careful treatment because they are often invoked too casually. A flare can hang, drift, burn orange or red, and vanish abruptly, which makes it a plausible explanation for some coastal reports. But it is not a magic answer. A good flare explanation should fit the reported colour, duration, motion, weather, maritime activity and direction of view. In Shag Harbour, later retellings often mention flares among possible conventional explanations, but the public value of the case lies precisely in the official uncertainty after checks for missing aircraft and a search response, not in a simple one-word solution.
 
@@ -321,7 +321,7 @@ A bright star or planet near the horizon is seen through more atmosphere than on
 
 Meteors create the opposite problem: they are fast, brief and dramatic. A bright meteor can look like a descending object, sometimes with fragmentation or a glowing trail. If it appears low in the sky, a witness may place it over the sea or behind a nearby coastal feature even when it is much farther away. A meteor explanation is strongest when multiple witnesses across a wide area describe a brief, fast track in similar directions; it is weaker when a report involves prolonged hovering, repeated manoeuvres or a light apparently remaining in one place for many minutes.
 
-Mirage and refraction effects are especially relevant to coastal Nova Scotia because they occur over water and along sharp temperature boundaries. The University of British Columbia’s sailing meteorology material explains that inferior mirages bend rays upward, while superior mirages bend rays downward, making distant objects appear displaced; it also describes Fata Morgana effects as layered refraction that can create segmented or elevated reflections above water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth and Ocean Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-title">Earth and Ocean Sciences Optical Phenomena</span><span class="citation-popover-snippet">Earth and Ocean Sciences Optical Phenomena</span></span></span> In plain terms, a ship, island, coastline or light that is physically ordinary can be visually lifted, stretched, doubled or distorted.
+Mirage and refraction effects are especially relevant to coastal Nova Scotia because they occur over water and along sharp temperature boundaries. The University of British Columbia’s sailing meteorology material explains that inferior mirages bend rays upward, while superior mirages bend rays downward, making distant objects appear displaced; it also describes Fata Morgana effects as layered refraction that can create segmented or elevated reflections above water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth and Ocean Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-title">Earth and Ocean Sciences Optical Phenomena</span><span class="citation-popover-snippet">Earth and Ocean Sciences Optical Phenomena</span></span></span> In plain terms, a ship, island, coastline or light that is physically ordinary can be visually lifted, stretched, doubled or distorted.
 
 This does not mean every strange light over the Atlantic is a mirage. It means the horizon is not a neutral screen. It is an optical zone where weather, distance, temperature and darkness can change the apparent position and shape of real lights.
 
@@ -331,7 +331,7 @@ This does not mean every strange light over the Atlantic is a mirage. It means t
 
 Nova Scotia’s geography encourages a particular kind of UFO narrative: lights seen from roads, harbours, beaches, headlands or fishing vessels, often with the sea as the apparent destination. Shag Harbour is the famous example, but the mechanism is broader than one case. A descending light over water is emotionally powerful because it invites an urgent interpretation: aircraft crash, distress signal, object entering the sea, or something beyond normal aviation.
 
-The first reading is often practical. In the Shag Harbour story, witnesses contacted police because they thought an aircraft may have gone down. That is a key detail. It shows how a UFO case can begin as a safety report, pass through emergency procedures, and only later become a cultural mystery. Library and Archives Canada’s broader UFO collection includes around 9,500 digitised federal documents from 1947 to the early 1980s, including correspondence, reports, memos and procedures, which helps explain why some sightings entered official files without being treated as proof of extraordinary origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The first reading is often practical. In the Shag Harbour story, witnesses contacted police because they thought an aircraft may have gone down. That is a key detail. It shows how a UFO case can begin as a safety report, pass through emergency procedures, and only later become a cultural mystery. Library and Archives Canada’s broader UFO collection includes around 9,500 digitised federal documents from 1947 to the early 1980s, including correspondence, reports, memos and procedures, which helps explain why some sightings entered official files without being treated as proof of extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 Coastal geography also affects sound. A witness may report silence and assume the object was close, but sound over water can be misleading. Wind direction, surf, engine orientation, distance and temperature layers can make aircraft or vessel noise faint, delayed or absent. A helicopter may be obvious in one direction and surprisingly muted in another. A vessel may show lights without a clearly audible engine. A meteor may produce no sound at all at the moment it is seen, or any sound may be delayed enough to break the witness’s sense of cause and effect.
 
@@ -344,9 +344,9 @@ Weather adds further uncertainty. Fog, low cloud, sea haze and rain can hide bod
 
 Ordinary explanations are strongest when they match the whole report, not just one feature. A convincing explanation should account for timing, direction, duration, colour, movement, weather, witness location and known activity. “It was probably a plane” is useful only if an aircraft track, approach path, military exercise, search-and-rescue flight or airport context makes the fit plausible. “It was a ship” is stronger when the bearing points to a harbour, channel, buoy, ferry route or fishing area. “It was a star” works only when the object’s position, duration and apparent stillness fit the sky.
 
-The Canadian aviation context reinforces this careful approach. Transport Canada has explained that in the Civil Aviation Daily Occurrence Reporting System, “UFO” can cover many things, including drones, balloons, meteors, weather phenomena and birds, and should not be read as extraterrestrial by default. It also notes that CADORS information is preliminary, unsubstantiated and subject to change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span> That principle is directly useful for Nova Scotia: an initial report may be sincere and operationally important without being a final explanation.
+The Canadian aviation context reinforces this careful approach. Transport Canada has explained that in the Civil Aviation Daily Occurrence Reporting System, “UFO” can cover many things, including drones, balloons, meteors, weather phenomena and birds, and should not be read as extraterrestrial by default. It also notes that CADORS information is preliminary, unsubstantiated and subject to change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span> That principle is directly useful for Nova Scotia: an initial report may be sincere and operationally important without being a final explanation.
 
-The federal Sky Canada preview shows why public interpretation remains difficult. In a 2024 survey, 71 per cent of respondents either did not know or gave no response when asked what they thought was behind UAPs, while only small minorities named aliens, natural phenomena, aircraft, satellites, balloons, drones, military causes or other sources. The same material found that many Canadians want clearer reporting and public information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> That uncertainty is not ignorance; it reflects a real gap between what people see, what they can identify, and what institutions are able or willing to explain in public.
+The federal Sky Canada preview shows why public interpretation remains difficult. In a 2024 survey, 71 per cent of respondents either did not know or gave no response when asked what they thought was behind UAPs, while only small minorities named aliens, natural phenomena, aircraft, satellites, balloons, drones, military causes or other sources. The same material found that many Canadians want clearer reporting and public information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> That uncertainty is not ignorance; it reflects a real gap between what people see, what they can identify, and what institutions are able or willing to explain in public.
 
 For Nova Scotia, the balanced position is neither “everything is explained” nor “ordinary explanations are excuses”. Coastal skies produce genuine misidentification hazards. They also produce reports that deserve proper checking, especially when witnesses describe possible aviation danger, marine distress, or repeated sightings from multiple locations.
 
@@ -384,194 +384,194 @@ A careful coastal explanation does two things at once. It protects witnesses fro
 The best Nova Scotia UFO reading therefore starts with the sea. Over water, distance stretches, sound drops away, lights float, stars shimmer, aircraft seem to hover, and ordinary navigation aids can look uncanny. Some cases remain unresolved after those checks. Many do not. The difference is the heart of evidence-led UFO history in the province.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Lights Over Water Look Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Lights Over Water Look Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating unidentified aerial reports and distinguishing observation from interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating unidentified aerial reports and distinguishing observation from interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses how credible witnesses report unusual lights and objects, fitting the article&#x27;s discussion of witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how credible witnesses report unusual lights and objects, fitting the article&#x27;s discussion of witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand stars, planets, meteors, and horizon effects that can be mistaken for unusual phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand stars, planets, meteors, and horizon effects that can be mistaken for unusual phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nightwatch : a practical guide to viewing the universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nightwatch : a practical guide to viewing the universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Astronomy, observers&#x27; manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Astronomy, observers&#x27; manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print"><img src="{{ '/assets/images/marketplace-covers/79e2995f38dfa4fba685.jpg' | relative_url }}" alt="Listing image for Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Of Canada, Nova Scotia &amp; Brunswick 1856 Vintage Historic Map Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas"><img src="{{ '/assets/images/marketplace-covers/b8db3b545d54618589ca.jpg' | relative_url }}" alt="Listing image for Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Map 1920 - CANADA New Brunswick, Nova Scotia, St John - Harmsworth Atlas</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="coastal-skies-why-lights-over-water-look-strange-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,161 +777,161 @@ The best Nova Scotia UFO reading therefore starts with the sea. Over water, dist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
    Published: October 1967  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 14 Wing Greenwood  
-   Link: <a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Wing Greenwood - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/14-wing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Wing Greenwood - Canada.ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: norad.mil  
    Title: air defense exercise over nova scotia  
-   Link: <a href="https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; North American Aerospace Defense Command &gt; Press Releases...</p></details>
+   Link:<a href="https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Press-Releases/Article/3464149/norad-air-defense-exercise-over-nova-scotia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; North American Aerospace Defense Command &gt; Press Releases...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: canadian aids navigation system 2023  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Aids to Navigation System 2023 - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Aids to Navigation System 2023 - Canada.ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: 's UFOs: [The search](&#123;&#123; 'the-search/' | relative_url &#125;&#125;) for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canada.ca  
    Title: aids navigation  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/services/navigation/aids-navigation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/services/navigation/aids-navigation.html</a>  
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/services/navigation/aids-navigation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/services/navigation/aids-navigation.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
+   Link:<a href="https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/canadian-coast-guard/corporate/videos/canadian-aids-navigation-system-typical-waterway.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/fra/publique/liste/43130</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: bac-lac.gc.ca Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.novascotia.ca  
-   Link: <a href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nova Scotia ArchivesNova Scotia Archives - Lighthouses of Nova Scotia...</p></details>
+   Link:<a href="https://archives.novascotia.ca/lighthouses/" target="_blank" rel="noopener noreferrer nofollow">https://archives.novascotia.ca/lighthouses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nova Scotia ArchivesNova Scotia Archives - Lighthouses of Nova Scotia...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: halifaxstanfield.ca  
-   Link: <a href="https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/" target="_blank" rel="noopener noreferrer nofollow">https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halifax Stanfield International AirportInternational Travel Drives Increased Traffic at Halifax Stanfield - Halifax Stanfield Internation...</p></details>
+   Link:<a href="https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/" target="_blank" rel="noopener noreferrer nofollow">https://halifaxstanfield.ca/news-releases/international-travel-drives-increased-traffic-at-halifax-stanfield/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Halifax Stanfield International AirportInternational Travel Drives Increased Traffic at Halifax Stanfield - Halifax Stanfield Internation...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eoas.ubc.ca  
    Title: Earth and Ocean Sciences Optical Phenomena  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Halifax Stanfield International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Halifax_Stanfield_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Halifax_Stanfield_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Halifax_Stanfield_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Halifax_Stanfield_International_Airport</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skiesmag/posts/back-in-august-14-wing-greenwood-nova-scotia-welcomed-the-cc-295-kingfisher-cana/1331649398971967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skiesmag/posts/back-in-august-14-wing-greenwood-nova-scotia-welcomed-the-cc-295-kingfisher-cana/1331649398971967/</a>  
+   Link:<a href="https://www.facebook.com/skiesmag/posts/back-in-august-14-wing-greenwood-nova-scotia-welcomed-the-cc-295-kingfisher-cana/1331649398971967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skiesmag/posts/back-in-august-14-wing-greenwood-nova-scotia-welcomed-the-cc-295-kingfisher-cana/1331649398971967/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: halifaxstanfield.ca  
    Title: airport facts and stats  
-   Link: <a href="https://halifaxstanfield.ca/airport-authority/media-centre/airport-facts-and-stats/" target="_blank" rel="noopener noreferrer nofollow">https://halifaxstanfield.ca/airport-authority/media-centre/airport-facts-and-stats/</a>  
+   Link:<a href="https://halifaxstanfield.ca/airport-authority/media-centre/airport-facts-and-stats/" target="_blank" rel="noopener noreferrer nofollow">https://halifaxstanfield.ca/airport-authority/media-centre/airport-facts-and-stats/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZL1wrJkYfr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZL1wrJkYfr/</a>  
+   Link:<a href="https://www.instagram.com/reel/DZL1wrJkYfr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZL1wrJkYfr/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: calgary.citynews.ca  
-   Link: <a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2017/09/21/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rcmsar12.org  
-   Link: <a href="https://www.rcmsar12.org/page/aids" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmsar12.org/page/aids</a>  
+   Link:<a href="https://www.rcmsar12.org/page/aids" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmsar12.org/page/aids</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aviation-airport.fandom.com  
    Title: Halifax Stanfield International Airport  
-   Link: <a href="https://aviation-airport.fandom.com/wiki/Halifax_Stanfield_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://aviation-airport.fandom.com/wiki/Halifax_Stanfield_International_Airport</a>  
+   Link:<a href="https://aviation-airport.fandom.com/wiki/Halifax_Stanfield_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://aviation-airport.fandom.com/wiki/Halifax_Stanfield_International_Airport</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
    Title: Canada FOIA Part 06 Pages 1501 1800 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs151-9-2023-08-eng.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/videos/an-aircraft-incident-at-the-halifax-stanfield-international-airport-caused-tempo/8309860479114583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/videos/an-aircraft-incident-at-the-halifax-stanfield-international-airport-caused-tempo/8309860479114583/</a>  
+   Link:<a href="https://www.facebook.com/ABCNews/videos/an-aircraft-incident-at-the-halifax-stanfield-international-airport-caused-tempo/8309860479114583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/videos/an-aircraft-incident-at-the-halifax-stanfield-international-airport-caused-tempo/8309860479114583/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/chouseinbogiar/posts/canadian-cargo-ship-captures-stunning-image-of-ufo-activity/25396411243333593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chouseinbogiar/posts/canadian-cargo-ship-captures-stunning-image-of-ufo-activity/25396411243333593/</a>  
+   Link:<a href="https://www.facebook.com/chouseinbogiar/posts/canadian-cargo-ship-captures-stunning-image-of-ufo-activity/25396411243333593/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chouseinbogiar/posts/canadian-cargo-ship-captures-stunning-image-of-ufo-activity/25396411243333593/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1884776005076822/posts/3560720827482323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1884776005076822/posts/3560720827482323/</a>  
+   Link:<a href="https://www.facebook.com/groups/1884776005076822/posts/3560720827482323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1884776005076822/posts/3560720827482323/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/</a>  
+   Link:<a href="https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: driveaboatcanada.ca  
-   Link: <a href="https://driveaboatcanada.ca/boat-navigation-lights/" target="_blank" rel="noopener noreferrer nofollow">https://driveaboatcanada.ca/boat-navigation-lights/</a>  
+   Link:<a href="https://driveaboatcanada.ca/boat-navigation-lights/" target="_blank" rel="noopener noreferrer nofollow">https://driveaboatcanada.ca/boat-navigation-lights/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/56802132093/posts/10164297207927094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/56802132093/posts/10164297207927094/</a>  
+   Link:<a href="https://www.facebook.com/groups/56802132093/posts/10164297207927094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/56802132093/posts/10164297207927094/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/890451767754638/posts/3535775696555552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/890451767754638/posts/3535775696555552/</a>  
+   Link:<a href="https://www.facebook.com/groups/890451767754638/posts/3535775696555552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/890451767754638/posts/3535775696555552/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: barringtonmunicipality.com  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  

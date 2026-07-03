@@ -262,7 +262,7 @@ image: /assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_cl
 
 ## Introduction
 
-The Clan Lake case is often described as one of the strongest archival UFO reports from the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}), but its importance lies less in what it proves about an unknown object and more in what it proves about the witnesses and the investigation. The surviving Royal Canadian Mounted Police (RCMP) records show that a detailed report was made in 1960, that officers took it seriously enough to investigate, and that physical traces were reportedly observed at the site. What the file does **not** prove is that a spacecraft, experimental aircraft, meteorite, or any other specific object entered Clan Lake. The case remains noteworthy because the [official record]({{ 'official-record/' | relative_url }}) preserves a careful witness account while leaving the central question unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+The Clan Lake case is often described as one of the strongest archival UFO reports from the [Northwest Territories]({{ 'northwest-territories/' | relative_url }}), but its importance lies less in what it proves about an unknown object and more in what it proves about the witnesses and the investigation. The surviving Royal Canadian Mounted Police (RCMP) records show that a detailed report was made in 1960, that officers took it seriously enough to investigate, and that physical traces were reportedly observed at the site. What the file does **not** prove is that a spacecraft, experimental aircraft, meteorite, or any other specific object entered Clan Lake. The case remains noteworthy because the [official record]({{ 'official-record/' | relative_url }}) preserves a careful witness account while leaving the central question unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-1-dark.svg" | relative_url }}" alt="Clan Lake illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,11 +270,11 @@ The Clan Lake case is often described as one of the strongest archival UFO repor
 
 ### The Reported Splash and Rotating Object
 
-The incident entered the official record after a witness contacted the Yellowknife RCMP concerning an event at Clan Lake, north of Yellowknife, during the summer of 1960. According to the statement preserved in the RCMP file, the witness had been dropped off by a bush plane and was alone on the lakeshore when he heard a growing noise resembling a large aircraft high overhead. He repeatedly searched the sky but could not identify a source. Moments later, he heard something strike the water. Turning toward the sound, he reported seeing a splash and an object that appeared to have arms or spokes rotating rapidly on the lake surface before slowing and disappearing beneath the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+The incident entered the official record after a witness contacted the Yellowknife RCMP concerning an event at Clan Lake, north of Yellowknife, during the summer of 1960. According to the statement preserved in the RCMP file, the witness had been dropped off by a bush plane and was alone on the lakeshore when he heard a growing noise resembling a large aircraft high overhead. He repeatedly searched the sky but could not identify a source. Moments later, he heard something strike the water. Turning toward the sound, he reported seeing a splash and an object that appeared to have arms or spokes rotating rapidly on the lake surface before slowing and disappearing beneath the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
-The witness also described a noticeable water disturbance. After the object stopped rotating, he said a wave or backwash travelled toward shore. Later, when his partner arrived, the two reportedly paddled to the location to inspect the area. There they claimed to find disturbed vegetation, including grass that appeared damaged or burnt and a channel-like path through lakeside growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+The witness also described a noticeable water disturbance. After the object stopped rotating, he said a wave or backwash travelled toward shore. Later, when his partner arrived, the two reportedly paddled to the location to inspect the area. There they claimed to find disturbed vegetation, including grass that appeared damaged or burnt and a channel-like path through lakeside growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
-These details are significant because they come from a contemporaneous witness statement recorded by police rather than from decades-later retellings. The RCMP file therefore establishes that a specific claim was made, with specific observations attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+These details are significant because they come from a contemporaneous witness statement recorded by police rather than from decades-later retellings. The RCMP file therefore establishes that a specific claim was made, with specific observations attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oFyXP37Qx-I" title="The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer">The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oFyXP37Qx-I">Open on YouTube</a></p></div></div></div>
@@ -283,11 +283,11 @@ These details are significant because they come from a contemporaneous witness s
 
 The strongest contribution of the RCMP file is not a dramatic conclusion but documentation.
 
-Unlike many northern UFO stories that survive only through newspaper summaries or later folklore, the Clan Lake record contains a formal witness statement and follow-up investigation. The file shows that officers recorded the witness's account in detail and considered his local reputation relevant when assessing credibility. One later discussion of the records notes that the witness was known around the Yellowknife area and was regarded as reliable by those handling the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</span></span></span>
+Unlike many northern UFO stories that survive only through newspaper summaries or later folklore, the Clan Lake record contains a formal witness statement and follow-up investigation. The file shows that officers recorded the witness's account in detail and considered his local reputation relevant when assessing credibility. One later discussion of the records notes that the witness was known around the Yellowknife area and was regarded as reliable by those handling the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</span></span></span>
 
-The file also demonstrates that police did more than simply file paperwork. Investigators visited and examined the reported location. Follow-up reports indicate that the area was checked repeatedly and that officers searched the lake-bottom area where the object was said to have entered the water. When water levels later dropped, investigators were able to inspect the site more thoroughly, probing the lake bed and looking for physical remains. Despite these efforts, nothing identifiable was recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</span><span class="citation-popover-meta">Published: August 25, 1960</span></span></span>
+The file also demonstrates that police did more than simply file paperwork. Investigators visited and examined the reported location. Follow-up reports indicate that the area was checked repeatedly and that officers searched the lake-bottom area where the object was said to have entered the water. When water levels later dropped, investigators were able to inspect the site more thoroughly, probing the lake bed and looking for physical remains. Despite these efforts, nothing identifiable was recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</span><span class="citation-popover-meta">Published: August 25, 1960</span></span></span>
 
-That distinction matters. The Clan Lake file is sometimes cited as evidence of a UFO crash, but the surviving record supports a narrower conclusion: a witness reported an unusual event, police documented it, investigators searched for evidence, and no conclusive object was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+That distinction matters. The Clan Lake file is sometimes cited as evidence of a UFO crash, but the surviving record supports a narrower conclusion: a witness reported an unusual event, police documented it, investigators searched for evidence, and no conclusive object was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-2-dark.svg" | relative_url }}" alt="Clan Lake illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -295,11 +295,11 @@ That distinction matters. The Clan Lake file is sometimes cited as evidence of a
 
 The enduring mystery of Clan Lake comes from the gap between the quality of the report and the weakness of the physical evidence.
 
-The RCMP records do not establish the size, origin, composition, or nature of the object. Later retellings sometimes describe it as a small hovering craft several feet across, but those descriptions depend partly on secondary accounts and interpretations rather than on recovered material. No photographs, recovered fragments, radar tracks, or independent technical measurements have emerged from the surviving file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">March 18, 2026 — 1960, Clan Lake, Northwest Territories. edit. On June 18, 1960, a prospector told the Yellowknife RCMP detachment that a...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span>
+The RCMP records do not establish the size, origin, composition, or nature of the object. Later retellings sometimes describe it as a small hovering craft several feet across, but those descriptions depend partly on secondary accounts and interpretations rather than on recovered material. No photographs, recovered fragments, radar tracks, or independent technical measurements have emerged from the surviving file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">March 18, 2026 — 1960, Clan Lake, Northwest Territories. edit. On June 18, 1960, a prospector told the Yellowknife RCMP detachment that a...</span><span class="citation-popover-meta">Published: March 18, 2026</span></span></span>
 
-The records also do not eliminate [ordinary explanations]({{ 'explanations/' | relative_url }}). An unusual object entering the water could theoretically have been a natural object, debris, a misidentified aircraft-related phenomenon, or something else entirely. Because nothing was recovered, investigators lacked the evidence needed to distinguish confidently between extraordinary and ordinary possibilities. The file therefore remains an example of an investigated but unresolved event rather than a confirmed anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</span><span class="citation-popover-meta">Published: August 25, 1960</span></span></span>
+The records also do not eliminate [ordinary explanations]({{ 'explanations/' | relative_url }}). An unusual object entering the water could theoretically have been a natural object, debris, a misidentified aircraft-related phenomenon, or something else entirely. Because nothing was recovered, investigators lacked the evidence needed to distinguish confidently between extraordinary and ordinary possibilities. The file therefore remains an example of an investigated but unresolved event rather than a confirmed anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</span><span class="citation-popover-meta">Published: August 25, 1960</span></span></span>
 
-Even the reported physical traces are difficult to evaluate today. Contemporary investigators saw enough to continue looking, but later researchers have had to rely on written descriptions rather than preserved samples or modern forensic analysis. That leaves uncertainty about whether the damaged vegetation resulted from the reported event or from unrelated environmental factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+Even the reported physical traces are difficult to evaluate today. Contemporary investigators saw enough to continue looking, but later researchers have had to rely on written descriptions rather than preserved samples or modern forensic analysis. That leaves uncertainty about whether the damaged vegetation resulted from the reported event or from unrelated environmental factors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0e6dKxkqbn8" title="Falcon Lake Incident: The Most Credible UFO Case in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer">Falcon Lake Incident: The Most Credible UFO Case in History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0e6dKxkqbn8">Open on YouTube</a></p></div></div></div>
@@ -309,186 +309,144 @@ Even the reported physical traces are difficult to evaluate today. Contemporary 
 
 ## Why Clan Lake Still Matters in Northwest Territories UFO History
 
-Within the Northwest Territories' scattered UFO record, Clan Lake stands out because it sits at the intersection of witness testimony and official documentation. Many reports consist only of a sighting claim; many [official files]({{ 'official-files-6fe4b6/' | relative_url }}) contain only brief summaries. Clan Lake offers both a detailed narrative and evidence that authorities conducted follow-up enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</span></span></span>
+Within the Northwest Territories' scattered UFO record, Clan Lake stands out because it sits at the intersection of witness testimony and official documentation. Many reports consist only of a sighting claim; many [official files]({{ 'official-files-6fe4b6/' | relative_url }}) contain only brief summaries. Clan Lake offers both a detailed narrative and evidence that authorities conducted follow-up enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</span></span></span>
 
-For that reason, the case is valuable to historians of Canadian UFO reporting regardless of what actually entered the lake. The RCMP file proves that a serious report existed, that witnesses described a rotating object striking the water, and that police investigated the claim. It does not prove that an extraterrestrial craft crashed in the Northwest Territories. The strongest evidence preserved by the file is therefore evidence of the report itself and of the investigation that followed, not of the object's ultimate identity. The Experiencer Support Association+2The Experiencer Support Association <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[experiencersupport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
+For that reason, the case is valuable to historians of Canadian UFO reporting regardless of what actually entered the lake. The RCMP file proves that a serious report existed, that witnesses described a rotating object striking the water, and that police investigated the claim. It does not prove that an extraterrestrial craft crashed in the Northwest Territories. The strongest evidence preserved by the file is therefore evidence of the report itself and of the investigation that followed, not of the object's ultimate identity. The Experiencer Support Association+2The Experiencer Support Association<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[experiencersupport.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-3-dark.svg" | relative_url }}" alt="Clan Lake illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Clan Lake File Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Clan Lake File Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps evaluate witness testimony and trace evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps evaluate witness testimony and trace evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigative procedures and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigative procedures and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides context for unusual witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unusual witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Examines what official records can and cannot prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines what official records can and cannot prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="clan-lake-265c6b-what-did-the-clan-lake-file-really-prove-northwest-territories-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -504,7 +462,7 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -524,7 +482,7 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -556,7 +514,7 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -608,7 +566,7 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -653,7 +611,7 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -694,92 +652,92 @@ For that reason, the case is valuable to historians of Canadian UFO reporting re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july-19-1960</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-july</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>N.W.T. (YELLOWKNIFE DETACHMENT CASE). 18-7-60. 1. With reference to the above, please be advised...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: digitalcollections.trentu.ca  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Beginning especially in the 1960s, RCMP officers submit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 25, 1960 — The water on Clan Lake is considerably lower than on the previous patrol on July 19th., 1960 with only a foot of water...</p></details>
    Published: August 25, 1960  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — 1960, Clan Lake, Northwest Territories. edit. On June 18, 1960, a prospector told the Yellowknife RCMP detachment that a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2026 — 1960, Clan Lake, Northwest Territories. edit. On June 18, 1960, a prospector told the Yellowknife RCMP detachment that a...</p></details>
    Published: March 18, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Canadian UFO  
-   Link: <a href="https://unsolved.com/gallery/canadian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/canadian-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesAfter a Canadian woman witnesses a UFO landing near her home, a mysterious video tape of the event is sent to investiga...</p></details>
+   Link:<a href="https://unsolved.com/gallery/canadian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/canadian-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesAfter a Canadian woman witnesses a UFO landing near her home, a mysterious video tape of the event is sent to investiga...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amazon.com.au  
-   Link: <a href="https://www.amazon.com.au/The-Skeptical-Sleuth/dp/B0D7V43YX7?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.au/The-Skeptical-Sleuth/dp/B0D7V43YX7?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptical SleuthIn this episode join Ryan Stacey as he explores RCMP UFO Report: Strange object striking Clan Lake, Northwest Territo...</p></details>
+   Link:<a href="https://www.amazon.com.au/The-Skeptical-Sleuth/dp/B0D7V43YX7?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.au/The-Skeptical-Sleuth/dp/B0D7V43YX7?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptical SleuthIn this episode join Ryan Stacey as he explores RCMP UFO Report: Strange object striking Clan Lake, Northwest Territo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DOb9ywODo_I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOb9ywODo_I/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 18, 1960, a prospector told the Yellowknife RCMP detachment that a month earlier, he and his partner saw a UFO at Clan Lake, located...</p></details>
+   Link:<a href="https://www.instagram.com/p/DOb9ywODo_I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOb9ywODo_I/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 18, 1960, a prospector told the Yellowknife RCMP detachment that a month earlier, he and his partner saw a UFO at Clan Lake, located...</p></details>
    Published: June 18, 1960  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1960, a prospector told the Yellowknife RCMP detachment that a month earlier. he and his partner saw a UFO at Clan Lake, located 30 mile...</p></details>
+   Link:<a href="https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ph/document/bicol-university/bs-architecture/information-architecture-280-essay/105083087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1960, a prospector told the Yellowknife RCMP detachment that a month earlier. he and his partner saw a UFO at Clan Lake, located 30 mile...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 25 Pages 7201 7500  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsCanadareturned to Clan Lake on AuKuet 1,, 1960 for a more thorough check of the area and hie report reada: &quot;The...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2025%20-%20Pages%207201-7500.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsCanadareturned to Clan Lake on AuKuet 1,, 1960 for a more thorough check of the area and hie report reada: &quot;The...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: edgenorth.ca  
    Title: paranormal north ufos of the nwt  
-   Link: <a href="https://edgenorth.ca/article/paranormal-north-ufos-of-the-nwt/" target="_blank" rel="noopener noreferrer nofollow">https://edgenorth.ca/article/paranormal-north-ufos-of-the-nwt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal North: UFOs of the NWT19 Apr 2016 — Perhaps the most well-researched of the historical cases is one from June 1960 at Clan Lak...</p></details>
+   Link:<a href="https://edgenorth.ca/article/paranormal-north-ufos-of-the-nwt/" target="_blank" rel="noopener noreferrer nofollow">https://edgenorth.ca/article/paranormal-north-ufos-of-the-nwt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal North: UFOs of the NWT19 Apr 2016 — Perhaps the most well-researched of the historical cases is one from June 1960 at Clan Lak...</p></details>
    Published: June 1960  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Un Xplained: UFO Sighting Sets Man On Fire (Season 7) | History  
-   Link: <a href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oFyXP37Qx-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Unveiled | Falcon Lake | The Full Documentary Sci-Fi Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oFyXP37Qx-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oFyXP37Qx-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery Unveiled | Falcon Lake | The Full Documentary Sci-Fi Movie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: UFO Sighting Sets Man On Fire (Season 7) | History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Falcon Lake Incident: The Most Credible UFO Case in History  
-   Link: <a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6dKxkqbn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6dKxkqbn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — From the mid-1960s onward, the RCMP was the main agency responsible for collecting reports from witnesses. Government scien...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — From the mid-1960s onward, the RCMP was the main agency responsible for collecting reports from witnesses. Government scien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — He stopped several times to throw up and to splash some water on his face and...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — He stopped several times to throw up and to splash some water on his face and...</p></details>
    Published: May 2019  

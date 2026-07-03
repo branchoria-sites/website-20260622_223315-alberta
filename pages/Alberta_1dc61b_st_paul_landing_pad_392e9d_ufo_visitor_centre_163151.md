@@ -256,229 +256,187 @@ image: /assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_cent
 
 ## Introduction
 
-The St. Paul UFO Landing Pad survived long after the excitement of its [1967 opening]({{ '1967-opening/' | relative_url }}) because the town gradually turned the monument into a functioning tourism hub rather than leaving it as a roadside curiosity. The key step was the creation of a visitor centre beside the pad during the 1990s. Instead of asking travellers merely to photograph an unusual landmark and drive on, St. Paul gave them reasons to stop, browse, learn about the community and spend time locally. Today the centre combines tourism information, UFO-themed displays and a showcase for local artisans, helping transform a playful centennial monument into one of [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})’s most recognisable small-town attractions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+The St. Paul UFO Landing Pad survived long after the excitement of its [1967 opening]({{ '1967-opening/' | relative_url }}) because the town gradually turned the monument into a functioning tourism hub rather than leaving it as a roadside curiosity. The key step was the creation of a visitor centre beside the pad during the 1990s. Instead of asking travellers merely to photograph an unusual landmark and drive on, St. Paul gave them reasons to stop, browse, learn about the community and spend time locally. Today the centre combines tourism information, UFO-themed displays and a showcase for local artisans, helping transform a playful centennial monument into one of [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})’s most recognisable small-town attractions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-1-dark.svg" | relative_url }}" alt="Visitor Centre illustration 1" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Alberta’s broader UFO culture, this is significant because the site’s continuing relevance comes less from reports of unexplained objects and more from a successful tourism strategy. The visitor centre helped convert an imaginative civic symbol into an enduring part of the local economy and identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+Within Alberta’s broader UFO culture, this is significant because the site’s continuing relevance comes less from reports of unexplained objects and more from a successful tourism strategy. The visitor centre helped convert an imaginative civic symbol into an enduring part of the local economy and identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-b6XBvskzTo" title="This small town built a UFO landing pad... BUT WHY?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-b6XBvskzTo" target="_blank" rel="noopener noreferrer">This small town built a UFO landing pad... BUT WHY?</a></p><p class="youtube-embed-meta">Channel: CBC Arts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-b6XBvskzTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-b6XBvskzTo">Open on YouTube</a></p></div></div></div>
 
 ## The 1990s visitor centre addition
 
-For more than two decades after the landing pad was built, the attraction's main draw was the unusual concrete structure itself. The major change came in the 1990s when St. Paul added a dedicated UFO tourist information centre next to the pad. The Town of St. Paul credits then-mayor Paul Langevin with officially opening the adjacent facility as a way to welcome visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+For more than two decades after the landing pad was built, the attraction's main draw was the unusual concrete structure itself. The major change came in the 1990s when St. Paul added a dedicated UFO tourist information centre next to the pad. The Town of St. Paul credits then-mayor Paul Langevin with officially opening the adjacent facility as a way to welcome visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
-This addition altered how the attraction functioned. A roadside monument can attract attention, but a staffed visitor centre encourages longer visits and creates a gateway to the wider community. The town now presents the centre as both a tourism office and a public welcome space, reinforcing the inclusive message associated with the landing pad since its centennial origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+This addition altered how the attraction functioned. A roadside monument can attract attention, but a staffed visitor centre encourages longer visits and creates a gateway to the wider community. The town now presents the centre as both a tourism office and a public welcome space, reinforcing the inclusive message associated with the landing pad since its centennial origins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
-The shift also reflected a practical reality of rural tourism. Small Alberta communities often compete for attention through distinctive attractions. By pairing the UFO pad with visitor services, St. Paul increased the likelihood that travellers would explore local businesses, museums and events rather than simply stopping for a photograph before continuing down Highway 29. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-snippet">St. PaulVisitorsSt. Paul located 200 km northeast of Edmonton on Highway 29 boasts the World&#x27;s First UFO Landing Pad. A UFO Tourist Infor...</span></span></span>
+The shift also reflected a practical reality of rural tourism. Small Alberta communities often compete for attention through distinctive attractions. By pairing the UFO pad with visitor services, St. Paul increased the likelihood that travellers would explore local businesses, museums and events rather than simply stopping for a photograph before continuing down Highway 29.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-snippet">St. PaulVisitorsSt. Paul located 200 km northeast of Edmonton on Highway 29 boasts the World&#x27;s First UFO Landing Pad. A UFO Tourist Infor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NF2J9f9SpVw" title="Exploring Saint Paul, Alberta and the World Famous UFO Landing Pad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NF2J9f9SpVw" target="_blank" rel="noopener noreferrer">Exploring Saint Paul, Alberta and the World Famous UFO Landing Pad</a></p><p class="youtube-embed-meta">Channel: Strange North</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NF2J9f9SpVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NF2J9f9SpVw">Open on YouTube</a></p></div></div></div>
 
 ## UFO exhibits, selfies and roadside appeal
 
-The visitor centre gave the landing pad a second layer of attraction beyond the monument itself. Tourism materials describe UFO-themed exhibits inside the centre, including displays connected with flying saucer lore, unusual aircraft reports and crop-circle imagery. These exhibits are not presented as scientific proof of extraterrestrial visitation; rather, they extend the playful theme that has defined the site since 1967. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
+The visitor centre gave the landing pad a second layer of attraction beyond the monument itself. Tourism materials describe UFO-themed exhibits inside the centre, including displays connected with flying saucer lore, unusual aircraft reports and crop-circle imagery. These exhibits are not presented as scientific proof of extraterrestrial visitation; rather, they extend the playful theme that has defined the site since 1967.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
 
-That approach matters because the landing pad's appeal has always been broader than belief in UFOs. Visitors can enjoy the attraction whether they are UFO enthusiasts, families on a road trip, fans of unusual roadside architecture or travellers collecting photographs of Alberta's famous oversized landmarks. The centre helps sustain that appeal by giving people something additional to experience after viewing the concrete structure outside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta+2To Do Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
+That approach matters because the landing pad's appeal has always been broader than belief in UFOs. Visitors can enjoy the attraction whether they are UFO enthusiasts, families on a road trip, fans of unusual roadside architecture or travellers collecting photographs of Alberta's famous oversized landmarks. The centre helps sustain that appeal by giving people something additional to experience after viewing the concrete structure outside.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta+2To Do Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
 
-The result is a tourism model built around participation. Travellers arrive for the novelty of the world's first official UFO landing pad, take photographs at the site, browse exhibits, collect information about the region and often leave with souvenirs connected to the community. In tourism terms, the visitor centre converts a brief stop into a more memorable destination experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
+The result is a tourism model built around participation. Travellers arrive for the novelty of the world's first official UFO landing pad, take photographs at the site, browse exhibits, collect information about the region and often leave with souvenirs connected to the community. In tourism terms, the visitor centre converts a brief stop into a more memorable destination experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelalberta.com">[Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelalberta.com</span><span class="citation-popover-snippet">Travel AlbertaUFO Landing Pad &#124; Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-2-dark.svg" | relative_url }}" alt="Visitor Centre illustration 2" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local artisans and the town welcome message
 
-Perhaps the most important development was linking the UFO theme to local economic activity. The visitor centre operates as a boutique featuring work from more than 50 local artisans, including items such as pottery, jewellery, paintings and sculpture. Rather than importing generic alien-themed merchandise, the centre uses the attraction to showcase regional creativity and encourage spending within the community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul+2Tourisme Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+Perhaps the most important development was linking the UFO theme to local economic activity. The visitor centre operates as a boutique featuring work from more than 50 local artisans, including items such as pottery, jewellery, paintings and sculpture. Rather than importing generic alien-themed merchandise, the centre uses the attraction to showcase regional creativity and encourage spending within the community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul+2Tourisme Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
-The town explicitly connects this commercial role with the landing pad's original message of welcome and inclusion. Official tourism material describes the site as standing for unity and presents the centre as a place where both travellers and residents can find information, gifts and local artwork. The emphasis is less on extraterrestrials than on hospitality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+The town explicitly connects this commercial role with the landing pad's original message of welcome and inclusion. Official tourism material describes the site as standing for unity and presents the centre as a place where both travellers and residents can find information, gifts and local artwork. The emphasis is less on extraterrestrials than on hospitality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
-Local reporting has highlighted the same theme. Organisers associated with the tourism centre have described art and artisan displays as a way of bringing people together, linking community participation with the welcoming spirit expressed on the landing pad's famous plaque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakelandtoday.ca">[Lakeland Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakelandtoday.ca</span><span class="citation-popover-title">Lakeland Today Tourist centre hoping to attract visitors and locals alike</span><span class="citation-popover-snippet">Lakeland TodayTourist centre hoping to attract visitors and locals alikeJune 9, 2019 — 9 Jun 2019 — The plaque located in front of the la...</span><span class="citation-popover-meta">Published: June 9, 2019</span></span></span>
+Local reporting has highlighted the same theme. Organisers associated with the tourism centre have described art and artisan displays as a way of bringing people together, linking community participation with the welcoming spirit expressed on the landing pad's famous plaque.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakelandtoday.ca">[Lakeland Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakelandtoday.ca</span><span class="citation-popover-title">Lakeland Today Tourist centre hoping to attract visitors and locals alike</span><span class="citation-popover-snippet">Lakeland TodayTourist centre hoping to attract visitors and locals alikeJune 9, 2019 — 9 Jun 2019 — The plaque located in front of the la...</span><span class="citation-popover-meta">Published: June 9, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7e5r1tzB7EM" title="Yannick Bisson Explains Why St. Paul, Alberta Has A UFO Landing Pad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7e5r1tzB7EM" target="_blank" rel="noopener noreferrer">Yannick Bisson Explains Why St. Paul, Alberta Has A UFO Landing Pad</a></p><p class="youtube-embed-meta">Channel: Strombo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7e5r1tzB7EM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7e5r1tzB7EM">Open on YouTube</a></p></div></div></div>
 
 ## Why the visitor centre matters in Alberta UFO culture
 
-The visitor centre demonstrates how St. Paul turned a symbolic UFO project into a durable tourism asset. Unlike Alberta UFO incidents that are discussed because witnesses reported unexplained aerial phenomena, the landing pad remains notable because a community deliberately built a cultural identity around the idea of UFOs. The centre made that identity practical by providing exhibits, visitor services and a marketplace for local artisans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+The visitor centre demonstrates how St. Paul turned a symbolic UFO project into a durable tourism asset. Unlike Alberta UFO incidents that are discussed because witnesses reported unexplained aerial phenomena, the landing pad remains notable because a community deliberately built a cultural identity around the idea of UFOs. The centre made that identity practical by providing exhibits, visitor services and a marketplace for local artisans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
-As a result, the landing pad continues to function as one of Alberta's best-known roadside attractions. Its longevity owes less to any claim of alien visitation than to the decision to create a visitor experience around the monument. The 1990s tourism centre transformed a clever centennial project into a destination that still draws travellers and promotes St. Paul decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul+2Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
+As a result, the landing pad continues to function as one of Alberta's best-known roadside attractions. Its longevity owes less to any claim of alien visitation than to the decision to create a visitor experience around the monument. The 1990s tourism centre transformed a clever centennial project into a destination that still draws travellers and promotes St. Paul decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpaul.ca">[St. Paul+2Travel Alberta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpaul.ca</span><span class="citation-popover-title">ufo landing pad</span><span class="citation-popover-snippet">St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-3-dark.svg" | relative_url }}" alt="Visitor Centre illustration 3" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a UFO joke became a tourism stop. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a UFO joke became a tourism stop. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broad UFO culture context that helps explain why attractions built around UFO themes continue to draw visitors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad UFO culture context that helps explain why attractions built around UFO themes continue to draw visitors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how stories and beliefs evolve into enduring cultural phenomena, much like a UFO landmark becoming a tourism attraction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how stories and beliefs evolve into enduring cultural phenomena, much like a UFO landmark becoming a tourism attraction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects public fascination with UFOs to the wider cultural interest that supports destinations such as UFO-themed visitor centres.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects public fascination with UFOs to the wider cultural interest that supports destinations such as UFO-themed visitor centres.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives shape communities, identities, and cultural institutions, paralleling the evolution of a UFO tourism site.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives shape communities, identities, and cultural institutions, paralleling the evolution of a UFO tourism site.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="visitor-centre-how-a-ufo-joke-became-a-tourism-stop-alberta-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -494,7 +452,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -514,7 +472,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -546,7 +504,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -598,7 +556,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -643,7 +601,7 @@ As a result, the landing pad continues to function as one of Alberta's best-know
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,112 +642,112 @@ As a result, the landing pad continues to function as one of Alberta's best-know
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stpaul.ca  
    Title: ufo landing pad  
-   Link: <a href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.stpaul.ca/visitors/ufo-landing-pad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</p></details>
+   Link:<a href="https://www.stpaul.ca/visitors/ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.stpaul.ca/visitors/ufo-landing-pad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St. PaulThe Landing PadIn the 1990&#x27;s Mayor Paul Langevin officially opened an adjacent UFO tourist information centre to welcome visitors...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: travelalberta.com  
-   Link: <a href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow">https://www.travelalberta.com/listings/ufo-landing-pad-20618</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travel AlbertaUFO Landing Pad | Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</p></details>
+   Link:<a href="https://www.travelalberta.com/listings/ufo-landing-pad-20618" target="_blank" rel="noopener noreferrer nofollow">https://www.travelalberta.com/listings/ufo-landing-pad-20618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travel AlbertaUFO Landing Pad | Alberta CanadaThe UFO Landing Pad has never welcomed alien visitors, it has served a vital purpose for th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: stpaul.ca  
-   Link: <a href="https://www.stpaul.ca/visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.stpaul.ca/visitors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>St. PaulVisitorsSt. Paul located 200 km northeast of Edmonton on Highway 29 boasts the World&#x27;s First UFO Landing Pad. A UFO Tourist Infor...</p></details>
+   Link:<a href="https://www.stpaul.ca/visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.stpaul.ca/visitors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St. PaulVisitorsSt. Paul located 200 km northeast of Edmonton on Highway 29 boasts the World&#x27;s First UFO Landing Pad. A UFO Tourist Infor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: todocanada.ca  
    Title: To Do Canada10 Things to Do on Your Trip to St  
-   Link: <a href="https://www.todocanada.ca/10-things-to-do-on-your-trip-to-st-paul-alberta/" target="_blank" rel="noopener noreferrer nofollow">https://www.todocanada.ca/10-things-to-do-on-your-trip-to-st-paul-alberta/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, AlbertaFeb 28, 2026 — UFO Landing Pad. You&#x27;ll find the large concrete UFO Landing Pad on Main Street in the centre of town. The Vis...</p></details>
+   Link:<a href="https://www.todocanada.ca/10-things-to-do-on-your-trip-to-st-paul-alberta/" target="_blank" rel="noopener noreferrer nofollow">https://www.todocanada.ca/10-things-to-do-on-your-trip-to-st-paul-alberta/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, AlbertaFeb 28, 2026 — UFO Landing Pad. You&#x27;ll find the large concrete UFO Landing Pad on Main Street in the centre of town. The Vis...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tourismealberta.ca  
-   Link: <a href="https://tourismealberta.ca/en/attrait/ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://tourismealberta.ca/en/attrait/ufo-landing-pad/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Landing PadThe Landing Pad is a wonderful place to get tourist information as well as a special memento or unique gift. Local pottery...</p></details>
+   Link:<a href="https://tourismealberta.ca/en/attrait/ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://tourismealberta.ca/en/attrait/ufo-landing-pad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Landing PadThe Landing Pad is a wonderful place to get tourist information as well as a special memento or unique gift. Local pottery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lakelandtoday.ca  
    Title: Lakeland Today Tourist centre hoping to attract visitors and locals alike  
-   Link: <a href="https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakeland TodayTourist centre hoping to attract visitors and locals alikeJune 9, 2019 — 9 Jun 2019 — The plaque located in front of the la...</p></details>
+   Link:<a href="https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/st-paul-news/tourist-centre-hoping-to-attract-visitors-and-locals-alike-1911198</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lakeland TodayTourist centre hoping to attract visitors and locals alikeJune 9, 2019 — 9 Jun 2019 — The plaque located in front of the la...</p></details>
    Published: June 9, 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lakelandtoday.ca  
    Title: ufo landing pad the best landmark in the lakeland 11106881  
-   Link: <a href="https://www.lakelandtoday.ca/st-paul-news/ufo-landing-pad-the-best-landmark-in-the-lakeland-11106881" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/st-paul-news/ufo-landing-pad-the-best-landmark-in-the-lakeland-11106881</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO landing pad the best landmark in the Lakeland26 Aug 2025 — In a region known for quirky roadside attractions, one landmark has proven...</p></details>
+   Link:<a href="https://www.lakelandtoday.ca/st-paul-news/ufo-landing-pad-the-best-landmark-in-the-lakeland-11106881" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/st-paul-news/ufo-landing-pad-the-best-landmark-in-the-lakeland-11106881</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO landing pad the best landmark in the Lakeland26 Aug 2025 — In a region known for quirky roadside attractions, one landmark has proven...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: UF O Landing Pad St  
-   Link: <a href="https://www.facebook.com/100057209000379/?locale=ca_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057209000379/?locale=ca_ES</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul | Saint Paul ABCalling All Artisans! 🛍️ The Tourism Centre will be open May 12, 13 &amp; 14 from 12:00 PM to 6:00 PM to accept artisan i...</p></details>
+   Link:<a href="https://www.facebook.com/100057209000379/?locale=ca_ES" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057209000379/?locale=ca_ES</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul | Saint Paul ABCalling All Artisans! 🛍️ The Tourism Centre will be open May 12, 13 &amp; 14 from 12:00 PM to 6:00 PM to accept artisan i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: county.stpaul.ab.ca  
    Title: stpaul.ab.ca UF O Landing Pad  
-   Link: <a href="https://www.county.stpaul.ab.ca/venue/ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://www.county.stpaul.ab.ca/venue/ufo-landing-pad/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landing Pad - County of St. PaulUFO Landing Pad. « All Events. Address. 4844-5012 53 Street St. Paul, Alberta Canada Get Directions. Even...</p></details>
+   Link:<a href="https://www.county.stpaul.ab.ca/venue/ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://www.county.stpaul.ab.ca/venue/ufo-landing-pad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landing Pad - County of St. PaulUFO Landing Pad. « All Events. Address. 4844-5012 53 Street St. Paul, Alberta Canada Get Directions. Even...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: expedia.ca  
-   Link: <a href="https://www.expedia.ca/Worlds-First-UFO-Landing-Pad-St-Paul.d6190457.Vacation-Attraction" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.ca/Worlds-First-UFO-Landing-Pad-St-Paul.d6190457.Vacation-Attraction</a>  
+   Link:<a href="https://www.expedia.ca/Worlds-First-UFO-Landing-Pad-St-Paul.d6190457.Vacation-Attraction" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.ca/Worlds-First-UFO-Landing-Pad-St-Paul.d6190457.Vacation-Attraction</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: discoverapega.ca  
    Title: discover APEGACalling All Flying Saucers: Free Parking in St  
-   Link: <a href="https://discoverapega.ca/stories/calling-all-flying-saucers-free-parking-in-st-paul/" target="_blank" rel="noopener noreferrer nofollow">https://discoverapega.ca/stories/calling-all-flying-saucers-free-parking-in-st-paul/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PaulToday, the landing pad includes a UFO tourist information centre to welcome visitors – from this world, or any other. Photo courtesy...</p></details>
+   Link:<a href="https://discoverapega.ca/stories/calling-all-flying-saucers-free-parking-in-st-paul/" target="_blank" rel="noopener noreferrer nofollow">https://discoverapega.ca/stories/calling-all-flying-saucers-free-parking-in-st-paul/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PaulToday, the landing pad includes a UFO tourist information centre to welcome visitors – from this world, or any other. Photo courtesy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: atlasobscura.com  
    Title: World's First UFO Landing Pad in Saint Paul St  
-   Link: <a href="https://www.atlasobscura.com/places/world-s-first-ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/world-s-first-ufo-landing-pad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta has an official UFO landing welcome site. Weighing just over 130 tons, the large flat concrete structure contains a time ca...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/world-s-first-ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/world-s-first-ufo-landing-pad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta has an official UFO landing welcome site. Weighing just over 130 tons, the large flat concrete structure contains a time ca...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DRtSulnkdMy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRtSulnkdMy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mall town with big aspirations for intergalactic visitors!Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DRtSulnkdMy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRtSulnkdMy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mall town with big aspirations for intergalactic visitors!Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: behindthehedge.wordpress.com  
    Title: thoughts on a ufo landing pad  
-   Link: <a href="https://behindthehedge.wordpress.com/2023/08/15/thoughts-on-a-ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://behindthehedge.wordpress.com/2023/08/15/thoughts-on-a-ufo-landing-pad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul UFO Landing Pad is open and welcomes visitors throughout the summer months. The Town of St. Paul, Alberta, is open and welcoming to...</p></details>
+   Link:<a href="https://behindthehedge.wordpress.com/2023/08/15/thoughts-on-a-ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://behindthehedge.wordpress.com/2023/08/15/thoughts-on-a-ufo-landing-pad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul UFO Landing Pad is open and welcomes visitors throughout the summer months. The Town of St. Paul, Alberta, is open and welcoming to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amainsider.com  
    Title: Where in the world: UFO Landing Pad  
-   Link: <a href="https://amainsider.com/where-in-the-world-ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://amainsider.com/where-in-the-world-ufo-landing-pad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta. In 1967, a proposal was made to build the world&#x27;s first UFO landing pad...Read more...</p></details>
+   Link:<a href="https://amainsider.com/where-in-the-world-ufo-landing-pad/" target="_blank" rel="noopener noreferrer nofollow">https://amainsider.com/where-in-the-world-ufo-landing-pad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta. In 1967, a proposal was made to build the world&#x27;s first UFO landing pad...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iflscience.com  
    Title: canada is home to the worlds first official ufo landing pad 80526  
-   Link: <a href="https://www.iflscience.com/canada-is-home-to-the-worlds-first-official-ufo-landing-pad-80526" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/canada-is-home-to-the-worlds-first-official-ufo-landing-pad-80526</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta. A photograph from the official opening of the landing pad in 1967...Read more...</p></details>
+   Link:<a href="https://www.iflscience.com/canada-is-home-to-the-worlds-first-official-ufo-landing-pad-80526" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/canada-is-home-to-the-worlds-first-official-ufo-landing-pad-80526</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta. A photograph from the official opening of the landing pad in 1967...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Yannick Bisson Explains Why St. Paul, Alberta Has A UFO Landing Pad  
-   Link: <a href="https://www.youtube.com/watch?v=7e5r1tzB7EM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7e5r1tzB7EM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling With Dan - July 15 - UFO Landing Pad in St. Paul, AB...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7e5r1tzB7EM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7e5r1tzB7EM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travelling With Dan - July 15 - UFO Landing Pad in St. Paul, AB...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/p/UFO-Landing-Pad-St-Paul-100057209000379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/UFO-Landing-Pad-St-Paul-100057209000379/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn about our town history.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/p/UFO-Landing-Pad-St-Paul-100057209000379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/p/UFO-Landing-Pad-St-Paul-100057209000379/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn about our town history.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Exploring Saint Paul, Alberta and the World Famous UFO Landing Pad  
-   Link: <a href="https://www.youtube.com/watch?v=NF2J9f9SpVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NF2J9f9SpVw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This small town built a UFO landing pad... BUT WHY?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NF2J9f9SpVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NF2J9f9SpVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This small town built a UFO landing pad... BUT WHY?...</p></details>

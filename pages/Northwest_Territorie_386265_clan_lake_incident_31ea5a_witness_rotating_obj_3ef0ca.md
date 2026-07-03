@@ -256,21 +256,21 @@ image: /assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witn
 
 ## Introduction
 
-The strength of the [Clan Lake incident]({{ 'clan-lake/' | relative_url }}) has always rested less on what was allegedly found in the lake than on whether the original witness deserves confidence. Unlike many UFO reports from the period, the case did not begin with a fleeting light in the sky. It began with a man in a remote area north of Yellowknife who reported hearing an approaching sound, witnessing a splash in the water, and then seeing what he described as a rotating object before it disappeared beneath the surface. The Royal Canadian Mounted Police (RCMP) considered the account credible enough to launch a site investigation, making witness reliability a central question in assessing the case. The evidence neither fully confirms nor fully discredits the claim, leaving the witness testimony as one of the most important pieces of the Clan Lake story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+The strength of the [Clan Lake incident]({{ 'clan-lake/' | relative_url }}) has always rested less on what was allegedly found in the lake than on whether the original witness deserves confidence. Unlike many UFO reports from the period, the case did not begin with a fleeting light in the sky. It began with a man in a remote area north of Yellowknife who reported hearing an approaching sound, witnessing a splash in the water, and then seeing what he described as a rotating object before it disappeared beneath the surface. The Royal Canadian Mounted Police (RCMP) considered the account credible enough to launch a site investigation, making witness reliability a central question in assessing the case. The evidence neither fully confirms nor fully discredits the claim, leaving the witness testimony as one of the most important pieces of the Clan Lake story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-1-dark.svg" | relative_url }}" alt="Witness Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the camper said he heard and saw
 
-According to the surviving summaries of the RCMP file, the witness reported hearing a distant sound that reminded him of a large aircraft. He looked for a source in the sky but could not identify one. The sound reportedly became louder, after which he heard something strike the water. Turning towards the disturbance, he said he observed a splash and an object in the lake that appeared to have projecting arms or spokes and seemed to be rotating. The object allegedly slowed and then sank beneath the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+According to the surviving summaries of the RCMP file, the witness reported hearing a distant sound that reminded him of a large aircraft. He looked for a source in the sky but could not identify one. The sound reportedly became louder, after which he heard something strike the water. Turning towards the disturbance, he said he observed a splash and an object in the lake that appeared to have projecting arms or spokes and seemed to be rotating. The object allegedly slowed and then sank beneath the surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 Several aspects of the account are worth noting.
 
 First, the witness described a sequence rather than a single visual impression: sound, impact, splash, visible object, rotation, and disappearance. Such layered descriptions are often viewed by investigators as more useful than reports consisting solely of an unusual light.
 
-Second, the most unusual feature was not the alleged impact but the description of a rotating object with spoke-like features. That detail has become one of the defining elements of the Clan Lake case because it goes beyond a generic claim of “something in the water”. It suggests the witness believed he saw structure and motion rather than merely disturbed water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Second, the most unusual feature was not the alleged impact but the description of a rotating object with spoke-like features. That detail has become one of the defining elements of the Clan Lake case because it goes beyond a generic claim of “something in the water”. It suggests the witness believed he saw structure and motion rather than merely disturbed water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-Third, the observation appears to have been brief. There were no photographs, no measured dimensions, and no independent confirmation of the object's appearance. The rotating-spokes description therefore depends entirely on the witness's interpretation of what he believed he saw in the moments after the splash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Third, the observation appears to have been brief. There were no photographs, no measured dimensions, and no independent confirmation of the object's appearance. The rotating-spokes description therefore depends entirely on the witness's interpretation of what he believed he saw in the moments after the splash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q5kKcOBEvG8" title="Did a UFO Crash at Clan Lake?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q5kKcOBEvG8" target="_blank" rel="noopener noreferrer">Did a UFO Crash at Clan Lake?</a></p><p class="youtube-embed-meta">Channel: Mikey McBryan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q5kKcOBEvG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q5kKcOBEvG8">Open on YouTube</a></p></div></div></div>
@@ -279,11 +279,11 @@ Third, the observation appears to have been brief. There were no photographs, no
 
 One reason the Clan Lake report has remained part of [Northwest Territories]({{ 'northwest-territories/' | relative_url }}) UFO history is that the RCMP did not dismiss the witness as a prankster, attention-seeker, or unreliable observer.
 
-Archival summaries indicate that police regarded him as a long-time resident of the Yellowknife area who worked as a prospector and woodcutter and was familiar with northern conditions. In practical terms, this mattered. A person who spends much of his life outdoors in the bush is generally expected to recognise common aircraft sounds, weather conditions, wildlife activity, and ordinary disturbances on lakes. Investigators therefore viewed his report as coming from someone accustomed to observing his surroundings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Archival summaries indicate that police regarded him as a long-time resident of the Yellowknife area who worked as a prospector and woodcutter and was familiar with northern conditions. In practical terms, this mattered. A person who spends much of his life outdoors in the bush is generally expected to recognise common aircraft sounds, weather conditions, wildlife activity, and ordinary disturbances on lakes. Investigators therefore viewed his report as coming from someone accustomed to observing his surroundings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-The RCMP response itself also reflects the weight given to the witness. Officers arranged aerial inspections, examined the reported location, probed the lake bottom, used radiation-detection equipment, and considered further technical surveys. Such steps do not prove the witness was correct, but they show officials believed the report justified field investigation. In the context of [Canadian UFO files]({{ 'file-paths/' | relative_url }}) from the period, many reports received far less attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+The RCMP response itself also reflects the weight given to the witness. Officers arranged aerial inspections, examined the reported location, probed the lake bottom, used radiation-detection equipment, and considered further technical surveys. Such steps do not prove the witness was correct, but they show officials believed the report justified field investigation. In the context of [Canadian UFO files]({{ 'file-paths/' | relative_url }}) from the period, many reports received far less attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-Another point in the witness's favour is that parts of his account appeared consistent with conditions later observed at the site. Investigators reported an area where reeds were absent and where water appeared deeper than the surrounding vegetation. While this did not verify the claimed object, it meant the witness had directed officials to a location where some form of disturbance seemed present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Another point in the witness's favour is that parts of his account appeared consistent with conditions later observed at the site. Investigators reported an area where reeds were absent and where water appeared deeper than the surrounding vegetation. While this did not verify the claimed object, it meant the witness had directed officials to a location where some form of disturbance seemed present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-2-dark.svg" | relative_url }}" alt="Witness Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -291,13 +291,13 @@ Another point in the witness's favour is that parts of his account appeared cons
 
 Reliability is not the same as accuracy. A sincere witness can honestly report an event and still misinterpret important details.
 
-The greatest weakness in the Clan Lake testimony concerns the rotating object itself. The witness reportedly saw the object only after hearing an impact and observing a splash. Water disturbed by a sudden strike can produce rapidly changing shapes, reflections, shadows, and moving vegetation. Under such conditions, distinguishing an actual structured object from a brief visual impression can be difficult. The witness may have accurately observed motion in the water while incorrectly interpreting its cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+The greatest weakness in the Clan Lake testimony concerns the rotating object itself. The witness reportedly saw the object only after hearing an impact and observing a splash. Water disturbed by a sudden strike can produce rapidly changing shapes, reflections, shadows, and moving vegetation. Under such conditions, distinguishing an actual structured object from a brief visual impression can be difficult. The witness may have accurately observed motion in the water while incorrectly interpreting its cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-Distance is another issue. Available summaries do not provide precise measurements showing how far the witness was from the splash point at the moment of observation. Without that information, it is difficult to judge how clearly structural details such as spokes or arms could have been seen. A feature that appears obvious in memory may have been far less distinct in the original moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Distance is another issue. Available summaries do not provide precise measurements showing how far the witness was from the splash point at the moment of observation. Without that information, it is difficult to judge how clearly structural details such as spokes or arms could have been seen. A feature that appears obvious in memory may have been far less distinct in the original moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-The timing of the observation also matters. Human perception is strongest when viewing a stable object for an extended period. The Clan Lake report instead describes a fast-moving sequence ending with an object disappearing beneath the water. Short-duration observations are generally more vulnerable to errors of interpretation than prolonged ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">From 1950-1995, the Canadian government investigated the phenomenon of unidentified flying objects...</span></span></span>
+The timing of the observation also matters. Human perception is strongest when viewing a stable object for an extended period. The Clan Lake report instead describes a fast-moving sequence ending with an object disappearing beneath the water. Short-duration observations are generally more vulnerable to errors of interpretation than prolonged ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Batadora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">From 1950-1995, the Canadian government investigated the phenomenon of unidentified flying objects...</span></span></span>
 
-Finally, no object was recovered. Investigators found no confirmed fragment, no metal debris, no radiation anomaly, and no physical artefact that matched the witness's description. As a result, the rotating-object claim remains unsupported by independent physical evidence. The testimony stands largely on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+Finally, no object was recovered. Investigators found no confirmed fragment, no metal debris, no radiation anomaly, and no physical artefact that matched the witness's description. As a result, the rotating-object claim remains unsupported by independent physical evidence. The testimony stands largely on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rp9De4mmljo" title="Episode 15: Looking for a UFO!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rp9De4mmljo" target="_blank" rel="noopener noreferrer">Episode 15: Looking for a UFO!</a></p><p class="youtube-embed-meta">Channel: Shit I Found Diving</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rp9De4mmljo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rp9De4mmljo">Open on YouTube</a></p></div></div></div>
@@ -307,202 +307,146 @@ Finally, no object was recovered. Investigators found no confirmed fragment, no 
 
 ## What the witness testimony contributes to the Clan Lake case
 
-The Clan Lake witness occupies an unusual position in Canadian UFO history. The available records do not portray him as an unreliable observer, and the RCMP's actions suggest they regarded his report as credible enough to investigate seriously. At the same time, the most dramatic element of the story—the rotating object with spoke-like features—rests entirely on a brief personal observation that cannot be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+The Clan Lake witness occupies an unusual position in Canadian UFO history. The available records do not portray him as an unreliable observer, and the RCMP's actions suggest they regarded his report as credible enough to investigate seriously. At the same time, the most dramatic element of the story—the rotating object with spoke-like features—rests entirely on a brief personal observation that cannot be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
-For that reason, the strongest reading of the evidence is cautious. The witness appears to have been considered trustworthy by those who knew him and by the officers who examined the case. Yet trustworthiness does not eliminate the possibility of perceptual error. The account provides a plausible reason why authorities searched Clan Lake, but it does not by itself establish what entered the water, whether anything extraordinary was involved, or whether the rotating object existed exactly as described. That tension between a credible witness and inconclusive evidence remains one of the defining features of the Clan Lake incident within the Northwest Territories' UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+For that reason, the strongest reading of the evidence is cautious. The witness appears to have been considered trustworthy by those who knew him and by the officers who examined the case. Yet trustworthiness does not eliminate the possibility of perceptual error. The account provides a plausible reason why authorities searched Clan Lake, but it does not by itself establish what entered the water, whether anything extraordinary was involved, or whether the rotating object existed exactly as described. That tension between a credible witness and inconclusive evidence remains one of the defining features of the Clan Lake incident within the Northwest Territories' UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-3-dark.svg" | relative_url }}" alt="Witness Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How reliable was the Clan Lake witness?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How reliable was the Clan Lake witness?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong focus on witness testimony and reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong focus on witness testimony and reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines witness credibility in significant cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness credibility in significant cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Provides local context for evaluating reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides local context for evaluating reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Includes discussion of witness accounts and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of witness accounts and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="witness-claim-how-reliable-was-the-clan-lake-witness-northwest-territories-ufo-model-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-shado+-moonbase+-interceptor+-gerry+-anderson+-tv+-book+-books+-series+-television+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-was-the-clan-lake-witness-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -shado -moonbase -interceptor -gerry -anderson -tv -book -books -series -television -band" data-ebay-reference="how-reliable-was-the-clan-lake-witness-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +462,7 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +482,7 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +514,7 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +566,7 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +611,7 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,74 +649,73 @@ For that reason, the strongest reading of the evidence is cautious. The witness 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995July 29, 2019 — 7 Apr 2022 — UFO drawing from an RCMP report of a Wi...</p></details>
    Published: July 29, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: batadora.trentu.ca  
    Title: etd 776  
-   Link: <a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1950-1995, the Canadian government investigated the phenomenon of unidentified flying objects...</p></details>
+   Link:<a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 1950-1995, the Canadian government investigated the phenomenon of unidentified flying objects...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a clip from an RCMP intel document investigating...RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – A...</p></details>
+   Link:<a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a clip from an RCMP intel document investigating...RCMP UFO Report: Strange Object Striking Clan Lake, Northwest Territories – A...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bthr.ca  
-   Link: <a href="https://www.bthr.ca/boundary-trail-archives/boundary-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.bthr.ca/boundary-trail-archives/boundary-archives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP HERITAGE STORIESAbout 9 o&#x27;clock two mornings later as the Commissioner was riding up to the advance guard, he noticed some moving ob...</p></details>
+   Link:<a href="https://www.bthr.ca/boundary-trail-archives/boundary-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.bthr.ca/boundary-trail-archives/boundary-archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP HERITAGE STORIESAbout 9 o&#x27;clock two mornings later as the Commissioner was riding up to the advance guard, he noticed some moving ob...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: parks.canada.ca  
-   Link: <a href="https://parks.canada.ca/culture/balados-podcasts" target="_blank" rel="noopener noreferrer nofollow">https://parks.canada.ca/culture/balados-podcasts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caReCollections: a Parks Canada podcastby ES Plus — A history and archaeology podcast. ReCollections will take you on a journey, c...</p></details>
+   Link:<a href="https://parks.canada.ca/culture/balados-podcasts" target="_blank" rel="noopener noreferrer nofollow">https://parks.canada.ca/culture/balados-podcasts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caReCollections: a Parks Canada podcastby ES Plus — A history and archaeology podcast. ReCollections will take you on a journey, c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q5kKcOBEvG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q5kKcOBEvG8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Did a UFO Crash at Clan Lake?[https://bit.ly/2HAiYN7](https://bit.ly/2HAiYN7) Have you seen a UFO in Canada and want to Report it? MUFON CANADA-[https://www.mufoncm...&quot;](https://www.mufoncm...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q5kKcOBEvG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q5kKcOBEvG8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Did a UFO Crash at Clan Lake?[https://bit.ly/2HAiYN7](https://bit.ly/2HAiYN7) Have you seen a UFO in Canada and want to Report it? MUFON CANADA-[https://www.mufoncm...&quot;](https://www.mufoncm...&quot;)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: parkscanadahistory.com  
-   Link: <a href="https://parkscanadahistory.com/series/chs/21/chs21-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parkscanadahistory.com/series/chs/21/chs21-eng.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>S.W. Horrall, official historian of the Royal Canadian Mounted Police, gave valuable assistance at several stages of the project of which...</p></details>
+   Link:<a href="https://parkscanadahistory.com/series/chs/21/chs21-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parkscanadahistory.com/series/chs/21/chs21-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S.W. Horrall, official historian of the Royal Canadian Mounted Police, gave valuable assistance at several stages of the project of which...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cci.conservation/posts/shekon-my-name-is-john-moses-i-am-the-manager-of-the-objects-paper-and-archaeolo/6020432201330443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cci.conservation/posts/shekon-my-name-is-john-moses-i-am-the-manager-of-the-objects-paper-and-archaeolo/6020432201330443/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>h Indigenous ancestral objects left Indigenous hands and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cci.conservation/posts/shekon-my-name-is-john-moses-i-am-the-manager-of-the-objects-paper-and-archaeolo/6020432201330443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cci.conservation/posts/shekon-my-name-is-john-moses-i-am-the-manager-of-the-objects-paper-and-archaeolo/6020432201330443/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h Indigenous ancestral objects left Indigenous hands and...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he object then disappear-- ing over the horizon.Read more...</p></details>
+   Link:<a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he object then disappear-- ing over the horizon.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 29 Pages 8401 8759  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of U.F.o. -. -. Maple Ridge, Carleton County, New Bruns·.d.ck. 1 l-1AY... R.C.M.P. for bringing this report to our. 7? attention...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2029%20-%20Pages%208401-8759.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of U.F.o. -. -. Maple Ridge, Carleton County, New Bruns·.d.ck. 1 l-1AY... R.C.M.P. for bringing this report to our. 7? attention...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaOn June 18, 1960, a prospector told the Yellowknife RCMP detachment that a month earlier, he and his partner sa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaOn June 18, 1960, a prospector told the Yellowknife RCMP detachment that a month earlier, he and his partner sa...</p></details>
    Published: June 18, 1960  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: npshistory.com  
    Title: NP S Incident Reports  
-   Link: <a href="https://npshistory.com/morningreport/incidents/glac.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/morningreport/incidents/glac.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NPS Incident Reports - Glacier National ParkThe following Incident Reports were extracted from the NPS Morning Reports/Coalition Reports...</p></details>
+   Link:<a href="https://npshistory.com/morningreport/incidents/glac.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/morningreport/incidents/glac.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NPS Incident Reports - Glacier National ParkThe following Incident Reports were extracted from the NPS Morning Reports/Coalition Reports...</p></details>

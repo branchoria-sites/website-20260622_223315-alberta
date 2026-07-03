@@ -260,7 +260,7 @@ In a territory where documented UFO reports are relatively rare, the burst of si
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-1-dark.svg" | relative_url }}" alt="2006 Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than providing strong evidence for an unexplained craft, the 2006 cluster is generally regarded as one of Nunavut's clearest examples of a likely meteor or fireball event being observed from many different locations. The episode remains useful within Nunavut's UFO history because it shows how sparse northern reporting can suddenly produce a concentrated burst of sightings when a particularly bright object crosses the Arctic sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
+Rather than providing strong evidence for an unexplained craft, the 2006 cluster is generally regarded as one of Nunavut's clearest examples of a likely meteor or fireball event being observed from many different locations. The episode remains useful within Nunavut's UFO history because it shows how sparse northern reporting can suddenly produce a concentrated burst of sightings when a particularly bright object crosses the Arctic sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
 
 ## Reports from six communities
 
@@ -278,7 +278,7 @@ Accounts collected through Canadian UFO-reporting channels indicated that unusua
 
 For UFO researchers, the geographical spread was initially striking. Nunavut's communities are separated by enormous distances, and most years produce very few publicly archived reports. Seeing multiple communities report something unusual at roughly the same time naturally attracts attention.
 
-However, the same geographical spread also points towards a simpler explanation. A large meteor entering the atmosphere at high altitude can be visible over hundreds of kilometres. In some cases, a bright bolide can be seen across several provinces, territories, or even international borders. Modern meteor databases routinely record single fireballs generating reports from dozens or hundreds of locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">british columbia fireball september 4th 2017</span><span class="citation-popover-snippet">American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</span></span></span>
+However, the same geographical spread also points towards a simpler explanation. A large meteor entering the atmosphere at high altitude can be visible over hundreds of kilometres. In some cases, a bright bolide can be seen across several provinces, territories, or even international borders. Modern meteor databases routinely record single fireballs generating reports from dozens or hundreds of locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">british columbia fireball september 4th 2017</span><span class="citation-popover-snippet">American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
@@ -291,7 +291,7 @@ A bright fireball has several features that make it easy to mistake for somethin
 
 ### Extreme brightness
 
-Large meteors can become brighter than Venus and, in some cases, rival the full Moon. Against the dark skies common in northern Canada, such an object can appear startlingly unusual. Astronomers classify these exceptionally bright meteors as fireballs or bolides. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">more on 21 september 2012 fireball why</span><span class="citation-popover-snippet">More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</span><span class="citation-popover-meta">Published: september 2012</span></span></span>
+Large meteors can become brighter than Venus and, in some cases, rival the full Moon. Against the dark skies common in northern Canada, such an object can appear startlingly unusual. Astronomers classify these exceptionally bright meteors as fireballs or bolides.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">more on 21 september 2012 fireball why</span><span class="citation-popover-snippet">More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</span><span class="citation-popover-meta">Published: september 2012</span></span></span>
 
 ### Apparent proximity
 
@@ -307,7 +307,7 @@ A meteor's path can look dramatically different depending on where the observer 
 
 ### Fragmentation and colour changes
 
-Fireballs often break apart as they travel through the atmosphere. Witnesses may report multiple lights, sudden flashes, colour changes, or apparent explosions. Such details frequently appear in UFO reports before investigators identify a meteoric origin. Astronomical studies of major fireballs have repeatedly documented fragmentation, bright flares, and long visible trajectories that can easily be interpreted as unusual aerial behaviour by unprepared observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">more on 21 september 2012 fireball why</span><span class="citation-popover-snippet">More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</span><span class="citation-popover-meta">Published: september 2012</span></span></span>
+Fireballs often break apart as they travel through the atmosphere. Witnesses may report multiple lights, sudden flashes, colour changes, or apparent explosions. Such details frequently appear in UFO reports before investigators identify a meteoric origin. Astronomical studies of major fireballs have repeatedly documented fragmentation, bright flares, and long visible trajectories that can easily be interpreted as unusual aerial behaviour by unprepared observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">more on 21 september 2012 fireball why</span><span class="citation-popover-snippet">More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</span><span class="citation-popover-meta">Published: september 2012</span></span></span>
 
 ## Why a meteor explanation fits the evidence
 
@@ -328,7 +328,7 @@ Investigators generally look for several indicators when evaluating a possible f
 
 The available information about the September 2006 Nunavut cluster aligns more closely with these characteristics than with the classic features of a long-duration UFO case.
 
-Importantly, no widely cited follow-up investigation produced evidence of a landed object, radar-confirmed unknown aircraft, recovered material, or an enduring unexplained aerial phenomenon. Later discussions of the sightings have generally treated them as likely astronomical events rather than as one of Canada's major unresolved UFO incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
+Importantly, no widely cited follow-up investigation produced evidence of a landed object, radar-confirmed unknown aircraft, recovered material, or an enduring unexplained aerial phenomenon. Later discussions of the sightings have generally treated them as likely astronomical events rather than as one of Canada's major unresolved UFO incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKdkEdOrRUw" title="American Meteor Society describes fireball seen in Heartland sky as an abnormally large meteor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKdkEdOrRUw" target="_blank" rel="noopener noreferrer">American Meteor Society describes fireball seen in Heartland sky as an abnormally large meteor</a></p><p class="youtube-embed-meta">Channel: KFVS12 | Heartland News, Weather &amp; Sports</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKdkEdOrRUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKdkEdOrRUw">Open on YouTube</a></p></div></div></div>
@@ -339,7 +339,7 @@ The significance of the 2006 fireball cluster is not that it remains mysterious.
 
 Because the territory has a small population spread across an immense area, most years generate only a handful of publicly recorded UFO reports. A single bright meteor can therefore dominate the record for an entire period and create the appearance of a regional sighting wave.
 
-The episode also serves as a useful comparison point for later Nunavut cases. For example, pilot-reported sightings or incidents that involve aviation reporting systems can be evaluated against the 2006 cluster. The fireball reports demonstrate what a likely astronomical event looks like in the territory's sparse archive: many witnesses, broad geographic coverage, brief observations, and a natural explanation that fits the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+The episode also serves as a useful comparison point for later Nunavut cases. For example, pilot-reported sightings or incidents that involve aviation reporting systems can be evaluated against the 2006 cluster. The fireball reports demonstrate what a likely astronomical event looks like in the territory's sparse archive: many witnesses, broad geographic coverage, brief observations, and a natural explanation that fits the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IQLupGIJMSU" title="Celestial object lights up night sky over Vancouver Island and Washington state" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IQLupGIJMSU" target="_blank" rel="noopener noreferrer">Celestial object lights up night sky over Vancouver Island and Washington state</a></p><p class="youtube-embed-meta">Channel: CTV News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IQLupGIJMSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IQLupGIJMSU">Open on YouTube</a></p></div></div></div>
@@ -348,184 +348,142 @@ The episode also serves as a useful comparison point for later Nunavut cases. Fo
 
 Based on the evidence available, the most reasonable conclusion is that the September 2006 cluster was probably not a fleet of unidentified craft but a bright meteor or related fireball event seen from multiple Nunavut communities.
 
-The case remains noteworthy because it is one of the clearest examples in Nunavut's record of how a genuine sky phenomenon can generate a sudden concentration of UFO reports. Far from weakening the territory's UFO history, it helps explain it. In a place where sightings are sparse and communities are widely separated, a spectacular meteor can briefly transform a quiet archive into what looks like a UFO flap—until the wider pattern reveals a more ordinary, though still impressive, celestial cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">british columbia fireball september 4th 2017</span><span class="citation-popover-snippet">American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</span></span></span>
+The case remains noteworthy because it is one of the clearest examples in Nunavut's record of how a genuine sky phenomenon can generate a sudden concentration of UFO reports. Far from weakening the territory's UFO history, it helps explain it. In a place where sightings are sparse and communities are widely separated, a spectacular meteor can briefly transform a quiet archive into what looks like a UFO flap—until the wider pattern reveals a more ordinary, though still impressive, celestial cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society+2sattrackcam.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">british columbia fireball september 4th 2017</span><span class="citation-popover-snippet">American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-3-dark.svg" | relative_url }}" alt="2006 Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Nunavut&#x27;s 2006 fireballs really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Nunavut&#x27;s 2006 fireballs really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers methods for evaluating sightings and potential misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers methods for evaluating sightings and potential misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for distinguishing unexplained reports from likely astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for distinguishing unexplained reports from likely astronomical events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly addresses bright meteor events that can generate UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses bright meteor events that can generate UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains visible celestial phenomena often mistaken for unusual objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains visible celestial phenomena often mistaken for unusual objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="2006-fireballs-were-nunavut-s-2006-fireballs-really-ufos-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +499,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +519,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +551,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +603,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +648,7 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,108 +689,108 @@ The case remains noteworthy because it is one of the clearest examples in Nunavu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sattrackcam.blogspot.com  
    Title: more on 21 september 2012 fireball why  
-   Link: <a href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</p></details>
+   Link:<a href="https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2012/09/more-on-21-september-2012-fireball-why.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More on the 21 September 2012 fireball: why it definitely...24 Sept 2012 — This quick back-of-the-envelope reconstruction therefore show...</p></details>
    Published: september 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nunatsiaq.com  
    Title: fireballs and shooting stars  
-   Link: <a href="https://nunatsiaq.com/stories/article/fireballs-and-shooting-stars/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/fireballs-and-shooting-stars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2026 — It was the Leonid Meteor Shower, a meteor storm that occurs roughly every 33 years. Inuit had seen meteors before, what are...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/fireballs-and-shooting-stars/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/fireballs-and-shooting-stars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 May 2026 — It was the Leonid Meteor Shower, a meteor storm that occurs roughly every 33 years. Inuit had seen meteors before, what are...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Celestial object lights up night sky over Vancouver Island and Washington state  
-   Link: <a href="https://www.youtube.com/watch?v=IQLupGIJMSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IQLupGIJMSU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society describes fireball seen in Heartland sky as an abnormally large meteor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IQLupGIJMSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IQLupGIJMSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor Society describes fireball seen in Heartland sky as an abnormally large meteor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RKdkEdOrRUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKdkEdOrRUw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RKdkEdOrRUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKdkEdOrRUw</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amsmeteors.org  
    Title: british columbia fireball september 4th 2017  
-   Link: <a href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</p></details>
+   Link:<a href="https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2017/09/british-columbia-fireball-september-4th-2017/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyBritish Columbia Fireball – September 4th, 20175 Sept 2017 — The AMS has received over 300 reports so far about of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All countries, Afghanistan, Aland Islands, Albania, Algeria... 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All countries, Afghanistan, Aland Islands, Albania, Algeria... 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2393127970/posts/10163302891317971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163302891317971/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in Atlantic CanadaThere are reports of a fireball seen from Atlantic Canada particularly in Nova Scotia. Apparently, at abo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2393127970/posts/10163302891317971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163302891317971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in Atlantic CanadaThere are reports of a fireball seen from Atlantic Canada particularly in Nova Scotia. Apparently, at abo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: straightupnorth.ca  
-   Link: <a href="https://straightupnorth.ca/reports/" target="_blank" rel="noopener noreferrer nofollow">https://straightupnorth.ca/reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications | StraightUpNorth.caCommunity-specific reports, summaries, flyers, maps, posters, and updates are developed for every projec...</p></details>
+   Link:<a href="https://straightupnorth.ca/reports/" target="_blank" rel="noopener noreferrer nofollow">https://straightupnorth.ca/reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publications | StraightUpNorth.caCommunity-specific reports, summaries, flyers, maps, posters, and updates are developed for every projec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dundurn.com  
-   Link: <a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe Canadian UFO Reports is a popular history of the UFO phenomenon in Canada, includes a chronological overview o...</p></details>
+   Link:<a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe Canadian UFO Reports is a popular history of the UFO phenomenon in Canada, includes a chronological overview o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nunavutnews.com  
-   Link: <a href="https://nunavutnews.com/" target="_blank" rel="noopener noreferrer nofollow">https://nunavutnews.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nunavut News: Nunavut Territory NewsPrime Minister Mark Carney announced Tuesday, April 14, 2026 that his government is pausing. Carney p...</p></details>
+   Link:<a href="https://nunavutnews.com/" target="_blank" rel="noopener noreferrer nofollow">https://nunavutnews.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nunavut News: Nunavut Territory NewsPrime Minister Mark Carney announced Tuesday, April 14, 2026 that his government is pausing. Carney p...</p></details>
    Published: April 14, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: bill carolyn have you ever seen a ufo do you think theres life out thereaccordin  
-   Link: <a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
+   Link:<a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: some great information coming from the 2017 canadian ufo survey on the 1101 repo  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/some-great-information-coming-from-the-2017-canadian-ufo-survey-on-the-1101-repo/1466306770137555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/some-great-information-coming-from-the-2017-canadian-ufo-survey-on-the-1101-repo/1466306770137555/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Gothic10 Jul 2018 — Ufology Research (lead by Chris Rutkowski) has solicited UFO case data. There were even two reports from...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/some-great-information-coming-from-the-2017-canadian-ufo-survey-on-the-1101-repo/1466306770137555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/some-great-information-coming-from-the-2017-canadian-ufo-survey-on-the-1101-repo/1466306770137555/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Gothic10 Jul 2018 — Ufology Research (lead by Chris Rutkowski) has solicited UFO case data. There were even two reports from...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Canada recorded 1,052 UFO sightings in 2025... Ontario produced 128 reports last year...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Canada recorded 1,052 UFO sightings in 2025... Ontario produced 128 reports last year...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — The only exception was Paul Hellyer, who took the time to speak with me abou...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — The only exception was Paul Hellyer, who took the time to speak with me abou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: a ufo was captured over the skies of canada  
-   Link: <a href="https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecraft or a spec...</p></details>
+   Link:<a href="https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecraft or a spec...</p></details>

@@ -260,17 +260,17 @@ The Meldrum Creek sighting of 23 June 1989 occupies an unusual place in [British
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_meldrum_creek_saucer_fec037-Illustration-1-dark.svg" | relative_url }}" alt="Meldrum Creek illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_meldrum_creek_saucer_fec037-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90_meldrum_creek_saucer_fec037-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to judge the strength of the case, the key question is not whether the account sounds dramatic. It is whether the available evidence allows the story to be independently tested. In the case of Meldrum Creek, the answer remains limited. The report survives primarily as a short catalogue entry rather than a fully documented investigation, leaving a substantial gap between the witness claim and what can actually be verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+For readers trying to judge the strength of the case, the key question is not whether the account sounds dramatic. It is whether the available evidence allows the story to be independently tested. In the case of Meldrum Creek, the answer remains limited. The report survives primarily as a short catalogue entry rather than a fully documented investigation, leaving a substantial gap between the witness claim and what can actually be verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 ## How strong is the Meldrum Creek saucer story?
 
 ### What the 1989 record says
 
-The publicly available record for Meldrum Creek describes an event shortly after midnight on 23 June 1989. The entry records a single witness, an orange disc-shaped object, a duration of roughly eight minutes, and the brief description that a “saucer w/windows” flew near the observer. The case was retained as an “unknown” rather than assigned a conventional explanation in the survey database derived from Canadian UFO reporting records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+The publicly available record for Meldrum Creek describes an event shortly after midnight on 23 June 1989. The entry records a single witness, an orange disc-shaped object, a duration of roughly eight minutes, and the brief description that a “saucer w/windows” flew near the observer. The case was retained as an “unknown” rather than assigned a conventional explanation in the survey database derived from Canadian UFO reporting records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 Within the broader history of British Columbia sightings, that combination stands out because it is not merely a report of a distant light. Many UFO reports involve points of light whose size, distance and shape cannot be estimated reliably. The Meldrum Creek witness instead claimed to see a structured object with specific physical features.
 
-The location also contributes to the case’s reputation. Meldrum Creek lies in a remote part of the Cariboo-Chilcotin region, an area where sparse population and dark skies can produce unusual observations but where independent corroboration is often difficult to obtain. Remote settings frequently leave investigators with only a witness narrative and little supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ericcollier.wordpress.com/life-in-the-wilderness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ericcollier.wordpress.com">[Three Against the Wilderness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ericcollier.wordpress.com</span><span class="citation-popover-title">Three Against the Wilderness Life in the &#x27;wilderness</span><span class="citation-popover-snippet">The building was restored by the Canadian Army Engineers in 1989, after public protests...</span></span></span>
+The location also contributes to the case’s reputation. Meldrum Creek lies in a remote part of the Cariboo-Chilcotin region, an area where sparse population and dark skies can produce unusual observations but where independent corroboration is often difficult to obtain. Remote settings frequently leave investigators with only a witness narrative and little supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ericcollier.wordpress.com/life-in-the-wilderness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ericcollier.wordpress.com">[Three Against the Wilderness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ericcollier.wordpress.com</span><span class="citation-popover-title">Three Against the Wilderness Life in the &#x27;wilderness</span><span class="citation-popover-snippet">The building was restored by the Canadian Army Engineers in 1989, after public protests...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_a_WjHCaHY" title="B.C. residents baffled as strange shape floats through night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer">B.C. residents baffled as strange shape floats through night sky</a></p><p class="youtube-embed-meta">Channel: CBC British Columbia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_a_WjHCaHY">Open on YouTube</a></p></div></div></div>
@@ -306,7 +306,7 @@ Several pieces of information that would help investigators assess the claim are
 
 Without such material, it becomes difficult to move beyond the original statement. A catalogue entry can preserve that a report occurred, but it cannot by itself demonstrate what was seen.
 
-This distinction matters because Canadian UFO databases often contain reports that are genuine observations by sincere witnesses while remaining impossible to explain conclusively. An “unknown” classification usually means investigators lacked sufficient information for a confident identification, not that an extraordinary craft was demonstrated. Canadian UFO researchers have repeatedly emphasised that unresolved cases should not automatically be treated as evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune+2dundurn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+This distinction matters because Canadian UFO databases often contain reports that are genuine observations by sincere witnesses while remaining impossible to explain conclusively. An “unknown” classification usually means investigators lacked sufficient information for a confident identification, not that an extraordinary craft was demonstrated. Canadian UFO researchers have repeatedly emphasised that unresolved cases should not automatically be treated as evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wltribune.com">[Williams Lake Tribune+2dundurn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wltribune.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Williams Lake TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xODxNPteMxo" title="Woman Who&#x27;s Been Abducted Reveals The Truth About Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xODxNPteMxo" target="_blank" rel="noopener noreferrer">Woman Who&#x27;s Been Abducted Reveals The Truth About Aliens</a></p><p class="youtube-embed-meta">Channel: Motech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xODxNPteMxo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xODxNPteMxo">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ This distinction matters because Canadian UFO databases often contain reports th
 
 Many famous Canadian UFO incidents accumulated additional evidence over time through media coverage, witness interviews, official investigations or archival releases. Meldrum Creek largely did not.
 
-Searches of publicly accessible Canadian government UFO archives reveal a broader history of federal collection efforts through agencies such as the National Research Council, the Department of National Defence, the Department of Transport and the RCMP. However, the major government archive available through Library and Archives Canada primarily covers records gathered between 1947 and the early 1980s, preceding the 1989 Meldrum Creek event. As a result, researchers cannot rely on those federal files to fill the evidential gaps surrounding this particular case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+Searches of publicly accessible Canadian government UFO archives reveal a broader history of federal collection efforts through agencies such as the National Research Council, the Department of National Defence, the Department of Transport and the RCMP. However, the major government archive available through Library and Archives Canada primarily covers records gathered between 1947 and the early 1980s, preceding the 1989 Meldrum Creek event. As a result, researchers cannot rely on those federal files to fill the evidential gaps surrounding this particular case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 The consequence is that later discussion of Meldrum Creek tends to recycle the same brief summary rather than introducing new documentation. Unlike stronger historical cases that generated extensive paper trails, the core facts available today are not dramatically richer than the original catalogue entry.
 
@@ -334,194 +334,194 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How strong is the Meldrum Creek saucer story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How strong is the Meldrum Creek saucer story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how to assess UFO reports using documentation, testimony, and investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how to assess UFO reports using documentation, testimony, and investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness reports, close encounters, and evidential strength in cases like Meldrum Creek.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness reports, close encounters, and evidential strength in cases like Meldrum Creek.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on the investigation of UFO sightings and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the investigation of UFO sightings and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places individual sightings within broader historical reporting and investigative contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places individual sightings within broader historical reporting and investigative contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand"><img src="{{ '/assets/images/marketplace-covers/d26c6f404c1c432747a9.jpg' | relative_url }}" alt="Listing image for 1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale F-14 Tomcat Fighter Jet Model Aircraft Detailed Design with stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy"><img src="{{ '/assets/images/marketplace-covers/6a1f107505f4e8ba24cf.jpg' | relative_url }}" alt="Listing image for 1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:100 F-14 VF-84 Tomcat Jolly Rogers Fighter Jet Aircraft Diecast Model US Navy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search <span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model"><img src="{{ '/assets/images/marketplace-covers/9abce767e13e82bc0d13.jpg' | relative_url }}" alt="Listing image for 1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">1/100 Scale A-10 Thunderbolt II Warthog Diecast Metal Fighter Jet Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fighter jet model">Search<span data-ebay-domain-label>eBay.co.uk</span>: fighter jet model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fighter+jet+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fighter jet model" data-ebay-reference="meldrum-creek-how-strong-is-the-meldrum-creek-saucer-story-british-columbia-fighter-jet-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,82 +727,82 @@ For that reason, Meldrum Creek is best understood not as one of British Columbia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dundurn.com  
-   Link: <a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe final section of the book provides an overview of UFOs in Canadian culture, including a fascinating table of U...</p></details>
+   Link:<a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe final section of the book provides an overview of UFOs in Canadian culture, including a fascinating table of U...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wltribune.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Williams Lake](&amp;#123;&amp;#123; &#x27;williams-lake/&#x27; | relative_url &amp;#125;&amp;#125;) TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</p></details>
+   Link:<a href="https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wltribune.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Williams Lake](&amp;#123;&amp;#123; &#x27;williams-lake/&#x27; | relative_url &amp;#125;&amp;#125;) TribuneSouth Cariboo woman helps document 2025&#x27;s 1052...March 19, 2026 — 19 Mar 2026 — Every year since 1989, Ufology Rese...</p></details>
    Published: March 19, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ericcollier.wordpress.com  
    Title: Three Against the Wilderness Life in the 'wilderness'  
-   Link: <a href="https://ericcollier.wordpress.com/life-in-the-wilderness/" target="_blank" rel="noopener noreferrer nofollow">https://ericcollier.wordpress.com/life-in-the-wilderness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The building was restored by the Canadian Army Engineers in 1989, after public protests...</p></details>
+   Link:<a href="https://ericcollier.wordpress.com/life-in-the-wilderness/" target="_blank" rel="noopener noreferrer nofollow">https://ericcollier.wordpress.com/life-in-the-wilderness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The building was restored by the Canadian Army Engineers in 1989, after public protests...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/350270945/Ufo-b-c-Ufo-Richmond" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/350270945/Ufo-b-c-Ufo-Richmond</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo B.C. Ufo Richmond | PDF | Unidentified Flying ObjectThere is a tremendous amount of UFO activity past and present in British Columbia...</p></details>
+   Link:<a href="https://www.scribd.com/document/350270945/Ufo-b-c-Ufo-Richmond" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/350270945/Ufo-b-c-Ufo-Richmond</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo B.C. Ufo Richmond | PDF | Unidentified Flying ObjectThere is a tremendous amount of UFO activity past and present in British Columbia...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_a_WjHCaHY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_a_WjHCaHY</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 153  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_serial_153.pdfRE: &quot;FLYING SAOOll!S&quot; OB.SERVED OVER OAK RIDGE AREA. INTmNAL SIDURITY - X. ENCLOOURE3 TO J31JR...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_serial_153.pdfRE: &quot;FLYING SAOOll!S&quot; OB.SERVED OVER OAK RIDGE AREA. INTmNAL SIDURITY - X. ENCLOOURE3 TO J31JR...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — “Canada&#x27;s UFOs: The Search for the Unknown.”490 The onl...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — “Canada&#x27;s UFOs: The Search for the Unknown.”490 The onl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: some of the most credible and widespread  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings...Report. Some of the most credible and widespread sightings of UFO were made in 1989 in Belgium. It was later titled &quot;The Bel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings...Report. Some of the most credible and widespread sightings of UFO were made in 1989 in Belgium. It was later titled &quot;The Bel...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council%27&amp;sk=1661" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council%27&amp;sk=1661</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council%27&amp;sk=1661" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council%27&amp;sk=1661</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: spaceman ufo hotspots in canada  
-   Link: <a href="https://www.facebook.com/cbcdocs/videos/spaceman-ufo-hotspots-in-canada/438808726910597/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbcdocs/videos/spaceman-ufo-hotspots-in-canada/438808726910597/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It was unlike anything I&#x27;d ever seen.&quot; There are about 1000...We&#x27;re in the mountains of British Columbia, near Duncan, a small town on...</p></details>
+   Link:<a href="https://www.facebook.com/cbcdocs/videos/spaceman-ufo-hotspots-in-canada/438808726910597/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbcdocs/videos/spaceman-ufo-hotspots-in-canada/438808726910597/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It was unlike anything I&#x27;d ever seen.&quot; There are about 1000...We&#x27;re in the mountains of British Columbia, near Duncan, a small town on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/1510508/new-report-compiles-25-years-of-ufo-sightings-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/1510508/new-report-compiles-25-years-of-ufo-sightings-in-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsNew report compiles 25 years of UFO sightings in Canada15 Aug 2014 — It found 14,617 celestial oddities have been spotted sinc...</p></details>
+   Link:<a href="https://globalnews.ca/news/1510508/new-report-compiles-25-years-of-ufo-sightings-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/1510508/new-report-compiles-25-years-of-ufo-sightings-in-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsNew report compiles 25 years of UFO sightings in Canada15 Aug 2014 — It found 14,617 celestial oddities have been spotted sinc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs). Several of its departments and agenc...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs). Several of its departments and agenc...</p></details>

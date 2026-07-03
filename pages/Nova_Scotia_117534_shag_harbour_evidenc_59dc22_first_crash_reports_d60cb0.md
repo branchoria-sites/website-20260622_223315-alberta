@@ -262,50 +262,50 @@ image: /assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash
 
 ## Introduction
 
-The first reports from [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) are important because they began as an apparent emergency, not as a UFO story. On the night of 4 October 1967, local residents near the small fishing community on [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }})’s South Shore believed they had just seen an aircraft go down offshore. Their reaction was immediate: they contacted the Royal Canadian Mounted Police (RCMP) and reported what they thought was a crash. That distinction matters because it places the earliest witness testimony in a practical, real-world context. The original witnesses were trying to alert authorities to a possible disaster, not promote an extraordinary claim. Later debates about unidentified objects, military interest, and competing explanations all rest on those first few minutes of observation and reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
+The first reports from [Shag Harbour]({{ 'shag-harbour/' | relative_url }}) are important because they began as an apparent emergency, not as a UFO story. On the night of 4 October 1967, local residents near the small fishing community on [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }})’s South Shore believed they had just seen an aircraft go down offshore. Their reaction was immediate: they contacted the Royal Canadian Mounted Police (RCMP) and reported what they thought was a crash. That distinction matters because it places the earliest witness testimony in a practical, real-world context. The original witnesses were trying to alert authorities to a possible disaster, not promote an extraordinary claim. Later debates about unidentified objects, military interest, and competing explanations all rest on those first few minutes of observation and reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-1-dark.svg" | relative_url }}" alt="First Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What local witnesses said they saw
 
-The best-known witness was Laurie Wickens, who was travelling through Shag Harbour with four friends late in the evening. According to multiple accounts, they noticed a brightly lit object moving low across the sky. Witnesses later described several orange or amber lights flashing in sequence and descending toward the water at an angle rather than continuing across the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The best-known witness was Laurie Wickens, who was travelling through Shag Harbour with four friends late in the evening. According to multiple accounts, they noticed a brightly lit object moving low across the sky. Witnesses later described several orange or amber lights flashing in sequence and descending toward the water at an angle rather than continuing across the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-What caught their attention was not simply that lights were visible. The object appeared to be losing altitude and heading toward the harbour. Several witnesses believed they heard sounds associated with an impact, variously described in later accounts as a whistling noise, a “whoosh”, or a loud bang. To people watching from shore, the event looked less like an unusual light in the sky and more like a vehicle in distress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+What caught their attention was not simply that lights were visible. The object appeared to be losing altitude and heading toward the harbour. Several witnesses believed they heard sounds associated with an impact, variously described in later accounts as a whistling noise, a “whoosh”, or a loud bang. To people watching from shore, the event looked less like an unusual light in the sky and more like a vehicle in distress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Witnesses then reported seeing a light or illuminated object on the water some distance offshore. This detail is significant because it helped convince observers that something tangible had entered the harbour rather than simply disappearing from sight. Accounts differ on exact distances and appearance, but the general pattern is consistent: lights descended, something appeared to reach the water, and observers believed a crash had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Witnesses then reported seeing a light or illuminated object on the water some distance offshore. This detail is significant because it helped convince observers that something tangible had entered the harbour rather than simply disappearing from sight. Accounts differ on exact distances and appearance, but the general pattern is consistent: lights descended, something appeared to reach the water, and observers believed a crash had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Scuba News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-The number of witnesses also matters. Contemporary and later summaries generally refer to at least eleven people seeing some aspect of the event. While that does not prove what the object was, it reduces the likelihood that the incident rested entirely on a single mistaken observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The number of witnesses also matters. Contemporary and later summaries generally refer to at least eleven people seeing some aspect of the event. While that does not prove what the object was, it reduces the likelihood that the incident rested entirely on a single mistaken observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ## Why the first police call matters
 
-The first call to the RCMP is one of the strongest pieces of evidence in the Shag Harbour case because it was made before the incident acquired any UFO reputation. Wickens reported what he believed was a plane crash in the water. Later recollections describe him using a roadside telephone booth to contact police and persuade them that an emergency response was needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
+The first call to the RCMP is one of the strongest pieces of evidence in the Shag Harbour case because it was made before the incident acquired any UFO reputation. Wickens reported what he believed was a plane crash in the water. Later recollections describe him using a roadside telephone booth to contact police and persuade them that an emergency response was needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
 
 This is important for two reasons.
 
-First, it shows what the witnesses themselves thought they were seeing. Their immediate interpretation was conventional. They did not tell police that aliens had arrived or that a spacecraft had landed. They reported a possible aviation accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
+First, it shows what the witnesses themselves thought they were seeing. Their immediate interpretation was conventional. They did not tell police that aliens had arrived or that a spacecraft had landed. They reported a possible aviation accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
 
-Second, the report triggered an official response. RCMP officers travelled to the scene expecting to investigate a crash. Search-and-rescue channels were alerted because authorities considered the possibility that people might be in the water and require immediate assistance. The incident entered official records through emergency procedures rather than through a later paranormal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Second, the report triggered an official response. RCMP officers travelled to the scene expecting to investigate a crash. Search-and-rescue channels were alerted because authorities considered the possibility that people might be in the water and require immediate assistance. The incident entered official records through emergency procedures rather than through a later paranormal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Accounts from the Municipality of Barrington and other summaries note that RCMP officer Ron Pound was already in the area and had observed unusual lights himself while driving. His presence did not settle the mystery, but it meant that police officers were among those who considered the reports serious enough to warrant action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
+Accounts from the Municipality of Barrington and other summaries note that RCMP officer Ron Pound was already in the area and had observed unusual lights himself while driving. His presence did not settle the mystery, but it meant that police officers were among those who considered the reports serious enough to warrant action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barringtonmunicipality.com">[Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barringtonmunicipality.com</span><span class="citation-popover-snippet">Barrington MunicipalityShag Harbour UFO Incident &#124; Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</span></span></span>
 
-For historians and researchers, that sequence is often more significant than the later UFO label. A report made in the heat of an apparent emergency generally carries different evidential weight from a story that emerges months or years later after public discussion and media attention. The first call provides a timestamped reaction before memories could be influenced by decades of retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
+For historians and researchers, that sequence is often more significant than the later UFO label. A report made in the heat of an apparent emergency generally carries different evidential weight from a story that emerges months or years later after public discussion and media attention. The first call provides a timestamped reaction before memories could be influenced by decades of retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-2-dark.svg" | relative_url }}" alt="First Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What witness testimony can and cannot prove
 
-The witness reports establish several points with reasonable confidence. Multiple people saw unusual lights. They believed an object descended toward the water. They were concerned enough to notify police immediately. Authorities treated the report as credible enough to launch a search for a possible crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The witness reports establish several points with reasonable confidence. Multiple people saw unusual lights. They believed an object descended toward the water. They were concerned enough to notify police immediately. Authorities treated the report as credible enough to launch a search for a possible crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 However, witness testimony has limits.
 
-Night-time observations over water are notoriously difficult to interpret. Distance, speed, altitude, and size can be hard to judge accurately. Even sincere witnesses may disagree about shapes, colours, angles of descent, or the sequence of events. Human perception is especially vulnerable to error when observers have few visual reference points, as is often the case over a dark harbour at night. These limitations apply whether the witnesses were looking at an aircraft, a meteor, an atmospheric phenomenon, or something genuinely unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+Night-time observations over water are notoriously difficult to interpret. Distance, speed, altitude, and size can be hard to judge accurately. Even sincere witnesses may disagree about shapes, colours, angles of descent, or the sequence of events. Human perception is especially vulnerable to error when observers have few visual reference points, as is often the case over a dark harbour at night. These limitations apply whether the witnesses were looking at an aircraft, a meteor, an atmospheric phenomenon, or something genuinely unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
-Another challenge is the passage of time. Some of the most detailed descriptions come from interviews conducted years or even decades after the event. Such recollections can preserve valuable information, but they can also become more definite than the original observations. Researchers therefore place particular value on statements made close to the date of the incident and on the documented actions that followed, such as the RCMP notification and search effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE+2recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
+Another challenge is the passage of time. Some of the most detailed descriptions come from interviews conducted years or even decades after the event. Such recollections can preserve valuable information, but they can also become more definite than the original observations. Researchers therefore place particular value on statements made close to the date of the incident and on the documented actions that followed, such as the RCMP notification and search effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE+2recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
 
-The testimony also cannot identify the object with certainty. Witnesses can describe what they believed they saw, but those observations alone do not establish whether the object was an aircraft, a natural phenomenon, a misperception, or something that remains unexplained. That uncertainty is precisely why the Shag Harbour incident continues to occupy an unusual place in Nova Scotia’s UFO history. The first witnesses provide evidence that something alarming appeared to happen; they do not provide a definitive answer to what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
+The testimony also cannot identify the object with certainty. Witnesses can describe what they believed they saw, but those observations alone do not establish whether the object was an aircraft, a natural phenomenon, a misperception, or something that remains unexplained. That uncertainty is precisely why the Shag Harbour incident continues to occupy an unusual place in Nova Scotia’s UFO history. The first witnesses provide evidence that something alarming appeared to happen; they do not provide a definitive answer to what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjvJhYmdoqs" title="Shag Harbour UFO: Inside Look Into Canada&#x27;s BIGGEST UFO Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjvJhYmdoqs" target="_blank" rel="noopener noreferrer">Shag Harbour UFO: Inside Look Into Canada&#x27;s BIGGEST UFO Case</a></p><p class="youtube-embed-meta">Channel: NovaScotian Explorer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjvJhYmdoqs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjvJhYmdoqs">Open on YouTube</a></p></div></div></div>
@@ -315,202 +315,202 @@ The testimony also cannot identify the object with certainty. Witnesses can desc
 
 ## Why these first reports remain central to the case
 
-Many UFO cases rely almost entirely on stories told long after the event. Shag Harbour is different because the earliest witness reports immediately generated a police response based on the belief that an aircraft had crashed. The credibility of the case does not rest on proving an extraterrestrial explanation. It rests on the fact that ordinary residents, acting in real time, reported what they thought was a genuine emergency and that authorities responded accordingly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — The first frantic callers to reach the RCMP were c...</span></span></span>
+Many UFO cases rely almost entirely on stories told long after the event. Shag Harbour is different because the earliest witness reports immediately generated a police response based on the belief that an aircraft had crashed. The credibility of the case does not rest on proving an extraterrestrial explanation. It rests on the fact that ordinary residents, acting in real time, reported what they thought was a genuine emergency and that authorities responded accordingly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Barrington Municipality]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — The first frantic callers to reach the RCMP were c...</span></span></span>
 
-That does not make the witnesses infallible. It does, however, make their first reactions one of the most valuable pieces of evidence in the wider Shag Harbour story. For anyone examining the strengths and weaknesses of the incident, the starting point is not a UFO claim but a crash report made by people who believed they had just watched something fall into the waters off Nova Scotia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
+That does not make the witnesses infallible. It does, however, make their first reactions one of the most valuable pieces of evidence in the wider Shag Harbour story. For anyone examining the strengths and weaknesses of the incident, the starting point is not a UFO claim but a crash report made by people who believed they had just watched something fall into the waters off Nova Scotia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">in search of the truth behind canadas most infamous ufo sighting</span><span class="citation-popover-snippet">“We went right to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-3-dark.svg" | relative_url }}" alt="First Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why witnesses first feared a crash. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why witnesses first feared a crash. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines witness reports, official investigations, and how credible observers report unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, official investigations, and how credible observers report unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness testimony and distinguishing observations from conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness testimony and distinguishing observations from conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context on investigations that began as apparent aircraft or emergency incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on investigations that began as apparent aircraft or emergency incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores how testimony, documentation, and later interpretations interact in a famous case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how testimony, documentation, and later interpretations interact in a famous case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence"><img src="{{ '/assets/images/marketplace-covers/9b32f8294db4f64cafd1.jpg' | relative_url }}" alt="Listing image for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence"><img src="{{ '/assets/images/marketplace-covers/9b32f8294db4f64cafd1.jpg' | relative_url }}" alt="Listing image for Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Print Lowry Map 1853 Canada New Brunswick Nova Scotia Gulf Lawrence</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie"><img src="{{ '/assets/images/marketplace-covers/069b4cd90d64fa782e49.jpg' | relative_url }}" alt="Listing image for CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">CANADA Provinces of Quebec Nova Scotia New Brunswick Antique Map 1883 by Blackie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/0c1f7fd19c180482f5db.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Nova Scotia Brunswick Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th"><img src="{{ '/assets/images/marketplace-covers/67a211a66919bf9ba8c9.jpg' | relative_url }}" alt="Listing image for Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Vintage Print Map 1922 Brunswick Nova Scotia John Halifax Maritime 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Nova Scotia map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Nova Scotia map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Nova+Scotia+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Nova Scotia map print" data-ebay-reference="first-reports-why-witnesses-first-feared-a-crash-nova-scotia-nova-scotia-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ That does not make the witnesses infallible. It does, however, make their first 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ That does not make the witnesses infallible. It does, however, make their first 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ That does not make the witnesses infallible. It does, however, make their first 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ That does not make the witnesses infallible. It does, however, make their first 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ That does not make the witnesses infallible. It does, however, make their first 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,99 +716,99 @@ That does not make the witnesses infallible. It does, however, make their first 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vice.com  
    Title: in search of the truth behind canadas most infamous ufo sighting  
-   Link: <a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“We went right to...Read more...</p></details>
+   Link:<a href="https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/in-search-of-the-truth-behind-canadas-most-infamous-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“We went right to...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related Research26 Sept 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
    Published: October 1967  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: barringtonmunicipality.com  
-   Link: <a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</p></details>
+   Link:<a href="https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.barringtonmunicipality.com/Visiting-Us/shag-harbour-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barrington MunicipalityShag Harbour UFO Incident | Visiting UsWitnesses at first thought they were watching a tragic airplane crash, and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — The first frantic callers to reach the RCMP were c...</p></details>
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsCanada&#x27;s best-documented UFO sighting still intrigues, 50...21 Sept 2017 — The first frantic callers to reach the RCMP were c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thewalrus.ca  
    Title: the shag harbour incident  
-   Link: <a href="https://thewalrus.ca/the-shag-harbour-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/the-shag-harbour-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2016 — Several locals in Shag Harbour watched a low- and slow-flying aircraft with flashing red-orange lights crash into the villa...</p></details>
+   Link:<a href="https://thewalrus.ca/the-shag-harbour-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/the-shag-harbour-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2016 — Several locals in Shag Harbour watched a low- and slow-flying aircraft with flashing red-orange lights crash into the villa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thescubanews.com  
    Title: shag harbour nova scotia ufo incident  
-   Link: <a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The first report came from Laurie Wickens, a local resident, who was driving along Hi...</p></details>
+   Link:<a href="https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescubanews.com/2025/10/16/shag-harbour-nova-scotia-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour, Nova Scotia UFO Incident16 Oct 2025 — The first report came from Laurie Wickens, a local resident, who was driving along Hi...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardFearing a plane crash, witnesses contact the Barrington detachment of the Royal Canadian Mounted Police (RCMP). Offic...</p></details>
+   Link:<a href="https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CanadianCoastGuard/posts/did-you-know-the-coast-guard-once-searched-for-a-possible-ufo-in-1967-residents-/1138213549994735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coast GuardFearing a plane crash, witnesses contact the Barrington detachment of the Royal Canadian Mounted Police (RCMP). Offic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooQj_t4QhDLieqS8Kgo0m-Gj2k8k5a7zSNpyCpy_9iot8p8ZJRL" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooQj_t4QhDLieqS8Kgo0m-Gj2k8k5a7zSNpyCpy_9iot8p8ZJRL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident: Canada&#x27;s Undeniable UFO MysteryA mysterious object descended from the sky and crashed into the Atlantic Ocean near...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooQj_t4QhDLieqS8Kgo0m-Gj2k8k5a7zSNpyCpy_9iot8p8ZJRL" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOooQj_t4QhDLieqS8Kgo0m-Gj2k8k5a7zSNpyCpy_9iot8p8ZJRL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour Incident: Canada&#x27;s Undeniable UFO MysteryA mysterious object descended from the sky and crashed into the Atlantic Ocean near...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashes in Shag Harbour, Nova ScotiaFearing a plane crash, witnesses contacted the Barrington detachment of the Royal Canadian Mounte...</p></details>
+   Link:<a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashes in Shag Harbour, Nova ScotiaFearing a plane crash, witnesses contacted the Barrington detachment of the Royal Canadian Mounte...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoqK3V-gZGWMxs43EJ9WLR-JT5zjIBBvdSmKvQG6k1aKHXAjapKx" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoqK3V-gZGWMxs43EJ9WLR-JT5zjIBBvdSmKvQG6k1aKHXAjapKx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I called the RCMP and told them I thought a plane had crashed into the water.&quot; The RCMP officer who took Wickens&#x27;...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoqK3V-gZGWMxs43EJ9WLR-JT5zjIBBvdSmKvQG6k1aKHXAjapKx" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOoqK3V-gZGWMxs43EJ9WLR-JT5zjIBBvdSmKvQG6k1aKHXAjapKx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I called the RCMP and told them I thought a plane had crashed into the water.&quot; The RCMP officer who took Wickens&#x27;...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOort-LPz9JQouHvEWR4aXkdfyjERTocS9c2G4XSMZAa803hYlNG3" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOort-LPz9JQouHvEWR4aXkdfyjERTocS9c2G4XSMZAa803hYlNG3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Given the assumption that an aircraft had crashed, the RCMP contacted the Rescue...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOort-LPz9JQouHvEWR4aXkdfyjERTocS9c2G4XSMZAa803hYlNG3" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/shag-harbour-incident?srsltid=AfmBOort-LPz9JQouHvEWR4aXkdfyjERTocS9c2G4XSMZAa803hYlNG3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Given the assumption that an aircraft had crashed, the RCMP contacted the Rescue...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
    Title: bac-lac.gc.ca The Shag Harbour UFO Incident  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection searchThis documentary is about the unexplained incident in October 1967, when two unidentified fl...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=filvidandsou&amp;idnumber=418947&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO Incident - Collection searchThis documentary is about the unexplained incident in October 1967, when two unidentified fl...</p></details>
    Published: October 1967  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: the shag harbour ufo crash and retrieval  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the best documented cases of a UFO crash retrieval. Happened in 1967 in the small fishing village of shag harbour, nova scotia Can...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11g3m0i/the_shag_harbour_ufo_crash_and_retrieval/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the best documented cases of a UFO crash retrieval. Happened in 1967 in the small fishing village of shag harbour, nova scotia Can...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: macleans.ca  
    Title: the shag harbour ufo incident  
-   Link: <a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — “This is not conventional.” Eleven witnesses reported the incident to the RCMP, sayin...</p></details>
+   Link:<a href="https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/canada/the-shag-harbour-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;People don&#x27;t go for extraterrestrial&#x27;29 Jun 2014 — “This is not conventional.” Eleven witnesses reported the incident to the RCMP, sayin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: podcasts.happyscribe.com  
    Title: shag harbour incident pt  
-   Link: <a href="https://podcasts.happyscribe.com/conspiracy-theories/shag-harbour-incident-pt" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/shag-harbour-incident-pt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1Numerous witnesses saw an unidentified flying object crash off the Nova Scotia coast. Despite many firsthand accounts to date, there has...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/conspiracy-theories/shag-harbour-incident-pt" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/shag-harbour-incident-pt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1Numerous witnesses saw an unidentified flying object crash off the Nova Scotia coast. Despite many firsthand accounts to date, there has...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ort.org  
-   Link: <a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Crashed Into The Ocean — The RCMP Watched It...8 Jun 2026 — October 4, 1967. Shag Harbour, Nova Scotia, Canada. 11:20 PM. Eleven w...</p></details>
+   Link:<a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Crashed Into The Ocean — The RCMP Watched It...8 Jun 2026 — October 4, 1967. Shag Harbour, Nova Scotia, Canada. 11:20 PM. Eleven w...</p></details>
    Published: October 4, 1967  

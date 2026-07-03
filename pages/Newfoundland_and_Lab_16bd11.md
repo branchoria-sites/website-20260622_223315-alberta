@@ -295,25 +295,25 @@ image: /assets/images/Newfoundland_and_Lab_16bd11-overview-social.jpg
 
 ## Introduction
 
-The useful question is not “were they aliens?” but “which reports left enough evidence to assess?” On that measure, Clarenville matters because of multiple witnesses and an on-duty RCMP officer; [Gander]({{ 'gander/' | relative_url }}) matters because it involved an experienced military aircrew near one of the world’s important transatlantic aviation corridors; Harbour Mille matters because witnesses, photographs, federal denials and missile speculation collided in public; and [Goose Bay]({{ 'goose-bay/' | relative_url }}) matters because Labrador has long been part of Canada’s northern air-defence geography. Canada’s current UAP reporting system remains fragmented, with Transport Canada, NAV CANADA, the RCMP, NORAD and archives all playing different roles depending on the circumstances. Canada+3https://www.mint.ca/en-us+3govweird <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[mint.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
+The useful question is not “were they aliens?” but “which reports left enough evidence to assess?” On that measure, Clarenville matters because of multiple witnesses and an on-duty RCMP officer; [Gander]({{ 'gander/' | relative_url }}) matters because it involved an experienced military aircrew near one of the world’s important transatlantic aviation corridors; Harbour Mille matters because witnesses, photographs, federal denials and missile speculation collided in public; and [Goose Bay]({{ 'goose-bay/' | relative_url }}) matters because Labrador has long been part of Canada’s northern air-defence geography. Canada’s current UAP reporting system remains fragmented, with Transport Canada, NAV CANADA, the RCMP, NORAD and archives all playing different roles depending on the circumstances. Canada+3https://www.mint.ca/en-us+3govweird<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[mint.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11-overview.webp" | relative_url }}" alt="Overview image for Newfoundland and Labrador" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Newfoundland and Labrador keeps producing memorable UFO stories
 
-Newfoundland and Labrador is a natural setting for unusual sky reports because it sits on major air and sea routes while also containing long stretches of dark coastline, scattered outports and northern military infrastructure. Gander’s airport grew from the 1930s into one of the great Atlantic aviation hubs: the airport authority notes that construction began in 1936, the first aircraft landed in January 1938, and within a few years the airfield had four paved runways and was the largest airport in the world at the time. During the Second World War it became a main staging point for Allied aircraft moving to Europe, and by the late 1940s regular Atlantic services were passing through Gander. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ganderairport.com/about-giaa/our-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ganderairport.com">[Gander International Airport - GIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ganderairport.com</span><span class="citation-popover-title">Gander International Airport</span><span class="citation-popover-snippet">GIAAOur History - Gander International Airport - GIAA...</span></span></span>
+Newfoundland and Labrador is a natural setting for unusual sky reports because it sits on major air and sea routes while also containing long stretches of dark coastline, scattered outports and northern military infrastructure. Gander’s airport grew from the 1930s into one of the great Atlantic aviation hubs: the airport authority notes that construction began in 1936, the first aircraft landed in January 1938, and within a few years the airfield had four paved runways and was the largest airport in the world at the time. During the Second World War it became a main staging point for Allied aircraft moving to Europe, and by the late 1940s regular Atlantic services were passing through Gander.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ganderairport.com/about-giaa/our-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ganderairport.com">[Gander International Airport - GIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ganderairport.com</span><span class="citation-popover-title">Gander International Airport</span><span class="citation-popover-snippet">GIAAOur History - Gander International Airport - GIAA...</span></span></span>
 
-Labrador adds another layer. 5 Wing Goose Bay, at Canadian Forces Base Goose Bay in Happy Valley-Goose Bay, supports NORAD operations on Canada’s north and north-east coasts and provides training facilities for Canadian Armed Forces and international partners. The RCAF’s own history of the base describes Cold War radar sites from Newfoundland along the Labrador coast, feeding surveillance, identification and interceptor-control information for the Labrador area into a NORAD control centre near the wing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 Wing Goose Bay</span><span class="citation-popover-snippet">5 Wing Goose Bay - Canada.ca...</span></span></span>
+Labrador adds another layer. 5 Wing Goose Bay, at Canadian Forces Base Goose Bay in Happy Valley-Goose Bay, supports NORAD operations on Canada’s north and north-east coasts and provides training facilities for Canadian Armed Forces and international partners. The RCAF’s own history of the base describes Cold War radar sites from Newfoundland along the Labrador coast, feeding surveillance, identification and interceptor-control information for the Labrador area into a NORAD control centre near the wing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">5 Wing Goose Bay</span><span class="citation-popover-snippet">5 Wing Goose Bay - Canada.ca...</span></span></span>
 
-That setting does not make every sighting mysterious. It means there are many ordinary candidates: aircraft lights, military exercises, refuelling traffic, search-and-rescue activity, drones, balloons, meteors, satellites, flares, reflections, sea-horizon illusions and weather effects. Transport Canada explicitly warns that the term “UFO” in aviation [records]({{ 'records-45a181/' | relative_url }}) can cover remotely piloted aircraft, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+That setting does not make every sighting mysterious. It means there are many ordinary candidates: aircraft lights, military exercises, refuelling traffic, search-and-rescue activity, drones, balloons, meteors, satellites, flares, reflections, sea-horizon illusions and weather effects. Transport Canada explicitly warns that the term “UFO” in aviation [records]({{ 'records-45a181/' | relative_url }}) can cover remotely piloted aircraft, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 ## The 1951 Gander-area aircrew report: a strong witness case with weak physical evidence
 
-The 1951 Gander-area case is one of Newfoundland and Labrador’s most striking aviation-linked UFO reports. The Project Blue Book case file, reproduced from U.S. National Archives material, places the incident on 10 February 1951 at 49.50N, 50.03W over the Atlantic east of Newfoundland. A U.S. Navy C-54 transport crew flying from Iceland toward Newfoundland reported a yellowish light below them, which appeared to climb, brighten, become circular, and approach on what the crew perceived as a dangerous course before turning away at high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">49 50n 50 03w atlantic february 1951 28939060</span><span class="citation-popover-snippet">Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</span><span class="citation-popover-meta">Published: february 1951</span></span></span>
+The 1951 Gander-area case is one of Newfoundland and Labrador’s most striking aviation-linked UFO reports. The Project Blue Book case file, reproduced from U.S. National Archives material, places the incident on 10 February 1951 at 49.50N, 50.03W over the Atlantic east of Newfoundland. A U.S. Navy C-54 transport crew flying from Iceland toward Newfoundland reported a yellowish light below them, which appeared to climb, brighten, become circular, and approach on what the crew perceived as a dangerous course before turning away at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">49 50n 50 03w atlantic february 1951 28939060</span><span class="citation-popover-snippet">Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</span><span class="citation-popover-meta">Published: february 1951</span></span></span>
 
-The case is often associated with Gander because of the aircraft’s route and the wider Gander aviation environment. A Newfoundland-focused historical summary describes the aircraft as flying from Iceland and being about 150 kilometres from Gander when the crew reported a near-collision with a large orange object. The same account notes the common sceptical suggestion that the sighting may have involved an optical illusion linked to the Moon, while also acknowledging that the official report and later [retellings]({{ 'retellings/' | relative_url }}) have kept the case alive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+The case is often associated with Gander because of the aircraft’s route and the wider Gander aviation environment. A Newfoundland-focused historical summary describes the aircraft as flying from Iceland and being about 150 kilometres from Gander when the crew reported a near-collision with a large orange object. The same account notes the common sceptical suggestion that the sighting may have involved an optical illusion linked to the Moon, while also acknowledging that the official report and later [retellings]({{ 'retellings/' | relative_url }}) have kept the case alive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
-What makes the case interesting is the witness profile. The Project Blue Book summary says five Navy officers gave detailed accounts, with a sixth crew member reporting a glowing round object, and that Gander Air Traffic Control knew of no other aircraft in the area. That is stronger than a single anonymous ground sighting. But the limits are just as important: the event was brief, at night, over water, with no recovered object, no public physical trace and uncertain distance estimates. Project Blue Book material also shows the case was handled inside the American UFO-reporting system rather than as a Canadian-led investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">49 50n 50 03w atlantic february 1951 28939060</span><span class="citation-popover-snippet">Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</span><span class="citation-popover-meta">Published: february 1951</span></span></span>
+What makes the case interesting is the witness profile. The Project Blue Book summary says five Navy officers gave detailed accounts, with a sixth crew member reporting a glowing round object, and that Gander Air Traffic Control knew of no other aircraft in the area. That is stronger than a single anonymous ground sighting. But the limits are just as important: the event was brief, at night, over water, with no recovered object, no public physical trace and uncertain distance estimates. Project Blue Book material also shows the case was handled inside the American UFO-reporting system rather than as a Canadian-led investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">49 50n 50 03w atlantic february 1951 28939060</span><span class="citation-popover-snippet">Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</span><span class="citation-popover-meta">Published: february 1951</span></span></span>
 
 For Newfoundland and Labrador’s UFO history, the Gander case is best treated as a serious historical report rather than a solved incident. It shows how trained observers can still encounter something they cannot confidently identify, but it does not by itself establish what the object was.
 
@@ -321,11 +321,11 @@ For Newfoundland and Labrador’s UFO history, the Gander case is best treated a
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-1-dark.svg" | relative_url }}" alt="Newfoundland and Labrador illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clarenville and Random Island, 1978: the province’s landmark case
 
-The 1978 Clarenville sighting is the province’s signature UFO case because it combines several features that readers naturally care about: multiple witnesses, a named police officer, a long observation time, a recognisable location, and later cultural recognition. The Royal Canadian Mint’s archived page for its 2020 Clarenville Event coin summarises the central claim: at about 1.45 a.m. on 26 October 1978, RCMP Constable James Blackwood responded to a call in Clarenville, where witnesses pointed out a brightly lit, fin-tailed, oval-shaped object above the water near Random Island. The Mint’s account says Blackwood and witnesses used binoculars and a high-powered scope, heard no sound, and reported that the object seemed to mimic the police cruiser’s flashing lightbar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
+The 1978 Clarenville sighting is the province’s signature UFO case because it combines several features that readers naturally care about: multiple witnesses, a named police officer, a long observation time, a recognisable location, and later cultural recognition. The Royal Canadian Mint’s archived page for its 2020 Clarenville Event coin summarises the central claim: at about 1.45 a.m. on 26 October 1978, RCMP Constable James Blackwood responded to a call in Clarenville, where witnesses pointed out a brightly lit, fin-tailed, oval-shaped object above the water near Random Island. The Mint’s account says Blackwood and witnesses used binoculars and a high-powered scope, heard no sound, and reported that the object seemed to mimic the police cruiser’s flashing lightbar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
 
-A local Newfoundland account adds that Blackwood observed an illuminated object after the Clarenville RCMP detachment received a report, that witnesses described an oval, fin-tailed craft with red, white and blue flashing lights, and that the object remained relatively stationary for more than an hour before leaving the area. It also notes that Blackwood filed an official report and that similar reports were said to have followed along the east coast, including Lethbridge, Catalina, Gander, St Anthony and northward into Labrador, according to Don Ledger’s *Maritime UFO Files*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+A local Newfoundland account adds that Blackwood observed an illuminated object after the Clarenville RCMP detachment received a report, that witnesses described an oval, fin-tailed craft with red, white and blue flashing lights, and that the object remained relatively stationary for more than an hour before leaving the area. It also notes that Blackwood filed an official report and that similar reports were said to have followed along the east coast, including Lethbridge, Catalina, Gander, St Anthony and northward into Labrador, according to Don Ledger’s *Maritime UFO Files*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
-The case is compelling mainly because of its witness structure. A police officer did not merely take a report after the fact; he reportedly attended the scene and watched the object himself. The use of binoculars and a scope also gives the account more detail than a fleeting naked-eye light in the sky. The later Royal Canadian Mint coin did not prove the sighting, but it did show how deeply the Clarenville story had entered Canada’s public UFO folklore: the Mint marketed it as the third coin in its “Canada’s Unexplained Phenomena” series, with a mintage of 5,000. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
+The case is compelling mainly because of its witness structure. A police officer did not merely take a report after the fact; he reportedly attended the scene and watched the object himself. The use of binoculars and a scope also gives the account than a fleeting naked-eye light in the sky. The later Royal Canadian Mint coin did not prove the sighting, but it did show how deeply the Clarenville story had entered Canada’s public UFO folklore: the Mint marketed it as the third coin in its “Canada’s Unexplained Phenomena” series, with a mintage of 5,000.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Canada&#x27;s Unexplained Phenomena - The Clarenville Event &#124; The Royal Canadian Mint...</span></span></span>
 
 The doubts are equally straightforward. The public evidence remains witness testimony, not instrument data, photographs, radar tracks, debris or a recovered craft. The description of an object responding to police lights is memorable, but also difficult to test decades later. The sighting occurred over water at night, where distance, size and motion are notoriously hard to judge. A balanced reading is that Clarenville is one of Newfoundland and Labrador’s strongest unresolved witness cases, not a confirmed extraordinary vehicle.
 
@@ -334,15 +334,15 @@ The doubts are equally straightforward. The public evidence remains witness test
 
 ## Outer Cove, 1970: a smaller police story that echoes Clarenville
 
-The 1970 Outer Cove case is less famous than Clarenville, partly because it lacks the same level of public documentation and later commemoration. It matters because it involves another account of RCMP officers and a light over water. A Newfoundland summary, drawing on Helen C. Escott’s RCMP history work, describes two RCMP officers in the Middle Cove and Outer Cove area near St John’s seeing a bright white light hovering over the water while they were parked and making notes. According to that account, the light moved up and down, appeared to respond when the officers activated the car’s red lights, and seemed to repeat the sound of the siren. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+The 1970 Outer Cove case is less famous than Clarenville, partly because it lacks the same level of public documentation and later commemoration. It matters because it involves another account of RCMP officers and a light over water. A Newfoundland summary, drawing on Helen C. Escott’s RCMP history work, describes two RCMP officers in the Middle Cove and Outer Cove area near St John’s seeing a bright white light hovering over the water while they were parked and making notes. According to that account, the light moved up and down, appeared to respond when the officers activated the car’s red lights, and seemed to repeat the sound of the siren.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
 As evidence, this case is weaker than Clarenville because the accessible public record is thinner and the account is chiefly known through later retelling. Its value is not that it proves a pattern of responsive craft. Its value is that it shows a recurring Newfoundland and Labrador UFO motif: lights over coastal water, police witnesses, and reports of apparent response to human signalling. That motif is memorable, but it should not be overstated. Similar-looking stories can arise from different causes, and a repeated narrative shape is not the same as repeated physical evidence.
 
 ## Harbour Mille, 2010: when a sighting became a missile question
 
-The Harbour Mille incident shows how quickly a UFO report can become a public-safety and government-transparency story. On 25 January 2010, witnesses in the small south-coast community reported seeing missile-like objects or projectiles in the sky, and at least one person took photographs. Contemporary and later summaries say the reports prompted questions about whether missiles had been launched or tested in the North Atlantic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddeeradvocate.com">[Red Deer Advocate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddeeradvocate.com</span><span class="citation-popover-title">woman who claims she saw missiles says area not used by model hobbyists</span><span class="citation-popover-snippet">Red Deer AdvocateWoman who claims she saw missiles says area not used...30 Jan 2010 — Emmy Pardy said she clearly saw three huge “grey b...</span></span></span>
+The Harbour Mille incident shows how quickly a UFO report can become a public-safety and government-transparency story. On 25 January 2010, witnesses in the small south-coast community reported seeing missile-like objects or projectiles in the sky, and at least one person took photographs. Contemporary and later summaries say the reports prompted questions about whether missiles had been launched or tested in the North Atlantic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddeeradvocate.com">[Red Deer Advocate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddeeradvocate.com</span><span class="citation-popover-title">woman who claims she saw missiles says area not used by model hobbyists</span><span class="citation-popover-snippet">Red Deer AdvocateWoman who claims she saw missiles says area not used...30 Jan 2010 — Emmy Pardy said she clearly saw three huge “grey b...</span></span></span>
 
-The case became politically sensitive because the first explanations did not settle the matter. Public summaries of the incident report that the RCMP initially referred to a missile launch, then withdrew that explanation; that the Prime Minister’s Office said there was no evidence the objects were rockets; that French military activity was denied; and that NORAD found no known rocket launch at the time. A Newfoundland account also notes a sceptical explanation proposed by a Finnish UFO researcher: an optical illusion caused by sunlight hitting a jet and vapour trail, an explanation that did not satisfy witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+The case became politically sensitive because the first explanations did not settle the matter. Public summaries of the incident report that the RCMP initially referred to a missile launch, then withdrew that explanation; that the Prime Minister’s Office said there was no evidence the objects were rockets; that French military activity was denied; and that NORAD found no known rocket launch at the time. A Newfoundland account also notes a sceptical explanation proposed by a Finnish UFO researcher: an optical illusion caused by sunlight hitting a jet and vapour trail, an explanation that did not satisfy witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 Harbour Mille is therefore not a clean “classic UFO” case in the flying-saucer sense. It is a good example of a modern UAP problem: witnesses saw something alarming, photographs did not end the debate, federal and defence-related checks mattered, and ordinary explanations such as aircraft contrails had to compete with missile speculation. Its unresolved status is less about exotic technology than about incomplete public reconstruction. Without a clear flight track, verified imaging analysis and full contemporaneous agency documentation, the strongest conclusion is that the incident remains disputed and plausibly explainable, but not fully closed in the public record.
 
@@ -350,13 +350,13 @@ Harbour Mille is therefore not a clean “classic UFO” case in the flying-sauc
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-2-dark.svg" | relative_url }}" alt="Newfoundland and Labrador illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official Canadian systems can and cannot tell us
 
-Canada does not have one simple UFO office that neatly explains every sighting. The current picture is split among aviation reporting, policing, defence, archives and private research. The Office of the Chief Science Advisor’s Sky Canada work describes Transport Canada’s Civil Aviation Directorate as collecting UAP-related aviation reports from pilots, air traffic controllers and the public, with relevant records shared through the Civil Aviation Daily Occurrence Reporting System, or CADORS. It also explains that pilots usually report sightings to air traffic services, which file aviation occurrence reports that can be passed through NAV CANADA to Transport Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Canada does not have one simple UFO office that neatly explains every sighting. The current picture is split among aviation reporting, policing, defence, archives and private research. The Office of the Chief Science Advisor’s Sky Canada work describes Transport Canada’s Civil Aviation Directorate as collecting UAP-related aviation reports from pilots, air traffic controllers and the public, with relevant records shared through the Civil Aviation Daily Occurrence Reporting System, or CADORS. It also explains that pilots usually report sightings to air traffic services, which file aviation occurrence reports that can be passed through NAV CANADA to Transport Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-That system is useful, but limited. Sky Canada notes that CADORS UAP sightings are rare in aviation reporting, that such events made up only a very small share of pilot-reported occurrences in 2023, and that Canadian authorities generally do not investigate further when incidents do not raise serious safety concerns. Transport Canada’s own guidance says CADORS information is preliminary, unsubstantiated and subject to change, and that follow-up depends on the type of incident, with possible involvement from Transport Canada, NAV CANADA, the Transportation Safety Board of Canada and NORAD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+That system is useful, but limited. Sky Canada notes that CADORS UAP sightings are rare in aviation reporting, that such events made up only a very small share of pilot-reported occurrences in 2023, and that Canadian authorities generally do not investigate further when incidents do not raise serious safety concerns. Transport Canada’s own guidance says CADORS information is preliminary, unsubstantiated and subject to change, and that follow-up depends on the type of incident, with possible involvement from Transport Canada, NAV CANADA, the Transportation Safety Board of Canada and NORAD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-For historical Newfoundland and Labrador cases, Library and Archives Canada is important because older federal UFO files are publicly accessible there. Its UFO research page cautions that many documents are uneven: most have dates, but some are undated, and only about half refer to a specific sighting location. Sky Canada also notes that the National Research Council was the main federal receiver of UAP sighting reports from 1967 to 1995, with files later transferred to Library and Archives Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+For historical Newfoundland and Labrador cases, Library and Archives Canada is important because older federal UFO files are publicly accessible there. Its UFO research page cautions that many documents are uneven: most have dates, but some are undated, and only about half refer to a specific sighting location. Sky Canada also notes that the National Research Council was the main federal receiver of UAP sighting reports from 1967 to 1995, with files later transferred to Library and Archives Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
-The Canadian UFO Survey fills part of the gap, but it is not a government adjudication system. Sky Canada describes it as Canada’s longest and most recognised collection of UAP sightings, produced by Ufology Research under Chris Rutkowski, with 570 reports tallied in 2023 and more than 24,000 Canadian reports catalogued since 1989. The survey’s own annual-surveys page stresses that UFO reports are the foundation of the field, while also saying there is no incontrovertible proof that UFOs are alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The Canadian UFO Survey fills part of the gap, but it is not a government adjudication system. Sky Canada describes it as Canada’s longest and most recognised collection of UAP sightings, produced by Ufology Research under Chris Rutkowski, with 570 reports tallied in 2023 and more than 24,000 Canadian reports catalogued since 1989. The survey’s own annual-surveys page stresses that UFO reports are the foundation of the field, while also saying there is no incontrovertible proof that UFOs are alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LvnWjFojHMA" title="NTV UFO Interview with James Blackwood – 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer">NTV UFO Interview with James Blackwood – 1978</a></p><p class="youtube-embed-meta">Channel: James Blackwood - Raccoon Whisperer &middot; Views: 37.4K &middot; Uploaded: October 2020 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LvnWjFojHMA">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ A practical ranking looks like this:
 
 **Publicly disputed modern incidents:** Harbour Mille belongs here. It attracted attention because witnesses described missile-like objects and because official checks became part of the story. The case is important in public-history terms, but the most plausible explanations include aircraft and contrail geometry as well as unknown activity; the available evidence does not allow a confident extraordinary conclusion.
 
-**Routine modern reports:** Contemporary CADORS or public-sighting database entries may be valuable for trend analysis, but many are likely to involve drones, balloons, satellites, meteors, weather, birds or ordinary aircraft. Transport Canada’s caution about the meaning of “UFO” is essential here. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+**Routine modern reports:** Contemporary CADORS or public-sighting database entries may be valuable for trend analysis, but many are likely to involve drones, balloons, satellites, meteors, weather, birds or ordinary aircraft. Transport Canada’s caution about the meaning of “UFO” is essential here.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 This distinction matters because Newfoundland and Labrador’s UFO history is often told through vivid stories. The stories are worth preserving, but the evidence varies sharply from case to case.
 
@@ -392,194 +392,138 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Newfoundland&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Newfoundland&#x27;s UFO Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings, witness testimony, and unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings, witness testimony, and unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible witness cases, aviation reports, and official investigations similar to Newfoundland&#x27;s best-known incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible witness cases, aviation reports, and official investigations similar to Newfoundland&#x27;s best-known incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UFO cases, government responses, and evidence assessment issues similar to those discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UFO cases, government responses, and evidence assessment issues similar to those discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical context for how authorities investigate and interpret unusual aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for how authorities investigate and interpret unusual aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="newfoundland-and-labrador-what-really-happened-in-newfoundland-s-ufo-cases-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-newfoundland-s-ufo-cases-ufo-metal-sign-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="what-really-happened-in-newfoundland-s-ufo-cases-ufo-metal-sign-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +539,7 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +559,7 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +591,7 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +643,7 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +688,7 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,183 +726,182 @@ The fairest conclusion is that Newfoundland and Labrador has a small number of g
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mint.ca  
-   Link: <a href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow">https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Unexplained Phenomena - The Clarenville Event | The Royal Canadian Mint...</p></details>
+   Link:<a href="https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De" target="_blank" rel="noopener noreferrer nofollow">https://www.mint.ca/en/shop/coins/2020/1-oz-pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-clarenville-event?srsltid=AfmBOoqoUws8oK3S9drSuK1RliByv06gz9PdZKBbbRTs2JvpRBg7W5De</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Unexplained Phenomena - The Clarenville Event | The Royal Canadian Mint...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: govweird.com  
    Title: 49 50n 50 03w atlantic february 1951 28939060  
-   Link: <a href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow">https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</p></details>
+   Link:<a href="https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060" target="_blank" rel="noopener noreferrer nofollow">https://www.govweird.com/topics/ufo/project-blue-book/49-50n-50-03w-atlantic-february-1951-28939060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 49.50N 50.03W (Atlantic), February 1951 · govweird...</p></details>
    Published: february 1951  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: 5 Wing Goose Bay  
-   Link: <a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Wing Goose Bay - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Wing Goose Bay - Canada.ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ganderairport.com  
    Title: Gander International Airport  
-   Link: <a href="https://ganderairport.com/about-giaa/our-history/" target="_blank" rel="noopener noreferrer nofollow">https://ganderairport.com/about-giaa/our-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GIAAOur History - Gander International Airport - GIAA...</p></details>
+   Link:<a href="https://ganderairport.com/about-giaa/our-history/" target="_blank" rel="noopener noreferrer nofollow">https://ganderairport.com/about-giaa/our-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GIAAOur History - Gander International Airport - GIAA...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing/history.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History - 5 Wing Goose Bay- Royal Canadian Air Force - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing/history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/air-force/corporate/who-we-are/organizational-structure/1-canadian-air-division/5-wing/history.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History - 5 Wing Goose Bay- Royal Canadian Air Force - Canada.ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: CFB North Bay  
-   Link: <a href="https://en.wikipedia.org/wiki/CFB_North_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_North_Bay</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/CFB_North_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_North_Bay</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident</a>  
+   Link:<a href="https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Gander International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Gander_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gander_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gander_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gander_International_Airport</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: CFB Goose Bay  
-   Link: <a href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Goose_Bay</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/CFB_Goose_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CFB_Goose_Bay</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: norad.mil  
    Title: training together to better protect the north  
-   Link: <a href="https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/</a>  
+   Link:<a href="https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Article/626808/training-together-to-better-protect-the-north/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: productofnewfoundland.ca  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddeeradvocate.com  
    Title: woman who claims she saw missiles says area not used by model hobbyists  
-   Link: <a href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Deer AdvocateWoman who claims she saw missiles says area not used...30 Jan 2010 — Emmy Pardy said she clearly saw three huge “grey b...</p></details>
+   Link:<a href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Deer AdvocateWoman who claims she saw missiles says area not used...30 Jan 2010 — Emmy Pardy said she clearly saw three huge “grey b...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddeeradvocate.com  
-   Link: <a href="https://reddeeradvocate.com/2010/02/02/mysterious-object-an-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/02/02/mysterious-object-an-illusion/</a>  
+   Link:<a href="https://reddeeradvocate.com/2010/02/02/mysterious-object-an-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/02/02/mysterious-object-an-illusion/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
    Title: Canada FOIA Part 17 Pages 4801 5100 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2017%20-%20Pages%204801-5100_djvu.txt</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
    Title: Canada FOIA Part 14 Pages 3901 4200 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2014%20-%20Pages%203901-4200_djvu.txt</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=201" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=201</a>  
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=201" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=201</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: canadaufohistory.com  
-   Link: <a href="https://www.canadaufohistory.com/1947-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1947-1954</a>  
+   Link:<a href="https://www.canadaufohistory.com/1947-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1947-1954</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: RCMP Officer Interview  
-   Link: <a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newfoundland UFO Aliens near Signal Hill Newfoundland??? #viral #aliens #ufo #scifi #viralvideo Newfoundland Antiques...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newfoundland UFO Aliens near Signal Hill Newfoundland??? #viral #aliens #ufo #scifi #viralvideo Newfoundland Antiques...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: RCMP Officer Blackwood  
-   Link: <a href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_CqvPodsjw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bethune/Gander UFO Incident, Newfoundland Canada 1951...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_CqvPodsjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bethune/Gander UFO Incident, Newfoundland Canada 1951...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: chamberlabrador.com  
-   Link: <a href="https://chamberlabrador.com/the-latest/news/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/the-latest/news/5-wing-goose-bay/</a>  
+   Link:<a href="https://chamberlabrador.com/the-latest/news/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/the-latest/news/5-wing-goose-bay/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: serco.com  
-   Link: <a href="https://www.serco.com/ca/defence/facilities-management/goose-bay" target="_blank" rel="noopener noreferrer nofollow">https://www.serco.com/ca/defence/facilities-management/goose-bay</a>  
+   Link:<a href="https://www.serco.com/ca/defence/facilities-management/goose-bay" target="_blank" rel="noopener noreferrer nofollow">https://www.serco.com/ca/defence/facilities-management/goose-bay</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: chamberlabrador.com  
-   Link: <a href="https://chamberlabrador.com/members/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/members/5-wing-goose-bay/</a>  
+   Link:<a href="https://chamberlabrador.com/members/5-wing-goose-bay/" target="_blank" rel="noopener noreferrer nofollow">https://chamberlabrador.com/members/5-wing-goose-bay/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RCAF.ARC/posts/5-wing-tempo-buzzing-like-a-beehivegoosebay-noradread-the-complete-story-and-vie/10153085037716237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCAF.ARC/posts/5-wing-tempo-buzzing-like-a-beehivegoosebay-noradread-the-complete-story-and-vie/10153085037716237/</a>  
+   Link:<a href="https://www.facebook.com/RCAF.ARC/posts/5-wing-tempo-buzzing-like-a-beehivegoosebay-noradread-the-complete-story-and-vie/10153085037716237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCAF.ARC/posts/5-wing-tempo-buzzing-like-a-beehivegoosebay-noradread-the-complete-story-and-vie/10153085037716237/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: skiesmag.com  
-   Link: <a href="https://skiesmag.com/press-releases/5-wing-goose-bay-receives-largest-canadian-defence-investment-in-newfoundland-and-labradors-history/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/press-releases/5-wing-goose-bay-receives-largest-canadian-defence-investment-in-newfoundland-and-labradors-history/</a>  
+   Link:<a href="https://skiesmag.com/press-releases/5-wing-goose-bay-receives-largest-canadian-defence-investment-in-newfoundland-and-labradors-history/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/press-releases/5-wing-goose-bay-receives-largest-canadian-defence-investment-in-newfoundland-and-labradors-history/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ort.org  
-   Link: <a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
+   Link:<a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: tsb.gc.ca  
-   Link: <a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html</a>  
+   Link:<a href="https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsb.gc.ca/eng/rapports-reports/aviation/index.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/</a>  
+   Link:<a href="https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/</a>  

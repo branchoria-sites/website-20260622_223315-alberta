@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-index/
 description: Focused pages that expand on What Really Shows Up Over Nunavut?.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Nunavut_1ecc65
 parent_title: What Really Shows Up Over Nunavut?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-shows-up-over-nunavut/
 
 # Explore Topics in What Really Shows Up Over Nunavut?
 
-The following pages expand on the main **[What Really Shows Up Over Nunavut?]({{ '/what-really-shows-up-over-nunavut/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Shows Up Over Nunavut?]({{ '/what-really-shows-up-over-nunavut/' | relative_url }})** page and cover its key branches in.
 
 - [Pilot Sighting]({{ '/pilot-sighting/' | relative_url }})
 - [CADORS Meaning]({{ '/cadors-meaning/' | relative_url }})

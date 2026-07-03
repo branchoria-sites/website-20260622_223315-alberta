@@ -264,7 +264,7 @@ The story of Quebec’s civilian UFO groups is therefore not primarily about dis
 
 ## Who kept Quebec's UFO files alive?
 
-Canada developed a lively network of civilian UFO organisations during the post-war decades, and Quebec formed part of that movement. By the 1960s and 1970s, local study groups, correspondence networks and research clubs were collecting reports that rarely attracted sustained official attention. The Canadian Encyclopedia notes that Montreal hosted a UFO Study Group during the period when citizen organisations across Canada were lobbying for investigations and information-sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — In Montreal, Quebec, there was the UFO Study Group. These groups usually lobbied the...</span></span></span>
+Canada developed a lively network of civilian UFO organisations during the post-war decades, and Quebec formed part of that movement. By the 1960s and 1970s, local study groups, correspondence networks and research clubs were collecting reports that rarely attracted sustained official attention. The Canadian Encyclopedia notes that Montreal hosted a UFO Study Group during the period when citizen organisations across Canada were lobbying for investigations and information-sharing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — In Montreal, Quebec, there was the UFO Study Group. These groups usually lobbied the...</span></span></span>
 
 These organisations performed several functions at once:
 
@@ -279,13 +279,13 @@ These organisations performed several functions at once:
 
 </div>
 
-The result was a parallel archive system. Instead of relying solely on government agencies, civilian researchers created their own repositories of sightings and correspondence. This became especially important after [official Canadian]({{ 'official-files-431ac4/' | relative_url }}) interest in UFO investigations declined and many witnesses had no obvious public body to contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">citizens and the state. Beginning in thRead more...</span></span></span>
+The result was a parallel archive system. Instead of relying solely on government agencies, civilian researchers created their own repositories of sightings and correspondence. This became especially important after [official Canadian]({{ 'official-files-431ac4/' | relative_url }}) interest in UFO investigations declined and many witnesses had no obvious public body to contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">citizens and the state. Beginning in thRead more...</span></span></span>
 
 ## French-language groups and periodicals after the 1960s
 
 Quebec's UFO culture developed within a largely French-language media environment. This meant that reports often circulated through local publications and investigator networks that were difficult for English-speaking researchers elsewhere in Canada to access.
 
-One of the most visible contemporary examples is GARPAN, a Quebec-based organisation that continues to publish investigations, witness appeals and historical material. The organisation's activities demonstrate the long-running Quebec tradition of citizen-led UFO documentation rather than reliance on state archives alone. Its publications, meetings and calls for witnesses show how local researchers continue to gather and preserve reports in French. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garpan.ca">[GARPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garpan.ca</span><span class="citation-popover-title">UFO Archive</span><span class="citation-popover-snippet">UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+One of the most visible contemporary examples is GARPAN, a Quebec-based organisation that continues to publish investigations, witness appeals and historical material. The organisation's activities demonstrate the long-running Quebec tradition of citizen-led UFO documentation rather than reliance on state archives alone. Its publications, meetings and calls for witnesses show how local researchers continue to gather and preserve reports in French.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garpan.ca">[GARPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garpan.ca</span><span class="citation-popover-title">UFO Archive</span><span class="citation-popover-snippet">UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
 The importance of newsletters and periodicals is easy to overlook today. Before digital databases, many reports existed only because they appeared in mimeographed newsletters, club journals or privately circulated bulletins. A sighting reported in a regional newspaper might disappear from public memory within days. Once copied into a UFO group's files, however, it could remain available for future researchers.
 
@@ -298,7 +298,7 @@ These publications also preserved debates. Investigators frequently published co
 
 The most valuable contribution of civilian groups was often mundane administrative work.
 
-When unusual lights were reported, investigators commonly issued witness appeals asking others who had observed the same event to come forward. Multiple statements could then be compared for time, direction, weather conditions and apparent behaviour. Modern Quebec organisations still employ this approach when investigating reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garpan.ca">[GARPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garpan.ca</span><span class="citation-popover-title">UFO Archive</span><span class="citation-popover-snippet">UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
+When unusual lights were reported, investigators commonly issued witness appeals asking others who had observed the same event to come forward. Multiple statements could then be compared for time, direction, weather conditions and apparent behaviour. Modern Quebec organisations still employ this approach when investigating reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garpan.ca">[GARPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garpan.ca</span><span class="citation-popover-title">UFO Archive</span><span class="citation-popover-snippet">UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</span><span class="citation-popover-meta">Published: June 2026</span></span></span>
 
 Over time, these efforts produced case files containing:
 
@@ -324,11 +324,11 @@ For historians of Quebec UFO culture, the existence of the file is often as impo
 
 A surprising feature of Canadian UFO history is that important Quebec material is often preserved outside the province.
 
-The most significant modern repository is the collection assembled by researcher Chris Rutkowski and later donated to the University of Manitoba. The archive contains roughly 30,000 UFO-related items gathered from across Canada, including reports, correspondence, research files and organisational records accumulated over decades. Because Canadian UFO researchers frequently exchanged information across provincial boundaries, Quebec cases became part of a broader national archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityaffairs.ca">[University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityaffairs.ca</span><span class="citation-popover-title">University Affairs The University of Manitoba&#x27;s archive of the paranormal just</span><span class="citation-popover-snippet">University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...February 25, 2020 — 25 Feb 2020 — A donation of 30,000 U...</span><span class="citation-popover-meta">Published: February 25, 2020</span></span></span>
+The most significant modern repository is the collection assembled by researcher Chris Rutkowski and later donated to the University of Manitoba. The archive contains roughly 30,000 UFO-related items gathered from across Canada, including reports, correspondence, research files and organisational records accumulated over decades. Because Canadian UFO researchers frequently exchanged information across provincial boundaries, Quebec cases became part of a broader national archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityaffairs.ca">[University Affairs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityaffairs.ca</span><span class="citation-popover-title">University Affairs The University of Manitoba&#x27;s archive of the paranormal just</span><span class="citation-popover-snippet">University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...February 25, 2020 — 25 Feb 2020 — A donation of 30,000 U...</span><span class="citation-popover-meta">Published: February 25, 2020</span></span></span>
 
-The Canadian UFO Survey, which has catalogued reports since 1989, also serves an archival function. Although best known for annual statistics, the project preserves large numbers of individual case records, ensuring that reports are not lost after their initial publication. Government discussions of Canadian reporting systems have recognised the survey as the country's longest-running civilian collection of UFO sighting data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</span></span></span>
+The Canadian UFO Survey, which has catalogued reports since 1989, also serves an archival function. Although best known for annual statistics, the project preserves large numbers of individual case records, ensuring that reports are not lost after their initial publication. Government discussions of Canadian reporting systems have recognised the survey as the country's longest-running civilian collection of UFO sighting data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</span></span></span>
 
-Smaller archival traces survive elsewhere. University and archival collections contain correspondence from organisations such as UFO Canada, including information forms, flyers and administrative records that reveal how citizen investigators operated and communicated with the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcs-atom.uottawa.ca">[Arcs Atom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcs-atom.uottawa.ca</span><span class="citation-popover-title">Arcs Atom UFO Canada [Group: Chomedey, Quebec</span><span class="citation-popover-snippet">Arcs AtomUFO Canada [Group: Chomedey, Quebec] - University of OttawaFile consists of correspondence with UFO Canada, a &quot;UFO Canada Inform...</span></span></span>
+Smaller archival traces survive elsewhere. University and archival collections contain correspondence from organisations such as UFO Canada, including information forms, flyers and administrative records that reveal how citizen investigators operated and communicated with the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcs-atom.uottawa.ca">[Arcs Atom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcs-atom.uottawa.ca</span><span class="citation-popover-title">Arcs Atom UFO Canada [Group: Chomedey, Quebec</span><span class="citation-popover-snippet">Arcs AtomUFO Canada [Group: Chomedey, Quebec] - University of OttawaFile consists of correspondence with UFO Canada, a &quot;UFO Canada Inform...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
@@ -373,194 +373,194 @@ Nevertheless, preservation has value. The files allow later generations to revis
 <img src="{{ "/assets/images/Quebec_51603e_french_ufo_culture_c14935_quebec_ufo_archives_e295a4-Illustration-3-dark.svg" | relative_url }}" alt="UFO Archives illustration 3" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_french_ufo_culture_c14935_quebec_ufo_archives_e295a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_french_ufo_culture_c14935_quebec_ufo_archives_e295a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who kept Quebec&#x27;s UFO files alive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who kept Quebec&#x27;s UFO files alive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes classification, investigation, and documentation of sightings, closely related to archival UFO work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes classification, investigation, and documentation of sightings, closely related to archival UFO work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how reports, witnesses, and records are collected and evaluated, matching the page&#x27;s focus on preserving UFO case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports, witnesses, and records are collected and evaluated, matching the page&#x27;s focus on preserving UFO case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines institutional and historical UFO records, complementing discussion of civilian archives and preservation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines institutional and historical UFO records, complementing discussion of civilian archives and preservation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for how UFO reports were gathered, analyzed, and preserved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how UFO reports were gathered, analyzed, and preserved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="ufo-archives-who-kept-quebec-s-ufo-files-alive-quebec-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ Nevertheless, preservation has value. The files allow later generations to revis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ Nevertheless, preservation has value. The files allow later generations to revis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ Nevertheless, preservation has value. The files allow later generations to revis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ Nevertheless, preservation has value. The files allow later generations to revis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ Nevertheless, preservation has value. The files allow later generations to revis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,106 +766,106 @@ Nevertheless, preservation has value. The files allow later generations to revis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in thRead more...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in thRead more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighti...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: garpan.ca  
    Title: UFO Archive  
-   Link: <a href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://garpan.ca/en/category/ovnis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</p></details>
+   Link:<a href="https://garpan.ca/en/category/ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://garpan.ca/en/category/ovnis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Archive - GARPANThe first edition of the “Ufological Dinners of Montreal” will take place on Saturday 13 June 2026, to 13 h 00...</p></details>
    Published: June 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ia601405.us.archive.org  
-   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, to learn its secrets, and that if they admit or disclose the results of... 1969 when the USAF-sponsored scientific study of UFOs, h...</p></details>
+   Link:<a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, to learn its secrets, and that if they admit or disclose the results of... 1969 when the USAF-sponsored scientific study of UFOs, h...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — In Montreal, Quebec, there was the UFO Study Group. These groups usually lobbied the...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — In Montreal, Quebec, there was the UFO Study Group. These groups usually lobbied the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: universityaffairs.ca  
    Title: University Affairs The University of Manitoba's archive of the paranormal just  
-   Link: <a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...February 25, 2020 — 25 Feb 2020 — A donation of 30,000 U...</p></details>
+   Link:<a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University AffairsThe University of Manitoba&#x27;s archive of the paranormal just...February 25, 2020 — 25 Feb 2020 — A donation of 30,000 U...</p></details>
    Published: February 25, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arcs-atom.uottawa.ca  
    Title: Arcs Atom UFO Canada [Group: Chomedey, Quebec]  
-   Link: <a href="https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arcs AtomUFO Canada [Group: Chomedey, Quebec] - University of OttawaFile consists of correspondence with UFO Canada, a &quot;UFO Canada Inform...</p></details>
+   Link:<a href="https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/ufo-canada-group-chomedey-quebec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arcs AtomUFO Canada [Group: Chomedey, Quebec] - University of OttawaFile consists of correspondence with UFO Canada, a &quot;UFO Canada Inform...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/montrealthenandnow/posts/2731407180410473/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/montrealthenandnow/posts/2731407180410473/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting over Place [Bonaventure](&amp;#123;&amp;#123; &#x27;bonaventure/&#x27; | relative_url &amp;#125;&amp;#125;) hotel 30 years ago?Just watched a cbc story about the UFO sighting over Place Bonaventure hotel, 30 y...</p></details>
+   Link:<a href="https://www.facebook.com/groups/montrealthenandnow/posts/2731407180410473/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/montrealthenandnow/posts/2731407180410473/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting over Place [Bonaventure](&amp;#123;&amp;#123; &#x27;bonaventure/&#x27; | relative_url &amp;#125;&amp;#125;) hotel 30 years ago?Just watched a cbc story about the UFO sighting over Place Bonaventure hotel, 30 y...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...Jul 19, 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a U...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...Jul 19, 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a U...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/shop" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/shop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOP | Canadian UFO ReportVeteran UFO researcher Chris Rutkowski reveals all. Polls show that millions of Canadians believe they&#x27;ve seen...</p></details>
+   Link:<a href="https://canadianuforeport.ca/shop" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/shop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHOP | Canadian UFO ReportVeteran UFO researcher Chris Rutkowski reveals all. Polls show that millions of Canadians believe they&#x27;ve seen...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025TOP 10 RARE FACTS ABOUT ALIENS &amp; UFOS 1. Canada Has a Formal UFO Reporting System Since 1950, Ca...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025TOP 10 RARE FACTS ABOUT ALIENS &amp; UFOS 1. Canada Has a Formal UFO Reporting System Since 1950, Ca...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI trackingMar 10, 2026 — Chris Rutkowski has spent decades researching the phenomenon and is part of Ufo...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI trackingMar 10, 2026 — Chris Rutkowski has spent decades researching the phenomenon and is part of Ufo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyAnnual Canadian UFO surveys produced by a Canadian team from Ufology Research...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyAnnual Canadian UFO surveys produced by a Canadian team from Ufology Research...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: 75 years ago today on december 2 1950 the worlds first ufo research facility was  
-   Link: <a href="https://www.facebook.com/HistoricalSocietyOttawa/posts/75-years-ago-today-on-december-2-1950-the-worlds-first-ufo-research-facility-was/1242815407880324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricalSocietyOttawa/posts/75-years-ago-today-on-december-2-1950-the-worlds-first-ufo-research-facility-was/1242815407880324/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski ▻ UFO UpDates. 7y · Public · Just to show how the topic of UFOs has been...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HistoricalSocietyOttawa/posts/75-years-ago-today-on-december-2-1950-the-worlds-first-ufo-research-facility-was/1242815407880324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricalSocietyOttawa/posts/75-years-ago-today-on-december-2-1950-the-worlds-first-ufo-research-facility-was/1242815407880324/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski ▻ UFO UpDates. 7y · Public · Just to show how the topic of UFOs has been...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — 5 See, for instance, Chris Rutkowski and Geoff Dittman, The Canadian UFO Re...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — 5 See, for instance, Chris Rutkowski and Geoff Dittman, The Canadian UFO Re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: canadianuforeport.ca  
    Title: Our Team at Canadian UFO Report Chris Rutkowski  
-   Link: <a href="https://canadianuforeport.ca/our-team" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/our-team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Team at Canadian UFO ReportChris Rutkowski - Team Lead / Canada&#x27;s Go-To Ufologist... Leanne has been involved in data analysis for t...</p></details>
+   Link:<a href="https://canadianuforeport.ca/our-team" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/our-team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Team at Canadian UFO ReportChris Rutkowski - Team Lead / Canada&#x27;s Go-To Ufologist... Leanne has been involved in data analysis for t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Anyone remember the frozen alien in Quebec?  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/1jglf8a/anyone_remember_the_frozen_alien_in_quebec_it_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1jglf8a/anyone_remember_the_frozen_alien_in_quebec_it_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was a set...It was a very popular Alien/UFO short film. I can&#x27;t seem to find it, so it must have been taken down at some point. It wa...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/1jglf8a/anyone_remember_the_frozen_alien_in_quebec_it_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1jglf8a/anyone_remember_the_frozen_alien_in_quebec_it_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was a set...It was a very popular Alien/UFO short film. I can&#x27;t seem to find it, so it must have been taken down at some point. It wa...</p></details>

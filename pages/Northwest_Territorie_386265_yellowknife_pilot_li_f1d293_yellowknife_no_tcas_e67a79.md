@@ -260,11 +260,11 @@ One of the most discussed details in the [Yellowknife pilot]({{ 'pilot-lights/' 
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-1-dark.svg" | relative_url }}" alt="No TCAS Hit illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is that TCAS is not a general-purpose detector of everything visible in the sky. It is a specialised aviation safety system designed to detect and track aircraft that are transmitting the right electronic signals. A light can be clearly visible to pilots and still leave no trace on TCAS. Understanding that distinction helps explain why the Yellowknife case remains uncertain rather than confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+The key point is that TCAS is not a general-purpose detector of everything visible in the sky. It is a specialised aviation safety system designed to detect and track aircraft that are transmitting the right electronic signals. A light can be clearly visible to pilots and still leave no trace on TCAS. Understanding that distinction helps explain why the Yellowknife case remains uncertain rather than confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
 ## Why Did the Lights Not Show Up?
 
-During the radio exchange near Yellowknife in January 2023, the crew reported seeing two bright lights moving above them. They specifically told air traffic control that the lights were not showing on TCAS, while controllers also reported no corresponding radar traffic. The pilots were sufficiently puzzled to ask whether known aircraft were operating nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+During the radio exchange near Yellowknife in January 2023, the crew reported seeing two bright lights moving above them. They specifically told air traffic control that the lights were not showing on TCAS, while controllers also reported no corresponding radar traffic. The pilots were sufficiently puzzled to ask whether known aircraft were operating nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
 That combination—visible lights but no TCAS indication—is unusual enough to attract attention, yet it has several possible [explanations]({{ 'explanations/' | relative_url }}). The absence of a TCAS target narrows the possibilities, but it does not identify what the lights were.
 
@@ -273,9 +273,9 @@ That combination—visible lights but no TCAS indication—is unusual enough to 
 
 ## What TCAS Is Built to Detect
 
-TCAS, known internationally as an Airborne Collision Avoidance System (ACAS), is designed to prevent mid-air collisions. It works by interrogating nearby aircraft transponders and analysing their replies. If another aircraft is equipped with a functioning transponder, TCAS can display it and, if necessary, provide collision warnings or avoidance instructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Skybrary+3Federal Aviation Administration+3Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
+TCAS, known internationally as an Airborne Collision Avoidance System (ACAS), is designed to prevent mid-air collisions. It works by interrogating nearby aircraft transponders and analysing their replies. If another aircraft is equipped with a functioning transponder, TCAS can display it and, if necessary, provide collision warnings or avoidance instructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Skybrary+3Federal Aviation Administration+3Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
 
-A crucial limitation is that TCAS does not detect every object in the sky. It depends on electronic cooperation from the target. Transport Canada guidance explicitly notes that aircraft without operating transponders are effectively invisible to TCAS-equipped aircraft. European and aviation-safety guidance describe the same limitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[EUROCONTROL+3Transport Canada+3EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Aircraft Certification Staff Instruction (ACSI</span><span class="citation-popover-snippet">AS I is a functional subset of TCAS II in that it provides Traffic...</span></span></span>
+A crucial limitation is that TCAS does not detect every object in the sky. It depends on electronic cooperation from the target. Transport Canada guidance explicitly notes that aircraft without operating transponders are effectively invisible to TCAS-equipped aircraft. European and aviation-safety guidance describe the same limitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[EUROCONTROL+3Transport Canada+3EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Aircraft Certification Staff Instruction (ACSI</span><span class="citation-popover-snippet">AS I is a functional subset of TCAS II in that it provides Traffic...</span></span></span>
 
 In practical terms, TCAS is looking for transponder replies, not for lights.
 
@@ -285,22 +285,22 @@ In practical terms, TCAS is looking for transponder replies, not for lights.
 
 Several categories of phenomena can be visible from a cockpit without producing a TCAS alert.
 
-**Natural atmospheric or astronomical sources.** Bright planets, stars near the horizon, atmospheric reflections, ice-crystal effects, and auroral activity can appear surprisingly bright or mobile from a moving aircraft. Because they are not aircraft, they generate no transponder signals and therefore no TCAS target. The [Northwest Territories]({{ 'northwest-territories/' | relative_url }})' northern latitude makes unusual sky effects more common than in many southern regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
+**Natural atmospheric or astronomical sources.** Bright planets, stars near the horizon, atmospheric reflections, ice-crystal effects, and auroral activity can appear surprisingly bright or mobile from a moving aircraft. Because they are not aircraft, they generate no transponder signals and therefore no TCAS target. The [Northwest Territories]({{ 'northwest-territories/' | relative_url }})' northern latitude makes unusual sky effects more common than in many southern regions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
 
-**Aircraft with no usable transponder return.** A real aircraft can fail to appear on TCAS if its transponder is not operating correctly, is switched off, or is not providing the necessary information. Aviation guidance repeatedly identifies this as a known limitation of collision-avoidance systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Aircraft Certification Staff Instruction (ACSI</span><span class="citation-popover-snippet">AS I is a functional subset of TCAS II in that it provides Traffic...</span></span></span>
+**Aircraft with no usable transponder return.** A real aircraft can fail to appear on TCAS if its transponder is not operating correctly, is switched off, or is not providing the necessary information. Aviation guidance repeatedly identifies this as a known limitation of collision-avoidance systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Aircraft Certification Staff Instruction (ACSI</span><span class="citation-popover-snippet">AS I is a functional subset of TCAS II in that it provides Traffic...</span></span></span>
 
-**Objects that are not aircraft at all.** Satellites, rocket stages reflecting sunlight, or other distant light sources may be visible under some conditions yet produce no aviation-system response because they are outside the system's design envelope. TCAS is not intended to classify or display such objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
+**Objects that are not aircraft at all.** Satellites, rocket stages reflecting sunlight, or other distant light sources may be visible under some conditions yet produce no aviation-system response because they are outside the system's design envelope. TCAS is not intended to classify or display such objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
 
-**Visual perception effects.** At night, especially from a moving aircraft, estimating distance, altitude, and motion is difficult. Two distant lights can appear to manoeuvre relative to one another because of viewing angle changes, atmospheric conditions, or the observer's own motion. Such effects can create the impression of movement without any nearby aircraft being present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+**Visual perception effects.** At night, especially from a moving aircraft, estimating distance, altitude, and motion is difficult. Two distant lights can appear to manoeuvre relative to one another because of viewing angle changes, atmospheric conditions, or the observer's own motion. Such effects can create the impression of movement without any nearby aircraft being present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YUDu2sL_2Y4" title="&quot;CLIMB NOW!&quot; How Aircraft Anti-Collision systems work!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YUDu2sL_2Y4" target="_blank" rel="noopener noreferrer">&quot;CLIMB NOW!&quot; How Aircraft Anti-Collision systems work!</a></p><p class="youtube-embed-meta">Channel: Mentour Pilot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YUDu2sL_2Y4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YUDu2sL_2Y4">Open on YouTube</a></p></div></div></div>
 
 ## What the Missing Return Can and Cannot Prove
 
-The absence of a TCAS target does provide useful information. It suggests that the lights were not behaving like a nearby, transponder-equipped aircraft that the system could identify. That is a legitimate observation and one reason the crew found the sighting noteworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+The absence of a TCAS target does provide useful information. It suggests that the lights were not behaving like a nearby, transponder-equipped aircraft that the system could identify. That is a legitimate observation and one reason the crew found the sighting noteworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
-However, the missing return cannot prove that the lights represented an unknown craft. TCAS was never designed to answer that question. A non-detection only tells investigators that the observed source did not generate the kind of signal TCAS expected to receive. It does not reveal whether the source was a distant aircraft, an atmospheric effect, a celestial object, a satellite reflection, a transponderless target, or something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Skybrary+3Federal Aviation Administration+3Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
+However, the missing return cannot prove that the lights represented an unknown craft. TCAS was never designed to answer that question. A non-detection only tells investigators that the observed source did not generate the kind of signal TCAS expected to receive. It does not reveal whether the source was a distant aircraft, an atmospheric effect, a celestial object, a satellite reflection, a transponderless target, or something else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Skybrary+3Federal Aviation Administration+3Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration</span><span class="citation-popover-snippet">The secondary purpose of the...Read more...</span></span></span>
 
 This distinction is often lost in UFO discussions. A lack of electronic confirmation is not the same thing as evidence for an extraordinary explanation. It simply removes one possible identification.
 
@@ -308,9 +308,9 @@ This distinction is often lost in UFO discussions. A lack of electronic confirma
 <img src="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-3-dark.svg" | relative_url }}" alt="No TCAS Hit illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters in the Yellowknife Case
 
-The Yellowknife report remains interesting because it involved trained aviation observers, an active air traffic control conversation, and a contemporaneous record of what the crew saw. The TCAS detail adds to the mystery by showing that the lights were not immediately identified through standard cockpit systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+The Yellowknife report remains interesting because it involved trained aviation observers, an active air traffic control conversation, and a contemporaneous record of what the crew saw. The TCAS detail adds to the mystery by showing that the lights were not immediately identified through standard cockpit systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
-Yet the same detail also limits what can be claimed. The pilots themselves did not report a collision threat, a close encounter, or a confirmed aircraft. Controllers could not identify corresponding traffic, and the public record has not produced evidence that the lights were a definite physical craft. The missing TCAS return therefore supports a cautious conclusion: the sighting was unexplained in the moment, but it did not provide proof of an unknown vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+Yet the same detail also limits what can be claimed. The pilots themselves did not report a collision threat, a close encounter, or a confirmed aircraft. Controllers could not identify corresponding traffic, and the public record has not produced evidence that the lights were a definite physical craft. The missing TCAS return therefore supports a cautious conclusion: the sighting was unexplained in the moment, but it did not provide proof of an unknown vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-snippet">Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
 Within the broader history of unusual aerial reports in the Northwest Territories, that makes the case a useful example of aviation uncertainty. The lights were visible. The crew took them seriously enough to report. The aircraft systems did not identify them. But the absence of a TCAS hit remains a clue, not a solution.
 
@@ -319,194 +319,194 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Lights Not Show Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Lights Not Show Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses aviation sightings where instruments and observers differ.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses aviation sightings where instruments and observers differ.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines cases where available detection data was limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cases where available detection data was limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages careful interpretation of incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful interpretation of incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps explain limitations of visual perception in flight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain limitations of visual perception in flight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="{{ '/assets/images/marketplace-covers/535c2d280804ed0fe1be.jpg' | relative_url }}" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="{{ '/assets/images/marketplace-covers/535c2d280804ed0fe1be.jpg' | relative_url }}" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel"><img src="{{ '/assets/images/marketplace-covers/c72c0b9bf2404d3200d2.jpg' | relative_url }}" alt="Listing image for New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">New Pilot wings badge RAF aeroplane helicopter pin badge tie pin metal enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084"><img src="{{ '/assets/images/marketplace-covers/be325e2fcbc5c60ddef8.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 3.5CM PIN/BADGE - Pilot Gifts - New 1084</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="no-tcas-hit-why-did-the-lights-not-show-up-northwest-territories-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,104 +712,104 @@ Within the broader history of unusual aerial reports in the Northwest Territorie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: Transport Canada Aircraft Certification Staff Instruction (ACSI)  
-   Link: <a href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AS I is a functional subset of TCAS II in that it provides Traffic...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/aircraft-certification-guidance-advisory-materials-pre-2007/aircraft-certification-staff-instruction-acsi-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AS I is a functional subset of TCAS II in that it provides Traffic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/system/acas" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/system/acas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airborne collision avoidance system (ACAS|TCAS)ACAS does not detect non-transponder equipped aircraft or aircraft with a non-o...</p></details>
+   Link:<a href="https://www.eurocontrol.int/system/acas" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/system/acas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airborne collision avoidance system (ACAS|TCAS)ACAS does not detect non-transponder equipped aircraft or aircraft with a non-o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/airborne-collision-avoidance-system-acas" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/airborne-collision-avoidance-system-acas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ice for traffic without altitude reporting transponder...</p></details>
+   Link:<a href="https://skybrary.aero/articles/airborne-collision-avoidance-system-acas" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/airborne-collision-avoidance-system-acas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ice for traffic without altitude reporting transponder...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/archive_download/all/node/8858" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/archive_download/all/node/8858</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>secondary radars. Therefore, pilots must...Read more...</p></details>
+   Link:<a href="https://www.eurocontrol.int/archive_download/all/node/8858" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/archive_download/all/node/8858</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>secondary radars. Therefore, pilots must...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/video/tcas-environment-aircraft-must-operate-their-altitude-reporting-transponder" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/video/tcas-environment-aircraft-must-operate-their-altitude-reporting-transponder</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS II displays should not be used for Self-Separation Aircrew should...</p></details>
+   Link:<a href="https://skybrary.aero/video/tcas-environment-aircraft-must-operate-their-altitude-reporting-transponder" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/video/tcas-environment-aircraft-must-operate-their-altitude-reporting-transponder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS II displays should not be used for Self-Separation Aircrew should...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cabinradio.ca  
-   Link: <a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</p></details>
+   Link:<a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioCanadian North crew reports &#x27;lights in sky&#x27; over YellowknifeFebruary 11, 2023 — 11 Feb 2023 — Flight 5071: Yeah, we&#x27;re looking...</p></details>
    Published: February 11, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration  
-   Link: <a href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The secondary purpose of the...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/advisory_circular/tcas%20ii%20v7.1%20intro%20booklet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The secondary purpose of the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canadiannorth.com  
    Title: Canadian North  
-   Link: <a href="https://canadiannorth.com/" target="_blank" rel="noopener noreferrer nofollow">https://canadiannorth.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WelcomeBook a flight, plan your trip, check-in destinations, flight schedule, flight status, manage my trip, route map, travel info, acce...</p></details>
+   Link:<a href="https://canadiannorth.com/" target="_blank" rel="noopener noreferrer nofollow">https://canadiannorth.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WelcomeBook a flight, plan your trip, check-in destinations, flight schedule, flight status, manage my trip, route map, travel info, acce...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tsunamiair.com  
-   Link: <a href="https://tsunamiair.com/airplane/tcas" target="_blank" rel="noopener noreferrer nofollow">https://tsunamiair.com/airplane/tcas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Alert and Collision Avoidance System (TCAS)15 Mar 2026 — TCAS does not detect aircraft that are not transponder equipped, nor air...</p></details>
+   Link:<a href="https://tsunamiair.com/airplane/tcas" target="_blank" rel="noopener noreferrer nofollow">https://tsunamiair.com/airplane/tcas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Alert and Collision Avoidance System (TCAS)15 Mar 2026 — TCAS does not detect aircraft that are not transponder equipped, nor air...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canadiannorth.com  
-   Link: <a href="https://canadiannorth.com/travel-info/before-you-fly/" target="_blank" rel="noopener noreferrer nofollow">https://canadiannorth.com/travel-info/before-you-fly/</a>  
+   Link:<a href="https://canadiannorth.com/travel-info/before-you-fly/" target="_blank" rel="noopener noreferrer nofollow">https://canadiannorth.com/travel-info/before-you-fly/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: easemytrip.com  
-   Link: <a href="https://www.easemytrip.com/flights/canadian-north-flight-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.easemytrip.com/flights/canadian-north-flight-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian North Flight StatusCheck the live status of Canadian North flights with real-time updates for the domestic &amp; international desti...</p></details>
+   Link:<a href="https://www.easemytrip.com/flights/canadian-north-flight-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.easemytrip.com/flights/canadian-north-flight-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian North Flight StatusCheck the live status of Canadian North flights with real-time updates for the domestic &amp; international desti...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tarmacview.com  
-   Link: <a href="https://www.tarmacview.com/glossary/tcas/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/tcas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS (Traffic Alert and Collision Avoidance System)TCAS cannot detect aircraft without functioning transponders, has no lateral (turn) av...</p></details>
+   Link:<a href="https://www.tarmacview.com/glossary/tcas/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/tcas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS (Traffic Alert and Collision Avoidance System)TCAS cannot detect aircraft without functioning transponders, has no lateral (turn) av...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/494710044/Tcas-Solution" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/494710044/Tcas-Solution</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS Overview and Functionality | PDFThis document discusses the development of TCAS, a collision avoidance system used in aircraft. TCAS...</p></details>
+   Link:<a href="https://www.scribd.com/document/494710044/Tcas-Solution" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/494710044/Tcas-Solution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS Overview and Functionality | PDFThis document discusses the development of TCAS, a collision avoidance system used in aircraft. TCAS...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ll.mit.edu  
    Title: tcas system preventing midair collisions harman ja 6399  
-   Link: <a href="https://www.ll.mit.edu/sites/default/files/publication/doc/tcas-system-preventing-midair-collisions-harman-ja-6399.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/sites/default/files/publication/doc/tcas-system-preventing-midair-collisions-harman-ja-6399.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduTCAS: a system for preventing midair collisionsBecause aircraft equipped with Mode-S transponders are tracked by TCAS in Mode S, t...</p></details>
+   Link:<a href="https://www.ll.mit.edu/sites/default/files/publication/doc/tcas-system-preventing-midair-collisions-harman-ja-6399.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/sites/default/files/publication/doc/tcas-system-preventing-midair-collisions-harman-ja-6399.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduTCAS: a system for preventing midair collisionsBecause aircraft equipped with Mode-S transponders are tracked by TCAS in Mode S, t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: TCA S DOESN'T ASK ATC… IT ACTS It feels like pilots are  
-   Link: <a href="https://www.facebook.com/61558804422315/posts/tcas-doesnt-ask-atc-it-actsit-feels-like-pilots-are-always-waiting-for-instructi/122220114506293480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558804422315/posts/tcas-doesnt-ask-atc-it-actsit-feels-like-pilots-are-always-waiting-for-instructi/122220114506293480/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS makes it rare. What TCAS Actually Does TCAS: ✓ Detects nearby transponder-equipped aircraft ✓ Calculates closing speed &amp; trajectory...</p></details>
+   Link:<a href="https://www.facebook.com/61558804422315/posts/tcas-doesnt-ask-atc-it-actsit-feels-like-pilots-are-always-waiting-for-instructi/122220114506293480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558804422315/posts/tcas-doesnt-ask-atc-it-actsit-feels-like-pilots-are-always-waiting-for-instructi/122220114506293480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TCAS makes it rare. What TCAS Actually Does TCAS: ✓ Detects nearby transponder-equipped aircraft ✓ Calculates closing speed &amp; trajectory...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV0wZ37CoBV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV0wZ37CoBV/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>plane. ✨ Sometimes the adventure begins before you even land. ✈️...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DV0wZ37CoBV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV0wZ37CoBV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plane. ✨ Sometimes the adventure begins before you even land. ✈️...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MentourPilot/posts/what-happens-when-tcas-gives-a-false-warning-this-critical-technology-tells-pilo/1373586887468022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MentourPilot/posts/what-happens-when-tcas-gives-a-false-warning-this-critical-technology-tells-pilo/1373586887468022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>they are supposed to climb or descend to avoid mid-air crashes...</p></details>
+   Link:<a href="https://www.facebook.com/MentourPilot/posts/what-happens-when-tcas-gives-a-false-warning-this-critical-technology-tells-pilo/1373586887468022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MentourPilot/posts/what-happens-when-tcas-gives-a-false-warning-this-critical-technology-tells-pilo/1373586887468022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>they are supposed to climb or descend to avoid mid-air crashes...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q6JgyhoCyi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6JgyhoCyi8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q6JgyhoCyi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6JgyhoCyi8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE LIGHTS IN THE SKY | Pilots UFO Report at High Altitude...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;CLIMB NOW!&quot; How Aircraft Anti-Collision systems work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;CLIMB NOW!&quot; How Aircraft Anti-Collision systems work...</p></details>

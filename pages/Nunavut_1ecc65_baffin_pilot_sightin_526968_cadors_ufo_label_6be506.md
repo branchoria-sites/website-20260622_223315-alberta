@@ -256,32 +256,32 @@ image: /assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_labe
 
 ## Introduction
 
-The CADORS entry attached to the 2018 Baffin Island [pilot sighting]({{ 'pilot-sighting/' | relative_url }}) matters because it turns the incident from a second-hand story into a documented aviation occurrence. It does not prove that the pilots encountered anything extraordinary, but it does show that the report entered an official Canadian aviation reporting system and was serious enough to be logged, classified, and circulated through established channels. In the context of [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) UFO history, that distinction is important. Many sightings rely entirely on later recollections or media reports; the Baffin Island case can be traced back to a specific record in Transport Canada’s Civil Aviation Daily Occurrence Reporting System (CADORS). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+The CADORS entry attached to the 2018 Baffin Island [pilot sighting]({{ 'pilot-sighting/' | relative_url }}) matters because it turns the incident from a second-hand story into a documented aviation occurrence. It does not prove that the pilots encountered anything extraordinary, but it does show that the report entered an official Canadian aviation reporting system and was serious enough to be logged, classified, and circulated through established channels. In the context of [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) UFO history, that distinction is important. Many sightings rely entirely on later recollections or media reports; the Baffin Island case can be traced back to a specific record in Transport Canada’s Civil Aviation Daily Occurrence Reporting System (CADORS).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-1-dark.svg" | relative_url }}" alt="CADORS Record illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, CADORS records are often misunderstood. A CADORS entry documents that something was reported. It does not certify that the reported object was identified, extraordinary, or even accurately perceived. Understanding that difference is essential when assessing the strength of the Baffin Island case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+At the same time, CADORS records are often misunderstood. A CADORS entry documents that something was reported. It does not certify that the reported object was identified, extraordinary, or even accurately perceived. Understanding that difference is essential when assessing the strength of the Baffin Island case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
 ## Does CADORS Make the Sighting Stronger?
 
 The answer is yes—but only in a limited and specific sense.
 
-A CADORS record strengthens the case because it establishes that trained aviation personnel reported an unusual observation through a recognised safety-reporting process. The Baffin Island sighting was not simply retold years later or passed around online. It entered a system used to share information about aviation occurrences and potential hazards. The report was also significant enough that NORAD was advised, even though no operational impact on the flight was reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+A CADORS record strengthens the case because it establishes that trained aviation personnel reported an unusual observation through a recognised safety-reporting process. The Baffin Island sighting was not simply retold years later or passed around online. It entered a system used to share information about aviation occurrences and potential hazards. The report was also significant enough that NORAD was advised, even though no operational impact on the flight was reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
-What the CADORS record does **not** do is confirm the nature of the object. The entry records a report, not a conclusion. That distinction often disappears in popular retellings, where the existence of an official document is sometimes treated as evidence that authorities verified the sighting. Transport Canada does not present CADORS that way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+What the CADORS record does **not** do is confirm the nature of the object. The entry records a report, not a conclusion. That distinction often disappears in popular retellings, where the existence of an official document is sometimes treated as evidence that authorities verified the sighting. Transport Canada does not present CADORS that way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
-For researchers examining UFO history in Nunavut, the value of the record is therefore traceability. It provides a documented starting point that can be checked against dates, locations, witness statements, and subsequent reporting. That makes the incident more substantial than a rumour, even though it remains unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+For researchers examining UFO history in Nunavut, the value of the record is therefore traceability. It provides a documented starting point that can be checked against dates, locations, witness statements, and subsequent reporting. That makes the incident more substantial than a rumour, even though it remains unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hgZ_2Y0_6d4" title="Unusual object spotted on Winnipeg flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer">Unusual object spotted on Winnipeg flight</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 5.1K &middot; Uploaded: March 2026 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hgZ_2Y0_6d4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hgZ_2Y0_6d4">Open on YouTube</a></p></div></div></div>
 
 ## How the Sighting Entered an Aviation Safety System
 
-CADORS is a public reporting system maintained by Transport Canada to distribute information about civil aviation occurrences. The database collects reports from sources including NAV CANADA, operators, airports, and other involved parties. Its purpose is safety awareness and information sharing rather than the investigation of paranormal claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+CADORS is a public reporting system maintained by Transport Canada to distribute information about civil aviation occurrences. The database collects reports from sources including NAV CANADA, operators, airports, and other involved parties. Its purpose is safety awareness and information sharing rather than the investigation of paranormal claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
-In the Baffin Island incident, the pilots' observation was entered into CADORS after the November 2018 flight near the Mary River mine. Once recorded, the event became part of an official aviation information chain rather than remaining solely within company records or witness recollections. This is why the case continues to appear in discussions of Canadian UFO reports years later. Researchers can point to a specific occurrence record rather than relying only on news coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+In the Baffin Island incident, the pilots' observation was entered into CADORS after the November 2018 flight near the Mary River mine. Once recorded, the event became part of an official aviation information chain rather than remaining solely within company records or witness recollections. This is why the case continues to appear in discussions of Canadian UFO reports years later. Researchers can point to a specific occurrence record rather than relying only on news coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
-The broader significance is that aviation systems occasionally preserve unusual sightings that might otherwise disappear from the historical record. A CADORS entry creates a documentary footprint even when no definitive explanation follows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">ence Reporting System (CADORS) for incidents affecting aviation safety...Read more...</span></span></span>
+The broader significance is that aviation systems occasionally preserve unusual sightings that might otherwise disappear from the historical record. A CADORS entry creates a documentary footprint even when no definitive explanation follows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">ence Reporting System (CADORS) for incidents affecting aviation safety...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-2-dark.svg" | relative_url }}" alt="CADORS Record illustration 2" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -289,11 +289,11 @@ The broader significance is that aviation systems occasionally preserve unusual 
 
 One of the most misunderstood parts of the Baffin Island record is the label “CIRVIS/UFO.”
 
-The CADORS entry used the category “CIRVIS/UFO,” with CIRVIS referring to “Communications Instructions for Reporting Vital Intelligence Sightings,” a long-standing reporting framework for unusual aerial observations. In practical terms, the label signals that an aviation observer reported something noteworthy that could not immediately be classified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+The CADORS entry used the category “CIRVIS/UFO,” with CIRVIS referring to “Communications Instructions for Reporting Vital Intelligence Sightings,” a long-standing reporting framework for unusual aerial observations. In practical terms, the label signals that an aviation observer reported something noteworthy that could not immediately be classified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
-Crucially, the category is broad. Transport Canada has stated that reports falling under UFO-related classifications can include drones, balloons, meteors, weather phenomena, birds, rockets, and other objects or observations that are initially unidentified. The presence of the label therefore indicates uncertainty, not extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+Crucially, the category is broad. Transport Canada has stated that reports falling under UFO-related classifications can include drones, balloons, meteors, weather phenomena, birds, rockets, and other objects or observations that are initially unidentified. The presence of the label therefore indicates uncertainty, not extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
-This is one reason the Baffin Island case attracts attention while remaining difficult to interpret. The official classification confirms that the object was unidentified at the reporting stage, but the classification itself offers no evidence about what the object actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+This is one reason the Baffin Island case attracts attention while remaining difficult to interpret. The official classification confirms that the object was unidentified at the reporting stage, but the classification itself offers no evidence about what the object actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DgbNKOK7lr4" title="Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer">Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024</a></p><p class="youtube-embed-meta">Channel: daniel otis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DgbNKOK7lr4">Open on YouTube</a></p></div></div></div>
@@ -302,11 +302,11 @@ This is one reason the Baffin Island case attracts attention while remaining dif
 
 The strongest argument for caution comes from Transport Canada itself.
 
-CADORS records are intended to provide rapid awareness of aviation occurrences. Transport Canada explicitly describes the information as preliminary and subject to revision. The database exists to notify stakeholders and support safety monitoring, not to deliver final investigative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+CADORS records are intended to provide rapid awareness of aviation occurrences. Transport Canada explicitly describes the information as preliminary and subject to revision. The database exists to notify stakeholders and support safety monitoring, not to deliver final investigative findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
-That warning is especially important in UFO-related cases. A pilot may accurately report seeing an unusual light while still being unable to determine its distance, size, altitude, or origin. Without additional evidence such as radar data, imagery, multiple independent observations, or a completed investigation, a CADORS entry alone cannot establish what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+That warning is especially important in UFO-related cases. A pilot may accurately report seeing an unusual light while still being unable to determine its distance, size, altitude, or origin. Without additional evidence such as radar data, imagery, multiple independent observations, or a completed investigation, a CADORS entry alone cannot establish what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
-The later public comments associated with the Baffin Island sighting illustrate this point. According to reporting at the time, the pilot described a bright light that changed colours, while a Nolinor representative suggested it was probably something natural, perhaps a star or meteor. Those comments neither fully explain nor strongly reinforce the UFO interpretation. Instead, they show that uncertainty remained after the initial report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arctictoday.com">[ArcticToday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arctictoday.com</span><span class="citation-popover-snippet">Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...November 28, 2018 — Pilots report UFO sighting over Nunavut&#x27;s nor...</span><span class="citation-popover-meta">Published: November 28, 2018</span></span></span>
+The later public comments associated with the Baffin Island sighting illustrate this point. According to reporting at the time, the pilot described a bright light that changed colours, while a Nolinor representative suggested it was probably something natural, perhaps a star or meteor. Those comments neither fully explain nor strongly reinforce the UFO interpretation. Instead, they show that uncertainty remained after the initial report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arctictoday.com">[ArcticToday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arctictoday.com</span><span class="citation-popover-snippet">Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...November 28, 2018 — Pilots report UFO sighting over Nunavut&#x27;s nor...</span><span class="citation-popover-meta">Published: November 28, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-3-dark.svg" | relative_url }}" alt="CADORS Record illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,203 +314,203 @@ The later public comments associated with the Baffin Island sighting illustrate 
 
 For the Baffin Island sighting, the CADORS record is best viewed as evidence of reporting rather than evidence of an extraordinary object.
 
-It tells us that professional aviators observed something unusual enough to document through Canada's aviation safety system. It shows that the incident was treated seriously enough to enter an official record and be communicated through established channels. Those facts make the case more credible than an unsupported anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+It tells us that professional aviators observed something unusual enough to document through Canada's aviation safety system. It shows that the incident was treated seriously enough to enter an official record and be communicated through established channels. Those facts make the case more credible than an unsupported anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
-However, the same record also highlights the limits of the evidence. CADORS does not identify the object, verify an unusual explanation, or demonstrate that investigators reached a remarkable conclusion. In Nunavut's UFO history, the value of the Baffin Island case lies less in what the record proves and more in the fact that the record exists at all. It provides a rare, traceable aviation document for a remote northern sighting while leaving the central question unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
+However, the same record also highlights the limits of the evidence. CADORS does not identify the object, verify an unusual explanation, or demonstrate that investigators reached a remarkable conclusion. In Nunavut's UFO history, the value of the Baffin Island case lies less in what the record proves and more in the fact that the record exists at all. It provides a rare, traceable aviation document for a remote northern sighting while leaving the central question unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada+2Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FjaR3R3fQeI" title="Several pilots see unexplained lights over Central Canada | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FjaR3R3fQeI" target="_blank" rel="noopener noreferrer">Several pilots see unexplained lights over Central Canada | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FjaR3R3fQeI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FjaR3R3fQeI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does CADORS Make the Sighting Stronger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does CADORS Make the Sighting Stronger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on pilot reports, official records, and how documented aviation cases should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on pilot reports, official records, and how documented aviation cases should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines the strengths and limitations of sighting reports and official case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the strengths and limitations of sighting reports and official case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how official reporting systems record unusual aerial observations without proving extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official reporting systems record unusual aerial observations without proving extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Provides context for readers interested in documented UFO cases and debates over interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for readers interested in documented UFO cases and debates over interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/5f30d12afc670c9ba1bb.jpg' | relative_url }}" alt="Listing image for Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings High Quality All Metal Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089"><img src="{{ '/assets/images/marketplace-covers/7e0198004bfd23cca203.jpg' | relative_url }}" alt="Listing image for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089"><img src="{{ '/assets/images/marketplace-covers/7e0198004bfd23cca203.jpg' | relative_url }}" alt="Listing image for Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings SILVER 1.5CM PIN/BADGE - Pilot Gifts - New 1089</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083"><img src="{{ '/assets/images/marketplace-covers/c1336089e2f01b65e5d2.jpg' | relative_url }}" alt="Listing image for Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Pilot Wings Gold 5CM PIN/BADGE - Pilot Gifts - New 1083</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="{{ '/assets/images/marketplace-covers/535c2d280804ed0fe1be.jpg' | relative_url }}" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch"><img src="{{ '/assets/images/marketplace-covers/535c2d280804ed0fe1be.jpg' | relative_url }}" alt="Listing image for Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">Aviator Pilot Wings Pin Badge Army Navy Air Force Aeroplane Plane Brooch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pilot wings pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: pilot wings pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pilot+wings+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pilot wings pin" data-ebay-reference="cadors-record-does-cadors-make-the-sighting-stronger-nunavut-pilot-wings-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ However, the same record also highlights the limits of the evidence. CADORS does
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ However, the same record also highlights the limits of the evidence. CADORS does
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ However, the same record also highlights the limits of the evidence. CADORS does
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ However, the same record also highlights the limits of the evidence. CADORS does
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ However, the same record also highlights the limits of the evidence. CADORS does
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,109 +716,109 @@ However, the same record also highlights the limits of the evidence. CADORS does
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ence Reporting System (CADORS) for incidents affecting aviation safety...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence Reporting System (CADORS) for incidents affecting aviation safety...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nunatsiaq.com  
    Title: pilots report ufo sighting over nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arctictoday.com  
-   Link: <a href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...November 28, 2018 — Pilots report UFO sighting over Nunavut&#x27;s nor...</p></details>
+   Link:<a href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...November 28, 2018 — Pilots report UFO sighting over Nunavut&#x27;s nor...</p></details>
    Published: November 28, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nunatsiaq.com  
-   Link: <a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our top 10 stories of 201831 Dec 2018 — The top news story of 2018 on Nunatsiaq.com: a UFO sighting in northern Baffin Island...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our top 10 stories of 201831 Dec 2018 — The top news story of 2018 on Nunatsiaq.com: a UFO sighting in northern Baffin Island...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tc.canada.ca  
    Title: ca Standard 621  
-   Link: <a href="https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-621-obstacle-marking-lighting-canadian-aviation-regulations-cars" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-621-obstacle-marking-lighting-canadian-aviation-regulations-cars</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>621 - Obstacle Marking and Lighting4 Apr 2025 — Standard 621 for standards for marking and lighting of objects that present a hazard to t...</p></details>
+   Link:<a href="https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-621-obstacle-marking-lighting-canadian-aviation-regulations-cars" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433/standards/standard-621-obstacle-marking-lighting-canadian-aviation-regulations-cars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>621 - Obstacle Marking and Lighting4 Apr 2025 — Standard 621 for standards for marking and lighting of objects that present a hazard to t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fliegerfaust.com  
    Title: uap ufo aviation safety pilot reporting data  
-   Link: <a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS), a public...Read more...</p></details>
+   Link:<a href="https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.fliegerfaust.com/uap-ufo-aviation-safety-pilot-reporting-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS), a public...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bst.gc.ca  
-   Link: <a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report an air transportation occurrenceReport the occurrence as soon as possible by the quickest means available Call direct 819-994-3741...</p></details>
+   Link:<a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report an air transportation occurrenceReport the occurrence as soon as possible by the quickest means available Call direct 819-994-3741...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>😨Numerous Reports of Mysterious LightsPassenger and military plane pilots report &#x27;bright green UFO&#x27; swooping through the clouds over Cana...</p></details>
+   Link:<a href="https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VASAviation/posts/numerous-reports-of-mysterious-lights-very-high-very-fast%EF%B8%8Fwatch-full-video-on-yo/937298871735620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>😨Numerous Reports of Mysterious LightsPassenger and military plane pilots report &#x27;bright green UFO&#x27; swooping through the clouds over Cana...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s top scientist releases new UFO reportCanada&#x27;s top scientist releases new UFO report. 202. Dislike... ” The acronym UAP stands f...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s top scientist releases new UFO reportCanada&#x27;s top scientist releases new UFO report. 202. Dislike... ” The acronym UAP stands f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: syfy.com  
    Title: unidentified aerial phenomena ufos in canada  
-   Link: <a href="https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena have been tracked in...23 Apr 2021 — A recent story from VICE World News dives into these unexplained phen...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/unidentified-aerial-phenomena-ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified aerial phenomena have been tracked in...23 Apr 2021 — A recent story from VICE World News dives into these unexplained phen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uforum.blogspot.com  
    Title: nothing too baffling at baffin island  
-   Link: <a href="https://uforum.blogspot.com/2018/12/nothing-too-baffling-at-baffin-island.html" target="_blank" rel="noopener noreferrer nofollow">https://uforum.blogspot.com/2018/12/nothing-too-baffling-at-baffin-island.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2018: Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Island.... In fact, there were a few dozen UFOish CADORS reports in 2018...</p></details>
+   Link:<a href="https://uforum.blogspot.com/2018/12/nothing-too-baffling-at-baffin-island.html" target="_blank" rel="noopener noreferrer nofollow">https://uforum.blogspot.com/2018/12/nothing-too-baffling-at-baffin-island.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2018: Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Island.... In fact, there were a few dozen UFOish CADORS reports in 2018...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Pilot reports](&amp;#123;&amp;#123; &#x27;pilot-report/&#x27; | relative_url &amp;#125;&amp;#125;) unknown flying &quot;object&quot; in airline audio of close encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Pilot reports](&amp;#123;&amp;#123; &#x27;pilot-report/&#x27; | relative_url &amp;#125;&amp;#125;) unknown flying &quot;object&quot; in airline audio of close encounter...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aa.com.tr  
    Title: canada ufo sightings include reports from airline crews  
-   Link: <a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The skies above Canada were fertile ground for what could be UFOs with at least 17...Read more...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The skies above Canada were fertile ground for what could be UFOs with at least 17...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skiesmag.com  
    Title: 13 briefing said might not be practicable.Read more  
-   Link: <a href="https://skiesmag.com/news/canadian-officials-say-not-feasible-analyze-debris-unidentified-objects-shot-down/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/news/canadian-officials-say-not-feasible-analyze-debris-unidentified-objects-shot-down/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian officials say it might not be feasible to analyze...14 Feb 2023 — The three smaller “objects” remain “unidentified” until debri...</p></details>
+   Link:<a href="https://skiesmag.com/news/canadian-officials-say-not-feasible-analyze-debris-unidentified-objects-shot-down/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/news/canadian-officials-say-not-feasible-analyze-debris-unidentified-objects-shot-down/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian officials say it might not be feasible to analyze...14 Feb 2023 — The three smaller “objects” remain “unidentified” until debri...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vice.com  
    Title: The Truth Is Out There  
-   Link: <a href="https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But This Company Holding UFO...29 Jul 2021 — After hearing from Nav Canada, 21 Squadron usually sends its own CIRVIS report to Transport...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-is-out-there-but-this-company-holding-ufo-info-wont-share-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But This Company Holding UFO...29 Jul 2021 — After hearing from Nav Canada, 21 Squadron usually sends its own CIRVIS report to Transport...</p></details>

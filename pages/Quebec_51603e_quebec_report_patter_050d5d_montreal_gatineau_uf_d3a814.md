@@ -262,17 +262,17 @@ image: /assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatinea
 
 ## Introduction
 
-Montreal and Gatineau stand out in [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s UFO reporting statistics not because they are isolated mystery zones, but because they place large numbers of people beneath some of the province’s busiest and most heavily observed skies. When Quebec’s annual reports are mapped geographically, sightings tend to cluster around major urban corridors, airports, suburban growth belts and areas with dense populations. Montreal consistently appears among Canada’s leading metropolitan reporting regions, while Gatineau forms part of a larger Ottawa–Gatineau urban area where [witnesses]({{ 'witnesses-fb3e02/' | relative_url }}) on both sides of the provincial boundary are often looking at the same events in the same sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2QUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
+Montreal and Gatineau stand out in [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s UFO reporting statistics not because they are isolated mystery zones, but because they place large numbers of people beneath some of the province’s busiest and most heavily observed skies. When Quebec’s annual reports are mapped geographically, sightings tend to cluster around major urban corridors, airports, suburban growth belts and areas with dense populations. Montreal consistently appears among Canada’s leading metropolitan reporting regions, while Gatineau forms part of a larger Ottawa–Gatineau urban area where [witnesses]({{ 'witnesses-fb3e02/' | relative_url }}) on both sides of the provincial boundary are often looking at the same events in the same sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2QUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-1-dark.svg" | relative_url }}" alt="Urban Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding Quebec UFO patterns, these cities are important because they show how reporting numbers are shaped by visibility, population density, aviation activity and witness behaviour. A cluster of reports does not automatically indicate a cluster of unexplained phenomena. It often indicates a place where many observers encounter the same lights, aircraft, satellites, drones or atmospheric effects and are more likely to file reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufology research manitoba</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
+For understanding Quebec UFO patterns, these cities are important because they show how reporting numbers are shaped by visibility, population density, aviation activity and witness behaviour. A cluster of reports does not automatically indicate a cluster of unexplained phenomena. It often indicates a place where many observers encounter the same lights, aircraft, satellites, drones or atmospheric effects and are more likely to file reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufology research manitoba</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
 
 ## Why city skies generate more reports
 
 Urban UFO clusters are a well-known feature of Canadian reporting data. Montreal and Gatineau contain large populations, extensive suburban areas and active online communities where unusual sightings can be discussed and reported. These factors increase the probability that an event will be noticed, documented and entered into a database.
 
-The Canadian UFO Survey has repeatedly found that most reports involve lights seen at night rather than structured craft observed at close range. In the 2025 survey, roughly half of all Canadian reports fell into categories such as nocturnal lights that may involve stars, satellites, aircraft or other conventional sources, while only a small percentage remained unexplained after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">uncover whats really going on ufo researcher in manitoba supports ai tracking</span><span class="citation-popover-snippet">CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</span></span></span>
+The Canadian UFO Survey has repeatedly found that most reports involve lights seen at night rather than structured craft observed at close range. In the 2025 survey, roughly half of all Canadian reports fell into categories such as nocturnal lights that may involve stars, satellites, aircraft or other conventional sources, while only a small percentage remained unexplained after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">uncover whats really going on ufo researcher in manitoba supports ai tracking</span><span class="citation-popover-snippet">CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</span></span></span>
 
 This matters for Montreal and Gatineau because urban observers face a particularly crowded visual environment. Witnesses may be seeing:
 
@@ -288,14 +288,14 @@ This matters for Montreal and Gatineau because urban observers face a particular
 
 </div>
 
-The same object can generate multiple independent reports when viewed across a large metropolitan area, creating the appearance of a local wave even when all witnesses observed the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+The same object can generate multiple independent reports when viewed across a large metropolitan area, creating the appearance of a local wave even when all witnesses observed the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
 
 ## Montreal's metropolitan count versus city-only reports
 
-Montreal is the clearest example of how reporting geography affects UFO statistics. Recent Canadian UFO Survey results placed the Montreal metropolitan area among Canada's leading reporting centres. The 2025 survey recorded 30 reports in the wider Montreal metropolitan region, placing it behind only Toronto and Vancouver among major Canadian urban areas. Similar patterns appeared in earlier surveys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
+Montreal is the clearest example of how reporting geography affects UFO statistics. Recent Canadian UFO Survey results placed the Montreal metropolitan area among Canada's leading reporting centres. The 2025 survey recorded 30 reports in the wider Montreal metropolitan region, placing it behind only Toronto and Vancouver among major Canadian urban areas. Similar patterns appeared in earlier surveys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
 
 The distinction between the metropolitan area and the City of Montreal itself is important. The metropolitan region includes a much larger population spread across suburbs, commuter communities and surrounding municipalities. Many reports attributed to "Montreal" actually originate from locations well beyond the city centre.
 
@@ -311,7 +311,7 @@ Several factors help explain Montreal's persistent prominence:
 
 </div>
 
-The result is a reporting hotspot that reflects both population and observation opportunities. A light seen over the South Shore, Laval or the West Island may still enter databases under the broader Montreal metropolitan designation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
+The result is a reporting hotspot that reflects both population and observation opportunities. A light seen over the South Shore, Laval or the West Island may still enter databases under the broader Montreal metropolitan designation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-2-dark.svg" | relative_url }}" alt="Urban Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ Several factors make the Ottawa–Gatineau corridor especially prone to repeated
 
 </div>
 
-For investigators, this shared-sky environment can actually be useful. Multiple reports from different locations may allow estimates of direction, altitude and movement. At the same time, the large number of observers increases the chance that ordinary aircraft or celestial objects will attract attention and generate several reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+For investigators, this shared-sky environment can actually be useful. Multiple reports from different locations may allow estimates of direction, altitude and movement. At the same time, the large number of observers increases the chance that ordinary aircraft or celestial objects will attract attention and generate several reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.gc.ca">[Publications.gc.ca+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fsyMddjvIs0" title="Increase in unexplained aerial sightings across Manitoba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer">Increase in unexplained aerial sightings across Manitoba</a></p><p class="youtube-embed-meta">Channel: CBC News Manitoba</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fsyMddjvIs0">Open on YouTube</a></p></div></div></div>
@@ -357,7 +357,7 @@ Investigators have long noted that witnesses often report:
 
 </div>
 
-These perceptions can be entirely genuine observations of unusual-looking lights without requiring an extraordinary explanation. The challenge is that the witness is accurately reporting what was seen, while the underlying cause may still be a conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufology research manitoba</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
+These perceptions can be entirely genuine observations of unusual-looking lights without requiring an extraordinary explanation. The challenge is that the witness is accurately reporting what was seen, while the underlying cause may still be a conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufology research manitoba</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
 
 Suburban areas add another layer. Residents often enjoy clearer views of the horizon than people in dense downtown districts. As a result, many reports originate not from urban cores but from surrounding residential communities where people spend time outdoors and can observe the sky for longer periods.
 
@@ -367,203 +367,203 @@ Suburban areas add another layer. Residents often enjoy clearer views of the hor
 
 The Montreal and Gatineau clusters are valuable because they demonstrate a recurring pattern in Quebec UFO history: reports concentrate where people are numerous, connected and exposed to busy skies.
 
-The evidence does not show that these cities experience uniquely exotic phenomena. Instead, it shows that large urban regions function as reporting engines. They generate more witnesses, more duplicate observations and more opportunities for ordinary aerial objects to be noticed and reported. This is consistent with broader Canadian findings that most reports involve limited information and that only a small minority remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">uncover whats really going on ufo researcher in manitoba supports ai tracking</span><span class="citation-popover-snippet">CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</span></span></span>
+The evidence does not show that these cities experience uniquely exotic phenomena. Instead, it shows that large urban regions function as reporting engines. They generate more witnesses, more duplicate observations and more opportunities for ordinary aerial objects to be noticed and reported. This is consistent with broader Canadian findings that most reports involve limited information and that only a small minority remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">uncover whats really going on ufo researcher in manitoba supports ai tracking</span><span class="citation-popover-snippet">CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</span></span></span>
 
-Within Quebec's UFO history, Montreal and Gatineau therefore matter less as mystery hotspots than as laboratories for understanding how population density, aviation activity and public reporting habits shape the province's UFO record. Their clusters help explain why Quebec's highest report counts tend to follow major urban corridors rather than remote areas, even though unusual sightings can occur anywhere in the province. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2QUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
+Within Quebec's UFO history, Montreal and Gatineau therefore matter less as mystery hotspots than as laboratories for understanding how population density, aviation activity and public reporting habits shape the province's UFO record. Their clusters help explain why Quebec's highest report counts tend to follow major urban corridors rather than remote areas, even though unusual sightings can occur anywhere in the province.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2QUB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why city skies produce more UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why city skies produce more UFO reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and how sightings are documented and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and how sightings are documented and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines sighting patterns, witness reports, and the classification of UFO observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines sighting patterns, witness reports, and the classification of UFO observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers understand perception, evidence, and why unusual events are often misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand perception, evidence, and why unusual events are often misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Provides broader context for public interest in unusual objects and observations in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for public interest in unusual objects and observations in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="urban-clusters-why-city-skies-produce-more-ufo-reports-quebec-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,137 +769,137 @@ Within Quebec's UFO history, Montreal and Gatineau therefore matter less as myst
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: qub.ca  
-   Link: <a href="https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Des observations d&#x27;ovnis signalées toutes les huit heures...10 Mar 2026 — Près de 1052 observations d&#x27;objets volants non identifiés (ovn...</p></details>
+   Link:<a href="https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/des-observations-dovnis-signales-toutes-les-huit-heures-au-canada-en-2025-1947533272</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Des observations d&#x27;ovnis signalées toutes les huit heures...10 Mar 2026 — Près de 1052 observations d&#x27;objets volants non identifiés (ovn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews WinnipegUFO researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: montreal.citynews.ca  
-   Link: <a href="https://montreal.citynews.ca/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/" target="_blank" rel="noopener noreferrer nofollow">https://montreal.citynews.ca/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files describe spinning discs, glowing orbs and...8 days ago — New UFO files describe spinning discs, glowing orbs and one object sh...</p></details>
+   Link:<a href="https://montreal.citynews.ca/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/" target="_blank" rel="noopener noreferrer nofollow">https://montreal.citynews.ca/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files describe spinning discs, glowing orbs and...8 days ago — New UFO files describe spinning discs, glowing orbs and one object sh...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tc.canada.ca  
    Title: 4 high altitude object incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighting loc...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighting loc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gc.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP stands for &#x27;Unidentified Aerial (or Anomalous)...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP stands for &#x27;Unidentified Aerial (or Anomalous)...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 10, 2026 — In terms of metropolitan cities in Canada, Toronto finished first with 53 UFO reports, Vancouver with 45, Montreal with 30...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: ufology research manitoba  
-   Link: <a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aa.com.tr  
    Title: canada ufo sightings include reports from airline crews  
-   Link: <a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıCanada UFO sightings include reports from airline crews26 Jan 2024 — The skies above Canada were fertile ground for what co...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıCanada UFO sightings include reports from airline crews26 Jan 2024 — The skies above Canada were fertile ground for what co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: globalnews.ca  
    Title: ufo data collection spy balloons misinformation  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report says the evolution in terminology has the potential to red...</p></details>
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report says the evolution in terminology has the potential to red...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. D...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. D...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — Among the 1,000 Canadians polled, more than half (56%) believe in U...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — Among the 1,000 Canadians polled, more than half (56%) believe in U...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesarniajournal.ca  
-   Link: <a href="https://www.thesarniajournal.ca/top-story/upsurge-ufo-sightings-sarnia-7962684" target="_blank" rel="noopener noreferrer nofollow">https://www.thesarniajournal.ca/top-story/upsurge-ufo-sightings-sarnia-7962684</a>  
+   Link:<a href="https://www.thesarniajournal.ca/top-story/upsurge-ufo-sightings-sarnia-7962684" target="_blank" rel="noopener noreferrer nofollow">https://www.thesarniajournal.ca/top-story/upsurge-ufo-sightings-sarnia-7962684</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
    Published: May 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Canada recorded 1052 UFO sightings in 2025… that&#x27;s one every eight hours. In this episode of The...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025Canada recorded 1052 UFO sightings in 2025… that&#x27;s one every eight hours. In this episode of The...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thelaker.ca  
    Title: new study indicates yukon sees most ufos newfoundland buys most lotto tickets  
-   Link: <a href="https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/" target="_blank" rel="noopener noreferrer nofollow">https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New study indicates Yukon sees most UFOs27 Jan 2026 — This northern territory, with a population of 45,750, records the nation&#x27;s highest...</p></details>
+   Link:<a href="https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/" target="_blank" rel="noopener noreferrer nofollow">https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New study indicates Yukon sees most UFOs27 Jan 2026 — This northern territory, with a population of 45,750, records the nation&#x27;s highest...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vicnews.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
+   Link:<a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: panow.com  
    Title: canadians want research on ufo sightings but dont want to pay for it  
-   Link: <a href="https://panow.com/2025/02/05/canadians-want-research-on-ufo-sightings-but-dont-want-to-pay-for-it/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2025/02/05/canadians-want-research-on-ufo-sightings-but-dont-want-to-pay-for-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians want research on UFO sightings, but don&#x27;t...5 Feb 2025 — The survey says the public wants the federal government to proactivel...</p></details>
+   Link:<a href="https://panow.com/2025/02/05/canadians-want-research-on-ufo-sightings-but-dont-want-to-pay-for-it/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2025/02/05/canadians-want-research-on-ufo-sightings-but-dont-want-to-pay-for-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians want research on UFO sightings, but don&#x27;t...5 Feb 2025 — The survey says the public wants the federal government to proactivel...</p></details>

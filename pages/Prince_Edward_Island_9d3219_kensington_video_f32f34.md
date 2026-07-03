@@ -280,23 +280,23 @@ image: /assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-overvi
 
 ## Introduction
 
-John Sheppard’s Kensington video remains one of [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s most discussed modern UFO cases because it sits exactly where today’s skywatching arguments usually begin: a real witness, a coastal night sky, a mobile-phone recording, and no single explanation that satisfied everyone. The reported sighting took place on 4 June 2014 while Sheppard was camping at Twin Shores near Kensington, looking out towards the Gulf of St Lawrence. He later shared the footage with MUFON, and CBC coverage in January 2016 helped turn a local Island report into a wider online debate. The cautious reading is simple: the video is interesting evidence of an unusual observation, but not strong evidence of an extraordinary craft. Its value for Prince Edward Island UFO history is that it shows how modern video can preserve a sighting while also exposing how little a dark, distant image may actually prove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
+John Sheppard’s Kensington video remains one of [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s most discussed modern UFO cases because it sits exactly where today’s skywatching arguments usually begin: a real witness, a coastal night sky, a mobile-phone recording, and no single explanation that satisfied everyone. The reported sighting took place on 4 June 2014 while Sheppard was camping at Twin Shores near Kensington, looking out towards the Gulf of St Lawrence. He later shared the footage with MUFON, and CBC coverage in January 2016 helped turn a local Island report into a wider online debate. The cautious reading is simple: the video is interesting evidence of an unusual observation, but not strong evidence of an extraordinary craft. Its value for Prince Edward Island UFO history is that it shows how modern video can preserve a sighting while also exposing how little a dark, distant image may actually prove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-overview.webp" | relative_url }}" alt="Overview image for Kensington" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Kensington video appears to show
 
-The core claim is not especially complicated. Sheppard, a Moncton man camping at Twin Shores, reported unusual lights late at night over the Gulf of St Lawrence and recorded them on his phone. Secondary summaries of the case commonly describe about 22 minutes of footage, although the publicly discussed clip was shorter; Vice described the video that circulated after CBC’s report as nearly eight minutes long, showing small lights against a largely black field. That difference matters because the debate is not only about what Sheppard saw, but about what later viewers can responsibly infer from the portion of footage they can inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
+The core claim is not especially complicated. Sheppard, a Moncton man camping at Twin Shores, reported unusual lights late at night over the Gulf of St Lawrence and recorded them on his phone. Secondary summaries of the case commonly describe about 22 minutes of footage, although the publicly discussed clip was shorter; Vice described the video that circulated after CBC’s report as nearly eight minutes long, showing small lights against a largely black field. That difference matters because the debate is not only about what Sheppard saw, but about what later viewers can responsibly infer from the portion of footage they can inspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
 
 The video’s appeal is easy to understand. Unlike older Prince Edward Island UFO stories that survive mainly through memories, newspaper reports or federal file entries, Kensington belongs to the mobile-phone era. Viewers can pause it, brighten it, compare frames and argue over whether the lights behave like aircraft, drones, lanterns, ships or something less familiar. That makes the case feel more concrete than a verbal report. It also makes it more vulnerable to over-reading, because a dark video with few reference points can make ordinary lights look detached from ordinary surroundings.
 
-MUFON’s role added to the case’s reputation. The Nighttime podcast’s episode description states that CBC covered Sheppard’s experience after MUFON investigated and labelled it a “confirmed sighting”, and that sceptics then responded with alternative [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). In this context, “confirmed” should be read carefully. It does not mean that an extraterrestrial craft was confirmed. It means that a civilian UFO organisation regarded the report as a genuine case it could not explain to its own satisfaction. That distinction is central to the Kensington debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">4670465 the 2014 kensington pei ufo sighting</span><span class="citation-popover-snippet">Nighttime / The 2014 Kensington PEI UFO Sighting...</span></span></span>
+MUFON’s role added to the case’s reputation. The Nighttime podcast’s episode description states that CBC covered Sheppard’s experience after MUFON investigated and labelled it a “confirmed sighting”, and that sceptics then responded with alternative [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). In this context, “confirmed” should be read carefully. It does not mean that an extraterrestrial craft was confirmed. It means that a civilian UFO organisation regarded the report as a genuine case it could not explain to its own satisfaction. That distinction is central to the Kensington debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">4670465 the 2014 kensington pei ufo sighting</span><span class="citation-popover-snippet">Nighttime / The 2014 Kensington PEI UFO Sighting...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-1-dark.svg" | relative_url }}" alt="Kensington illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the location makes the footage hard to judge
 
-The Kensington case is inseparable from where it was filmed. Twin Shores is not an inland viewpoint with buildings, streetlights and fixed objects that make scale easy. It is a North Shore coastal campground with several beaches and almost four kilometres of coastline on site, including a Gulf of St Lawrence beach and a bayside Darnley Basin beach. The resort itself advertises evening sunset views over the water, which is exactly the kind of open horizon that can produce striking but ambiguous night observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Twin Shores &#124; Darnley, Prince Edward IslandCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore of Pr...</span></span></span>
+The Kensington case is inseparable from where it was filmed. Twin Shores is not an inland viewpoint with buildings, streetlights and fixed objects that make scale easy. It is a North Shore coastal campground with several beaches and almost four kilometres of coastline on site, including a Gulf of St Lawrence beach and a bayside Darnley Basin beach. The resort itself advertises evening sunset views over the water, which is exactly the kind of open horizon that can produce striking but ambiguous night observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Twin Shores &#124; Darnley, Prince Edward IslandCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore of Pr...</span></span></span>
 
 A coastal horizon gives a witness a wide view, but it also removes many cues that help identify distance and motion. A light over water may be close and small, or distant and large. It may be moving, or the camera may be moving. It may be above the horizon, on the horizon, reflected from the water, refracted through layers of air, or partly obscured by haze. Without a visible shoreline marker, star field, timestamped compass direction, flight track, radar return or multiple independent videos from different locations, the viewer is left to interpret points of light in a scene with very little geometry.
 
@@ -307,15 +307,15 @@ This is why the Kensington video divides people even when they are arguing in go
 
 ## The main ordinary explanations
 
-The reported follow-up debate around the CBC coverage included suggestions such as a drone, an incoming aircraft and Chinese lanterns. Those are not throwaway debunks; they are exactly the kinds of explanations that a coastal night video has to survive before it can become a stronger UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
+The reported follow-up debate around the CBC coverage included suggestions such as a drone, an incoming aircraft and Chinese lanterns. Those are not throwaway debunks; they are exactly the kinds of explanations that a coastal night video has to survive before it can become a stronger UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 2014 kensington ufo sighting pei canada</span><span class="citation-popover-snippet">Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</span></span></span>
 
-**Aircraft** are a natural first check. Distant aircraft lights can appear to hover when a plane is travelling towards or away from the observer, and night approaches over dark terrain or water are well known in aviation as visually deceptive. FAA safety material on night visual illusions notes that dark terrain and misleading light patterns can make the horizon hard to judge, while “black-hole” approach conditions over water or unlighted terrain remove peripheral visual cues. Those aviation warnings are written for pilots, but the same principle applies to ground observers: a few lights in a dark field can mislead the eye when there is no reliable horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — A Black-Hole Approach Illusion can happen dur...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span>
+**Aircraft** are a natural first check. Distant aircraft lights can appear to hover when a plane is travelling towards or away from the observer, and night approaches over dark terrain or water are well known in aviation as visually deceptive. FAA safety material on night visual illusions notes that dark terrain and misleading light patterns can make the horizon hard to judge, while “black-hole” approach conditions over water or unlighted terrain remove peripheral visual cues. Those aviation warnings are written for pilots, but the same principle applies to ground observers: a few lights in a dark field can mislead the eye when there is no reliable horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — A Black-Hole Approach Illusion can happen dur...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span>
 
-**Drones** are also plausible in modern skywatching, especially when a sighting consists of lights rather than a resolved object. Canada’s drone rules now treat remotely piloted aircraft as a formal aviation category, with registration and operating requirements for many drones, and Transport Canada warns that pilots must follow Canadian Aviation Regulations and avoid reckless or negligent operation. None of that proves a drone was present at Kensington in 2014, but it explains why modern UFO reports increasingly have to consider small remotely piloted aircraft as part of the ordinary sky environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Flying your drone safely and legally</span><span class="citation-popover-snippet">Transport Canada Flying your drone safely and legally</span></span></span>
+**Drones** are also plausible in modern skywatching, especially when a sighting consists of lights rather than a resolved object. Canada’s drone rules now treat remotely piloted aircraft as a formal aviation category, with registration and operating requirements for many drones, and Transport Canada warns that pilots must follow Canadian Aviation Regulations and avoid reckless or negligent operation. None of that proves a drone was present at Kensington in 2014, but it explains why modern UFO reports increasingly have to consider small remotely piloted aircraft as part of the ordinary sky environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada Flying your drone safely and legally</span><span class="citation-popover-snippet">Transport Canada Flying your drone safely and legally</span></span></span>
 
 **Lanterns or small illuminated objects** fit some parts of the debate but not all. Sky lanterns can drift, flicker and form loose groupings, but they are wind-dependent and usually have a limited duration. They can look uncanny when seen over water because there may be no ground reference to show their true size or distance. A lantern explanation would need to fit the timing, direction, wind and duration, not merely the fact that lights were visible.
 
-**Atmospheric effects** should not be ignored around the Gulf. Mirages and refraction occur when light bends through air layers of different temperatures and densities. UBC’s atmospheric science teaching material notes that boats on a distant horizon can sometimes appear to float in the air, and SKYbrary describes a Fata Morgana as a superior mirage caused by atmospheric refraction. These effects do not automatically explain the Kensington lights, but they show why coastal sightings can look stranger than inland sightings, especially when distant lights are seen across water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth and Ocean Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Open source on ubc.ca.</span></span></span>
+**Atmospheric effects** should not be ignored around the Gulf. Mirages and refraction occur when light bends through air layers of different temperatures and densities. UBC’s atmospheric science teaching material notes that boats on a distant horizon can sometimes appear to float in the air, and SKYbrary describes a Fata Morgana as a superior mirage caused by atmospheric refraction. These effects do not automatically explain the Kensington lights, but they show why coastal sightings can look stranger than inland sightings, especially when distant lights are seen across water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth and Ocean Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">Open source on ubc.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-2-dark.svg" | relative_url }}" alt="Kensington illustration 2" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,9 +336,9 @@ The Kensington footage illustrates several common weaknesses of night-sky videos
 
 </div>
 
-Canada’s Sky Canada Project makes a similar point in broader terms. It stresses that “UFO” or “UAP” means unidentified, not necessarily extraterrestrial, and that many sightings would be identifiable with better data and tools. Its discussion of common explanations lists aircraft, weather phenomena, astronomical objects, drones, balloons, satellites, sky lanterns, optical effects and human error as recurring sources of confusion. Kensington is a textbook example of why that caution is needed: the video helps keep the report alive, but it does not by itself close the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Canada’s Sky Canada Project makes a similar point in broader terms. It stresses that “UFO” or “UAP” means unidentified, not necessarily extraterrestrial, and that many sightings would be identifiable with better data and tools. Its discussion of common explanations lists aircraft, weather phenomena, astronomical objects, drones, balloons, satellites, sky lanterns, optical effects and human error as recurring sources of confusion. Kensington is a textbook example of why that caution is needed: the video helps keep the report alive, but it does not by itself close the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-The same report also notes that insufficient data is a major problem in UAP work. It cites France’s GEIPAN figures, where some cases remain unidentified but many others cannot be explained because the available information is too limited, and it reports that MUFON Canada found 31 per cent of its investigated 2023 sightings could not be conclusively explained because the information was too vague. That is a useful framework for Kensington. A case can remain unresolved because it is genuinely anomalous, but it can also remain unresolved because the recording does not contain enough information to choose among ordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The same report also notes that insufficient data is a major problem in UAP work. It cites France’s GEIPAN figures, where some cases remain unidentified but many others cannot be explained because the available information is too limited, and it reports that MUFON Canada found 31 per cent of its investigated 2023 sightings could not be conclusively explained because the information was too vague. That is a useful framework for Kensington. A case can remain unresolved because it is genuinely anomalous, but it can also remain unresolved because the recording does not contain enough information to choose among ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
@@ -366,194 +366,194 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Kensington Video Still Divides Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Kensington Video Still Divides Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how unusual aerial sightings are investigated and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how unusual aerial sightings are investigated and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating reports and evidence rather than assuming conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating reports and evidence rather than assuming conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong fit for discussion of why video evidence can mislead viewers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for discussion of why video evidence can mislead viewers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores interpretations of unexplained aerial observations and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretations of unexplained aerial observations and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/1e273888bcb86dc4b850.jpg' | relative_url }}" alt="Listing image for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal"><img src="{{ '/assets/images/marketplace-covers/1e273888bcb86dc4b850.jpg' | relative_url }}" alt="Listing image for Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Weyland Yutani Corp Alien Movie Sticker, Car Van Laptop PC Case Vinyl Decal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/fd33af58d05158f45604.jpg' | relative_url }}" alt="Listing image for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/fd33af58d05158f45604.jpg' | relative_url }}" alt="Listing image for Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Car Sticker, Campervan JDM Dub Drift Bumper Window Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room"><img src="{{ '/assets/images/marketplace-covers/65e86c808ea9f966de26.jpg' | relative_url }}" alt="Listing image for Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room"><img src="{{ '/assets/images/marketplace-covers/65e86c808ea9f966de26.jpg' | relative_url }}" alt="Listing image for Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">Aliens Movie Space Sticker - Vinyl Decal Sticker for Home, wall, room</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien sticker" data-ebay-reference="kensington-why-the-kensington-video-still-divides-viewers-prince-edward-island-alien-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,217 +759,217 @@ That lesson is valuable. The video keeps a local sighting in public memory, but 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: the 2014 kensington ufo sighting pei canada  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Phenomena. When John Sheppard arrived at The Twin Shores Campground in PEI, Canada...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: Did the CBC Just Confirm the Existence of Aliens?  
-   Link: <a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the CBC Just Confirm the Existence of Aliens?...</p></details>
+   Link:<a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the CBC Just Confirm the Existence of Aliens?...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: audioboom.com  
    Title: 4670465 the 2014 kensington pei ufo sighting  
-   Link: <a href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime / The 2014 Kensington PEI UFO Sighting...</p></details>
+   Link:<a href="https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/4670465-the-2014-kensington-pei-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime / The 2014 Kensington PEI UFO Sighting...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: twinshores.com  
-   Link: <a href="https://www.twinshores.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores | Darnley, Prince Edward IslandCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore of Pr...</p></details>
+   Link:<a href="https://www.twinshores.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores | Darnley, Prince Edward IslandCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore of Pr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: twinshores.com  
    Title: Our Beaches | Twin Shores Camping Area  
-   Link: <a href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/ourbeaches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Beaches | Twin Shores Camping Area...</p></details>
+   Link:<a href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/ourbeaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Beaches | Twin Shores Camping Area...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — A Black-Hole Approach Illusion can happen dur...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — A Black-Hole Approach Illusion can happen dur...</p></details>
    Published: September 15, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
    Title: helicopter flying a parallel course. To determine  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationChapter 13: Night OperationsAt night, the horizon may be hard to discern due to dark terrain and misleadin...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationChapter 13: Night OperationsAt night, the horizon may be hard to discern due to dark terrain and misleadin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tc.canada.ca  
    Title: Transport Canada Flying your drone safely and legally  
-   Link: <a href="https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/flying-your-drone-safely-legally</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eoas.ubc.ca  
-   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
+   Link:<a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   Link:<a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: the 2014 kensington ufo sighting pei canada  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/?tl=zh-hans" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/?tl=zh-hans</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/?tl=zh-hans" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/?tl=zh-hans</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: faa lights 4 dummies  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/ae6s91/drones_in_canada_mandatory_registration_markings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/ae6s91/drones_in_canada_mandatory_registration_markings/</a>  
+   Link:<a href="https://www.reddit.com/r/flying/comments/ae6s91/drones_in_canada_mandatory_registration_markings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/ae6s91/drones_in_canada_mandatory_registration_markings/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: audioboom.com  
-   Link: <a href="https://audioboom.com/channels/4748686-nighttime" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/channels/4748686-nighttime</a>  
+   Link:<a href="https://audioboom.com/channels/4748686-nighttime" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/channels/4748686-nighttime</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: twinshores.com  
-   Link: <a href="https://www.twinshores.com/camping" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/camping</a>  
+   Link:<a href="https://www.twinshores.com/camping" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/camping</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tc.canada.ca  
    Title: aim 2025 1 rpa e  
-   Link: <a href="https://tc.canada.ca/sites/default/files/2025-03/aim-2025-1_rpa-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2025-03/aim-2025-1_rpa-e.pdf</a>  
+   Link:<a href="https://tc.canada.ca/sites/default/files/2025-03/aim-2025-1_rpa-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2025-03/aim-2025-1_rpa-e.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tc.canada.ca  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/knowledge-requirements-pilots-remotely-piloted-aircraft-systems-250-g-including-150-kg-basic-advanced-operations-tp-15263" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/knowledge-requirements-pilots-remotely-piloted-aircraft-systems-250-g-including-150-kg-basic-advanced-operations-tp-15263</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/knowledge-requirements-pilots-remotely-piloted-aircraft-systems-250-g-including-150-kg-basic-advanced-operations-tp-15263" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/knowledge-requirements-pilots-remotely-piloted-aircraft-systems-250-g-including-150-kg-basic-advanced-operations-tp-15263</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tripadvisor.co.uk  
    Title: Twin Shores Camping Area Pros  
-   Link: <a href="https://www.tripadvisor.co.uk/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
+   Link:<a href="https://www.tripadvisor.co.uk/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
+   Link:<a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tripadvisor.com  
    Title: TWI N SHORES CAMPING AREA  
-   Link: <a href="https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
+   Link:<a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/susan.rodgers.7927/posts/twin-shores-camping-area-malpeque-darnley-peeps-please-tell-me-what-is-hovering-/10159581224279667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/susan.rodgers.7927/posts/twin-shores-camping-area-malpeque-darnley-peeps-please-tell-me-what-is-hovering-/10159581224279667/</a>  
+   Link:<a href="https://www.facebook.com/susan.rodgers.7927/posts/twin-shores-camping-area-malpeque-darnley-peeps-please-tell-me-what-is-hovering-/10159581224279667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/susan.rodgers.7927/posts/twin-shores-camping-area-malpeque-darnley-peeps-please-tell-me-what-is-hovering-/10159581224279667/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: m.facebook.com  
-   Link: <a href="https://m.facebook.com/twinshores/about/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/twinshores/about/</a>  
+   Link:<a href="https://m.facebook.com/twinshores/about/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/twinshores/about/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/twinshores/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twinshores/</a>  
+   Link:<a href="https://www.facebook.com/twinshores/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twinshores/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tourismpei.com  
-   Link: <a href="https://www.tourismpei.com/where-to-stay/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismpei.com/where-to-stay/twin-shores-camping-area</a>  
+   Link:<a href="https://www.tourismpei.com/where-to-stay/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismpei.com/where-to-stay/twin-shores-camping-area</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/mirage</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=e0brpUeTBNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e0brpUeTBNA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=e0brpUeTBNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e0brpUeTBNA</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: coastresorts.com  
-   Link: <a href="https://www.coastresorts.com/directory/_display.cfm/RCODE-2370/rbtid-2370/rez-0/" target="_blank" rel="noopener noreferrer nofollow">https://www.coastresorts.com/directory/_display.cfm/RCODE-2370/rbtid-2370/rez-0/</a>  
+   Link:<a href="https://www.coastresorts.com/directory/_display.cfm/RCODE-2370/rbtid-2370/rez-0/" target="_blank" rel="noopener noreferrer nofollow">https://www.coastresorts.com/directory/_display.cfm/RCODE-2370/rbtid-2370/rez-0/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rvparx.com  
-   Link: <a href="https://www.rvparx.com/parks/twin-shores-camping-area-kensington-pe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rvparx.com/parks/twin-shores-camping-area-kensington-pe.html</a>  
+   Link:<a href="https://www.rvparx.com/parks/twin-shores-camping-area-kensington-pe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rvparx.com/parks/twin-shores-camping-area-kensington-pe.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: centralcoastalpei.com  
-   Link: <a href="https://centralcoastalpei.com/members/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://centralcoastalpei.com/members/twin-shores-camping-area/</a>  
+   Link:<a href="https://centralcoastalpei.com/members/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://centralcoastalpei.com/members/twin-shores-camping-area/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ccrva.ca  
-   Link: <a href="https://ccrva.ca/campground/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://ccrva.ca/campground/twin-shores-camping-area/</a>  
+   Link:<a href="https://ccrva.ca/campground/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://ccrva.ca/campground/twin-shores-camping-area/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cavendishbeachpei.com  
-   Link: <a href="https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/" target="_blank" rel="noopener noreferrer nofollow">https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/</a>  
+   Link:<a href="https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/" target="_blank" rel="noopener noreferrer nofollow">https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: rvezy.com  
    Title: Twin Shores Camping Area, Kensington, PE  
-   Link: <a href="https://www.rvezy.com/rv-rentals/campground/9ed56217-6cba-49d5-87d9-03a62b4b0caa" target="_blank" rel="noopener noreferrer nofollow">https://www.rvezy.com/rv-rentals/campground/9ed56217-6cba-49d5-87d9-03a62b4b0caa</a>  
+   Link:<a href="https://www.rvezy.com/rv-rentals/campground/9ed56217-6cba-49d5-87d9-03a62b4b0caa" target="_blank" rel="noopener noreferrer nofollow">https://www.rvezy.com/rv-rentals/campground/9ed56217-6cba-49d5-87d9-03a62b4b0caa</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: maps.campendium.com  
    Title: twin shores camping area  
-   Link: <a href="https://maps.campendium.com/ca/pe/camping-rv/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://maps.campendium.com/ca/pe/camping-rv/twin-shores-camping-area</a>  
+   Link:<a href="https://maps.campendium.com/ca/pe/camping-rv/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://maps.campendium.com/ca/pe/camping-rv/twin-shores-camping-area</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: x.com  
-   Link: <a href="https://x.com/CBCNews/status/687121997344681988" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CBCNews/status/687121997344681988</a>  
+   Link:<a href="https://x.com/CBCNews/status/687121997344681988" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CBCNews/status/687121997344681988</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: uapsightings.org  
-   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
+   Link:<a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/39804011/Essai_sur_la_constitution_de_lufologie_au_Qu%C3%A9bec_et_au_Canada_incluant_l%C3%A9tude_statistique_du_Canadian_UFO_Survey_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39804011/Essai_sur_la_constitution_de_lufologie_au_Qu%C3%A9bec_et_au_Canada_incluant_l%C3%A9tude_statistique_du_Canadian_UFO_Survey_</a>  
+   Link:<a href="https://www.academia.edu/39804011/Essai_sur_la_constitution_de_lufologie_au_Qu%C3%A9bec_et_au_Canada_incluant_l%C3%A9tude_statistique_du_Canadian_UFO_Survey_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39804011/Essai_sur_la_constitution_de_lufologie_au_Qu%C3%A9bec_et_au_Canada_incluant_l%C3%A9tude_statistique_du_Canadian_UFO_Survey_</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/</a>  
+   Link:<a href="https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/earthsciencesnz/posts/ghost-ship-mirage-scientific-explanation-100-per-cent-the-golden-ghost-ship-loca/1464134949085187/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: rasc.ca  
-   Link: <a href="https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf</a>  
+   Link:<a href="https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/sites/default/files/publications/JRASC-2015-06-hr.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/science/mh-grade-10-science/xf0d64b81b0b74ee4%3Auntitled-272/xf0d64b81b0b74ee4%3Aatmospheric-refraction/v/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/science/mh-grade-10-science/xf0d64b81b0b74ee4%3Auntitled-272/xf0d64b81b0b74ee4%3Aatmospheric-refraction/v/mirage</a>  
+   Link:<a href="https://www.khanacademy.org/science/mh-grade-10-science/xf0d64b81b0b74ee4%3Auntitled-272/xf0d64b81b0b74ee4%3Aatmospheric-refraction/v/mirage" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/science/mh-grade-10-science/xf0d64b81b0b74ee4%3Auntitled-272/xf0d64b81b0b74ee4%3Aatmospheric-refraction/v/mirage</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: aerialevolution.ca  
-   Link: <a href="https://www.aerialevolution.ca/wp-content/uploads/2022/02/Nov-27-RPAS-101_EN-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aerialevolution.ca/wp-content/uploads/2022/02/Nov-27-RPAS-101_EN-Final.pdf</a>  
+   Link:<a href="https://www.aerialevolution.ca/wp-content/uploads/2022/02/Nov-27-RPAS-101_EN-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aerialevolution.ca/wp-content/uploads/2022/02/Nov-27-RPAS-101_EN-Final.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: stlawrenceparks.com  
-   Link: <a href="https://www.stlawrenceparks.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.stlawrenceparks.com/</a>  
+   Link:<a href="https://www.stlawrenceparks.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.stlawrenceparks.com/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/</a>  
+   Link:<a href="https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/</a>  

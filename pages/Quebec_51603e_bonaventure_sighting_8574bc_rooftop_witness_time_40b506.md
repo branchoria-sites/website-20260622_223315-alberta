@@ -256,17 +256,17 @@ image: /assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_
 
 ## Introduction
 
-The strength of the Hotel [Bonaventure]({{ 'bonaventure/' | relative_url }}) case does not rest on a single dramatic sighting. It rests on the fact that a sizeable group of people watched the same unusual lights for roughly three hours from a rooftop in the middle of downtown Montreal. On 7 November 1990, what began as a report from swimmers at the hotel’s rooftop pool developed into a prolonged observation involving hotel staff, police officers, journalists and other witnesses. That unusually long timeline is one reason the incident remains one of [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s most discussed UFO cases. A brief glimpse can be misidentified; a phenomenon observed continuously for hours is harder to dismiss, even if it remains difficult to explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+The strength of the Hotel [Bonaventure]({{ 'bonaventure/' | relative_url }}) case does not rest on a single dramatic sighting. It rests on the fact that a sizeable group of people watched the same unusual lights for roughly three hours from a rooftop in the middle of downtown Montreal. On 7 November 1990, what began as a report from swimmers at the hotel’s rooftop pool developed into a prolonged observation involving hotel staff, police officers, journalists and other witnesses. That unusually long timeline is one reason the incident remains one of [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s most discussed UFO cases. A brief glimpse can be misidentified; a phenomenon observed continuously for hours is harder to dismiss, even if it remains difficult to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the rooftop pool sighting began
 
-Most reconstructions of the event start shortly after 7 p.m. at the Hotel Bonaventure rooftop pool. An American tourist swimming outdoors reportedly noticed unusual lights in the cloudy evening sky. Lifeguards and hotel security were alerted, and additional guests came onto the rooftop terrace to look for themselves. What had begun as a single observation quickly became a group event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+Most reconstructions of the event start shortly after 7 p.m. at the Hotel Bonaventure rooftop pool. An American tourist swimming outdoors reportedly noticed unusual lights in the cloudy evening sky. Lifeguards and hotel security were alerted, and additional guests came onto the rooftop terrace to look for themselves. What had begun as a single observation quickly became a group event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-This setting matters. Unlike many UFO reports that involve isolated witnesses, the Bonaventure observation unfolded in a public location where people could compare what they were seeing in real time. Witnesses were not separated by distance or reporting days later from memory. They were standing together on the same rooftop, discussing the phenomenon as it continued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+This setting matters. Unlike many UFO reports that involve isolated witnesses, the Bonaventure observation unfolded in a public location where people could compare what they were seeing in real time. Witnesses were not separated by distance or reporting days later from memory. They were standing together on the same rooftop, discussing the phenomenon as it continued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-As word spread, more observers arrived. Police officers were called to the scene. Journalists also travelled to the hotel while the lights were still visible. By the time the event entered newspaper coverage, reporters were not relying solely on second-hand accounts; some had personally observed the phenomenon from the roof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+As word spread, more observers arrived. Police officers were called to the scene. Journalists also travelled to the hotel while the lights were still visible. By the time the event entered newspaper coverage, reporters were not relying solely on second-hand accounts; some had personally observed the phenomenon from the roof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ncD9oMSmAs" title="The Proof Is Out There: Bizarre UFOs Hover Over Montreal (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ncD9oMSmAs" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Bizarre UFOs Hover Over Montreal (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ncD9oMSmAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ncD9oMSmAs">Open on YouTube</a></p></div></div></div>
@@ -275,13 +275,13 @@ As word spread, more observers arrived. Police officers were called to the scene
 
 Descriptions varied in detail, but several themes appeared repeatedly.
 
-Witnesses commonly described a group of lights arranged in a circular or oval pattern. Reports often mentioned eight to ten lights, with white beams or shafts of light appearing to project downward or outward from the formation. Colours were variously described as amber, yellow, green or orange depending on the witness and source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles+2Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
+Witnesses commonly described a group of lights arranged in a circular or oval pattern. Reports often mentioned eight to ten lights, with white beams or shafts of light appearing to project downward or outward from the formation. Colours were variously described as amber, yellow, green or orange depending on the witness and source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles+2Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
 
-Many observers believed the lights were associated with a larger object rather than independent points of light. Some described a huge metallic or disc-shaped structure surrounding the illuminated pattern. Others focused mainly on the lights themselves and were less certain about any solid object. This distinction became important later, because photographs from the night clearly showed lights but did not conclusively establish the presence of a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+Many observers believed the lights were associated with a larger object rather than independent points of light. Some described a huge metallic or disc-shaped structure surrounding the illuminated pattern. Others focused mainly on the lights themselves and were less certain about any solid object. This distinction became important later, because photographs from the night clearly showed lights but did not conclusively establish the presence of a structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-Another frequently reported feature was the apparent lack of conventional aircraft behaviour. Witnesses did not describe the rapid movement expected from an aeroplane crossing the sky. Instead, they reported a largely stationary phenomenon that appeared to hover above or near the hotel area for an extended period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+Another frequently reported feature was the apparent lack of conventional aircraft behaviour. Witnesses did not describe the rapid movement expected from an aeroplane crossing the sky. Instead, they reported a largely stationary phenomenon that appeared to hover above or near the hotel area for an extended period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-The witnesses were not all equally impressed. Some quickly concluded they were seeing an extraordinary object. Others simply acknowledged that they could not identify what they were observing. That mix of certainty and uncertainty is typical of major UFO cases and is reflected in contemporary reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
+The witnesses were not all equally impressed. Some quickly concluded they were seeing an extraordinary object. Others simply acknowledged that they could not identify what they were observing. That mix of certainty and uncertainty is typical of major UFO cases and is reflected in contemporary reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -289,15 +289,15 @@ The witnesses were not all equally impressed. Some quickly concluded they were s
 
 The chronology of the evening is one of the case's most important features.
 
-**Around 7 p.m.** witnesses at the rooftop pool first noticed the lights. Hotel staff and security became involved, and additional observers gathered on the roof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+**Around 7 p.m.** witnesses at the rooftop pool first noticed the lights. Hotel staff and security became involved, and additional observers gathered on the roof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-**During the next hour**, police arrived and began checking possible [explanations]({{ 'explanations-344909/' | relative_url }}). Reports indicate that aviation authorities and other agencies were contacted while the lights remained visible. The phenomenon did not disappear when investigators arrived, which strengthened the impression among witnesses that they were dealing with something persistent rather than a fleeting illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+**During the next hour**, police arrived and began checking possible [explanations]({{ 'explanations-344909/' | relative_url }}). Reports indicate that aviation authorities and other agencies were contacted while the lights remained visible. The phenomenon did not disappear when investigators arrived, which strengthened the impression among witnesses that they were dealing with something persistent rather than a fleeting illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-**By approximately 9 p.m.**, journalists from Montreal media outlets had reached the hotel. Photographs were taken, and reporters observed the lights themselves. The event therefore moved from witness testimony into documented news coverage while it was still unfolding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+**By approximately 9 p.m.**, journalists from Montreal media outlets had reached the hotel. Photographs were taken, and reporters observed the lights themselves. The event therefore moved from witness testimony into documented news coverage while it was still unfolding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-**Around 10 p.m.**, accounts diverge slightly. Some witnesses believed the phenomenon slowly moved eastward. Other later analyses suggest that increasing cloud cover gradually obscured the lights until they were no longer visible from the hotel rooftop. Either way, most sources place the visible duration at roughly three hours, ending shortly after 10 p.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
+**Around 10 p.m.**, accounts diverge slightly. Some witnesses believed the phenomenon slowly moved eastward. Other later analyses suggest that increasing cloud cover gradually obscured the lights until they were no longer visible from the hotel rooftop. Either way, most sources place the visible duration at roughly three hours, ending shortly after 10 p.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvanouvelles.ca">[TVA Nouvelles+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvanouvelles.ca</span><span class="citation-popover-title">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span><span class="citation-popover-snippet">il y a 30 ans lovni de la place bonaventure fascinait les montrealais</span></span></span>
 
-The important point is not the exact minute of disappearance. It is that observers claimed to watch essentially the same phenomenon for most of an evening rather than for a few seconds or minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+The important point is not the exact minute of disappearance. It is that observers claimed to watch essentially the same phenomenon for most of an evening rather than for a few seconds or minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zWgvwgzDTTo" title="Strange UFOs Spotted Over Montreal Hotel | The Proof Is Out There | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zWgvwgzDTTo" target="_blank" rel="noopener noreferrer">Strange UFOs Spotted Over Montreal Hotel | The Proof Is Out There | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zWgvwgzDTTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zWgvwgzDTTo">Open on YouTube</a></p></div></div></div>
@@ -306,199 +306,199 @@ The important point is not the exact minute of disappearance. It is that observe
 
 For supporters of the Bonaventure case, the three-hour timeline is one of its strongest pieces of evidence.
 
-A meteor, fireball or satellite pass typically lasts seconds or minutes. A conventional aircraft usually changes position noticeably over a city skyline. Witnesses instead described something that appeared remarkably stable over a long period. The persistence of the lights allowed many independent observers to view them and reduced the chance that the entire event resulted from a brief misunderstanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+A meteor, fireball or satellite pass typically lasts seconds or minutes. A conventional aircraft usually changes position noticeably over a city skyline. Witnesses instead described something that appeared remarkably stable over a long period. The persistence of the lights allowed many independent observers to view them and reduced the chance that the entire event resulted from a brief misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-The duration also explains why police and journalists became involved. In many UFO reports, authorities arrive after the event has ended. At Hotel Bonaventure, the phenomenon reportedly remained visible long enough for new witnesses to join the observation. That continuity helped give the case credibility within Quebec UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+The duration also explains why police and journalists became involved. In many UFO reports, authorities arrive after the event has ended. At Hotel Bonaventure, the phenomenon reportedly remained visible long enough for new witnesses to join the observation. That continuity helped give the case credibility within Quebec UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-Yet the same three-hour duration also fuels sceptical interpretations. Critics argue that a genuinely enormous object hovering over central Montreal for hours should have generated a wider field of observations across the city. Some sceptics therefore favour explanations involving atmospheric reflections, construction lights or cloud-related optical effects visible primarily from a limited viewing area. In that interpretation, the long duration becomes evidence for a local lighting phenomenon rather than a solid airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ovni au dessus de Montréal en 1990</span><span class="citation-popover-snippet">Ovni au dessus de Montréal en 1990</span></span></span>
+Yet the same three-hour duration also fuels sceptical interpretations. Critics argue that a genuinely enormous object hovering over central Montreal for hours should have generated a wider field of observations across the city. Some sceptics therefore favour explanations involving atmospheric reflections, construction lights or cloud-related optical effects visible primarily from a limited viewing area. In that interpretation, the long duration becomes evidence for a local lighting phenomenon rather than a solid airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ovni au dessus de Montréal en 1990</span><span class="citation-popover-snippet">Ovni au dessus de Montréal en 1990</span></span></span>
 
-This is why the witness timeline remains central to the debate. Both believers and sceptics accept that people spent hours watching something above the hotel. The disagreement concerns what that “something” was. The rooftop observers provide the case’s strongest evidence, but the same prolonged observation also raises difficult questions about visibility, perspective and whether a large object should have been noticed more broadly across Montreal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+This is why the witness timeline remains central to the debate. Both believers and sceptics accept that people spent hours watching something above the hotel. The disagreement concerns what that “something” was. The rooftop observers provide the case’s strongest evidence, but the same prolonged observation also raises difficult questions about visibility, perspective and whether a large object should have been noticed more broadly across Montreal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the witnesses contribute to the case today
 
-More than three decades later, the Hotel Bonaventure incident remains significant in Quebec because of the quality and quantity of its witnesses rather than because of any single photograph or official finding. The rooftop observers created a rare situation in which hotel guests, employees, police officers and journalists all viewed the same phenomenon over an extended period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+More than three decades later, the Hotel Bonaventure incident remains significant in Quebec because of the quality and quantity of its witnesses rather than because of any single photograph or official finding. The rooftop observers created a rare situation in which hotel guests, employees, police officers and journalists all viewed the same phenomenon over an extended period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic+2TVA Nouvelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
-That does not prove that a structured craft hovered above Montreal. It does mean that the case cannot be reduced to a lone observer's mistake. The three-hour timeline transformed a curious sighting into a public event, and it is that combination of multiple witnesses and prolonged observation that keeps the Hotel Bonaventure case near the centre of discussions about Quebec's most notable unexplained aerial reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
+That does not prove that a structured craft hovered above Montreal. It does mean that the case cannot be reduced to a lone observer's mistake. The three-hour timeline transformed a curious sighting into a public event, and it is that combination of multiple witnesses and prolonged observation that keeps the Hotel Bonaventure case near the centre of discussions about Quebec's most notable unexplained aerial reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiangeographic.ca">[Canadian Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiangeographic.ca</span><span class="citation-popover-title">area 514 the 1990 montreal ufo sighting</span><span class="citation-popover-snippet">Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</span><span class="citation-popover-meta">Published: October 6, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2eJ838zyiNk" title="The Mystery of the Montreal UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2eJ838zyiNk" target="_blank" rel="noopener noreferrer">The Mystery of the Montreal UFO</a></p><p class="youtube-embed-meta">Channel: Lelo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2eJ838zyiNk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2eJ838zyiNk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who saw the lights over Hotel Bonaventure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who saw the lights over Hotel Bonaventure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible multi-witness and official UFO cases, closely matching the Bonaventure incident&#x27;s witness profile.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible multi-witness and official UFO cases, closely matching the Bonaventure incident&#x27;s witness profile.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines notable UFO cases and witness testimony, providing contemporary context for famous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable UFO cases and witness testimony, providing contemporary context for famous sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness reports, sightings, and investigative frameworks useful for understanding prolonged observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness reports, sightings, and investigative frameworks useful for understanding prolonged observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places unusual aerial phenomena and witness reports into a larger historical and cultural framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places unusual aerial phenomena and witness reports into a larger historical and cultural framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="witnesses-fb3e02-who-saw-the-lights-over-hotel-bonaventure-quebec-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ That does not prove that a structured craft hovered above Montreal. It does mean
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ That does not prove that a structured craft hovered above Montreal. It does mean
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ That does not prove that a structured craft hovered above Montreal. It does mean
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ That does not prove that a structured craft hovered above Montreal. It does mean
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ That does not prove that a structured craft hovered above Montreal. It does mean
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,107 +704,107 @@ That does not prove that a structured craft hovered above Montreal. It does mean
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ovni au dessus de Montréal en 1990  
-   Link: <a href="https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Ovni_au-dessus_de_Montr%C3%A9al_en_1990</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as one of the most well known and best-documented Canadian...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as one of the most well known and best-documented Canadian...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/?tl=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/?tl=fr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, est souvent considérée comme l&#x27;un des cas d&#x27;OVNI canadiens...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/?tl=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ttz1oj/the_mystery_of_the_montreal_ufo_case_solved/?tl=fr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, est souvent considérée comme l&#x27;un des cas d&#x27;OVNI canadiens...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Northern Mysteries  
-   Link: <a href="https://en.wikipedia.org/wiki/Northern_Mysteries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northern_Mysteries</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Northern_Mysteries" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northern_Mysteries</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/82zgsg/this_was_a_big_deal_in_1990_some_ufo_showed_up_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/82zgsg/this_was_a_big_deal_in_1990_some_ufo_showed_up_in/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This was a big deal in 1990, some UFO showed up...On November 7, 1990, in Montreal, Quebec, witnesses reported a round, metallic object...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/82zgsg/this_was_a_big_deal_in_1990_some_ufo_showed_up_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/82zgsg/this_was_a_big_deal_in_1990_some_ufo_showed_up_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This was a big deal in 1990, some UFO showed up...On November 7, 1990, in Montreal, Quebec, witnesses reported a round, metallic object...</p></details>
    Published: November 7, 1990  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canadiangeographic.ca  
    Title: area 514 the 1990 montreal ufo sighting  
-   Link: <a href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</p></details>
+   Link:<a href="https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://canadiangeographic.ca/articles/area-514-the-1990-montreal-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian GeographicArea 514: The 1990 Montreal UFO sightingOctober 6, 2025 — 6 Oct 2025 — On November 7, 1990, an American tourist was do...</p></details>
    Published: October 6, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tvanouvelles.ca  
    Title: il y a 30 ans lovni de la place bonaventure fascinait les montrealais  
-   Link: <a href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow">https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais</a>  
+   Link:<a href="https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais" target="_blank" rel="noopener noreferrer nofollow">https://www.tvanouvelles.ca/2020/11/06/il-y-a-30-ans-lovni-de-la-place-bonaventure-fascinait-les-montrealais</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pocketmags.com  
    Title: area 514  
-   Link: <a href="https://pocketmags.com/ca/canadian-geographic-magazine/septoct-2025/articles/area-514?srsltid=AfmBOooafaN-reb5sFAVILpT5aMl-UGQAIZPV1a-tTqYJPXQrZp5TEp4" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/ca/canadian-geographic-magazine/septoct-2025/articles/area-514?srsltid=AfmBOooafaN-reb5sFAVILpT5aMl-UGQAIZPV1a-tTqYJPXQrZp5TEp4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Geographic Sept/Oct 2025ON NOVEMBER 7, 1990, an American tourist was doing the backstroke in the rooftop pool at the Hotel Bonav...</p></details>
+   Link:<a href="https://pocketmags.com/ca/canadian-geographic-magazine/septoct-2025/articles/area-514?srsltid=AfmBOooafaN-reb5sFAVILpT5aMl-UGQAIZPV1a-tTqYJPXQrZp5TEp4" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/ca/canadian-geographic-magazine/septoct-2025/articles/area-514?srsltid=AfmBOooafaN-reb5sFAVILpT5aMl-UGQAIZPV1a-tTqYJPXQrZp5TEp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Geographic Sept/Oct 2025ON NOVEMBER 7, 1990, an American tourist was doing the backstroke in the rooftop pool at the Hotel Bonav...</p></details>
    Published: November 7, 1990  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in downtown montreal a rooftop pool became the site of one of canadas most credi  
-   Link: <a href="https://www.facebook.com/cangeo/posts/in-downtown-montreal-a-rooftop-pool-became-the-site-of-one-of-canadas-most-credi/1320143423457654/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cangeo/posts/in-downtown-montreal-a-rooftop-pool-became-the-site-of-one-of-canadas-most-credi/1320143423457654/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Montreal&#x27;s 1990 UFO sighting over Hotel BonaventureOn a November night in 1990, witnesses — including police and journalists — watched as...</p></details>
+   Link:<a href="https://www.facebook.com/cangeo/posts/in-downtown-montreal-a-rooftop-pool-became-the-site-of-one-of-canadas-most-credi/1320143423457654/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cangeo/posts/in-downtown-montreal-a-rooftop-pool-became-the-site-of-one-of-canadas-most-credi/1320143423457654/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Montreal&#x27;s 1990 UFO sighting over Hotel BonaventureOn a November night in 1990, witnesses — including police and journalists — watched as...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/CLn1NrhXunI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/CLn1NrhXunI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky Facts #shorts: The UFO at Hotel BonaventureWitnesses saw a large metallic object with colorful lights hovering over the hotel&#x27;s ro...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/CLn1NrhXunI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/CLn1NrhXunI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky Facts #shorts: The UFO at Hotel BonaventureWitnesses saw a large metallic object with colorful lights hovering over the hotel&#x27;s ro...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iheart.com  
    Title: Soon, multiple people in the hotel had gathered on a rooftop terrace  
-   Link: <a href="https://www.iheart.com/podcast/105-stuff-they-dont-want-you-t-26941221/episode/classic-the-ufo-over-montreal-287159780/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-stuff-they-dont-want-you-t-26941221/episode/classic-the-ufo-over-montreal-287159780/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO over Montreal - Stuff They Don&#x27;t Want You To Know22 Jul 2025 — 1990, two people at a Montreal hotel noticed something bizarre in...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/105-stuff-they-dont-want-you-t-26941221/episode/classic-the-ufo-over-montreal-287159780/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-stuff-they-dont-want-you-t-26941221/episode/classic-the-ufo-over-montreal-287159780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO over Montreal - Stuff They Don&#x27;t Want You To Know22 Jul 2025 — 1990, two people at a Montreal hotel noticed something bizarre in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: lovni aperçu au dessus de la place bonaventure en 1990 y croyez vous  
-   Link: <a href="https://www.facebook.com/969CKOI/posts/lovni-aper%C3%A7u-au-dessus-de-la-place-bonaventure-en-1990-y-croyez-vous/1742755879094679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/969CKOI/posts/lovni-aper%C3%A7u-au-dessus-de-la-place-bonaventure-en-1990-y-croyez-vous/1742755879094679/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI de Montréal Il y a 31 ans, le 7 novembre 1990, plusieurs dizaines de personnes ont aperçu d&#x27;étranges lumières flottant dans le ciel...</p></details>
+   Link:<a href="https://www.facebook.com/969CKOI/posts/lovni-aper%C3%A7u-au-dessus-de-la-place-bonaventure-en-1990-y-croyez-vous/1742755879094679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/969CKOI/posts/lovni-aper%C3%A7u-au-dessus-de-la-place-bonaventure-en-1990-y-croyez-vous/1742755879094679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI de Montréal Il y a 31 ans, le 7 novembre 1990, plusieurs dizaines de personnes ont aperçu d&#x27;étranges lumières flottant dans le ciel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: qub.ca  
    Title: le canada aura son bureau des ovnis 1011782079  
-   Link: <a href="https://www.qub.ca/article/le-canada-aura-son-bureau-des-ovnis-1011782079" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/le-canada-aura-son-bureau-des-ovnis-1011782079</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Le Canada aura son bureau des ovnis16 Jul 2025 — Un ovni aurait été vu au-dessus de la Place Bonaventure, rue Mansfield, à Montréal, le s...</p></details>
+   Link:<a href="https://www.qub.ca/article/le-canada-aura-son-bureau-des-ovnis-1011782079" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ca/article/le-canada-aura-son-bureau-des-ovnis-1011782079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Le Canada aura son bureau des ovnis16 Jul 2025 — Un ovni aurait été vu au-dessus de la Place Bonaventure, rue Mansfield, à Montréal, le s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hauntedhotelsofcanada.ca  
    Title: Haunted Hotels of Canada Hotel Bonaventure  
-   Link: <a href="https://hauntedhotelsofcanada.ca/hotel/bonaventure-montreal-quebec" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhotelsofcanada.ca/hotel/bonaventure-montreal-quebec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Hotels of CanadaHotel Bonaventure - Haunted Hotel in Montréal, QuebecOn November 7, 1990, at 7:20 p.m., an American tourist swimm...</p></details>
+   Link:<a href="https://hauntedhotelsofcanada.ca/hotel/bonaventure-montreal-quebec" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhotelsofcanada.ca/hotel/bonaventure-montreal-quebec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Hotels of CanadaHotel Bonaventure - Haunted Hotel in Montréal, QuebecOn November 7, 1990, at 7:20 p.m., an American tourist swimm...</p></details>
    Published: November 7, 1990  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: this day in 1990 ufo sighting in montreal  
-   Link: <a href="https://www.facebook.com/CBCMontreal/videos/this-day-in-1990-ufo-sighting-in-montreal/10154162900351298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBCMontreal/videos/this-day-in-1990-ufo-sighting-in-montreal/10154162900351298/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day, in 1990: a woman is swimming in a rooftop pool in...On this day, in 1990: a woman is swimming in a rooftop pool in downtown...</p></details>
+   Link:<a href="https://www.facebook.com/CBCMontreal/videos/this-day-in-1990-ufo-sighting-in-montreal/10154162900351298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBCMontreal/videos/this-day-in-1990-ufo-sighting-in-montreal/10154162900351298/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On this day, in 1990: a woman is swimming in a rooftop pool in...On this day, in 1990: a woman is swimming in a rooftop pool in downtown...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/fr/title/tt8710284/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/fr/title/tt8710284/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l veut savoir s&#x27;il existe un phénomène naturel ou...Read more...</p></details>
+   Link:<a href="https://www.imdb.com/fr/title/tt8710284/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/fr/title/tt8710284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l veut savoir s&#x27;il existe un phénomène naturel ou...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt8710284/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt8710284/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;OVNI de la place BonaventureOn November 7, 1990, people present at the rooftop pool of the Hilton-Bonaventure Hotel in Montreal (Canada...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt8710284/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt8710284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;OVNI de la place BonaventureOn November 7, 1990, people present at the rooftop pool of the Hilton-Bonaventure Hotel in Montreal (Canada...</p></details>
    Published: November 7, 1990  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9ncD9oMSmAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ncD9oMSmAs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a. See more in this clip from Season 3, &quot;Aswang, Crashed on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9ncD9oMSmAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ncD9oMSmAs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a. See more in this clip from Season 3, &quot;Aswang, Crashed on...</p></details>

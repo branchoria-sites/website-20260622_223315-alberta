@@ -256,7 +256,7 @@ image: /assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_
 
 ## Introduction
 
-Why did [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) suddenly become Canada's UFO capital in 2015? The short answer is that the province experienced a genuine surge in reported sightings, but not a corresponding surge in compelling evidence. According to the 2015 Canadian UFO Survey, Quebec accounted for 450 of Canada's 1,267 UFO reports—about 35 per cent of the national total and far ahead of every other province. Montreal alone generated 97 reports, making it the country's busiest reporting centre that year. Yet the same survey found that the overwhelming majority of reports still resembled the kinds of cases that dominate Canadian UFO statistics every year: distant lights, brief observations, and incidents lacking enough information for definitive investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
+Why did [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) suddenly become Canada's UFO capital in 2015? The short answer is that the province experienced a genuine surge in reported sightings, but not a corresponding surge in compelling evidence. According to the 2015 Canadian UFO Survey, Quebec accounted for 450 of Canada's 1,267 UFO reports—about 35 per cent of the national total and far ahead of every other province. Montreal alone generated 97 reports, making it the country's busiest reporting centre that year. Yet the same survey found that the overwhelming majority of reports still resembled the kinds of cases that dominate Canadian UFO statistics every year: distant lights, brief observations, and incidents lacking enough information for definitive investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-1-dark.svg" | relative_url }}" alt="2015 Spike illustration 1" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,17 +264,17 @@ The significance of the 2015 spike therefore lies less in what was seen than in 
 
 ## The numbers behind the 2015 spike
 
-The annual Canadian UFO Survey, compiled by Ufology Research, has tracked reports from civilian organisations, researchers, government agencies, and public reporting systems since 1989. The 2015 edition recorded 1,267 reports nationwide, making it one of the highest annual totals in the survey's history. Quebec contributed 450 of those reports, comfortably ahead of Ontario's 314. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[Sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">glowing objects and bright lights among reported ufo sightings in barrie 279815</span><span class="citation-popover-snippet">Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</span></span></span>
+The annual Canadian UFO Survey, compiled by Ufology Research, has tracked reports from civilian organisations, researchers, government agencies, and public reporting systems since 1989. The 2015 edition recorded 1,267 reports nationwide, making it one of the highest annual totals in the survey's history. Quebec contributed 450 of those reports, comfortably ahead of Ontario's 314.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[Sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">glowing objects and bright lights among reported ufo sightings in barrie 279815</span><span class="citation-popover-snippet">Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</span></span></span>
 
-What made this particularly notable was not merely the raw number but Quebec's share of the national total. Earlier survey years often saw Quebec account for somewhere between roughly five and fifteen per cent of Canadian reports. Jumping to approximately thirty-five per cent represented a substantial departure from the usual provincial balance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
+What made this particularly notable was not merely the raw number but Quebec's share of the national total. Earlier survey years often saw Quebec account for somewhere between roughly five and fifteen per cent of Canadian reports. Jumping to approximately thirty-five per cent represented a substantial departure from the usual provincial balance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
 
-At a national level, headlines naturally focused on the apparent anomaly. News coverage highlighted Quebec's unexpected lead and the possibility that something unusual had occurred over the province's skies. However, the survey itself was considerably more cautious. Like previous editions, it stressed that UFO reports are not equivalent to confirmed unexplained events. The database records observations that [witnesses]({{ 'witnesses-fb3e02/' | relative_url }}) could not identify at the time of reporting, not proven unknown objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
+At a national level, headlines naturally focused on the apparent anomaly. News coverage highlighted Quebec's unexpected lead and the possibility that something unusual had occurred over the province's skies. However, the survey itself was considerably more cautious. Like previous editions, it stressed that UFO reports are not equivalent to confirmed unexplained events. The database records observations that [witnesses]({{ 'witnesses-fb3e02/' | relative_url }}) could not identify at the time of reporting, not proven unknown objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
 
 This distinction is easy to lose when large numbers attract attention. A reporting spike is a real social event, but it is not automatically a physical anomaly.
 
 ## Montreal's 97 reports in context
 
-One of the most striking figures from 2015 was Montreal's total of 97 reports. No other Canadian city matched it. Montreal surpassed larger metropolitan competitors such as Toronto and Vancouver and became the focal point of Canada's UFO reporting landscape that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
+One of the most striking figures from 2015 was Montreal's total of 97 reports. No other Canadian city matched it. Montreal surpassed larger metropolitan competitors such as Toronto and Vancouver and became the focal point of Canada's UFO reporting landscape that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
 
 The number sounds dramatic until it is placed in context.
 
@@ -282,7 +282,7 @@ Montreal is one of Canada's largest urban regions, with millions of residents, e
 
 Urban environments also create ideal conditions for many forms of misidentification. Aircraft approaching major airports, satellites, atmospheric effects, advertising lights, drones, astronomical objects near the horizon, and reflections can all generate reports from observers who lack enough visual information to identify what they have seen. The challenge is not that witnesses are unreliable. Rather, many observations occur under conditions where identification is inherently difficult.
 
-The concentration of reports in Montreal therefore tells us something important about witness distribution. It indicates where reports originated, not necessarily where unusual aerial phenomena were concentrated. The city's large population and reporting culture almost certainly amplified the visibility of any increase in sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
+The concentration of reports in Montreal therefore tells us something important about witness distribution. It indicates where reports originated, not necessarily where unusual aerial phenomena were concentrated. The city's large population and reporting culture almost certainly amplified the visibility of any increase in sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
@@ -291,7 +291,7 @@ The concentration of reports in Montreal therefore tells us something important 
 
 The most revealing statistic from 2015 was not Quebec's provincial total but the nature of the reports themselves.
 
-Contemporary coverage of the survey noted that more than half of all reports consisted of simple lights in the sky. The typical sighting lasted about sixteen minutes. Witnesses commonly described bright points of light, glowing objects, or unusual movements rather than structured craft observed at close range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
+Contemporary coverage of the survey noted that more than half of all reports consisted of simple lights in the sky. The typical sighting lasted about sixteen minutes. Witnesses commonly described bright points of light, glowing objects, or unusual movements rather than structured craft observed at close range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-title">quebec ranked most ufo sightings canada</span><span class="citation-popover-snippet">The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</span></span></span>
 
 This pattern mirrors what Canadian UFO researchers have found repeatedly over decades of data collection. Most reports fall into categories such as:
 
@@ -299,7 +299,7 @@ This pattern mirrors what Canadian UFO researchers have found repeatedly over de
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Nocturnal lights.
-* Bright astronomical objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">glowing objects and bright lights among reported ufo sightings in barrie 279815</span><span class="citation-popover-snippet">Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</span></span></span>
+* Bright astronomical objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudbury.com">[sudbury.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudbury.com</span><span class="citation-popover-title">glowing objects and bright lights among reported ufo sightings in barrie 279815</span><span class="citation-popover-snippet">Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</span></span></span>
 * Aircraft seen under unusual viewing conditions.
 * Satellites or satellite flares.
 * Meteors and fireballs.
@@ -307,7 +307,7 @@ This pattern mirrors what Canadian UFO researchers have found repeatedly over de
 
 </div>
 
-These categories do not imply that every report was explained. Instead, they indicate that the underlying evidence was often limited. In many cases investigators simply lacked sufficient information to reach a confident conclusion. That distinction matters because an unresolved report is not the same thing as a mysterious report. Sometimes a case remains unidentified merely because there is too little data. Journal of Scientific Exploration+2Canadian UFO Report <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationWhither UAP Data?1October 17, 2024 — 24 May 2021 — While it is tempting to use UFO/UAP case data to prov...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
+These categories do not imply that every report was explained. Instead, they indicate that the underlying evidence was often limited. In many cases investigators simply lacked sufficient information to reach a confident conclusion. That distinction matters because an unresolved report is not the same thing as a mysterious report. Sometimes a case remains unidentified merely because there is too little data. Journal of Scientific Exploration+2Canadian UFO Report<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationWhither UAP Data?1October 17, 2024 — 24 May 2021 — While it is tempting to use UFO/UAP case data to prov...</span><span class="citation-popover-meta">Published: October 17, 2024</span></span></span>
 
 The 2015 surge therefore produced many more reports, but not many more high-quality cases.
 
@@ -331,7 +331,7 @@ A reporting surge can occur for several reasons:
 
 These mechanisms can dramatically increase report totals without changing the underlying proportion of genuinely puzzling cases.
 
-Researchers associated with the Canadian UFO Survey have repeatedly emphasised that most UFO reports ultimately prove explainable or lack enough information for meaningful analysis. The survey's long-term purpose is to track reporting patterns rather than to demonstrate extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</span></span></span>
+Researchers associated with the Canadian UFO Survey have repeatedly emphasised that most UFO reports ultimately prove explainable or lack enough information for meaningful analysis. The survey's long-term purpose is to track reporting patterns rather than to demonstrate extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</span></span></span>
 
 Viewed through that lens, Quebec's 2015 spike becomes less mysterious and more informative.
 
@@ -346,7 +346,7 @@ Quebec has a long UFO history that includes a handful of well-known incidents di
 
 Instead, the year is remembered primarily because of its statistical profile.
 
-Had the surge produced numerous pilot encounters, radar-supported observations, military investigations, or detailed multi-witness incidents with extensive documentation, it would likely occupy a different place in Canadian UFO history. Contemporary reporting and subsequent discussions focused instead on the volume of reports rather than a breakthrough case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
+Had the surge produced numerous pilot encounters, radar-supported observations, military investigations, or detailed multi-witness incidents with extensive documentation, it would likely occupy a different place in Canadian UFO history. Contemporary reporting and subsequent discussions focused instead on the volume of reports rather than a breakthrough case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
 
 That absence is revealing. If a province suddenly generates hundreds of additional reports but few enduring flagship cases, the increase may tell us more about reporting behaviour than about the underlying phenomenon being reported.
 
@@ -357,11 +357,11 @@ That absence is revealing. If a province suddenly generates hundreds of addition
 
 The years following 2015 helped clarify the nature of the spike.
 
-Canadian UFO reporting remained active, but Quebec did not permanently maintain the same extraordinary dominance it displayed in 2015. Subsequent surveys showed provincial shares fluctuating from year to year, with Ontario and Quebec often alternating among the leading positions. Some later years again saw Quebec generate a large proportion of Canadian reports, while others returned to more typical distributions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caledoncitizen.com">[Caledon Citizen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caledoncitizen.com</span><span class="citation-popover-snippet">Caledon CitizenAlleged UFO sightings a semi-regular occurrence in local...July 23, 2020 — 23 Jul 2020 — The 2018 Canadian UFO Survey rev...</span><span class="citation-popover-meta">Published: July 23, 2020</span></span></span>
+Canadian UFO reporting remained active, but Quebec did not permanently maintain the same extraordinary dominance it displayed in 2015. Subsequent surveys showed provincial shares fluctuating from year to year, with Ontario and Quebec often alternating among the leading positions. Some later years again saw Quebec generate a large proportion of Canadian reports, while others returned to more typical distributions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caledoncitizen.com">[Caledon Citizen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caledoncitizen.com</span><span class="citation-popover-snippet">Caledon CitizenAlleged UFO sightings a semi-regular occurrence in local...July 23, 2020 — 23 Jul 2020 — The 2018 Canadian UFO Survey rev...</span><span class="citation-popover-meta">Published: July 23, 2020</span></span></span>
 
 This pattern suggests that the 2015 surge was not the beginning of a sustained and unprecedented wave. Instead, it appears more consistent with a reporting fluctuation—a pronounced but temporary peak within a larger long-term trend of strong UFO reporting from Quebec.
 
-That interpretation is reinforced by the broader history of Canadian UFO data. Long-running surveys show that annual totals can vary significantly without corresponding changes in the proportion of cases that remain unexplained after review. The number of reports and the quality of evidence are related but separate measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO ReportThe 2020 Canadian UFO SurveyUFOs have not “gone away.” This data clearly contradicts comments by those who would asser...</span></span></span>
+That interpretation is reinforced by the broader history of Canadian UFO data. Long-running surveys show that annual totals can vary significantly without corresponding changes in the proportion of cases that remain unexplained after review. The number of reports and the quality of evidence are related but separate measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO ReportThe 2020 Canadian UFO SurveyUFOs have not “gone away.” This data clearly contradicts comments by those who would asser...</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-3-dark.svg" | relative_url }}" alt="2015 Spike illustration 3" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -369,199 +369,199 @@ That interpretation is reinforced by the broader history of Canadian UFO data. L
 
 The lasting lesson of Quebec's 2015 UFO spike is not that the province experienced Canada's most convincing UFO wave. Rather, it demonstrated how UFO statistics work.
 
-The surge showed that Quebec possessed an active reporting culture, especially in and around Montreal. It showed that large urban populations can generate impressive totals when public attention is focused on unusual aerial observations. It showed that most reports still fell into familiar categories dominated by lights in the sky and limited observational detail. And it showed why investigators distinguish carefully between the number of reports and the strength of the evidence behind them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
+The surge showed that Quebec possessed an active reporting culture, especially in and around Montreal. It showed that large urban populations can generate impressive totals when public attention is focused on unusual aerial observations. It showed that most reports still fell into familiar categories dominated by lights in the sky and limited observational detail. And it showed why investigators distinguish carefully between the number of reports and the strength of the evidence behind them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto+2Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Annual survey says Quebec leads the country in sightings</span><span class="citation-popover-snippet">CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</span><span class="citation-popover-meta">Published: April 12, 2016</span></span></span>
 
-For students of Quebec UFO history, 2015 remains important precisely because it was so dramatic on paper. The year produced one of the province's largest reporting surges, yet it also reinforced a central finding that appears throughout decades of Canadian UFO research: a spike in sightings is not necessarily a spike in unexplained phenomena. Often, it is a spike in people deciding that what they saw was worth reporting. Science.gc.ca+2Journal of Scientific Exploration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</span></span></span>
+For students of Quebec UFO history, 2015 remains important precisely because it was so dramatic on paper. The year produced one of the province's largest reporting surges, yet it also reinforced a central finding that appears throughout decades of Canadian UFO research: a spike in sightings is not necessarily a spike in unexplained phenomena. Often, it is a spike in people deciding that what they saw was worth reporting. Science.gc.ca+2Journal of Scientific Exploration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did Quebec lead Canada in 2015?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did Quebec lead Canada in 2015?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating UFO reports and the distinction between sightings and evidence, central to the page&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating UFO reports and the distinction between sightings and evidence, central to the page&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and analysis of reports, helping readers understand why large numbers of sightings do not necessarily imply str...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and analysis of reports, helping readers understand why large numbers of sightings do not necessarily imply str...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people interpret unusual experiences and patterns, directly relevant to spikes in UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people interpret unusual experiences and patterns, directly relevant to spikes in UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Examines extraordinary claims, evidence standards, and public interpretation of unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines extraordinary claims, evidence standards, and public interpretation of unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="2015-spike-why-did-quebec-lead-canada-in-2015-quebec-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,133 +767,133 @@ For students of Quebec UFO history, 2015 remains important precisely because it 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: toronto.citynews.ca  
    Title: City News Toronto Annual survey says Quebec leads the country in sightings  
-   Link: <a href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</p></details>
+   Link:<a href="https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://toronto.citynews.ca/2016/04/12/annual-survey-says-quebec-leads-the-country-in-sightings-of-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews TorontoAnnual survey says Quebec leads the country in sightings...April 12, 2016 — 12 Apr 2016 — The continued reporting of UFO...</p></details>
    Published: April 12, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: complex.com  
    Title: quebec ranked most ufo sightings canada  
-   Link: <a href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</p></details>
+   Link:<a href="https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/pop-culture/a/antoniomongillo/quebec-ranked-most-ufo-sightings-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2015 UFO sighting study said the typical sighting lasts about 16 minutes and more than...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sudbury.com  
    Title: glowing objects and bright lights among reported ufo sightings in barrie 279815  
-   Link: <a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</p></details>
+   Link:<a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey, which tracks and analyzes UFO sightings in Canada. The Canadian UFO Survey continues to be published to this day. In...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ottawa.citynews.ca  
    Title: bright lights light fingered aliens all part of annual report on ufo sightings  
-   Link: <a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
+   Link:<a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1,052 UFO sightings in...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI trackingMar 10, 2026 — Data collected by Ufology Research found that reports of 1,052 UFO sightings in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chart 15: Do you think reports of UAP (UFO) sightings are something that. Long...Read more...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chart 15: Do you think reports of UAP (UFO) sightings are something that. Long...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represent all...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represent all...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canadianuforeport.com  
-   Link: <a href="https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportThe 2020 Canadian UFO SurveyUFOs have not “gone away.” This data clearly contradicts comments by those who would asser...</p></details>
+   Link:<a href="https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/2020surveyessayv3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportThe 2020 Canadian UFO SurveyUFOs have not “gone away.” This data clearly contradicts comments by those who would asser...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationWhither UAP Data?1October 17, 2024 — 24 May 2021 — While it is tempting to use UFO/UAP case data to prov...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationWhither UAP Data?1October 17, 2024 — 24 May 2021 — While it is tempting to use UFO/UAP case data to prov...</p></details>
    Published: October 17, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caledoncitizen.com  
-   Link: <a href="https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/" target="_blank" rel="noopener noreferrer nofollow">https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caledon CitizenAlleged UFO sightings a semi-regular occurrence in local...July 23, 2020 — 23 Jul 2020 — The 2018 Canadian UFO Survey rev...</p></details>
+   Link:<a href="https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/" target="_blank" rel="noopener noreferrer nofollow">https://caledoncitizen.com/alleged-ufo-sightings-a-semi-regular-occurrence-in-local-area/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caledon CitizenAlleged UFO sightings a semi-regular occurrence in local...July 23, 2020 — 23 Jul 2020 — The 2018 Canadian UFO Survey rev...</p></details>
    Published: July 23, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canadianuforeport.ca  
    Title: survey data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more details the better! Cl...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The the better! Cl...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dundurn.com  
-   Link: <a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe Canadian UFO Reports is a popular history of the UFO phenomenon in Canada, something that has captured the ima...</p></details>
+   Link:<a href="https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781550026214-the-canadian-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO ReportThe Canadian UFO Reports is a popular history of the UFO phenomenon in Canada, something that has captured the ima...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/belief is these are man made and we just haven&#x27;t been told what/why...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/halifax/comments/1hd3t4z/is_anyone_else_seeing_dozens_if_not_hundreds_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/belief is these are man made and we just haven&#x27;t been told what/why...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: globalnews.ca  
    Title: Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of 1,052 UFO s...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of 1,052 UFO s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw one when I was a kid (around 12 years old, I think?)...The study found about 52 per cent of all UFO sightings were of simp...</p></details>
+   Link:<a href="https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw one when I was a kid (around 12 years old, I think?)...The study found about 52 per cent of all UFO sightings were of simp...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025Ontario recorded the most reports, followed by Quebec and British Columbia. The survey has documented over...</p></details>
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025Ontario recorded the most reports, followed by Quebec and British Columbia. The survey has documented over...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: anyflip.com  
-   Link: <a href="https://anyflip.com/kjri/vgxj/basic/51-69" target="_blank" rel="noopener noreferrer nofollow">https://anyflip.com/kjri/vgxj/basic/51-69</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NSRC collected UFO reports from newspaper clippings, UFO publications and MUFON case files and...Read more...</p></details>
+   Link:<a href="https://anyflip.com/kjri/vgxj/basic/51-69" target="_blank" rel="noopener noreferrer nofollow">https://anyflip.com/kjri/vgxj/basic/51-69</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NSRC collected UFO reports from newspaper clippings, UFO publications and MUFON case files and...Read more...</p></details>

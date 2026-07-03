@@ -256,7 +256,7 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_be
 
 ## Introduction
 
-The 1951 North Atlantic sighting often associated with Graham Bethune is one of [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s best-known aviation UFO cases. Yet one of the most important lessons from the incident is not about what the crew saw, but about how the story changed over time. The earliest surviving crew reports describe a striking and puzzling aerial light observed from a U.S. Navy transport aircraft east of Newfoundland. Later books, interviews, television appearances and UFO conference presentations frequently added details, certainty and drama that are difficult to trace back to the original documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+The 1951 North Atlantic sighting often associated with Graham Bethune is one of [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s best-known aviation UFO cases. Yet one of the most important lessons from the incident is not about what the crew saw, but about how the story changed over time. The earliest surviving crew reports describe a striking and puzzling aerial light observed from a U.S. Navy transport aircraft east of Newfoundland. Later books, interviews, television appearances and UFO conference presentations frequently added details, certainty and drama that are difficult to trace back to the original documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-1-dark.svg" | relative_url }}" alt="Retellings illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,7 +264,7 @@ For anyone trying to judge the strength of the case within Newfoundland and Labr
 
 ## What the first crew report actually said
 
-The earliest available accounts describe a U.S. Navy C-54 (or R5D) transport flying from Iceland toward Newfoundland on 10 February 1951. Crew members observed a bright yellow-orange light over the Atlantic that appeared to change position, brighten and move in a manner they found difficult to explain. The observation reportedly lasted several minutes and involved multiple witnesses aboard the aircraft. The event was serious enough to enter official U.S. military UFO files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+The earliest available accounts describe a U.S. Navy C-54 (or R5D) transport flying from Iceland toward Newfoundland on 10 February 1951. Crew members observed a bright yellow-orange light over the Atlantic that appeared to change position, brighten and move in a manner they found difficult to explain. The observation reportedly lasted several minutes and involved multiple witnesses aboard the aircraft. The event was serious enough to enter official U.S. military UFO files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 What stands out in the earliest material is its relative restraint.
 
@@ -277,11 +277,11 @@ The crew reported:
 * Apparently unusual movement relative to the aircraft.
 * Concern that the object might approach their flight path.
 * No firm identification despite attempts to interpret it as something ordinary.
-* A sighting duration long enough for multiple crew members to observe it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+* A sighting duration long enough for multiple crew members to observe it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 </div>
 
-Just as important is what the earliest reports do not clearly establish. They do not provide a precise distance to the object, a verified size, or conclusive evidence that it was performing extraordinary manoeuvres. Night-time observations over open water make estimates of speed, range and altitude especially uncertain. Aviation investigators have long recognised that even experienced aircrew can struggle with those judgments when no reliable visual reference points exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+Just as important is what the earliest reports do not clearly establish. They do not provide a precise distance to the object, a verified size, or conclusive evidence that it was performing extraordinary manoeuvres. Night-time observations over open water make estimates of speed, range and altitude especially uncertain. Aviation investigators have long recognised that even experienced aircrew can struggle with those judgments when no reliable visual reference points exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 As a result, the original report supports the claim that trained observers saw something unusual. It does not, by itself, prove the presence of an exotic craft.
 
@@ -290,7 +290,7 @@ As a result, the original report supports the claim that trained observers saw s
 
 ## How later UFO media added drama
 
-The Bethune case gained a second life decades after the event. As interest in historic UFO reports grew, the sighting was repeatedly retold in books, documentaries, lectures and interviews. During this process, some versions became more dramatic than the surviving early [records]({{ 'records-45a181/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+The Bethune case gained a second life decades after the event. As interest in historic UFO reports grew, the sighting was repeatedly retold in books, documentaries, lectures and interviews. During this process, some versions became more dramatic than the surviving early [records]({{ 'records-45a181/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 Several themes appear repeatedly in later retellings:
 
@@ -301,13 +301,13 @@ Several themes appear repeatedly in later retellings:
 * The impression of a near collision becomes more pronounced.
 * Radar involvement is sometimes presented as more decisive than surviving documentation clearly demonstrates.
 * The object's size, speed and manoeuvrability are described in increasingly striking terms.
-* Witness certainty appears stronger than in the earliest records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+* Witness certainty appears stronger than in the earliest records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 </div>
 
 This does not necessarily mean later witnesses were being dishonest. A more common problem in historical cases is that memories become reorganised around a narrative. Individuals read published accounts, discuss the event with investigators, watch documentaries and answer repeated interview questions. Over decades, original observations can become intertwined with later interpretations.
 
-The Bethune sighting illustrates a recurring pattern in UFO history: a relatively concise military report evolves into a richer and more cinematic story. Researchers who return to the earliest documents often discover that some widely repeated details are difficult to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+The Bethune sighting illustrates a recurring pattern in UFO history: a relatively concise military report evolves into a richer and more cinematic story. Researchers who return to the earliest documents often discover that some widely repeated details are difficult to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-2-dark.svg" | relative_url }}" alt="Retellings illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,11 +315,11 @@ The Bethune sighting illustrates a recurring pattern in UFO history: a relativel
 
 The sighting is often discussed many decades after it occurred. That creates challenges that historians and psychologists encounter in many fields, not just UFO research.
 
-Human memory is reconstructive rather than photographic. People generally remember the core of an event better than its exact details. Repeated retelling, exposure to other accounts and interviewer expectations can all influence how an experience is remembered and described later. Research on memory has repeatedly shown that confidence and accuracy do not always increase together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haraldmerckelbach.nl">[haraldmerckelbach.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haraldmerckelbach.nl</span><span class="citation-popover-title">Abducted by a UFO: Prevalence Information Affects Young</span><span class="citation-popover-snippet">UFO (Interview 1: B = 0.43. SE = 0.48, Wald = 0.81, Exp(B)... Memory distortion in people reporting abduction by aliens. Journal...</span></span></span>
+Human memory is reconstructive rather than photographic. People generally remember the core of an event better than its exact details. Repeated retelling, exposure to other accounts and interviewer expectations can all influence how an experience is remembered and described later. Research on memory has repeatedly shown that confidence and accuracy do not always increase together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haraldmerckelbach.nl">[haraldmerckelbach.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haraldmerckelbach.nl</span><span class="citation-popover-title">Abducted by a UFO: Prevalence Information Affects Young</span><span class="citation-popover-snippet">UFO (Interview 1: B = 0.43. SE = 0.48, Wald = 0.81, Exp(B)... Memory distortion in people reporting abduction by aliens. Journal...</span></span></span>
 
 UFO cases are particularly vulnerable to this effect because witnesses are frequently interviewed by people who already believe the event was extraordinary. Questions may unintentionally encourage interpretation rather than simple recollection. Over time, ambiguity can be replaced by certainty.
 
-In the Bethune case, this matters because the most valuable evidence comes from witnesses who were trained observers operating in a real aviation environment. If later embellishments are mixed together with the original testimony, it becomes harder to evaluate what the crew actually experienced in February 1951. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+In the Bethune case, this matters because the most valuable evidence comes from witnesses who were trained observers operating in a real aviation environment. If later embellishments are mixed together with the original testimony, it becomes harder to evaluate what the crew actually experienced in February 1951.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 Aviation historians generally place greater weight on:
 
@@ -344,9 +344,9 @@ They place less weight on recollections recorded many decades later, especially 
 
 Paradoxically, stripping away the later embellishments makes the case both weaker and stronger.
 
-It becomes weaker because some of the most spectacular claims—dramatic interception scenarios, definitive radar support, or highly detailed descriptions of a structured craft—rest largely on later accounts rather than on the earliest surviving records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+It becomes weaker because some of the most spectacular claims—dramatic interception scenarios, definitive radar support, or highly detailed descriptions of a structured craft—rest largely on later accounts rather than on the earliest surviving records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
-At the same time, it becomes stronger as a historical document. The original report presents a credible aviation mystery without requiring unsupported additions. Multiple trained witnesses observed an unusual light over the North Atlantic and could not confidently identify it. That fact alone is significant enough to explain why the incident remains part of Newfoundland and Labrador’s UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
+At the same time, it becomes stronger as a historical document. The original report presents a credible aviation mystery without requiring unsupported additions. Multiple trained witnesses observed an unusual light over the North Atlantic and could not confidently identify it. That fact alone is significant enough to explain why the incident remains part of Newfoundland and Labrador’s UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</span></span></span>
 
 The result is a more cautious but more reliable interpretation. The Bethune crew testimony remains valuable evidence of an unresolved aerial observation connected to the transatlantic aviation corridor near Newfoundland. The later retellings are valuable for a different reason: they demonstrate how UFO narratives can evolve, accumulate detail and gradually drift away from the documentary record. Understanding that distinction is essential for judging the [Gander]({{ 'gander/' | relative_url }}) case fairly.
 
@@ -354,194 +354,194 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-3-dark.svg" | relative_url }}" alt="Retellings illustration 3" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did later retellings change the Gander case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did later retellings change the Gander case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps readers compare original case documentation with later interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare original case documentation with later interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and the difficulties of evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and the difficulties of evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains memory, belief reinforcement, and how narratives evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory, belief reinforcement, and how narratives evolve over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a benchmark for evaluating witness testimony and evidence quality in famous cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for evaluating witness testimony and evidence quality in famous cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="retellings-did-later-retellings-change-the-gander-case-newfoundland-and-labrador-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,95 +747,95 @@ The result is a more cautious but more reliable interpretation. The Bethune crew
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/first-edition/UFO-North-Atlantic-February-10-1951/32297428440/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/first-edition/UFO-North-Atlantic-February-10-1951/32297428440/bd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in the North Atlantic February 10, 1951Bethune&#x27;s account of his namesake UFO encounter while working as a Navy pilot, with declassifi...</p></details>
+   Link:<a href="https://www.abebooks.com/first-edition/UFO-North-Atlantic-February-10-1951/32297428440/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/first-edition/UFO-North-Atlantic-February-10-1951/32297428440/bd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in the North Atlantic February 10, 1951Bethune&#x27;s account of his namesake UFO encounter while working as a Navy pilot, with declassifi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: haraldmerckelbach.nl  
    Title: Abducted by a UFO: Prevalence Information Affects Young  
-   Link: <a href="https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Interview 1: B = 0.43. SE = 0.48, Wald = 0.81, Exp(B)... Memory distortion in people reporting abduction by aliens. Journal...</p></details>
+   Link:<a href="https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO (Interview 1: B = 0.43. SE = 0.48, Wald = 0.81, Exp(B)... Memory distortion in people reporting abduction by aliens. Journal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.navy.mil  
    Title: mil The U.S  
-   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/USNavy-Innovation-book508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/USNavy-Innovation-book508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy and Innovation: Twentieth-Century Case StudiesWith its onboard radar and space for several crew, the. AD-4N proved central to the Na...</p></details>
+   Link:<a href="https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/USNavy-Innovation-book508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/USNavy-Innovation-book508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy and Innovation: Twentieth-Century Case StudiesWith its onboard radar and space for several crew, the. AD-4N proved central to the Na...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bethune51.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/bethune51.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bethune51.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Bethune&#x27;s Flight 124 airmiss in 195112 Sept 2005 — But when Commander Graham Bethune, the co-pilot in the R5...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: productofnewfoundland.ca  
    Title: ufos of newfoundland  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — Outer Space to Outer Cove: Newfoundland UFOs · Gander Incident, 1951 · Random I...</p></details>
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — Outer Space to Outer Cove: Newfoundland UFOs · Gander Incident, 1951 · Random I...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a67cB4niqf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a67cB4niqf8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Gander CBC Interview 2016Remembering the UFO sighting I was involved in 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a67cB4niqf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a67cB4niqf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Gander CBC Interview 2016Remembering the UFO sighting I was involved in 1978...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g-pT2pLEqIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g-pT2pLEqIM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1951-02-10: CDR Bethune Encounter in the North AtlanticThis video marks the 69th anniversary of US Navy Commander Graham Bethune&#x27;s North...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g-pT2pLEqIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g-pT2pLEqIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1951-02-10: CDR Bethune Encounter in the North AtlanticThis video marks the 69th anniversary of US Navy Commander Graham Bethune&#x27;s North...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: www3.nasa.gov  
-   Link: <a href="https://www3.nasa.gov/centers/kennedy/pdf/744319main_1968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www3.nasa.gov/centers/kennedy/pdf/744319main_1968.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govrIH[llThe first LM flight follows nearly five years&#x27; research and development. The design was conceived years before the Lunar Or...</p></details>
+   Link:<a href="https://www3.nasa.gov/centers/kennedy/pdf/744319main_1968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www3.nasa.gov/centers/kennedy/pdf/744319main_1968.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govrIH[llThe first LM flight follows nearly five years&#x27; research and development. The design was conceived years before the Lunar Or...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2178277675943207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2178277675943207/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy lieutenant encounters huge UFO near...How did the UFO change colors and disappear? 󰐐. People who have witnessed UFOs changing co...</p></details>
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2178277675943207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2178277675943207/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy lieutenant encounters huge UFO near...How did the UFO change colors and disappear? 󰐐. People who have witnessed UFOs changing co...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: its world ufo day we want to share this photo of a ufo flying over belton lake i  
-   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1951 Bethune UFO Encounter. Graham E. Bethune) observe a large orange-rimmed UFO...</p></details>
+   Link:<a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1951 Bethune UFO Encounter. Graham E. Bethune) observe a large orange-rimmed UFO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt2780244/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2780244/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Chronicles: Pilot Encounters and Underground BasesBethune is a retired Navy commander pilot with a top-secret clearance...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt2780244/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2780244/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Chronicles: Pilot Encounters and Underground BasesBethune is a retired Navy commander pilot with a top-secret clearance...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 6  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ll 1 l lll 1 1 62-IHQ-ii3894.. ==-Observations of aerial phenomena occurring within the vicinity of sensitive installations have been re...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ll 1 l lll 1 1 62-IHQ-ii3894.. ==-Observations of aerial phenomena occurring within the vicinity of sensitive installations have been re...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
+   Link:<a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/RadarStationVeterans/posts/8315322175220835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/8315322175220835/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>objects on radar, often being told to ignore or not report...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/RadarStationVeterans/posts/8315322175220835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/8315322175220835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>objects on radar, often being told to ignore or not report...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: audible.co.uk  
-   Link: <a href="https://www.audible.co.uk/podcast/2-aircraft-are-paced-by-a-UFO-on-2-separate-nights-near-Gander-International-Airport-Newfoundland-Witnessed-by-3-pilots-and-tracked-on-radar/B0FLDCQJF3" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/podcast/2-aircraft-are-paced-by-a-UFO-on-2-separate-nights-near-Gander-International-Airport-Newfoundland-Witnessed-by-3-pilots-and-tracked-on-radar/B0FLDCQJF3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>irport, Newfoundland/ Witnessed by 3 pilots and tracked on radar...</p></details>
+   Link:<a href="https://www.audible.co.uk/podcast/2-aircraft-are-paced-by-a-UFO-on-2-separate-nights-near-Gander-International-Airport-Newfoundland-Witnessed-by-3-pilots-and-tracked-on-radar/B0FLDCQJF3" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.co.uk/podcast/2-aircraft-are-paced-by-a-UFO-on-2-separate-nights-near-Gander-International-Airport-Newfoundland-Witnessed-by-3-pilots-and-tracked-on-radar/B0FLDCQJF3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>irport, Newfoundland/ Witnessed by 3 pilots and tracked on radar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufofyi.blogspot.com  
    Title: ufos one year at time 1951 revisited  
-   Link: <a href="https://ufofyi.blogspot.com/2009/09/ufos-one-year-at-time-1951-revisited.html" target="_blank" rel="noopener noreferrer nofollow">https://ufofyi.blogspot.com/2009/09/ufos-one-year-at-time-1951-revisited.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, One Year at a Time: 1951 Revisited8 Sept 2009 — One of the Best UFO story&#x27;s of all time is the Bethune/Gander incident of February...</p></details>
+   Link:<a href="https://ufofyi.blogspot.com/2009/09/ufos-one-year-at-time-1951-revisited.html" target="_blank" rel="noopener noreferrer nofollow">https://ufofyi.blogspot.com/2009/09/ufos-one-year-at-time-1951-revisited.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, One Year at a Time: 1951 Revisited8 Sept 2009 — One of the Best UFO story&#x27;s of all time is the Bethune/Gander incident of February...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1951: r/UFOsthis was from Project Grudge ended in late 1951. Pilot Lt. Graham Bethune crew and passengers saw a 300ft disc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1951: r/UFOsthis was from Project Grudge ended in late 1951. Pilot Lt. Graham Bethune crew and passengers saw a 300ft disc...</p></details>

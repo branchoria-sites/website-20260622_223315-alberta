@@ -256,28 +256,28 @@ image: /assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuf
 
 ## Introduction
 
-One of the most important patterns in [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) UFO reporting is also one of the least dramatic: many reports simply do not contain enough information to evaluate properly. Across Canadian UFO surveys, investigators repeatedly find that a large share of sightings consist of brief observations of lights in the night sky, recorded with limited detail about direction, duration, altitude, movement, weather conditions, or nearby reference points. In these cases, the main obstacle is often not secrecy, missing government files, or a lack of interest from investigators. It is the absence of basic observational information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+One of the most important patterns in [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }}) UFO reporting is also one of the least dramatic: many reports simply do not contain enough information to evaluate properly. Across Canadian UFO surveys, investigators repeatedly find that a large share of sightings consist of brief observations of lights in the night sky, recorded with limited detail about direction, duration, altitude, movement, weather conditions, or nearby reference points. In these cases, the main obstacle is often not secrecy, missing government files, or a lack of interest from investigators. It is the absence of basic observational information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-1-dark.svg" | relative_url }}" alt="Weak Data illustration 1" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Quebec contributes a substantial number of reports to Canadian UFO databases. When many of those reports lack essential details, researchers can neither confirm an unusual event nor confidently identify a conventional explanation. The result is a category of cases that remain weak not because they are mysterious, but because the evidence is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+This matters because Quebec contributes a substantial number of reports to Canadian UFO databases. When many of those reports lack essential details, researchers can neither confirm an unusual event nor confidently identify a conventional explanation. The result is a category of cases that remain weak not because they are mysterious, but because the evidence is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
 ## What insufficient information means in survey coding
 
-Canadian UFO researchers have long separated reports into different evidential categories. Some sightings are explained as aircraft, satellites, planets, meteors, drones, balloons, or other identifiable phenomena. A smaller number remain unexplained after investigation. Between those groups sits another important category: reports that cannot be assessed because too much information is missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+Canadian UFO researchers have long separated reports into different evidential categories. Some sightings are explained as aircraft, satellites, planets, meteors, drones, balloons, or other identifiable phenomena. A smaller number remain unexplained after investigation. Between those groups sits another important category: reports that cannot be assessed because too much information is missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
-The Office of the Chief Science Advisor's Sky Canada review highlighted this problem directly. It noted that many reported sightings cannot be conclusively explained because the information provided is too vague for meaningful analysis. The review cited data showing that roughly one-third of cases examined by some Canadian UFO organisations were left unresolved due to insufficient information rather than because investigators found evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+The Office of the Chief Science Advisor's Sky Canada review highlighted this problem directly. It noted that many reported sightings cannot be conclusively explained because the information provided is too vague for meaningful analysis. The review cited data showing that roughly one-third of cases examined by some Canadian UFO organisations were left unresolved due to insufficient information rather than because investigators found evidence of something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
-For investigators, an "insufficient information" classification is not a hidden endorsement of a UFO mystery. It is essentially an admission that the available evidence is inadequate. A report may be sincere and still be impossible to analyse if key observations were never recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+For investigators, an "insufficient information" classification is not a hidden endorsement of a UFO mystery. It is essentially an admission that the available evidence is inadequate. A report may be sincere and still be impossible to analyse if key observations were never recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
-Within Quebec datasets, this issue becomes particularly important because the province produces a large volume of reports. Even a modest percentage of low-detail cases can translate into dozens of records that contribute little to understanding what was actually observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+Within Quebec datasets, this issue becomes particularly important because the province produces a large volume of reports. Even a modest percentage of low-detail cases can translate into dozens of records that contribute little to understanding what was actually observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fsyMddjvIs0" title="Increase in unexplained aerial sightings across Manitoba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer">Increase in unexplained aerial sightings across Manitoba</a></p><p class="youtube-embed-meta">Channel: CBC News Manitoba</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fsyMddjvIs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fsyMddjvIs0">Open on YouTube</a></p></div></div></div>
 
 ## Why night-light reports are hard to verify
 
-The most common Canadian UFO report remains the nocturnal light: a bright object, glowing point, flashing light, or unusual illumination seen after dark. Recent Canadian surveys continue to show that night-light sightings make up a large proportion of all reports. In 2025, roughly half of Canadian reports fell into nocturnal-light categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
+The most common Canadian UFO report remains the nocturnal light: a bright object, glowing point, flashing light, or unusual illumination seen after dark. Recent Canadian surveys continue to show that night-light sightings make up a large proportion of all reports. In 2025, roughly half of Canadian reports fell into nocturnal-light categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
 
 These reports are often difficult to investigate because darkness removes many of the visual clues that help identify an object. [Witnesses]({{ 'witnesses-fb3e02/' | relative_url }}) may see brightness and motion but struggle to estimate:
 
@@ -293,9 +293,9 @@ These reports are often difficult to investigate because darkness removes many o
 
 </div>
 
-A light seen above Montreal, Laval, Longueuil, Gatineau, or another urban area may be an aircraft approaching an airport, a satellite reflecting sunlight, a bright planet near the horizon, a drone, or a genuinely unidentified object. Without precise details, investigators cannot reliably distinguish between these possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
+A light seen above Montreal, Laval, Longueuil, Gatineau, or another urban area may be an aircraft approaching an airport, a satellite reflecting sunlight, a bright planet near the horizon, a drone, or a genuinely unidentified object. Without precise details, investigators cannot reliably distinguish between these possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</span></span></span>
 
-Urban environments create additional complications. Light pollution obscures stars and celestial reference points. Buildings block portions of the sky. Witnesses may only observe an object for a few seconds before it disappears behind structures or clouds. In heavily populated regions, multiple observers can report the same event while still providing incomplete or contradictory descriptions. This can increase the number of reports without necessarily increasing the quality of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+Urban environments create additional complications. Light pollution obscures stars and celestial reference points. Buildings block portions of the sky. Witnesses may only observe an object for a few seconds before it disappears behind structures or clouds. In heavily populated regions, multiple observers can report the same event while still providing incomplete or contradictory descriptions. This can increase the number of reports without necessarily increasing the quality of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-2-dark.svg" | relative_url }}" alt="Weak Data illustration 2" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,9 +321,9 @@ Researchers generally need enough information to reconstruct what happened and c
 
 </div>
 
-Even one missing element can significantly reduce the value of a report. A witness who remembers seeing a bright white light "some time after sunset" provides far less investigative value than someone who records the exact time, compass direction, and duration. The second report can often be compared against aircraft tracks, satellite passes, astronomical objects, or meteor records. The first often cannot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+Even one missing element can significantly reduce the value of a report. A witness who remembers seeing a bright white light "some time after sunset" provides far less investigative value than someone who records the exact time, compass direction, and duration. The second report can often be compared against aircraft tracks, satellite passes, astronomical objects, or meteor records. The first often cannot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
-This is why Canadian reporting systems routinely encourage witnesses to submit as much detail as possible. The Canadian UFO Survey's reporting guidance explicitly emphasises that more details improve the chances of meaningful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+This is why Canadian reporting systems routinely encourage witnesses to submit as much detail as possible. The Canadian UFO Survey's reporting guidance explicitly emphasises that improve the chances of meaningful analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
@@ -332,11 +332,11 @@ This is why Canadian reporting systems routinely encourage witnesses to submit a
 
 A common misunderstanding among UFO enthusiasts is that a case lacking an explanation should automatically be counted as unexplained. Investigators generally reject that approach.
 
-An unexplained case usually means that sufficient information exists to rule out ordinary [explanations]({{ 'explanations-344909/' | relative_url }}), yet no definitive identification can be made. An insufficient-information case is different. The evidence is too limited to support either a conventional explanation or an extraordinary one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+An unexplained case usually means that sufficient information exists to rule out ordinary [explanations]({{ 'explanations-344909/' | relative_url }}), yet no definitive identification can be made. An insufficient-information case is different. The evidence is too limited to support either a conventional explanation or an extraordinary one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
-This distinction is crucial when interpreting Quebec reporting statistics. A province may accumulate many reports, but if a significant fraction consists of brief, poorly documented observations, those reports tell researchers relatively little about what people actually saw. High report totals do not automatically translate into high numbers of strong cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+This distinction is crucial when interpreting Quebec reporting statistics. A province may accumulate many reports, but if a significant fraction consists of brief, poorly documented observations, those reports tell researchers relatively little about what people actually saw. High report totals do not automatically translate into high numbers of strong cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
-The annual Canadian surveys consistently show that only a small minority of reports remain genuinely unexplained after review. In the 2025 survey, just over three per cent of cases were classified as unexplained, while many others were either identified or lacked enough information for a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 edition of the Canadian UFO Survey was released Monday... Out of all those 2025 reports, 3.42 per cent were class...</span></span></span>
+The annual Canadian surveys consistently show that only a small minority of reports remain genuinely unexplained after review. In the 2025 survey, just over three per cent of cases were classified as unexplained, while many others were either identified or lacked enough information for a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 edition of the Canadian UFO Survey was released Monday... Out of all those 2025 reports, 3.42 per cent were class...</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-3-dark.svg" | relative_url }}" alt="Weak Data illustration 3" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,203 +344,147 @@ The annual Canadian surveys consistently show that only a small minority of repo
 
 Within the broader picture of Quebec UFO reports by numbers and patterns, the prevalence of low-detail sightings offers an important lesson. The province's reporting totals are influenced not only by population and visibility but also by data quality.
 
-Montreal, Gatineau, Quebec City and other populated regions place large numbers of observers beneath busy skies filled with aircraft, satellites, drones and celestial objects. Many people notice unusual lights, but relatively few record the information needed for rigorous investigation. As a result, some reports remain permanently indeterminate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+Montreal, Gatineau, Quebec City and other populated regions place large numbers of observers beneath busy skies filled with aircraft, satellites, drones and celestial objects. Many people notice unusual lights, but relatively few record the information needed for rigorous investigation. As a result, some reports remain permanently indeterminate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[WSI Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
-For historians and researchers, this means that caution is essential. A weakly documented report should not be dismissed as worthless, but neither should it be elevated into evidence of an extraordinary phenomenon. In Quebec's UFO record, some of the most persistent mysteries arise not from what witnesses reported, but from what they were unable to record before the moment passed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
+For historians and researchers, this means that caution is essential. A weakly documented report should not be dismissed as worthless, but neither should it be elevated into evidence of an extraordinary phenomenon. In Quebec's UFO record, some of the most persistent mysteries arise not from what witnesses reported, but from what they were unable to record before the moment passed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w5bwzo756gc" title="UFO Night in Canada (a conversation with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w5bwzo756gc" target="_blank" rel="noopener noreferrer">UFO Night in Canada (a conversation with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w5bwzo756gc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w5bwzo756gc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO reports do not have enough detail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO reports do not have enough detail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are evaluated and why evidence quality and observational detail matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are evaluated and why evidence quality and observational detail matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of reliable witnesses, documentation, and investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of reliable witnesses, documentation, and investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses case assessment, reporting quality, and the challenges posed by incomplete information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses case assessment, reporting quality, and the challenges posed by incomplete information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on evidence, critical thinking, and evaluating claims when data are limited or uncertain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, critical thinking, and evaluating claims when data are limited or uncertain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="weak-data-when-ufo-reports-do-not-have-enough-detail-quebec-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +500,7 @@ For historians and researchers, this means that caution is essential. A weakly d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +520,7 @@ For historians and researchers, this means that caution is essential. A weakly d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +552,7 @@ For historians and researchers, this means that caution is essential. A weakly d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +604,7 @@ For historians and researchers, this means that caution is essential. A weakly d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +649,7 @@ For historians and researchers, this means that caution is essential. A weakly d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,128 +690,128 @@ For historians and researchers, this means that caution is essential. A weakly d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>it investigated in 2023, 31% could not be conclusively explained due to...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it investigated in 2023, 31% could not be conclusively explained due to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Some are specifically concerned with particular UFO sightings, while others are mor...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Some are specifically concerned with particular UFO sightings, while others are mor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — The main survey results are presented in the charts bel...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — The main survey results are presented in the charts bel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Public Reporting of Unidentified Aerial...Chart 15: Do you think reports of UAP (UFO) sightings are something that the Government of...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Public Reporting of Unidentified Aerial...Chart 15: Do you think reports of UAP (UFO) sightings are something that the Government of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: img1.wsimg.com  
    Title: Final V2 The 2025 Canadian UFO Survey  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</p></details>
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WSI ImagesThe 2025 SurveyMarch 17, 2026 — 9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so...</p></details>
    Published: March 17, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canadianuforeport.ca  
    Title: survey data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723582/ufology-research-manitoba/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723582/ufology-research-manitoba/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Uncover what&#x27;s really going on&#x27;: UFO researcher in...10 Mar 2026 — Data collected by Ufology Research found that reports of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The 2025 edition of the Canadian UFO Survey was released Monday... Out of all those 2025 reports, 3.42 per cent were class...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The 2025 edition of the Canadian UFO Survey was released Monday... Out of all those 2025 reports, 3.42 per cent were class...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious scientific attention...</p></details>
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious scientific attention...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: winnipeg based ufology research releases annual report on canadian ufo sightings  
-   Link: <a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
+   Link:<a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love Canada“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that UFOs are either alien spacecr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sudbury.com  
    Title: glowing objects and bright lights among reported ufo sightings in barrie 279815  
-   Link: <a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</p></details>
+   Link:<a href="https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815" target="_blank" rel="noopener noreferrer nofollow">https://www.sudbury.com/around-the-north/glowing-objects-and-bright-lights-among-reported-ufo-sightings-in-barrie-279815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing objects and bright lights among reported UFO...14 Apr 2016 — There were four reports of UFO sightings in Barrie last year, accor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ottawa.citynews.ca  
    Title: bright lights light fingered aliens all part of annual report on ufo sightings  
-   Link: <a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
+   Link:<a href="https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://ottawa.citynews.ca/2017/03/30/bright-lights-light-fingered-aliens-all-part-of-annual-report-on-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights, light-fingered aliens: all part of annual report...30 Mar 2017 — Bright lights, light-fingered aliens: all part of annual report...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: 100milefreepress.net  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://100milefreepress.net/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://100milefreepress.net/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey. Sallenback said this year the team, led by... unexplained phenomena in the sky to www.canadianuforeport.ca.Rea...</p></details>
+   Link:<a href="https://100milefreepress.net/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://100milefreepress.net/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey. Sallenback said this year the team, led by... unexplained phenomena in the sky to www.canadianuforeport.ca.Rea...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nelsonstar.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
+   Link:<a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: music.amazon.ca  
    Title: the canadian gothic the 2025 canadian ufo survey with chris rutkowski  
-   Link: <a href="https://music.amazon.ca/podcasts/7301cb61-e91c-456f-9f9f-5d2477bb0fd0/episodes/b8671d5d-895c-4154-8409-857dd129e272/the-canadian-gothic-the-2025-canadian-ufo-survey-with-chris-rutkowski?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.ca/podcasts/7301cb61-e91c-456f-9f9f-5d2477bb0fd0/episodes/b8671d5d-895c-4154-8409-857dd129e272/the-canadian-gothic-the-2025-canadian-ufo-survey-with-chris-rutkowski?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey (with Chris Rutkowski)In 2025, more 1052 UFO sightings were reported across Canada, an average of one every eigh...</p></details>
+   Link:<a href="https://music.amazon.ca/podcasts/7301cb61-e91c-456f-9f9f-5d2477bb0fd0/episodes/b8671d5d-895c-4154-8409-857dd129e272/the-canadian-gothic-the-2025-canadian-ufo-survey-with-chris-rutkowski?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.ca/podcasts/7301cb61-e91c-456f-9f9f-5d2477bb0fd0/episodes/b8671d5d-895c-4154-8409-857dd129e272/the-canadian-gothic-the-2025-canadian-ufo-survey-with-chris-rutkowski?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey (with Chris Rutkowski)In 2025, more 1052 UFO sightings were reported across Canada, an average of one every eigh...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.ubc.ca  
    Title: belief in paranormal canada ubc study  
-   Link: <a href="https://news.ubc.ca/2025/10/belief-in-paranormal-canada-ubc-study/" target="_blank" rel="noopener noreferrer nofollow">https://news.ubc.ca/2025/10/belief-in-paranormal-canada-ubc-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caGhosts, aliens and Sasquatch: What Canadians believe in...21 Oct 2025 — Nearly half of Canadians believe in at least one paranorma...</p></details>
+   Link:<a href="https://news.ubc.ca/2025/10/belief-in-paranormal-canada-ubc-study/" target="_blank" rel="noopener noreferrer nofollow">https://news.ubc.ca/2025/10/belief-in-paranormal-canada-ubc-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caGhosts, aliens and Sasquatch: What Canadians believe in...21 Oct 2025 — Nearly half of Canadians believe in at least one paranorma...</p></details>

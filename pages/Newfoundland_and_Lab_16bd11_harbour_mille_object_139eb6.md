@@ -280,17 +280,17 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-ov
 
 ## Introduction
 
-On 25 January 2010, residents of Harbour Mille, a small community on [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s south coast, reported seeing long, grey, missile-like objects over the bay. One witness, Darlene Stewart, photographed a blurry object that appeared to have smoke or flame behind it; another, Emmy Pardy, described something that seemed to come out of the water. The case matters because it was not just a strange-light story. It became a public controversy about whether missiles, military exercises, amateur rockets, aircraft contrails or an unexplained aerial event had been misread, denied or poorly investigated. The most cautious reading is that Harbour Mille remains unresolved in public record, but the missile interpretation was weakened by official denials, timing problems and later sceptical analysis pointing to a sunlit aircraft contrail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+On 25 January 2010, residents of Harbour Mille, a small community on [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s south coast, reported seeing long, grey, missile-like objects over the bay. One witness, Darlene Stewart, photographed a blurry object that appeared to have smoke or flame behind it; another, Emmy Pardy, described something that seemed to come out of the water. The case matters because it was not just a strange-light story. It became a public controversy about whether missiles, military exercises, amateur rockets, aircraft contrails or an unexplained aerial event had been misread, denied or poorly investigated. The most cautious reading is that Harbour Mille remains unresolved in public record, but the missile interpretation was weakened by official denials, timing problems and later sceptical analysis pointing to a sunlit aircraft contrail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com+2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-overview.webp" | relative_url }}" alt="Overview image for Harbour Mille" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses reported seeing
 
-The reported sighting took place early on a winter evening, when the sky was low-lit and the sun was setting or had recently set. That timing is central to the case: it helped make the object look dramatic in photographs, but it also created ideal conditions for visual misinterpretation. Stewart told CBC, in an account later reproduced by the Alberta UFO Study Group, that she was outside photographing the sunset when she saw something fly overhead and took pictures to zoom in on it afterwards. She said that, once viewed on a computer, it did not look like an aeroplane to her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+The reported sighting took place early on a winter evening, when the sky was low-lit and the sun was setting or had recently set. That timing is central to the case: it helped make the object look dramatic in photographs, but it also created ideal conditions for visual misinterpretation. Stewart told CBC, in an account later reproduced by the Alberta UFO Study Group, that she was outside photographing the sunset when she saw something fly overhead and took pictures to zoom in on it afterwards. She said that, once viewed on a computer, it did not look like an aeroplane to her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
-Pardy’s description added the element that made the case famous. She reportedly said the object appeared to come out of the ocean, “like it was in the middle of the bay”. Other accounts described three similar objects seen minutes apart, with one closer and two farther away. In the most widely circulated version, the objects were grey or silver, bullet-like, silent, and apparently trailing smoke or flame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+Pardy’s description added the element that made the case famous. She reportedly said the object appeared to come out of the ocean, “like it was in the middle of the bay”. Other accounts described three similar objects seen minutes apart, with one closer and two farther away. In the most widely circulated version, the objects were grey or silver, bullet-like, silent, and apparently trailing smoke or flame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
-Those details explain why the story quickly moved beyond ordinary UFO reporting. A silent light in the sky might have faded into local rumour; a “missile-like” object apparently rising from water off Newfoundland’s coast raised questions about safety, sovereignty and military notification. Harbour Mille is also close enough to the French territory of Saint Pierre and Miquelon for residents and politicians to ask whether French activity could have been involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Saint Pierre and Miquelon</span><span class="citation-popover-snippet">Saint Pierre and Miquelon</span></span></span>
+Those details explain why the story quickly moved beyond ordinary UFO reporting. A silent light in the sky might have faded into local rumour; a “missile-like” object apparently rising from water off Newfoundland’s coast raised questions about safety, sovereignty and military notification. Harbour Mille is also close enough to the French territory of Saint Pierre and Miquelon for residents and politicians to ask whether French activity could have been involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Saint Pierre and Miquelon</span><span class="citation-popover-snippet">Saint Pierre and Miquelon</span></span></span>
 
 The witness reports are valuable because they came from named local residents, were attached to photographs, and led to police and media attention. They are limited because the public evidence does not include a calibrated image sequence, radar data, recovered debris, a confirmed flight track, or a precise triangulation from several known viewing positions. In plain terms, the witnesses clearly saw something that concerned them, but the available public record does not let readers measure its size, distance, speed or altitude with confidence.
 
@@ -298,11 +298,11 @@ The witness reports are valuable because they came from named local residents, w
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-1-dark.svg" | relative_url }}" alt="Harbour Mille illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Photographs and missile speculation
 
-The photographs drove the story. Stewart’s image was described in news summaries as showing a long, rocket-like object crossing the sky with what looked like smoke or flames behind it, but those same summaries noted that it was difficult to judge the object’s size or distance from shore. That uncertainty is crucial. A small nearby object, a distant high-altitude jet, and a large military projectile can all look misleadingly similar in a single blurred frame, especially near sunset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+The photographs drove the story. Stewart’s image was described in news summaries as showing a long, rocket-like object crossing the sky with what looked like smoke or flames behind it, but those same summaries noted that it was difficult to judge the object’s size or distance from shore. That uncertainty is crucial. A small nearby object, a distant high-altitude jet, and a large military projectile can all look misleadingly similar in a single blurred frame, especially near sunset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
-The missile theory had two attractions. First, the object looked missile-like to observers and to many viewers of the photograph. Second, the south coast of Newfoundland and Labrador faces the North Atlantic, where military activity is not inherently impossible. A local mystery involving “objects from the ocean” naturally pushed public imagination towards submarines, test launches and foreign military exercises. A later Newfoundland-focused summary notes that the sighting sparked questions about whether missiles were being tested in the North Atlantic, while also stating that government follow-up did not support that explanation for the day in question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+The missile theory had two attractions. First, the object looked missile-like to observers and to many viewers of the photograph. Second, the south coast of Newfoundland and Labrador faces the North Atlantic, where military activity is not inherently impossible. A local mystery involving “objects from the ocean” naturally pushed public imagination towards submarines, test launches and foreign military exercises. A later Newfoundland-focused summary notes that the sighting sparked questions about whether missiles were being tested in the North Atlantic, while also stating that government follow-up did not support that explanation for the day in question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
-The French angle was strengthened by coincidence, but weakened by chronology and geography. France did conduct an M51 submarine-launched ballistic missile test in late January 2010, but the documented test took place on 27 January from Audierne Bay off Brittany, not on 25 January off Newfoundland. The missile reportedly flew thousands of kilometres and was tracked by French test facilities, but that was two days after the Harbour Mille report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcouncil.org">[Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcouncil.org</span><span class="citation-popover-title">Atlantic Council France Successfully Carries out Fourth M51 Ballistic</span><span class="citation-popover-snippet">M51 ballistic missile in the Audierne bay (Finistère department). The missile was launched at 09:25 CET by the “Le Terrible” submarine an...</span></span></span>
+The French angle was strengthened by coincidence, but weakened by chronology and geography. France did conduct an M51 submarine-launched ballistic missile test in late January 2010, but the documented test took place on 27 January from Audierne Bay off Brittany, not on 25 January off Newfoundland. The missile reportedly flew thousands of kilometres and was tracked by French test facilities, but that was two days after the Harbour Mille report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcouncil.org">[Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcouncil.org</span><span class="citation-popover-title">Atlantic Council France Successfully Carries out Fourth M51 Ballistic</span><span class="citation-popover-snippet">M51 ballistic missile in the Audierne bay (Finistère department). The missile was launched at 09:25 CET by the “Le Terrible” submarine an...</span></span></span>
 
 This does not mean the Harbour Mille witnesses invented anything. It means the most dramatic version — a secret or misattributed missile launch visible from Harbour Mille on 25 January — lacks public confirmation. A real French missile test nearby in time helped keep suspicion alive, yet the known test does not line up cleanly with the reported event.
 
@@ -311,11 +311,11 @@ This does not mean the Harbour Mille witnesses invented anything. It means the m
 
 ## Why official denials left questions
 
-The controversy grew because the public response looked confused. According to accounts reproducing the CBC and Canadian Press reporting, the RCMP first investigated locally and said the matter was not criminal. Media inquiries then appeared to move between the RCMP, Public Safety Canada and the Prime Minister’s Office. Public Safety reportedly referred questions back to the RCMP before the Prime Minister’s Office issued a firmer denial that there had been a rocket launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+The controversy grew because the public response looked confused. According to accounts reproducing the CBC and Canadian Press reporting, the RCMP first investigated locally and said the matter was not criminal. Media inquiries then appeared to move between the RCMP, Public Safety Canada and the Prime Minister’s Office. Public Safety reportedly referred questions back to the RCMP before the Prime Minister’s Office issued a firmer denial that there had been a rocket launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
-That chain of referrals mattered almost as much as the object itself. For residents, “not criminal” did not answer “what was it?” For journalists, an agency hand-off looked like uncertainty. For politicians, it raised a public-accountability question: if the object was harmless, why could no one explain it clearly; if it was military, why were residents not told? Gerry Byrne, then the MP for Humber—St. Barbe—Baie Verte, argued that the government should dispel rumours and conspiracy theories with a straightforward factual account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+That chain of referrals mattered almost as much as the object itself. For residents, “not criminal” did not answer “what was it?” For journalists, an agency hand-off looked like uncertainty. For politicians, it raised a public-accountability question: if the object was harmless, why could no one explain it clearly; if it was military, why were residents not told? Gerry Byrne, then the MP for Humber—St. Barbe—Baie Verte, argued that the government should dispel rumours and conspiracy theories with a straightforward factual account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
-The Prime Minister’s Office statement was specific on one point: it said there was no indication of a rocket launch. A Canadian Forces spokesman was also quoted as saying there had been no planned missile exercises off the seaboard and no threat to Canada’s security. Those denials weakened the missile claim, but they did not provide a positive identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+The Prime Minister’s Office statement was specific on one point: it said there was no indication of a rocket launch. A Canadian Forces spokesman was also quoted as saying there had been no planned missile exercises off the seaboard and no threat to Canada’s security. Those denials weakened the missile claim, but they did not provide a positive identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
 That gap is why Harbour Mille became a “public denial” case rather than a simple debunking. Officially, the event was not confirmed as a missile; publicly, many people still felt the denial did not explain the photographs, the witness statements, or the initial confusion. In UFO history, that is a familiar pattern: when agencies deny the most alarming possibility without supplying a persuasive ordinary explanation, the denial can become part of the mystery.
 
@@ -323,11 +323,11 @@ That gap is why Harbour Mille became a “public denial” case rather than a si
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-2-dark.svg" | relative_url }}" alt="Harbour Mille illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The contrail explanation
 
-The strongest ordinary explanation is that the object was a high-altitude aircraft and contrail lit by the low winter sun. This interpretation was advanced in later sceptical analysis and in Newfoundland summaries that cited a Finnish UFO researcher’s view that sunlight on a jet and vapour trail created an optical illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
+The strongest ordinary explanation is that the object was a high-altitude aircraft and contrail lit by the low winter sun. This interpretation was advanced in later sceptical analysis and in Newfoundland summaries that cited a Finnish UFO researcher’s view that sunlight on a jet and vapour trail created an optical illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
 
-The mechanism is straightforward. A jet flying towards or away from an observer can create a contrail that, by perspective, appears to rise steeply from the horizon or sea. Near sunset, the ground may be dim while the aircraft and contrail remain high enough to catch direct sunlight. The trail can glow yellow, orange or red, making it resemble flame. From a coastal viewpoint, the lower end of the trail can seem to touch the ocean even though it is far away and high in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
+The mechanism is straightforward. A jet flying towards or away from an observer can create a contrail that, by perspective, appears to rise steeply from the horizon or sea. Near sunset, the ground may be dim while the aircraft and contrail remain high enough to catch direct sunlight. The trail can glow yellow, orange or red, making it resemble flame. From a coastal viewpoint, the lower end of the trail can seem to touch the ocean even though it is far away and high in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
 
-This explanation fits several awkward details better than a missile does. The reported object was visible for roughly fifteen minutes in some [retellings]({{ 'retellings/' | relative_url }}), which is long for a missile-like projectile but ordinary for a distant aircraft contrail. It was also silent, which would be expected for a high-altitude aircraft far from the observer, but less intuitive for a nearby large launch. Sceptical commentary also noted that a true rocket plume would be expected to show a thicker, more continuous trail back towards the launch point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
+This explanation fits several awkward details better than a missile does. The reported object was visible for roughly fifteen minutes in some [retellings]({{ 'retellings/' | relative_url }}), which is long for a missile-like projectile but ordinary for a distant aircraft contrail. It was also silent, which would be expected for a high-altitude aircraft far from the observer, but less intuitive for a nearby large launch. Sceptical commentary also noted that a true rocket plume would be expected to show a thicker, more continuous trail back towards the launch point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Bad UFOs: Critical Thinking about UFO Claims</span><span class="citation-popover-snippet">1519260849, 9781519260840 - DOKUMEN.PUB...</span></span></span>
 
 The weakness of the contrail explanation is that it remains a reconstruction, not a demonstrated identification from a specific flight track. A complete resolution would require flight data, accurate camera time, viewing direction, weather conditions and comparison with known air routes. Without that, “sunlit contrail” is a plausible explanation rather than a proved one.
 
@@ -336,9 +336,9 @@ The weakness of the contrail explanation is that it remains a reconstruction, no
 
 ## What the case shows about UFO reporting in Newfoundland and Labrador
 
-Harbour Mille sits neatly within Newfoundland and Labrador’s wider UFO history because it combines coastal observation, aviation ambiguity, public agencies and witness credibility. It is different from the 1978 [Clarenville]({{ 'clarenville/' | relative_url }}) and Random Island case, where an RCMP officer observed a lighted object for an extended period, and from older [Gander]({{ 'gander/' | relative_url }})-area aviation cases involving aircrew. Harbour Mille’s distinctive feature is the collision between photographs, missile imagery and public denial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+Harbour Mille sits neatly within Newfoundland and Labrador’s wider UFO history because it combines coastal observation, aviation ambiguity, public agencies and witness credibility. It is different from the 1978 [Clarenville]({{ 'clarenville/' | relative_url }}) and Random Island case, where an RCMP officer observed a lighted object for an extended period, and from older [Gander]({{ 'gander/' | relative_url }})-area aviation cases involving aircrew. Harbour Mille’s distinctive feature is the collision between photographs, missile imagery and public denial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
-It also illustrates why modern Canadian terminology matters. Transport Canada has cautioned that “UFO” in aviation [records]({{ 'records-45a181/' | relative_url }}) can cover many things, including drones, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial. Canada’s Sky Canada Project similarly states that an unidentified aerial phenomenon is simply something not conclusively identified; it does not imply an alien origin, a violation of physics, or an object that would remain mysterious with better data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+It also illustrates why modern Canadian terminology matters. Transport Canada has cautioned that “UFO” in aviation [records]({{ 'records-45a181/' | relative_url }}) can cover many things, including drones, balloons, meteors, weather phenomena and birds, and should not be read as meaning extraterrestrial. Canada’s Sky Canada Project similarly states that an unidentified aerial phenomenon is simply something not conclusively identified; it does not imply an alien origin, a violation of physics, or an object that would remain mysterious with better data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 Applied to Harbour Mille, that distinction helps keep the case balanced. The sighting can be treated as genuinely unidentified in the public record without escalating it into evidence of a secret missile launch or extraterrestrial craft. The best evidence is witness testimony plus photographs. The main doubts are the lack of scale, distance, radar confirmation and a confirmed military or aviation source. The strongest sceptical reading is a sunset contrail. The strongest reason the story persists is that official denials did not give residents a clear, positive identification.
 
@@ -346,7 +346,7 @@ Applied to Harbour Mille, that distinction helps keep the case balanced. The sig
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Mille illustration 3" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case stands today
 
-Harbour Mille’s lights are best described as an unresolved public sighting with a plausible ordinary explanation. The missile theory is understandable but not well supported by public evidence. Known official statements said there was no indication of a rocket launch, no planned Canadian missile exercise off the seaboard, and no confirmed French involvement matching the date. The later-known French M51 launch occurred on 27 January 2010 from waters off Brittany, not during the 25 January Harbour Mille sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com+2Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
+Harbour Mille’s lights are best described as an unresolved public sighting with a plausible ordinary explanation. The missile theory is understandable but not well supported by public evidence. Known official statements said there was no indication of a rocket launch, no planned Canadian missile exercise off the seaboard, and no confirmed French involvement matching the date. The later-known French M51 launch occurred on 27 January 2010 from waters off Brittany, not during the 25 January Harbour Mille sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aufosg.com">[aufosg.com+2Atlantic Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aufosg.com</span><span class="citation-popover-title">Alberta UFO Study Group (AUFOSG</span><span class="citation-popover-snippet">Alberta UFO Study Group (AUFOSG</span></span></span>
 
 The case was strengthened, as a public story, by photographs and named witnesses. It was weakened, as a missile claim, by the absence of corroborating official tracking, the reported duration, the lack of sound, and the availability of a credible contrail explanation. It remains useful within Newfoundland and Labrador’s UFO history because it shows how quickly a brief coastal sky event can become a national question when the object looks technological and official communication appears hesitant.
 
@@ -357,194 +357,194 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Harbour Mille&#x27;s Lights Missiles or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Harbour Mille&#x27;s Lights Missiles or Something Else?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines disputed aerial sightings, official responses, and unresolved cases similar to Harbour Mille.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines disputed aerial sightings, official responses, and unresolved cases similar to Harbour Mille.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides tools for understanding perception, misinterpretation, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for understanding perception, misinterpretation, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Explores how witness reports, photographs, and competing explanations are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how witness reports, photographs, and competing explanations are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Addresses tensions between witness accounts, military explanations, and public controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses tensions between witness accounts, military explanations, and public controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6951ec6710a542d339ee.jpg' | relative_url }}" alt="Listing image for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6951ec6710a542d339ee.jpg' | relative_url }}" alt="Listing image for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art"><img src="{{ '/assets/images/marketplace-covers/098191b5399fbef0e42b.jpg' | relative_url }}" alt="Listing image for Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Personalised Poster Print Astronomy Zodiac Stars Birth Date Home Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="harbour-mille-were-harbour-mille-s-lights-missiles-or-something-else-newfoundland-and-labrador-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,132 +750,132 @@ Harbour Mille is not a clean debunking and not a confirmed extraordinary event. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aufosg.com  
    Title: Alberta UFO Study Group (AUFOSG)  
-   Link: <a href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aufosg.com/</a>  
+   Link:<a href="https://www.aufosg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aufosg.com/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: Bad UFOs: Critical Thinking about UFO Claims  
-   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1519260849, 9781519260840 - DOKUMEN.PUB...</p></details>
+   Link:<a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1519260849, 9781519260840 - DOKUMEN.PUB...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Saint Pierre and Miquelon  
-   Link: <a href="https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: M51 (missile)  
-   Link: <a href="https://en.wikipedia.org/wiki/M51_%28missile%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/M51_%28missile%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/M51_%28missile%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/M51_%28missile%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident</a>  
+   Link:<a href="https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/?redirect=no&amp;title=Harbour_Mille_incident</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Hiện tượng quan sát thấy UFO ở Canada  
-   Link: <a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Canada" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Canada</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Canada" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Canada</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Observations d'ovnis au Canada  
-   Link: <a href="https://fr.wikipedia.org/wiki/Observations_d%27ovnis_au_Canada" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Observations_d%27ovnis_au_Canada</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Observations_d%27ovnis_au_Canada" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Observations_d%27ovnis_au_Canada</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Missile M51  
-   Link: <a href="https://fr.wikipedia.org/wiki/Missile_M51" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Missile_M51</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Missile_M51" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Missile_M51</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: French submarine Le Terrible (S619)  
-   Link: <a href="https://en.wikipedia.org/wiki/French_submarine_Le_Terrible_%28S619%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/French_submarine_Le_Terrible_%28S619%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/French_submarine_Le_Terrible_%28S619%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/French_submarine_Le_Terrible_%28S619%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: productofnewfoundland.ca  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: atlanticcouncil.org  
    Title: Atlantic Council France Successfully Carries out Fourth M51 Ballistic  
-   Link: <a href="https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>M51 ballistic missile in the Audierne bay (Finistère department). The missile was launched at 09:25 CET by the “Le Terrible” submarine an...</p></details>
+   Link:<a href="https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/blogs/natosource/france-successfully-carries-out-fourth-m51-ballistic-missile-test-firing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M51 ballistic missile in the Audierne bay (Finistère department). The missile was launched at 09:25 CET by the “Le Terrible” submarine an...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/media/set/?set=a.459251050763621.103612.381728241849236&amp;type=1" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.459251050763621.103612.381728241849236&amp;type=1</a>  
+   Link:<a href="https://www.facebook.com/media/set/?set=a.459251050763621.103612.381728241849236&amp;type=1" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/media/set/?set=a.459251050763621.103612.381728241849236&amp;type=1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: atlanticcouncil.org  
    Title: NATO Source  
-   Link: <a href="https://www.atlanticcouncil.org/category/blogs/natosource/page/672/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/category/blogs/natosource/page/672/</a>  
+   Link:<a href="https://www.atlanticcouncil.org/category/blogs/natosource/page/672/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/category/blogs/natosource/page/672/</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: introtoglobalstudies.com  
    Title: Mystery rocket launches off of L.A. and Newfoundland —  
-   Link: <a href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to International &amp; Global Studies...</p></details>
+   Link:<a href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to International &amp; Global Studies...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RDdl-_Fiuv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDdl-_Fiuv0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harbour Mille missile Harbour Mille Pyro Pat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RDdl-_Fiuv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDdl-_Fiuv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harbour Mille missile Harbour Mille Pyro Pat...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/11405736/what-the-hell-is-that-hellfire-missile-bounced-off-ufo-in-newly-revealed-video" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/11405736/what-the-hell-is-that-hellfire-missile-bounced-off-ufo-in-newly-revealed-video</a>  
+   Link:<a href="https://globalnews.ca/video/11405736/what-the-hell-is-that-hellfire-missile-bounced-off-ufo-in-newly-revealed-video" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/11405736/what-the-hell-is-that-hellfire-missile-bounced-off-ufo-in-newly-revealed-video</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WPTV5/posts/mystery-solved-a-fiery-and-bizarre-sight-over-the-treasure-coast-on-new-years-da/10158036906388384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WPTV5/posts/mystery-solved-a-fiery-and-bizarre-sight-over-the-treasure-coast-on-new-years-da/10158036906388384/</a>  
+   Link:<a href="https://www.facebook.com/WPTV5/posts/mystery-solved-a-fiery-and-bizarre-sight-over-the-treasure-coast-on-new-years-da/10158036906388384/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WPTV5/posts/mystery-solved-a-fiery-and-bizarre-sight-over-the-treasure-coast-on-new-years-da/10158036906388384/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYYFHlCO8Jj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYYFHlCO8Jj/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYYFHlCO8Jj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYYFHlCO8Jj/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: churchofvirus.org  
-   Link: <a href="https://www.churchofvirus.org/bbs/index.php?board=69%3Baction%3Ddisplay%3Bthreadid%3D42443%3Bstart%3D45" target="_blank" rel="noopener noreferrer nofollow">https://www.churchofvirus.org/bbs/index.php?board=69%3Baction%3Ddisplay%3Bthreadid%3D42443%3Bstart%3D45</a>  
+   Link:<a href="https://www.churchofvirus.org/bbs/index.php?board=69%3Baction%3Ddisplay%3Bthreadid%3D42443%3Bstart%3D45" target="_blank" rel="noopener noreferrer nofollow">https://www.churchofvirus.org/bbs/index.php?board=69%3Baction%3Ddisplay%3Bthreadid%3D42443%3Bstart%3D45</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thesilo.ca  
-   Link: <a href="https://www.thesilo.ca/tag/canada-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesilo.ca/tag/canada-sighting/</a>  
+   Link:<a href="https://www.thesilo.ca/tag/canada-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesilo.ca/tag/canada-sighting/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYGKVVzE3iC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGKVVzE3iC/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DYGKVVzE3iC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGKVVzE3iC/?hl=en</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vhu.sk  
-   Link: <a href="https://www.vhu.sk/data/files/220.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vhu.sk/data/files/220.pdf</a>  
+   Link:<a href="https://www.vhu.sk/data/files/220.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vhu.sk/data/files/220.pdf</a>  

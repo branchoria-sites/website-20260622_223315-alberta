@@ -274,65 +274,65 @@ image: /assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-overview-social.j
 
 ## Introduction
 
-The Tagish Lake fireball is one of [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }})’s best examples of a dramatic “what was that?” sky event becoming a solved natural mystery. On 18 January 2000, at about 8:43 a.m. local time, a brilliant fireball crossed the morning sky over Yukon and northern British Columbia, with reports also coming from Alaska and the Northwest Territories. It produced loud detonations, a lingering dust trail and enough spectacle to be remembered in the same northern sky culture that also produces UFO reports. But unlike many ambiguous sightings, this one quickly moved from witness testimony to physical evidence: meteorite fragments were found on the frozen Taku Arm of Tagish Lake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
+The Tagish Lake fireball is one of [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }})’s best examples of a dramatic “what was that?” sky event becoming a solved natural mystery. On 18 January 2000, at about 8:43 a.m. local time, a brilliant fireball crossed the morning sky over Yukon and northern British Columbia, with reports also coming from Alaska and the Northwest Territories. It produced loud detonations, a lingering dust trail and enough spectacle to be remembered in the same northern sky culture that also produces UFO reports. But unlike many ambiguous sightings, this one quickly moved from witness testimony to physical evidence: meteorite fragments were found on the frozen Taku Arm of Tagish Lake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-overview.webp" | relative_url }}" alt="Overview image for Tagish Fireball" loading="eager" decoding="sync" fetchpriority="high">
-That is why the case matters in Yukon UFO history. The Tagish Lake event shows how an extraordinary sky report can be both genuinely astonishing and fully non-exotic. It was not “nothing”; it was a rare carbon-rich meteorite fall, recorded by [satellites]({{ 'satellites-8f2167/' | relative_url }}), seismic stations and infrasound, then confirmed by recovered fragments. For readers comparing Yukon’s unresolved UFO stories with explained events, Tagish Lake is a useful benchmark: the better the chain from sighting to instrument data to material recovery, the less room remains for speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+That is why the case matters in Yukon UFO history. The Tagish Lake event shows how an extraordinary sky report can be both genuinely astonishing and fully non-exotic. It was not “nothing”; it was a rare carbon-rich meteorite fall, recorded by [satellites]({{ 'satellites-8f2167/' | relative_url }}), seismic stations and infrasound, then confirmed by recovered fragments. For readers comparing Yukon’s unresolved UFO stories with explained events, Tagish Lake is a useful benchmark: the better the chain from sighting to instrument data to material recovery, the less room remains for speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
 ## What people saw in January 2000
 
-The fireball appeared in daylight, shortly before sunrise in parts of the region, which made it especially memorable. The Western Meteor Physics Group describes it as an “exceptionally long and bright” fireball seen across Yukon, northern British Columbia, parts of Alaska and the Northwest Territories. Thousands of people reportedly witnessed it, and some captured photographs or video of the dust cloud that remained after the object fragmented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
+The fireball appeared in daylight, shortly before sunrise in parts of the region, which made it especially memorable. The Western Meteor Physics Group describes it as an “exceptionally long and bright” fireball seen across Yukon, northern British Columbia, parts of Alaska and the Northwest Territories. Thousands of people reportedly witnessed it, and some captured photographs or video of the dust cloud that remained after the object fragmented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
 
-The basic public experience had all the ingredients that often feed UFO stories: a sudden bright object, unusual colour, a trail in the sky, delayed booms, shaking and uncertainty about what had happened. The Meteoritical Bulletin records a “brilliant fireball” followed by loud detonations, widespread observations over Yukon and northern British Columbia, and dust clouds from terminal fragmentation events. NASA’s Astrobiology account notes an orange-white and blue contrail that lingered for 10 to 15 minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
+The basic public experience had all the ingredients that often feed UFO stories: a sudden bright object, unusual colour, a trail in the sky, delayed booms, shaking and uncertainty about what had happened. The Meteoritical Bulletin records a “brilliant fireball” followed by loud detonations, widespread observations over Yukon and northern British Columbia, and dust clouds from terminal fragmentation events. NASA’s Astrobiology account notes an orange-white and blue contrail that lingered for 10 to 15 minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
 
-The event also reached local UFO culture. A Whitehorse Daily Star report from the day of the fall, preserved by ExploreNorth, quoted Yukon UFO investigator Martin Jasek commenting on reports of similar bright meteor-like events in the region. That does not make the Tagish Lake fireball a UFO case in the strict sense; rather, it shows how the same witness networks and sky-watching habits that collect UFO reports may also catch meteors, bolides and other natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://explorenorth.com/library/history/tagish_meteor-20000118.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorenorth.com">[ExploreNorth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorenorth.com</span><span class="citation-popover-title">tagish meteor 20000118</span><span class="citation-popover-snippet">The Tagish Lake meteorite, 2000...</span></span></span>
+The event also reached local UFO culture. A Whitehorse Daily Star report from the day of the fall, preserved by ExploreNorth, quoted Yukon UFO investigator Martin Jasek commenting on reports of similar bright meteor-like events in the region. That does not make the Tagish Lake fireball a UFO case in the strict sense; rather, it shows how the same witness networks and sky-watching habits that collect UFO reports may also catch meteors, bolides and other natural phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://explorenorth.com/library/history/tagish_meteor-20000118.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorenorth.com">[ExploreNorth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorenorth.com</span><span class="citation-popover-title">tagish meteor 20000118</span><span class="citation-popover-snippet">The Tagish Lake meteorite, 2000...</span></span></span>
 
-For a first observer, the difference between “unidentified” and “unexplainable” can be invisible in the moment. A large meteor can look artificial, seem to move strangely because of perspective, leave a persistent trail, and produce sounds after a delay because light reaches the observer before the shock wave. The Tagish Lake case matters because the later evidence did not merely offer a plausible explanation; it tied the spectacle to a named meteorite fall with a recorded time, fall area and recovered material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
+For a first observer, the difference between “unidentified” and “unexplainable” can be invisible in the moment. A large meteor can look artificial, seem to move strangely because of perspective, leave a persistent trail, and produce sounds after a delay because light reaches the observer before the shock wave. The Tagish Lake case matters because the later evidence did not merely offer a plausible explanation; it tied the spectacle to a named meteorite fall with a recorded time, fall area and recovered material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-1-dark.svg" | relative_url }}" alt="Tagish Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fragments changed the evidence
 
-The decisive turn came one week later. Local resident Jim Brook was travelling near his hunting lodge on the Taku Arm of Tagish Lake when he noticed blackened pieces on the frozen lake surface. The Royal Ontario Museum records that Brook correctly guessed they were fragments from the recently witnessed fall, collected about one kilogram of material, avoided handling the specimens with bare hands and kept them cold in a freezer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
+The decisive turn came one week later. Local resident Jim Brook was travelling near his hunting lodge on the Taku Arm of Tagish Lake when he noticed blackened pieces on the frozen lake surface. The Royal Ontario Museum records that Brook correctly guessed they were fragments from the recently witnessed fall, collected about one kilogram of material, avoided handling the specimens with bare hands and kept them cold in a freezer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
 
-That handling mattered. Many meteorites are altered after they land, especially by water, dirt, heat, human contact and time. Tagish Lake fell onto ice and snow in winter, and the first recovered pieces were kept frozen. The Royal Ontario Museum notes that this raised the possibility that the samples could preserve fragile liquid or gaseous components, while later museum writing describes the meteorite as containing minerals and carbon-based chemical compounds from the early Solar System. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
+That handling mattered. Many meteorites are altered after they land, especially by water, dirt, heat, human contact and time. Tagish Lake fell onto ice and snow in winter, and the first recovered pieces were kept frozen. The Royal Ontario Museum notes that this raised the possibility that the samples could preserve fragile liquid or gaseous components, while later museum writing describes the meteorite as containing minerals and carbon-based chemical compounds from the early Solar System.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
 
-A larger search followed in spring. The Meteoritical Bulletin reports that about 500 additional specimens were located between 20 April and 8 May 2000, although only about 200 were retrieved because many had melted down into the ice. The total collected mass was between 5 and 10 kilograms, from a strewnfield at least 16 by 3 kilometres, oriented roughly south-southeast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
+A larger search followed in spring. The Meteoritical Bulletin reports that about 500 additional specimens were located between 20 April and 8 May 2000, although only about 200 were retrieved because many had melted down into the ice. The total collected mass was between 5 and 10 kilograms, from a strewnfield at least 16 by 3 kilometres, oriented roughly south-southeast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
 
-This is the point where the case stops behaving like a rumour and starts behaving like a solved fall. The evidence was not just “many people saw something”. It became a linked chain: eyewitnesses and photographs of the dust trail, satellite detection, seismic and infrasound records, a mapped fall area, recovered fragments, laboratory classification and curated specimens. The official Meteoritical Bulletin entry identifies Tagish Lake as a fall on 18 January 2000 at 08:43:42 PST, classed as a carbonaceous chondrite, C2 ungrouped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
+This is the point where the case stops behaving like a rumour and starts behaving like a solved fall. The evidence was not just “many people saw something”. It became a linked chain: eyewitnesses and photographs of the dust trail, satellite detection, seismic and infrasound records, a mapped fall area, recovered fragments, laboratory classification and curated specimens. The official Meteoritical Bulletin entry identifies Tagish Lake as a fall on 18 January 2000 at 08:43:42 PST, classed as a carbonaceous chondrite, C2 ungrouped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ANBqYqyez4" title="Canadian Meteorite Could Hold Clue To The Origins Of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ANBqYqyez4" target="_blank" rel="noopener noreferrer">Canadian Meteorite Could Hold Clue To The Origins Of Life</a></p><p class="youtube-embed-meta">Channel: HuffPost Canada</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ANBqYqyez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ANBqYqyez4">Open on YouTube</a></p></div></div></div>
 
 ## Why scientists cared about this meteorite
 
-Tagish Lake was not just any meteorite. Carbonaceous chondrites are primitive, carbon-rich meteorites that preserve information about the early Solar System. The Meteoritical Bulletin describes the Tagish Lake material as matrix-dominated, with phyllosilicates, sulphides, magnetite, carbonates and a carbon content of 5.4 weight per cent. The Royal Ontario Museum describes it as one of the rarest kinds of meteorite in its collection context, containing early Solar System minerals and carbon-based compounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
+Tagish Lake was not just any meteorite. Carbonaceous chondrites are primitive, carbon-rich meteorites that preserve information about the early Solar System. The Meteoritical Bulletin describes the Tagish Lake material as matrix-dominated, with phyllosilicates, sulphides, magnetite, carbonates and a carbon content of 5.4 weight per cent. The Royal Ontario Museum describes it as one of the rarest kinds of meteorite in its collection context, containing early Solar System minerals and carbon-based compounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-title">LPIMeteoritical Bulletin: Entry for Tagish Lake</span><span class="citation-popover-snippet">LPIMeteoritical Bulletin: Entry for Tagish Lake</span></span></span>
 
-The technical study of the fall also made the sky event more concrete. A 2002 Meteoritics & Planetary Science paper by Peter Brown and colleagues used seismic, satellite and infrasound records to estimate that the pre-atmospheric meteoroid had a mass of about 56 tonnes, a diameter of about four metres and high porosity. The same study estimated an event energy of roughly 1.66 kilotons of TNT equivalent from infrasound, and suggested that more than 97 per cent of the original body was lost during atmospheric ablation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+The technical study of the fall also made the sky event more concrete. A 2002 Meteoritics & Planetary Science paper by Peter Brown and colleagues used seismic, satellite and infrasound records to estimate that the pre-atmospheric meteoroid had a mass of about 56 tonnes, a diameter of about four metres and high porosity. The same study estimated an event energy of roughly 1.66 kilotons of TNT equivalent from infrasound, and suggested that more than 97 per cent of the original body was lost during atmospheric ablation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
-The surviving material was only a tiny remnant of a much larger body. Brown and colleagues estimated that about 1,300 kilograms of gram-sized or larger material may have survived ablation to reach the surface, though only a much smaller amount was recovered. That contrast helps explain why an event can be enormous in the sky but leave no obvious crater and only scattered small fragments on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+The surviving material was only a tiny remnant of a much larger body. Brown and colleagues estimated that about 1,300 kilograms of gram-sized or larger material may have survived ablation to reach the surface, though only a much smaller amount was recovered. That contrast helps explain why an event can be enormous in the sky but leave no obvious crater and only scattered small fragments on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
-Later research kept Tagish Lake scientifically important rather than anomalous in a paranormal sense. Studies have examined its organic chemistry, water-related alteration, isotopes, mineralogy and possible links to primitive asteroids. In public-facing terms, its importance lies in being a rare, well-preserved sample of ancient Solar System material, not in being mysterious after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psrd.hawaii.edu/Dec02/TagishLake.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psrd.hawaii.edu">[psrd.hawaii.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psrd.hawaii.edu</span><span class="citation-popover-title">Tagish Lake</span><span class="citation-popover-snippet">Meteorite12 Dec 2002 — Studies show that the meteorite is intermediate in composition between the two most primitive groups o...</span></span></span>
+Later research kept Tagish Lake scientifically important rather than anomalous in a paranormal sense. Studies have examined its organic chemistry, water-related alteration, isotopes, mineralogy and possible links to primitive asteroids. In public-facing terms, its importance lies in being a rare, well-preserved sample of ancient Solar System material, not in being mysterious after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psrd.hawaii.edu/Dec02/TagishLake.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psrd.hawaii.edu">[psrd.hawaii.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psrd.hawaii.edu</span><span class="citation-popover-title">Tagish Lake</span><span class="citation-popover-snippet">Meteorite12 Dec 2002 — Studies show that the meteorite is intermediate in composition between the two most primitive groups o...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-2-dark.svg" | relative_url }}" alt="Tagish Fireball illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What UFO cases can learn from it
 
-The Tagish Lake fireball is useful because it separates three things that are often blurred together: a strange experience, an unidentified first report and a final explanation. On the morning of 18 January 2000, many witnesses were right to say they had seen something extraordinary. In the first minutes, many would not have known what it was. After recovery and analysis, however, the correct label was not UFO but meteorite-producing fireball. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
+The Tagish Lake fireball is useful because it separates three things that are often blurred together: a strange experience, an unidentified first report and a final explanation. On the morning of 18 January 2000, many witnesses were right to say they had seen something extraordinary. In the first minutes, many would not have known what it was. After recovery and analysis, however, the correct label was not UFO but meteorite-producing fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-title">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span><span class="citation-popover-snippet">Western Meteor Physics Group Fireball Events — Western Meteor Physics Group</span></span></span>
 
-For Yukon UFO history, the lesson is not that every strange report is a meteor. It is that solved cases show what strong evidence looks like. Tagish Lake had multiple independent observation channels: public witnesses, photographs and video of the dust trail, satellite detection by United States Department of Defence systems, seismic stations at Whitehorse, Haines Junction and Dease Lake, and infrasound detections as far away as Manitoba. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+For Yukon UFO history, the lesson is not that every strange report is a meteor. It is that solved cases show what strong evidence looks like. Tagish Lake had multiple independent observation channels: public witnesses, photographs and video of the dust trail, satellite detection by United States Department of Defence systems, seismic stations at Whitehorse, Haines Junction and Dease Lake, and infrasound detections as far away as Manitoba.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
-That kind of evidence changes the question. Instead of asking only whether witnesses were sincere, investigators could ask where the object travelled, how much energy it released, how it fragmented, what material reached the ground and what the recovered samples were made of. The explanation did not depend on dismissing witnesses; it depended on using their reports alongside instruments and physical specimens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+That kind of evidence changes the question. Instead of asking only whether witnesses were sincere, investigators could ask where the object travelled, how much energy it released, how it fragmented, what material reached the ground and what the recovered samples were made of. The explanation did not depend on dismissing witnesses; it depended on using their reports alongside instruments and physical specimens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
-This is especially important in Canada, where official language around UFOs and UAPs is deliberately cautious. Transport Canada has stated that “UFO” in aviation occurrence records can refer to drones, balloons, meteors, weather phenomena, birds and other things, and should not be read as meaning extraterrestrial. Sky Canada, the federal review led by the Office of the Chief Science Advisor, likewise framed UAP reporting as a question of public reporting and data management, not as a project to prove or disprove extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+This is especially important in Canada, where official language around UFOs and UAPs is deliberately cautious. Transport Canada has stated that “UFO” in aviation occurrence records can refer to drones, balloons, meteors, weather phenomena, birds and other things, and should not be read as meaning extraterrestrial. Sky Canada, the federal review led by the Office of the Chief Science Advisor, likewise framed UAP reporting as a question of public reporting and data management, not as a project to prove or disprove extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AvzEXRV8bOU" title="ROM Ideas: New Rocks from Space: Growing and Using the ROM&#x27;s Meteorite Collections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AvzEXRV8bOU" target="_blank" rel="noopener noreferrer">ROM Ideas: New Rocks from Space: Growing and Using the ROM&#x27;s Meteorite Collections</a></p><p class="youtube-embed-meta">Channel: Royal Ontario Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AvzEXRV8bOU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AvzEXRV8bOU">Open on YouTube</a></p></div></div></div>
 
 ## Why Tagish Lake belongs in Yukon’s UFO map
 
-Strictly speaking, the meteorites fell in northern British Columbia, on the Taku Arm of Tagish Lake, just south of the Yukon border. But the sky event belongs naturally in Yukon’s UFO and sky-mystery history because it was widely seen over Yukon, was reported by Yukoners, was visible as far away as Whitehorse, and entered the same regional conversation about dramatic northern lights in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
+Strictly speaking, the meteorites fell in northern British Columbia, on the Taku Arm of Tagish Lake, just south of the Yukon border. But the sky event belongs naturally in Yukon’s UFO and sky-mystery history because it was widely seen over Yukon, was reported by Yukoners, was visible as far away as Whitehorse, and entered the same regional conversation about dramatic northern lights in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collections.rom.on.ca">[collections.rom.on.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collections.rom.on.ca</span><span class="citation-popover-title">Tagish Lake – Works – e Museum</span><span class="citation-popover-snippet">Tagish Lake – Works – e Museum</span></span></span>
 
 It also helps place more ambiguous Yukon stories in perspective. The 1996 [Klondike Highway]({{ 'klondike-case/' | relative_url }}) reports near [Fox Lake]({{ 'fox-lake/' | relative_url }}) remain a different kind of case: testimony-heavy, locally significant and not resolved by recovered material. The 2000 Tagish Lake fireball, by contrast, shows the opposite end of the spectrum: a spectacular multi-witness event that became better understood as more evidence arrived. The comparison is useful because both involve northern witnesses seeing something striking, but only one produced a physical object that laboratories could classify.
 
@@ -342,7 +342,7 @@ The Tagish Lake case therefore strengthens, rather than weakens, serious UFO ana
 <img src="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-3-dark.svg" | relative_url }}" alt="Tagish Fireball illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_tagish_lake_fireball_140c9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The solved mystery, in plain terms
 
-The Tagish Lake fireball began as a startling northern sky event and ended as one of Canada’s most scientifically valuable meteorite falls. People saw a brilliant object and heard detonations because a fragile, carbon-rich meteoroid entered the atmosphere, fragmented high above the region and scattered meteorites across frozen lake surfaces. Its path and energy were reconstructed from satellite, seismic and infrasound records, and its identity was confirmed by recovered fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
+The Tagish Lake fireball began as a startling northern sky event and ended as one of Canada’s most scientifically valuable meteorite falls. People saw a brilliant object and heard detonations because a fragile, carbon-rich meteoroid entered the atmosphere, fragmented high above the region and scattered meteorites across frozen lake surfaces. Its path and energy were reconstructed from satellite, seismic and infrasound records, and its identity was confirmed by recovered fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">Western Meteor Physics Group4709brown.p65...</span></span></span>
 
 Its value for Yukon UFO history is comparative. It is a reminder that a witness can be accurate about the experience while wrong, or simply uncertain, about the cause. It is also a reminder that some sky mysteries do get solved when conditions are favourable: many witnesses, good timing, recoverable terrain, careful handling and scientific follow-through. The Tagish Lake fireball is not a loose end in Yukon’s UFO story. It is the control case: a strange northern sky event that became a meteorite.
 
@@ -351,194 +351,194 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Yukon Sky Mystery Became a Meteorite. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Yukon Sky Mystery Became a Meteorite. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
         
-        <p class="fr-book-desc">Directly explains meteorites, classification, recovery, and scientific analysis relevant to the Tagish Lake meteorite.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains meteorites, classification, recovery, and scientific analysis relevant to the Tagish Lake meteorite.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s theme of comparing unexplained sky sightings with cases later resolved through physical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s theme of comparing unexplained sky sightings with cases later resolved through physical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/673192-M.jpg" alt="Cover for Rocks from space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from space">Rocks from space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Pictorial works, Meteorites, Asteroids, Handbooks, manuals, Comets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Meteorites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Meteorites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from space</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone"><img src="{{ '/assets/images/marketplace-covers/43baf680a4bbfa73b4ab.jpg' | relative_url }}" alt="Listing image for Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone"><img src="{{ '/assets/images/marketplace-covers/43baf680a4bbfa73b4ab.jpg' | relative_url }}" alt="Listing image for Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Natural Unpolished Meteorite Specimen - Unpolished Natural Shape Stone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metallic Meteorite Specimen Irregular Shape"><img src="{{ '/assets/images/marketplace-covers/34b6c86fbdf9bcb226a6.jpg' | relative_url }}" alt="Listing image for Metallic Meteorite Specimen Irregular Shape" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Metallic Meteorite Specimen Irregular Shape</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metallic Meteorite Specimen Irregular Shape"><img src="{{ '/assets/images/marketplace-covers/34b6c86fbdf9bcb226a6.jpg' | relative_url }}" alt="Listing image for Metallic Meteorite Specimen Irregular Shape" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Metallic Meteorite Specimen Irregular Shape</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="{{ '/assets/images/marketplace-covers/085d3e7ce9a4559f8405.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g"><img src="{{ '/assets/images/marketplace-covers/085d3e7ce9a4559f8405.jpg' | relative_url }}" alt="Listing image for Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Beautiful Agoudal Iron Meteorite Specimen, Astronomy Gift, Space, 68.20g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with"><img src="{{ '/assets/images/marketplace-covers/afc7ae7c85fafd0a8738.jpg' | relative_url }}" alt="Listing image for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with"><img src="{{ '/assets/images/marketplace-covers/afc7ae7c85fafd0a8738.jpg' | relative_url }}" alt="Listing image for Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Lunar Meteorite NWA 8687 Genuine Moon Rock Morocco Authentic Specimen with</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="tagish-fireball-when-a-yukon-sky-mystery-became-a-meteorite-yukon-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,177 +744,177 @@ Its value for Yukon UFO history is comparative. It is a reminder that a witness 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lpi.usra.edu  
    Title: LPIMeteoritical Bulletin: Entry for Tagish Lake  
-   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=23782</a>  
+   Link:<a href="https://www.lpi.usra.edu/meteor/metbull.php?code=23782" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=23782</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astrobiology.nasa.gov  
    Title: Astrobiology NASA  
-   Link: <a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake Meteorite: | News | Astrobiology...</p></details>
+   Link:<a href="https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/news/the-tagish-lake-meteorite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake Meteorite: | News | Astrobiology...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: explorenorth.com  
    Title: tagish meteor 20000118  
-   Link: <a href="https://explorenorth.com/library/history/tagish_meteor-20000118.html" target="_blank" rel="noopener noreferrer nofollow">https://explorenorth.com/library/history/tagish_meteor-20000118.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake meteorite, 2000...</p></details>
+   Link:<a href="https://explorenorth.com/library/history/tagish_meteor-20000118.html" target="_blank" rel="noopener noreferrer nofollow">https://explorenorth.com/library/history/tagish_meteor-20000118.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tagish Lake meteorite, 2000...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: collections.rom.on.ca  
    Title: Tagish Lake – Works – e Museum  
-   Link: <a href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/objects/1827361/tagish-lake</a>  
+   Link:<a href="https://collections.rom.on.ca/objects/1827361/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/objects/1827361/tagish-lake</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rom.on.ca  
-   Link: <a href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery</a>  
+   Link:<a href="https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/magazine/looking-back-new-year-meteorite-discovery</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psrd.hawaii.edu  
    Title: Tagish Lake  
-   Link: <a href="https://www.psrd.hawaii.edu/Dec02/TagishLake.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psrd.hawaii.edu/Dec02/TagishLake.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite12 Dec 2002 — Studies show that the meteorite is intermediate in composition between the two most primitive groups o...</p></details>
+   Link:<a href="https://www.psrd.hawaii.edu/Dec02/TagishLake.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psrd.hawaii.edu/Dec02/TagishLake.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite12 Dec 2002 — Studies show that the meteorite is intermediate in composition between the two most primitive groups o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rom.on.ca  
    Title: iconic tagish lake meteorite  
-   Link: <a href="https://www.rom.on.ca/learn/resources/iconic-tagish-lake-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/learn/resources/iconic-tagish-lake-meteorite</a>  
+   Link:<a href="https://www.rom.on.ca/learn/resources/iconic-tagish-lake-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/learn/resources/iconic-tagish-lake-meteorite</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: collections.rom.on.ca  
    Title: rom.on.ca Search meteorite (Objects)  
-   Link: <a href="https://collections.rom.on.ca/search/meteorite" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/search/meteorite</a>  
+   Link:<a href="https://collections.rom.on.ca/search/meteorite" target="_blank" rel="noopener noreferrer nofollow">https://collections.rom.on.ca/search/meteorite</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rom.on.ca  
-   Link: <a href="https://www.rom.on.ca/whats-on/galleries/teck-suite-galleries-earths-treasures" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/whats-on/galleries/teck-suite-galleries-earths-treasures</a>  
+   Link:<a href="https://www.rom.on.ca/whats-on/galleries/teck-suite-galleries-earths-treasures" target="_blank" rel="noopener noreferrer nofollow">https://www.rom.on.ca/whats-on/galleries/teck-suite-galleries-earths-treasures</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: tagish lake canada 911  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/</a>  
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/tagish-lake-canada-911/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20050180810" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20050180810</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/20050180810" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20050180810</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20110011647/downloads/20110011647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110011647/downloads/20110011647.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20110011647/downloads/20110011647.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110011647/downloads/20110011647.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.gsfc.nasa.gov  
    Title: GLAVIN et al 2012 Meteoritics & Planetary Science  
-   Link: <a href="https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/GLAVIN_et_al-2012-Meteoritics_%26_Planetary_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/GLAVIN_et_al-2012-Meteoritics_%26_Planetary_Science.pdf</a>  
+   Link:<a href="https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/GLAVIN_et_al-2012-Meteoritics_%26_Planetary_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/GLAVIN_et_al-2012-Meteoritics_%26_Planetary_Science.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Meteor Research at Western University  
-   Link: <a href="https://www.youtube.com/watch?v=RjsJL0fg3ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RjsJL0fg3ME</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics Group - Western University...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RjsJL0fg3ME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RjsJL0fg3ME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics Group - Western University...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aquarid.physics.uwo.ca  
    Title: Western Meteor Physics Group Fireball Events — Western Meteor Physics Group  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html</a>  
+   Link:<a href="https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/events/tagish/overview.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics Group4709brown.p65...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/infra_pub/4709brown.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western Meteor Physics Group4709brown.p65...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Tagish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tagish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tagish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tagish</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Carbonaceous chondrite  
-   Link: <a href="https://en.wikipedia.org/wiki/Carbonaceous_chondrite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carbonaceous_chondrite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Carbonaceous_chondrite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carbonaceous_chondrite</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/tagish/" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/tagish/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/fireball/publications.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/publications.html</a>  
+   Link:<a href="https://aquarid.physics.uwo.ca/research/fireball/publications.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/fireball/publications.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: research-collection.ethz.ch  
-   Link: <a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/d5458399-0bc0-4cd9-a5a4-f49503cb279f/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/d5458399-0bc0-4cd9-a5a4-f49503cb279f/content</a>  
+   Link:<a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/d5458399-0bc0-4cd9-a5a4-f49503cb279f/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/d5458399-0bc0-4cd9-a5a4-f49503cb279f/content</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: meteorites.asu.edu  
    Title: tagish lake  
-   Link: <a href="https://meteorites.asu.edu/meteorites/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/tagish-lake</a>  
+   Link:<a href="https://meteorites.asu.edu/meteorites/tagish-lake" target="_blank" rel="noopener noreferrer nofollow">https://meteorites.asu.edu/meteorites/tagish-lake</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Canadian Meteorite Could Hold Clue To The Origins Of Life  
-   Link: <a href="https://www.youtube.com/watch?v=5ANBqYqyez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ANBqYqyez4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Discoveries Inside Meteorites That Could Be Alive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5ANBqYqyez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ANBqYqyez4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Discoveries Inside Meteorites That Could Be Alive...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Terrifying Discoveries Inside Meteorites That Could Be Alive  
-   Link: <a href="https://www.youtube.com/watch?v=4EG5Y7O7hV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EG5Y7O7hV8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Research at Western University - Peter Brown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4EG5Y7O7hV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EG5Y7O7hV8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Research at Western University - Peter Brown...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/</a>  
+   Link:<a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ynlc.ca  
-   Link: <a href="https://ynlc.ca/about-the-tagish-language/" target="_blank" rel="noopener noreferrer nofollow">https://ynlc.ca/about-the-tagish-language/</a>  
+   Link:<a href="https://ynlc.ca/about-the-tagish-language/" target="_blank" rel="noopener noreferrer nofollow">https://ynlc.ca/about-the-tagish-language/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: geoconvention.com  
-   Link: <a href="https://geoconvention.com/wp-content/uploads/abstracts/2010/0867_GC2010_Amino_Acids_in_Tagish_Lake_Meteorite.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geoconvention.com/wp-content/uploads/abstracts/2010/0867_GC2010_Amino_Acids_in_Tagish_Lake_Meteorite.pdf</a>  
+   Link:<a href="https://geoconvention.com/wp-content/uploads/abstracts/2010/0867_GC2010_Amino_Acids_in_Tagish_Lake_Meteorite.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geoconvention.com/wp-content/uploads/abstracts/2010/0867_GC2010_Amino_Acids_in_Tagish_Lake_Meteorite.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/canadian-report-recommends-creation-uap-130300451.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/canadian-report-recommends-creation-uap-130300451.html</a>  
+   Link:<a href="https://www.aol.com/canadian-report-recommends-creation-uap-130300451.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/canadian-report-recommends-creation-uap-130300451.html</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227721855_Mineralogy_of_Tagish_Lake_An_ungrouped_type_2_carbonaceous_chondrite" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227721855_Mineralogy_of_Tagish_Lake_An_ungrouped_type_2_carbonaceous_chondrite</a>  
+   Link:<a href="https://www.researchgate.net/publication/227721855_Mineralogy_of_Tagish_Lake_An_ungrouped_type_2_carbonaceous_chondrite" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227721855_Mineralogy_of_Tagish_Lake_An_ungrouped_type_2_carbonaceous_chondrite</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/nasacosmos/posts/772428231821727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nasacosmos/posts/772428231821727/</a>  
+   Link:<a href="https://www.facebook.com/groups/nasacosmos/posts/772428231821727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nasacosmos/posts/772428231821727/</a>  

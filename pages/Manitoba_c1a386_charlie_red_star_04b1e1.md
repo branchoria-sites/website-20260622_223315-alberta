@@ -280,40 +280,40 @@ image: /assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-overview-social.jp
 
 ## Introduction
 
-Charlie Red Star was the nickname given to a recurring red light, or cluster of lights, reported over southern Manitoba during the 1975-76 UFO wave, especially around Carman and the Pembina Valley. The story matters because it was not a single dramatic encounter like [Falcon Lake]({{ 'falcon-lake/' | relative_url }}). It was a local flap: repeated sightings, repeat witnesses, [sky-watching]({{ 'sky-watching/' | relative_url }}) trips, RCMP-linked reports, newspaper attention, photographs of uncertain value and a shared rural mystery that became part of Manitoba’s UFO folklore. The strongest evidence is not a recovered object or a decisive official conclusion. It is the density of reports, the local consistency of the “red light” motif and the way the sightings entered Canadian UFO archives and later research. The main weakness is just as important: repeated lights seen at night are vulnerable to misidentification, rumour, expectation and memory, especially once a community starts watching the sky together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
+Charlie Red Star was the nickname given to a recurring red light, or cluster of lights, reported over southern Manitoba during the 1975-76 UFO wave, especially around Carman and the Pembina Valley. The story matters because it was not a single dramatic encounter like [Falcon Lake]({{ 'falcon-lake/' | relative_url }}). It was a local flap: repeated sightings, repeat witnesses, [sky-watching]({{ 'sky-watching/' | relative_url }}) trips, RCMP-linked reports, newspaper attention, photographs of uncertain value and a shared rural mystery that became part of Manitoba’s UFO folklore. The strongest evidence is not a recovered object or a decisive official conclusion. It is the density of reports, the local consistency of the “red light” motif and the way the sightings entered Canadian UFO archives and later research. The main weakness is just as important: repeated lights seen at night are vulnerable to misidentification, rumour, expectation and memory, especially once a community starts watching the sky together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-overview.webp" | relative_url }}" alt="Overview image for Charlie Red Star" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1975-76 sighting wave
 
-The Charlie Red Star flap sits inside a wider Canadian UFO wave in 1975. Chris Rutkowski, a [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})-based UFO researcher who has worked extensively with Canadian case files, describes that summer as a period when “hundreds” of odd-object reports reached the National Research Council of Canada, the RCMP and other agencies. In his summary of the year, he notes 134 Manitoba cases in the Ufology Research database for 1975 alone, while placing those cases within more than 2,000 pages of Canadian documentation from that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
+The Charlie Red Star flap sits inside a wider Canadian UFO wave in 1975. Chris Rutkowski, a [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})-based UFO researcher who has worked extensively with Canadian case files, describes that summer as a period when “hundreds” of odd-object reports reached the National Research Council of Canada, the RCMP and other agencies. In his summary of the year, he notes 134 Manitoba cases in the Ufology Research database for 1975 alone, while placing those cases within more than 2,000 pages of Canadian documentation from that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
 
-The Carman-area sequence became distinctive because one recurring object seemed to acquire a personality. On 10 April 1975, Bob and Elaine Diemert reportedly saw a red light flying low near their airfield outside Carman. Rutkowski identifies this as the first of many sightings of “Charlie Redstar”, the name attached to the red ball of light said to haunt the area through the spring and summer. Later entries in the same 1975 summary place additional Manitoba reports at Beaconia on 4 June, Winnipeg on 4 July and Carman again on 7 July, when Mrs Freddie Giesbrecht reported a UFO east of her farmhouse to the RCMP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
+The Carman-area sequence became distinctive because one recurring object seemed to acquire a personality. On 10 April 1975, Bob and Elaine Diemert reportedly saw a red light flying low near their airfield outside Carman. Rutkowski identifies this as the first of many sightings of “Charlie Redstar”, the name attached to the red ball of light said to haunt the area through the spring and summer. Later entries in the same 1975 summary place additional Manitoba reports at Beaconia on 4 June, Winnipeg on 4 July and Carman again on 7 July, when Mrs Freddie Giesbrecht reported a UFO east of her farmhouse to the RCMP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
 
-Grant Cameron’s book-length treatment, published by Dundurn in 2017, presents the wave as one of North America’s largest UFO sighting episodes, with reports continuing “well over a year” and one object repeatedly seen under the Charlie Red Star name. Cameron’s position is unusual because he was not only a later writer on the case: the publisher’s summary states that he witnessed Charlie Red Star many times and led tours for others to see it. That makes his account valuable as a participant-observer source, but also one that should be read with awareness that it comes from inside the UFO research community rather than from a detached official investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
+Grant Cameron’s book-length treatment, published by Dundurn in 2017, presents the wave as one of North America’s largest UFO sighting episodes, with reports continuing “well over a year” and one object repeatedly seen under the Charlie Red Star name. Cameron’s position is unusual because he was not only a later writer on the case: the publisher’s summary states that he witnessed Charlie Red Star many times and led tours for others to see it. That makes his account valuable as a participant-observer source, but also one that should be read with awareness that it comes from inside the UFO research community rather than from a detached official investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
 
-The pattern, then, is best understood as a case family rather than a single event. “Charlie Red Star” did not refer to one verified craft tracked across a fixed route. It became a label for a set of southern Manitoba observations that witnesses and later storytellers connected because they seemed similar: red lights, repeated appearances, low or unusual motion, and a strong concentration around Carman and nearby rural communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlieredstar.com">[charlieredstar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlieredstar.com</span><span class="citation-popover-snippet">Open source on charlieredstar.com.</span></span></span>
+The pattern, then, is best understood as a case family rather than a single event. “Charlie Red Star” did not refer to one verified craft tracked across a fixed route. It became a label for a set of southern Manitoba observations that witnesses and later storytellers connected because they seemed similar: red lights, repeated appearances, low or unusual motion, and a strong concentration around Carman and nearby rural communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlieredstar.com">[charlieredstar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlieredstar.com</span><span class="citation-popover-snippet">Open source on charlieredstar.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-1-dark.svg" | relative_url }}" alt="Charlie Red Star illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Carman, the Pembina Valley and the habit of sky-watching
 
-Carman gave the flap its centre of gravity. The town sits in southern Manitoba, in open agricultural country where long horizons, dark roads and farm airstrips made night-sky watching both easy and socially visible. That geography helped turn scattered reports into a local pastime. Dundurn’s page for Cameron’s book quotes a review describing the Pembina Valley scene as a period when people were “racing down backroads” trying to track down UFOs, a telling detail because it shows how the sightings moved from private observation into public local behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
+Carman gave the flap its centre of gravity. The town sits in southern Manitoba, in open agricultural country where long horizons, dark roads and farm airstrips made night-sky watching both easy and socially visible. That geography helped turn scattered reports into a local pastime. Dundurn’s page for Cameron’s book quotes a review describing the Pembina Valley scene as a period when people were “racing down backroads” trying to track down UFOs, a telling detail because it shows how the sightings moved from private observation into public local behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
 
 The Diemert airfield story is important for the same reason. A private airfield outside Carman was a natural gathering point for people trying to watch the sky, compare sightings and decide whether a light was an aircraft, a planet, farm equipment or something stranger. Once a repeated light had a name, the act of looking for it became part of the phenomenon. People were no longer only reporting unexpected lights; they were going out hoping to see Charlie.
 
 That does not make the witnesses foolish or dishonest. It does make the evidence more complicated. A group of people watching the same sky after hearing the same stories may converge on a shared interpretation, especially when the object is distant, bright and seen at night. A red light that might otherwise have been logged as “unknown light in the south-west” could become “Charlie” because the community already had a name, a narrative and a set of expectations.
 
-At the same time, the repetition cannot simply be waved away. The Carman-area reports were not all vague second-hand rumours. They included named local witnesses, reports to police, media attention and later archival interest. A Blue Book Archive listing from Grant Cameron’s files, for example, includes a 52-page “Canada Charlie Red Star” document with OCR text referring to RCMP interest in photographs said to be connected with the case. That is not proof of an extraordinary object, but it does show the episode left documentary traces beyond campfire retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluebookfiles.org/doc/18266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive Canada Charlie Red Star 6 (unknown</span><span class="citation-popover-snippet">Project Blue Book ArchiveCanada Charlie Red Star 6 (unknown) - Blue Book Archive...</span></span></span>
+At the same time, the repetition cannot simply be waved away. The Carman-area reports were not all vague second-hand rumours. They included named local witnesses, reports to police, media attention and later archival interest. A Blue Book Archive listing from Grant Cameron’s files, for example, includes a 52-page “Canada Charlie Red Star” document with OCR text referring to RCMP interest in photographs said to be connected with the case. That is not proof of an extraordinary object, but it does show the episode left documentary traces beyond campfire retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluebookfiles.org/doc/18266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-title">Project Blue Book Archive Canada Charlie Red Star 6 (unknown</span><span class="citation-popover-snippet">Project Blue Book ArchiveCanada Charlie Red Star 6 (unknown) - Blue Book Archive...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NRyM3ZLvA78" title="Canada’s Most SHOCKING True UFO Story - Charlie Red Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NRyM3ZLvA78" target="_blank" rel="noopener noreferrer">Canada’s Most SHOCKING True UFO Story - Charlie Red Star</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NRyM3ZLvA78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NRyM3ZLvA78">Open on YouTube</a></p></div></div></div>
 
 ## Why official records help but do not settle the case
 
-Canadian UFO reporting in the 1970s did not run through a single permanent UFO office. Library and [Archives]({{ 'archives/' | relative_url }}) Canada says its UFO collection was built from records acquired from the Department of National Defence, Department of Transport, National Research Council and RCMP, with about 9,500 digitised documents from 1947 to the early 1980s. The collection includes correspondence, reports, memos and procedures, but many records are partial, undated or difficult to search by place and date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Canadian UFO reporting in the 1970s did not run through a single permanent UFO office. Library and [Archives]({{ 'archives/' | relative_url }}) Canada says its UFO collection was built from records acquired from the Department of National Defence, Department of Transport, National Research Council and RCMP, with about 9,500 digitised documents from 1947 to the early 1980s. The collection includes correspondence, reports, memos and procedures, but many records are partial, undated or difficult to search by place and date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-That matters for Charlie Red Star because readers often assume that “the government investigated it” means there should be one clean verdict. The Canadian record was messier. The Office of the Chief Science Advisor’s Sky Canada Project explains that, from 1967 until 1995, the National Research Council became the main federal body receiving UFO reports, with files collated by the Herzberg Institute of Astrophysics under “non-meteoritic sightings”. It also notes that RCMP and other police forces could receive reports, especially where public safety was involved, but the RCMP generally did not have a dedicated UAP policy or specialist classification system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+That matters for Charlie Red Star because readers often assume that “the government investigated it” means there should be one clean verdict. The Canadian record was messier. The Office of the Chief Science Advisor’s Sky Canada Project explains that, from 1967 until 1995, the National Research Council became the main federal body receiving UFO reports, with files collated by the Herzberg Institute of Astrophysics under “non-meteoritic sightings”. It also notes that RCMP and other police forces could receive reports, especially where public safety was involved, but the RCMP generally did not have a dedicated UAP policy or specialist classification system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For the Charlie Red Star flap, this means official involvement should be read cautiously. A report to the RCMP, or an RCMP officer witnessing a light, can strengthen the historical record that something was reported and taken seriously enough to note. It does not automatically identify the object. Police records often preserve time, place, witness details and immediate observations; they do not necessarily provide astronomical, aviation or radar analysis.
 
@@ -325,9 +325,9 @@ The same caution applies to photographs and media footage. The case is often des
 
 The most plausible explanations for individual Charlie Red Star sightings vary from report to report. Some may have been aircraft, planets, bright stars, vehicle or tractor lights on the horizon, atmospheric effects, or misperceived ordinary objects seen under unusual viewing conditions. This is not a debunking shortcut; it is a basic constraint of night-light cases. A distant light can appear to hover when it is moving towards or away from the observer, appear to dart when the observer or camera moves, or seem unusually low when there are few distance cues.
 
-One reason the Manitoba flap remained intriguing is that it overlapped with Cold War military activity just south of the border. Dundurn’s description of Cameron’s book refers to “possible connections to U.S. missile defense operations” and rumours of activity south of the Canada-US border. The real historical anchor for that rumour is the Stanley R. Mickelsen Safeguard Complex in North Dakota, part of the United States anti-ballistic missile system near Nekoma and Grand Forks Air Force Base. The US Army says Safeguard began initial operations in April 1975, took part in a NORAD exercise in August, installed its final Spartan and Sprint interceptors in September, became fully operational that autumn, and was formally terminated in February 1976. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
+One reason the Manitoba flap remained intriguing is that it overlapped with Cold War military activity just south of the border. Dundurn’s description of Cameron’s book refers to “possible connections to U.S. missile defense operations” and rumours of activity south of the Canada-US border. The real historical anchor for that rumour is the Stanley R. Mickelsen Safeguard Complex in North Dakota, part of the United States anti-ballistic missile system near Nekoma and Grand Forks Air Force Base. The US Army says Safeguard began initial operations in April 1975, took part in a NORAD exercise in August, installed its final Spartan and Sprint interceptors in September, became fully operational that autumn, and was formally terminated in February 1976.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dundurn.com">[Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dundurn.com</span><span class="citation-popover-title">Charlie Red Star</span><span class="citation-popover-snippet">Charlie Red Star - Dundurn...</span></span></span>
 
-The dates are suggestive, but suggestion is not proof. The Safeguard timeline overlaps the Manitoba UFO wave, and the location was regionally relevant to southern Manitoba. However, an overlap does not show that missile-defence operations caused red lights over Carman. The known Safeguard system involved radars, command links and nuclear-armed interceptors; linking it to repeated visible aerial lights over Manitoba requires evidence of specific tests, flights, launches, radar effects or other observable activities matching the witness reports. The public sources usually point to rumours and possible connections rather than a documented causal chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Open source on army.mil.</span></span></span>
+The dates are suggestive, but suggestion is not proof. The Safeguard timeline overlaps the Manitoba UFO wave, and the location was regionally relevant to southern Manitoba. However, an overlap does not show that missile-defence operations caused red lights over Carman. The known Safeguard system involved radars, command links and nuclear-armed interceptors; linking it to repeated visible aerial lights over Manitoba requires evidence of specific tests, flights, launches, radar effects or other observable activities matching the witness reports. The public sources usually point to rumours and possible connections rather than a documented causal chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[army.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-snippet">Open source on army.mil.</span></span></span>
 
 This is one of the case’s enduring tensions. The Cold War setting makes the flap feel historically grounded rather than purely folkloric, but it can also tempt overinterpretation. The safer reading is that southern Manitobans were seeing unusual or confusing lights during a period when military technology, aviation, public UFO interest and local sky-watching all made extraordinary explanations easier to imagine.
 
@@ -336,7 +336,7 @@ This is one of the case’s enduring tensions. The Cold War setting makes the fl
 
 ## Why Charlie Red Star became a Manitoba legend
 
-Charlie Red Star lasted in memory because it behaved like a local character, not just a case number. Witnesses and later accounts describe a red orb or fireball that seemed stationary at times, evasive or playful at others, and occasionally associated with more dramatic forms such as saucer-like or wheel-like shapes. A dedicated Charlie Red Star site summarises the remembered version as a collection of sightings near Carman in the summers of 1975 and 1976, with hundreds of witnesses claimed and a lasting mystery around what people saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlieredstar.com">[charlieredstar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlieredstar.com</span><span class="citation-popover-snippet">Open source on charlieredstar.com.</span></span></span>
+Charlie Red Star lasted in memory because it behaved like a local character, not just a case number. Witnesses and later accounts describe a red orb or fireball that seemed stationary at times, evasive or playful at others, and occasionally associated with more dramatic forms such as saucer-like or wheel-like shapes. A dedicated Charlie Red Star site summarises the remembered version as a collection of sightings near Carman in the summers of 1975 and 1976, with hundreds of witnesses claimed and a lasting mystery around what people saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlieredstar.com">[charlieredstar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlieredstar.com</span><span class="citation-popover-snippet">Open source on charlieredstar.com.</span></span></span>
 
 The nickname did a lot of cultural work. “Charlie Red Star” is friendly, local and repeatable. It made the phenomenon easy to discuss at coffee shops, in cars, on farms and in local media. That is very different from a bureaucratic phrase such as “unidentified aerial phenomenon”. The name helped bind separate observations into a common story.
 
@@ -348,7 +348,7 @@ That combination is why Charlie Red Star remains useful for understanding Manito
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-3-dark.svg" | relative_url }}" alt="Charlie Red Star illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case does and does not prove
 
-Charlie Red Star proves that southern Manitoba experienced a notable cluster of UFO reports in 1975-76, centred on Carman and the Pembina Valley, and that those reports were strong enough to enter Canadian UFO literature, public memory and archival traces. It also shows how a local flap forms: repeated sightings create expectation, expectation brings more observers, more observers generate more reports, and a memorable name turns ambiguous lights into a recognisable local mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
+Charlie Red Star proves that southern Manitoba experienced a notable cluster of UFO reports in 1975-76, centred on Carman and the Pembina Valley, and that those reports were strong enough to enter Canadian UFO literature, public memory and archival traces. It also shows how a local flap forms: repeated sightings create expectation, expectation brings more observers, more observers generate more reports, and a memorable name turns ambiguous lights into a recognisable local mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Dundurn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span></span></span>
 
 It does not prove that an extraterrestrial craft repeatedly visited Manitoba. The evidence is strongest for a lived historical episode and weakest for a single extraordinary explanation. The reports vary, the observations were often of distant [night lights]({{ 'night-lights/' | relative_url }}), and the most dramatic claims depend heavily on witness testimony and later retelling. Even where police, pilots or reporters were involved, their presence improves the credibility of the observation record, not the certainty of the interpretation.
 
@@ -366,194 +366,194 @@ It also shows why Manitoba is more than the Falcon Lake incident. The province�
 The most honest way to read the flap is as a Manitoba historical mystery built from real reports of uncertain lights. Its value lies less in proving what Charlie was than in showing how UFO events become shared regional history: through repeated sightings, credible and less credible witnesses, institutional fragments, media attention, ordinary explanations that satisfy some reports but not all, and a name that people remember long after the lights have gone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Charlie Red Star Grip Manitoba?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Charlie Red Star Grip Manitoba?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Places the Manitoba sightings within the broader Canadian UFO reporting tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Manitoba sightings within the broader Canadian UFO reporting tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how recurring unexplained aerial reports are investigated and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how recurring unexplained aerial reports are investigated and documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating sighting waves, witness reports, and misidentification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating sighting waves, witness reports, and misidentification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how unusual aerial phenomena become embedded in local folklore and community memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual aerial phenomena become embedded in local folklore and community memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia"><img src="{{ '/assets/images/marketplace-covers/73cfe67bfb5ff9f810e9.jpg' | relative_url }}" alt="Listing image for Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Antique Old Print Cassell Map 1920 Canada Ontario Manitoba British Columbia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/eea1f953dde5f1bddac2.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan"><img src="{{ '/assets/images/marketplace-covers/eea1f953dde5f1bddac2.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print Harmsworth Map 1906 Canada Manitoba Saskatchewan</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th"><img src="{{ '/assets/images/marketplace-covers/6f2b23b8eca6e009e8ee.jpg' | relative_url }}" alt="Listing image for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th"><img src="{{ '/assets/images/marketplace-covers/6f2b23b8eca6e009e8ee.jpg' | relative_url }}" alt="Listing image for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="charlie-red-star-why-did-charlie-red-star-grip-manitoba-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,136 +759,136 @@ The most honest way to read the flap is as a Manitoba historical mystery built f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dundurn.com  
    Title: Charlie Red Star  
-   Link: <a href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Red Star - Dundurn...</p></details>
+   Link:<a href="https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star" target="_blank" rel="noopener noreferrer nofollow">https://www.dundurn.com/books_/t22117/a9781459737808-charlie-red-star</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Red Star - Dundurn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: charlieredstar.com  
-   Link: <a href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://charlieredstar.com/</a>  
+   Link:<a href="https://charlieredstar.com/" target="_blank" rel="noopener noreferrer nofollow">https://charlieredstar.com/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: army.mil  
-   Link: <a href="https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability</a>  
+   Link:<a href="https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/194445/smdc_history_safeguard_achieves_full_operational_capability</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: chrisrutkowski.substack.com  
    Title: Chris Rutkowski50 Years Ago: Canada's "Summer of UFOs."  
-   Link: <a href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos</a>  
+   Link:<a href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thebooktrail.com  
    Title: charlie red star  
-   Link: <a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book TrailCharlie Red Star2 Jul 2017 — Charlie Redstar was a name given to some UFOs sighted across Manitoba in the summers of 1975 &amp;...</p></details>
+   Link:<a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book TrailCharlie Red Star2 Jul 2017 — Charlie Redstar was a name given to some UFOs sighted across Manitoba in the summers of 1975 &amp;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bluebookfiles.org  
    Title: Project Blue Book Archive Canada Charlie Red Star 6 (unknown)  
-   Link: <a href="https://bluebookfiles.org/doc/18266" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/18266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveCanada Charlie Red Star 6 (unknown) - Blue Book Archive...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/18266" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/18266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveCanada Charlie Red Star 6 (unknown) - Blue Book Archive...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: epl.bibliocommons.com  
-   Link: <a href="https://epl.bibliocommons.com/v2/record/S980C3028431" target="_blank" rel="noopener noreferrer nofollow">https://epl.bibliocommons.com/v2/record/S980C3028431</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star | Edmonton Public Library - BiblioCommons...</p></details>
+   Link:<a href="https://epl.bibliocommons.com/v2/record/S980C3028431" target="_blank" rel="noopener noreferrer nofollow">https://epl.bibliocommons.com/v2/record/S980C3028431</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star | Edmonton Public Library - BiblioCommons...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Stanley R. Mickelsen Safeguard Complex  
-   Link: <a href="https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/15149.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15149.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/15149.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15149.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/15245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15245.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/15245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/15245.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/17589.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/17589.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/17589.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/17589.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Canada's Most SHOCKING True UFO Story  
-   Link: <a href="https://www.youtube.com/watch?v=NRyM3ZLvA78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NRyM3ZLvA78</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NRyM3ZLvA78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NRyM3ZLvA78</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 08 Pages 2101 2400  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2008%20-%20Pages%202101-2400.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canadacommons.ca  
    Title: charlie red star  
-   Link: <a href="https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/</a>  
+   Link:<a href="https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.everybodywiki.com  
    Title: Charlie Redstar  
-   Link: <a href="https://en.everybodywiki.com/Charlie_Redstar" target="_blank" rel="noopener noreferrer nofollow">https://en.everybodywiki.com/Charlie_Redstar</a>  
+   Link:<a href="https://en.everybodywiki.com/Charlie_Redstar" target="_blank" rel="noopener noreferrer nofollow">https://en.everybodywiki.com/Charlie_Redstar</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: believingthebizarre.com  
    Title: charlie red star  
-   Link: <a href="https://believingthebizarre.com/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/charlie-red-star/</a>  
+   Link:<a href="https://believingthebizarre.com/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/charlie-red-star/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Charlie Red Star &amp; Government Cover-ups: Grant Cameron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Charlie Red Star &amp; Government Cover-ups: Grant Cameron...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFOs, Charlie Red Star & Government Cover-ups: Grant Cameron  
-   Link: <a href="https://www.youtube.com/watch?v=bKiSHjXHUjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKiSHjXHUjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Pilot UFOs and UAP with Grant Cameron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bKiSHjXHUjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKiSHjXHUjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Pilot UFOs and UAP with Grant Cameron...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: threedifferentdirections.com  
-   Link: <a href="https://www.threedifferentdirections.com/charlie-red-star.html" target="_blank" rel="noopener noreferrer nofollow">https://www.threedifferentdirections.com/charlie-red-star.html</a>  
+   Link:<a href="https://www.threedifferentdirections.com/charlie-red-star.html" target="_blank" rel="noopener noreferrer nofollow">https://www.threedifferentdirections.com/charlie-red-star.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
+   Link:<a href="https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crom2000/posts/here-is-a-clip-from-an-rcmp-intel-document-investigating-a-ufo-story-in-the-pitt/1288478239738415/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OscarZeroND/posts/the-end-of-safeguardoperations-continued-at-the-stanley-r-mickelsen-safeguard-co/1497809792346639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OscarZeroND/posts/the-end-of-safeguardoperations-continued-at-the-stanley-r-mickelsen-safeguard-co/1497809792346639/</a>  
+   Link:<a href="https://www.facebook.com/OscarZeroND/posts/the-end-of-safeguardoperations-continued-at-the-stanley-r-mickelsen-safeguard-co/1497809792346639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OscarZeroND/posts/the-end-of-safeguardoperations-continued-at-the-stanley-r-mickelsen-safeguard-co/1497809792346639/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DK-OAY0PfFV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DK-OAY0PfFV/</a>  
+   Link:<a href="https://www.instagram.com/p/DK-OAY0PfFV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DK-OAY0PfFV/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: brookings.edu  
-   Link: <a href="https://www.brookings.edu/stanley-r-mickelson-safeguard-antiballistic-missile-complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/stanley-r-mickelson-safeguard-antiballistic-missile-complex/</a>  
+   Link:<a href="https://www.brookings.edu/stanley-r-mickelson-safeguard-antiballistic-missile-complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/stanley-r-mickelson-safeguard-antiballistic-missile-complex/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Manitoba/comments/v1wk3h/looking_for_some_research_help_is_there_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Manitoba/comments/v1wk3h/looking_for_some_research_help_is_there_anybody/</a>  
+   Link:<a href="https://www.reddit.com/r/Manitoba/comments/v1wk3h/looking_for_some_research_help_is_there_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Manitoba/comments/v1wk3h/looking_for_some_research_help_is_there_anybody/</a>  

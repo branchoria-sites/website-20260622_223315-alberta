@@ -262,15 +262,15 @@ image: /assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_
 
 ## Introduction
 
-The strongest challenge to the [McLeod Hill trace]({{ 'mc-leod-hill/' | relative_url }}) story is not the claim itself but the way the story reached later researchers. The most detailed version of the incident emerged decades after the alleged 1965 event, primarily through the work of [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) writer Dorothy Dearborn rather than through a contemporary newspaper report, police file, or scientific investigation. As a result, the case has become an example of how witness memory, local rumour, and retrospective storytelling can preserve a story while simultaneously making it harder to verify. The key question is not whether later witnesses were dishonest. It is whether memories recalled and retold many years after an event can strengthen a case that lacks strong contemporary documentation. The available evidence suggests that Dearborn preserved valuable local testimony, but that the passage of time ultimately limits how much weight those recollections can carry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+The strongest challenge to the [McLeod Hill trace]({{ 'mc-leod-hill/' | relative_url }}) story is not the claim itself but the way the story reached later researchers. The most detailed version of the incident emerged decades after the alleged 1965 event, primarily through the work of [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) writer Dorothy Dearborn rather than through a contemporary newspaper report, police file, or scientific investigation. As a result, the case has become an example of how witness memory, local rumour, and retrospective storytelling can preserve a story while simultaneously making it harder to verify. The key question is not whether later witnesses were dishonest. It is whether memories recalled and retold many years after an event can strengthen a case that lacks strong contemporary documentation. The available evidence suggests that Dearborn preserved valuable local testimony, but that the passage of time ultimately limits how much weight those recollections can carry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-1-dark.svg" | relative_url }}" alt="Later retelling illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Dearborn traced the McLeod Hill rumour
 
-The importance of Dorothy Dearborn's contribution lies in the fact that she appears to have been investigating a story that was already old by the time she encountered it. Her 1996 book on New Brunswick mysteries and UFO experiences included an account of the McLeod Hill incident and described efforts to locate people connected with the event. According to later summaries of her work, she first heard rumours of a UFO landing at the Walter Lint farm near McLeod Hill and attempted to verify what had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+The importance of Dorothy Dearborn's contribution lies in the fact that she appears to have been investigating a story that was already old by the time she encountered it. Her 1996 book on New Brunswick mysteries and UFO experiences included an account of the McLeod Hill incident and described efforts to locate people connected with the event. According to later summaries of her work, she first heard rumours of a UFO landing at the Walter Lint farm near McLeod Hill and attempted to verify what had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
-One of the most revealing details in the retelling is that Dearborn reportedly searched back issues of the *Daily Gleaner* but did not find coverage of the incident. Rather than ending the inquiry there, she continued by seeking information from people who remembered the story. This is significant because it shows the investigation moving from documentary evidence to oral testimony. Once the newspaper trail appeared to run cold, the case became dependent on what local residents could still recall years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+One of the most revealing details in the retelling is that Dearborn reportedly searched back issues of the *Daily Gleaner* but did not find coverage of the incident. Rather than ending the inquiry there, she continued by seeking information from people who remembered the story. This is significant because it shows the investigation moving from documentary evidence to oral testimony. Once the newspaper trail appeared to run cold, the case became dependent on what local residents could still recall years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 That approach preserved information that might otherwise have disappeared entirely. At the same time, it meant that the most detailed surviving narrative was already separated from the alleged event by decades. The McLeod Hill case therefore survives less as a contemporaneous record than as a reconstructed local memory.
 
@@ -279,9 +279,9 @@ That approach preserved information that might otherwise have disappeared entire
 
 ## What Dr David Wade added to the story
 
-The most vivid details associated with McLeod Hill entered the public record through recollections attributed to Dr David Wade. According to Dearborn's account as later summarised by other writers, Wade stated that he had heard about the incident while a university student in 1965. He, his brother, and a friend reportedly travelled to the Lint farm after hearing rumours of an unusual event. There they were allegedly shown the area by members of the Lint family and observed circular depressions or markings in the field. The account also includes descriptions of the reported object supplied by the Lint daughters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+The most vivid details associated with McLeod Hill entered the public record through recollections attributed to Dr David Wade. According to Dearborn's account as later summarised by other writers, Wade stated that he had heard about the incident while a university student in 1965. He, his brother, and a friend reportedly travelled to the Lint farm after hearing rumours of an unusual event. There they were allegedly shown the area by members of the Lint family and observed circular depressions or markings in the field. The account also includes descriptions of the reported object supplied by the Lint daughters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
-From a historical perspective, Wade's recollections are important because they add specificity. Without them, the McLeod Hill story would largely consist of a brief catalogue entry mentioning a hovering object and ground traces. Wade supplied names, circumstances, and a sequence of events that make the story easier to visualise and discuss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+From a historical perspective, Wade's recollections are important because they add specificity. Without them, the McLeod Hill story would largely consist of a brief catalogue entry mentioning a hovering object and ground traces. Wade supplied names, circumstances, and a sequence of events that make the story easier to visualise and discuss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 However, the same feature that makes the account richer also makes it more difficult to evaluate. The details appear in a recollection recorded many years after the event rather than in notes written at the time. Researchers therefore have limited ability to determine which elements were remembered directly, which came from conversations with others, and which may have been shaped by repeated retellings over the years.
 
@@ -291,7 +291,7 @@ However, the same feature that makes the account richer also makes it more diffi
 
 The McLeod Hill case illustrates a common problem in historical UFO research: detailed stories often survive longer than supporting documents.
 
-Memory research consistently shows that recollections can remain sincere while becoming less reliable over long periods. People tend to retain the broad outline of an unusual experience better than precise measurements, timings, distances, sequences of events, or exact wording. Later conversations, media coverage, and repeated storytelling can also influence how an event is remembered. Studies of witness memory have shown that recollections can be altered by later information without the witness consciously intending to distort the original event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jusmundi.com">[Jus Mundi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jusmundi.com</span><span class="citation-popover-snippet">Jus MundiAppendix 1: Selected Review of Scientific Literature...Fabricated evidence can induce people to remember fabricated childhood e...</span></span></span>
+Memory research consistently shows that recollections can remain sincere while becoming less reliable over long periods. People tend to retain the broad outline of an unusual experience better than precise measurements, timings, distances, sequences of events, or exact wording. Later conversations, media coverage, and repeated storytelling can also influence how an event is remembered. Studies of witness memory have shown that recollections can be altered by later information without the witness consciously intending to distort the original event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jusmundi.com">[Jus Mundi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jusmundi.com</span><span class="citation-popover-snippet">Jus MundiAppendix 1: Selected Review of Scientific Literature...Fabricated evidence can induce people to remember fabricated childhood e...</span></span></span>
 
 Applied to McLeod Hill, this does not mean that Wade or other witnesses were necessarily mistaken about everything they recalled. Rather, it means that later-added details cannot automatically be treated as equivalent to notes recorded in 1965. Historians and investigators generally place greater weight on:
 
@@ -305,7 +305,7 @@ Applied to McLeod Hill, this does not mean that Wade or other witnesses were nec
 
 </div>
 
-The McLeod Hill story has relatively little surviving material of this kind. Most of the memorable details emerge from retrospective testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+The McLeod Hill story has relatively little surviving material of this kind. Most of the memorable details emerge from retrospective testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
@@ -315,204 +315,204 @@ The McLeod Hill story has relatively little surviving material of this kind. Mos
 
 ## Did later storytelling strengthen the sighting?
 
-In one sense, yes. Without Dearborn's efforts, the McLeod Hill incident might have survived only as a brief line in a UFO catalogue. Her investigation preserved names, local context, and witness recollections that give researchers a clearer idea of why the story remained part of New Brunswick UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+In one sense, yes. Without Dearborn's efforts, the McLeod Hill incident might have survived only as a brief line in a UFO catalogue. Her investigation preserved names, local context, and witness recollections that give researchers a clearer idea of why the story remained part of New Brunswick UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
-In another sense, however, the later retelling did not significantly strengthen the evidential case. The additional details were not accompanied by newly discovered photographs, newspaper articles, field measurements, laboratory analyses, or official reports. The story became richer, but not necessarily better documented. The gap between the alleged event and the fullest published narrative remains one of the central weaknesses of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+In another sense, however, the later retelling did not significantly strengthen the evidential case. The additional details were not accompanied by newly discovered photographs, newspaper articles, field measurements, laboratory analyses, or official reports. The story became richer, but not necessarily better documented. The gap between the alleged event and the fullest published narrative remains one of the central weaknesses of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
-For that reason, the McLeod Hill incident is best understood as a case where witness memory preserved a local tradition but could not fully overcome the absence of contemporary evidence. Dearborn's work added context and human detail, yet it also highlighted how much of the original record appears to have been lost. Within New Brunswick UFO history, that tension between remembered experience and missing documentation is precisely what makes the case noteworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+For that reason, the McLeod Hill incident is best understood as a case where witness memory preserved a local tradition but could not fully overcome the absence of contemporary evidence. Dearborn's work added context and human detail, yet it also highlighted how much of the original record appears to have been lost. Within New Brunswick UFO history, that tension between remembered experience and missing documentation is precisely what makes the case noteworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-3-dark.svg" | relative_url }}" alt="Later retelling illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did later storytelling strengthen the sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did later storytelling strengthen the sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Directly addresses how recollections change over time and how later retellings affect perceived accuracy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how recollections change over time and how later retellings affect perceived accuracy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores evaluating extraordinary claims when documentation is limited and stories grow through retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evaluating extraordinary claims when documentation is limited and stories grow through retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people construct and reinforce narratives from incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people construct and reinforce narratives from incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a UFO-investigation context and contrasts documented testimony with weaker retrospective accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a UFO-investigation context and contrasts documented testimony with weaker retrospective accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="later-retelling-did-later-storytelling-strengthen-the-sighting-new-brunswick-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,74 +718,74 @@ For that reason, the McLeod Hill incident is best understood as a case where wit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jimlawrenceavondale.wordpress.com  
    Title: frederictonnb canada multi ufo sightings of the 1960s  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</p></details>
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton,NB, Canada Multi UFO sightings of the 1960&#x27;sJanuary 23, 2022 — 23 Jan 2022 — The late Dorothy Dearborn wro...</p></details>
    Published: January 23, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jusmundi.com  
-   Link: <a href="https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence" target="_blank" rel="noopener noreferrer nofollow">https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jus MundiAppendix 1: Selected Review of Scientific Literature...Fabricated evidence can induce people to remember fabricated childhood e...</p></details>
+   Link:<a href="https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence" target="_blank" rel="noopener noreferrer nofollow">https://jusmundi.com/en/document/publication/en-appendix-1-selected-review-of-scientific-literature-relating-to-memory-and-witness-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jus MundiAppendix 1: Selected Review of Scientific Literature...Fabricated evidence can induce people to remember fabricated childhood e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jimlawrenceavondale.wordpress.com  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comjimlawrenceavondale23 Jan 2022 — The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landin...</p></details>
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comjimlawrenceavondale23 Jan 2022 — The late Dorothy Dearborn wrote in her book the investigation of the McLeod Hill UFO landin...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.lib.unb.ca  
-   Link: <a href="https://journals.lib.unb.ca/index.php/acadiensis/article/view/10838/11655" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/acadiensis/article/view/10838/11655</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Legends, oddities &amp; mysteries: including UFO experiences in New Brunswick. Saint John: Neptune Pub. Co., Ltd, 1996. ______. New...Read more...</p></details>
+   Link:<a href="https://journals.lib.unb.ca/index.php/acadiensis/article/view/10838/11655" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/acadiensis/article/view/10838/11655</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legends, oddities &amp; mysteries: including UFO experiences in New Brunswick. Saint John: Neptune Pub. Co., Ltd, 1996. ______. New...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: github.com  
-   Link: <a href="https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json" target="_blank" rel="noopener noreferrer nofollow">https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Input_Method_auto-Modifier/EnWordBase.json at masterChinese computer user always annoyed with modifying input types between Chinese and E...</p></details>
+   Link:<a href="https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json" target="_blank" rel="noopener noreferrer nofollow">https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Input_Method_auto-Modifier/EnWordBase.json at masterChinese computer user always annoyed with modifying input types between Chinese and E...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/51/The_Editor_and_Publisher_1920-01-15-_Vol_52_Iss_33_%28IA_sim_editor-publisher_1920-01-15_52_33%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/51/The_Editor_and_Publisher_1920-01-15-_Vol_52_Iss_33_%28IA_sim_editor-publisher_1920-01-15_52_33%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Editor and Publisher 1920-01-15: Vol 52 Iss 33The Daily News, 863,839 lines. LIST of NEW ENGLAND NEWSPAPERS, H. M. Huppell and others. S...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/51/The_Editor_and_Publisher_1920-01-15-_Vol_52_Iss_33_%28IA_sim_editor-publisher_1920-01-15_52_33%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/51/The_Editor_and_Publisher_1920-01-15-_Vol_52_Iss_33_%28IA_sim_editor-publisher_1920-01-15_52_33%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editor and Publisher 1920-01-15: Vol 52 Iss 33The Daily News, 863,839 lines. LIST of NEW ENGLAND NEWSPAPERS, H. M. Huppell and others. S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: courses.cs.duke.edu  
-   Link: <a href="https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>duke.eduwords.txt... brunswick brunt brush brushed brushes brushfire brushfires brushing... daily daimler daintily daintiness dainty dai...</p></details>
+   Link:<a href="https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://courses.cs.duke.edu/fall13/cps006/lab/10_regex/code/words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>duke.eduwords.txt... brunswick brunt brush brushed brushes brushfire brushfires brushing... daily daimler daintily daintiness dainty dai...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research-repository.st-andrews.ac.uk  
-   Link: <a href="https://research-repository.st-andrews.ac.uk/bitstream/10023/1887/6/kirstinjeffreyjohnsonphdthesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.st-andrews.ac.uk/bitstream/10023/1887/6/kirstinjeffreyjohnsonphdthesis.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeffrey Johnson PhD ThesisDearborn directed my first intentional study of MacDonald, David Wilhite. David and Nathan are proof of the edu...</p></details>
+   Link:<a href="https://research-repository.st-andrews.ac.uk/bitstream/10023/1887/6/kirstinjeffreyjohnsonphdthesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.st-andrews.ac.uk/bitstream/10023/1887/6/kirstinjeffreyjohnsonphdthesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jeffrey Johnson PhD ThesisDearborn directed my first intentional study of MacDonald, David Wilhite. David and Nathan are proof of the edu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/OldBrisbaneAlbum/posts/9226622284050398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/OldBrisbaneAlbum/posts/9226622284050398/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the McLeod family&#x27;s Aspley homeThank you for the colourful history of your McLeod family. Wonderful pioneer family where they...</p></details>
+   Link:<a href="https://www.facebook.com/groups/OldBrisbaneAlbum/posts/9226622284050398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/OldBrisbaneAlbum/posts/9226622284050398/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the McLeod family&#x27;s Aspley homeThank you for the colourful history of your McLeod family. Wonderful pioneer family where they...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Skyscapes Landscapes and the drama of Proto Indo European myth  
-   Link: <a href="https://www.researchgate.net/profile/John-Grigsby/publication/338646511_Skyscapes_Landscapes_and_the_drama_of_Proto-Indo-European_myth/links/5f37944b458515b729221596/Skyscapes-Landscapes-and-the-drama-of-Proto-Indo-European-myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/John-Grigsby/publication/338646511_Skyscapes_Landscapes_and_the_drama_of_Proto-Indo-European_myth/links/5f37944b458515b729221596/Skyscapes-Landscapes-and-the-drama-of-Proto-Indo-European-myth.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyscapes, Landscapes, and the drama of Proto-Indoby J Grigsby · 2019 · Cited by 8 — Richard in Wade&#x27;s causeway, Davidson argued that the...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/John-Grigsby/publication/338646511_Skyscapes_Landscapes_and_the_drama_of_Proto-Indo-European_myth/links/5f37944b458515b729221596/Skyscapes-Landscapes-and-the-drama-of-Proto-Indo-European-myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/John-Grigsby/publication/338646511_Skyscapes_Landscapes_and_the_drama_of_Proto-Indo-European_myth/links/5f37944b458515b729221596/Skyscapes-Landscapes-and-the-drama-of-Proto-Indo-European-myth.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skyscapes, Landscapes, and the drama of Proto-Indoby J Grigsby · 2019 · Cited by 8 — Richard in Wade&#x27;s causeway, Davidson argued that the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kerrymagruder.com  
-   Link: <a href="https://kerrymagruder.com/LC/Intro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kerrymagruder.com/LC/Intro.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Love and the Cosmos - Trinitarian Perspectives on Science...10 Aug 2024 — The Wade Center podcast, hosted by the Wade&#x27;s past co-director...</p></details>
+   Link:<a href="https://kerrymagruder.com/LC/Intro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kerrymagruder.com/LC/Intro.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Love and the Cosmos - Trinitarian Perspectives on Science...10 Aug 2024 — The Wade Center podcast, hosted by the Wade&#x27;s past co-director...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digitalcommons.usu.edu  
    Title: Haunting Experiences Ghosts in Contemporary Folklore  
-   Link: <a href="https://digitalcommons.usu.edu/context/usupress_pubs/article/1017/viewcontent/Haunting_Experiences__Ghosts_in_Contemporary_Folklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.usu.edu/context/usupress_pubs/article/1017/viewcontent/Haunting_Experiences__Ghosts_in_Contemporary_Folklore.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I highly suspect my experience is not unique, and whether I&#x27;m skeptical or not really doesn&#x27;t matter because these things are part of my...</p></details>
+   Link:<a href="https://digitalcommons.usu.edu/context/usupress_pubs/article/1017/viewcontent/Haunting_Experiences__Ghosts_in_Contemporary_Folklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.usu.edu/context/usupress_pubs/article/1017/viewcontent/Haunting_Experiences__Ghosts_in_Contemporary_Folklore.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I highly suspect my experience is not unique, and whether I&#x27;m skeptical or not really doesn&#x27;t matter because these things are part of my...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
    Title: Investigating Pop Psychology Routledge 2022  
-   Link: <a href="https://www.scribd.com/document/941649427/Investigating-Pop-Psychology-Routledge-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/941649427/Investigating-Pop-Psychology-Routledge-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking in Pop Psychology | PDF9 Nov 2025 — While the Hill&#x27;s therapist concluded their memories began as dreams by Betty. Barne...</p></details>
+   Link:<a href="https://www.scribd.com/document/941649427/Investigating-Pop-Psychology-Routledge-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/941649427/Investigating-Pop-Psychology-Routledge-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking in Pop Psychology | PDF9 Nov 2025 — While the Hill&#x27;s therapist concluded their memories began as dreams by Betty. Barne...</p></details>

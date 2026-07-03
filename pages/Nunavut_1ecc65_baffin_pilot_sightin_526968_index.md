@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-baffin-pilot-sightin/
 description: Focused pages that expand on Pilot Sighting.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Nunavut_1ecc65_baffin_pilot_sightin_526968
 parent_title: Pilot Sighting
@@ -16,7 +16,7 @@ parent_permalink: /pilot-sighting/
 
 # Explore Topics in Pilot Sighting
 
-The following pages expand on the main **[Pilot Sighting]({{ '/pilot-sighting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Pilot Sighting]({{ '/pilot-sighting/' | relative_url }})** page and cover its key branches in.
 
 - [Explanations]({{ '/explanations-f6c4b5/' | relative_url }})
 - [CADORS Record]({{ '/cadors-record/' | relative_url }})

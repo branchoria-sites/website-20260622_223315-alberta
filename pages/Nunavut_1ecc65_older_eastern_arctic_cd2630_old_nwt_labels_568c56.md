@@ -256,7 +256,7 @@ image: /assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_
 
 ## Introduction
 
-Many readers looking for older [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) UFO reports make a simple but important mistake: they search for “Nunavut” in records created before Nunavut existed. Until 1 April 1999, communities that are now part of Nunavut were administered as part of the Northwest Territories, and government files, aviation records, police reports, military correspondence and UFO investigations normally used the political geography of their own time. As a result, many Eastern Arctic sightings are effectively hidden behind older labels rather than missing altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
+Many readers looking for older [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) UFO reports make a simple but important mistake: they search for “Nunavut” in records created before Nunavut existed. Until 1 April 1999, communities that are now part of Nunavut were administered as part of the Northwest Territories, and government files, aviation records, police reports, military correspondence and UFO investigations normally used the political geography of their own time. As a result, many Eastern Arctic sightings are effectively hidden behind older labels rather than missing altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-1-dark.svg" | relative_url }}" alt="Old Labels illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,14 +264,14 @@ For anyone researching Nunavut’s UFO history, this is less a mystery than an a
 
 ## Why Nunavut Did Not Appear in Older Records
 
-Nunavut became a separate territory only in 1999, following the division of the former Northwest Territories. Before that date, federal departments, the RCMP, aviation authorities and researchers had no reason to use “Nunavut” as a geographic label because the territory did not yet exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
+Nunavut became a separate territory only in 1999, following the division of the former Northwest Territories. Before that date, federal departments, the RCMP, aviation authorities and researchers had no reason to use “Nunavut” as a geographic label because the territory did not yet exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
 
 This affects UFO records in several ways:
 
 * Government correspondence typically followed contemporary administrative boundaries.
 * Aviation and transport reports often used air-route locations rather than future territorial names.
 * RCMP and Northern Administration records were organised through Northwest Territories structures.
-* Later databases sometimes inherited the original filing terminology instead of reclassifying older reports under modern geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.gov.nt.ca">[NWT Education and Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.gov.nt.ca</span><span class="citation-popover-snippet">NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</span></span></span>
+* Later databases sometimes inherited the original filing terminology instead of reclassifying older reports under modern geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.gov.nt.ca">[NWT Education and Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.gov.nt.ca</span><span class="citation-popover-snippet">NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</span></span></span>
 
 The result is that a sighting which occurred in what is now Nunavut may be counted historically as a Northwest Territories case. When researchers compile statistics by territory, [older Eastern Arctic]({{ 'older-files/' | relative_url }}) reports can therefore disappear from searches that rely only on modern place names.
 
@@ -284,17 +284,17 @@ The most common reason older Nunavut cases are overlooked is that the location w
 
 ### Frobisher Bay Instead of Iqaluit
 
-The capital city provides the clearest example. Iqaluit was officially known as Frobisher Bay until 1987. A UFO report filed in the 1950s, 1960s or 1970s would normally use “Frobisher Bay” rather than “Iqaluit.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqaluit.ca">[Iqaluit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqaluit.ca</span><span class="citation-popover-snippet">About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</span></span></span>
+The capital city provides the clearest example. Iqaluit was officially known as Frobisher Bay until 1987. A UFO report filed in the 1950s, 1960s or 1970s would normally use “Frobisher Bay” rather than “Iqaluit.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqaluit.ca">[Iqaluit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqaluit.ca</span><span class="citation-popover-snippet">About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</span></span></span>
 
-Researchers who search only for “Iqaluit UFO” may therefore miss earlier files that use the older settlement name. This issue is especially important because Frobisher Bay was a major aviation and administrative centre in the Eastern Arctic, making it more likely than many smaller communities to generate official reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uphere.ca/articles/iqaluits-airbase-origins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uphere.ca">[Up Here]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uphere.ca</span><span class="citation-popover-snippet">Up HereIqaluit&#x27;s Airbase OriginsThe base brought Inuit from nearby settlements to the airstrip, at Frobisher Bay, and many eventually set...</span></span></span>
+Researchers who search only for “Iqaluit UFO” may therefore miss earlier files that use the older settlement name. This issue is especially important because Frobisher Bay was a major aviation and administrative centre in the Eastern Arctic, making it more likely than many smaller communities to generate official reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uphere.ca/articles/iqaluits-airbase-origins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uphere.ca">[Up Here]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uphere.ca</span><span class="citation-popover-snippet">Up HereIqaluit&#x27;s Airbase OriginsThe base brought Inuit from nearby settlements to the airstrip, at Frobisher Bay, and many eventually set...</span></span></span>
 
 ### Baffin Island and Regional Labels
 
-Some reports were filed under larger geographic units rather than individual communities. A sighting might be described as occurring on Baffin Island, in the Eastern Arctic, or in a particular district rather than in a modern Nunavut municipality. Such descriptions made sense to officials handling northern administration at the time but can make modern searches difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.gov.nt.ca">[NWT Education and Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.gov.nt.ca</span><span class="citation-popover-snippet">NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</span></span></span>
+Some reports were filed under larger geographic units rather than individual communities. A sighting might be described as occurring on Baffin Island, in the Eastern Arctic, or in a particular district rather than in a modern Nunavut municipality. Such descriptions made sense to officials handling northern administration at the time but can make modern searches difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.gov.nt.ca">[NWT Education and Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.gov.nt.ca</span><span class="citation-popover-snippet">NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</span></span></span>
 
 ### Northwest Territories as a Catch-All Category
 
-Many historical databases grouped northern reports simply under “Northwest Territories.” Before 1999, that label covered an enormous area stretching across regions that are today divided between Nunavut and the modern Northwest Territories. A search limited to Nunavut records risks excluding reports that were never reclassified after the territorial split. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
+Many historical databases grouped northern reports simply under “Northwest Territories.” Before 1999, that label covered an enormous area stretching across regions that are today divided between Nunavut and the modern Northwest Territories. A search limited to Nunavut records risks excluding reports that were never reclassified after the territorial split.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-2-dark.svg" | relative_url }}" alt="Old Labels illustration 2" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,11 +310,11 @@ A report from the Eastern Arctic might travel through:
 * A Department of Transport office because a pilot or control tower received the report.
 * An RCMP detachment responsible for a vast northern patrol area.
 * A Department of National Defence file if military personnel became involved.
-* Northern Administration records maintained through Northwest Territories government structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+* Northern Administration records maintained through Northwest Territories government structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 </div>
 
-Library and Archives Canada notes that Canada's federal UFO collection was assembled from the Department of National Defence, Department of Transport, National Research Council and RCMP records. It also warns that location information is incomplete in many files, making geographic searches inherently imperfect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Library and Archives Canada notes that Canada's federal UFO collection was assembled from the Department of National Defence, Department of Transport, National Research Council and RCMP records. It also warns that location information is incomplete in many files, making geographic searches inherently imperfect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 For Eastern Arctic researchers, this means the administrative route may be more important than the community name itself. A report could be discoverable through an aviation office, police district or departmental series even when a direct Nunavut place search fails.
 
@@ -327,9 +327,9 @@ Anyone investigating pre-1999 Nunavut UFO history should search using both moder
 
 Useful alternatives include:
 
-* Northwest Territories <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[nwttimeline.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
+* Northwest Territories<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[nwttimeline.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
 * N.W.T.
-* Eastern Arctic * Baffin Island <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arctictoday.com">[arctictoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arctictoday.com</span><span class="citation-popover-title">pilots report ufo sighting nunavuts northern baffin island</span><span class="citation-popover-snippet">Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...28 Nov 2018 — Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Isla...</span></span></span> * Frobisher Bay <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Frobisher-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Frobisher Bay</span><span class="citation-popover-snippet">Canada, Map, &amp; FactsJun 2, 2026 — It was identified as a bay in 1860. The city of Iqaluit at the head of the bay is the capital of Nunavu...</span></span></span>
+* Eastern Arctic * Baffin Island<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arctictoday.com">[arctictoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arctictoday.com</span><span class="citation-popover-title">pilots report ufo sighting nunavuts northern baffin island</span><span class="citation-popover-snippet">Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...28 Nov 2018 — Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Isla...</span></span></span> * Frobisher Bay<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Frobisher-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Frobisher Bay</span><span class="citation-popover-snippet">Canada, Map, &amp; FactsJun 2, 2026 — It was identified as a bay in 1860. The city of Iqaluit at the head of the bay is the capital of Nunavu...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -342,193 +342,193 @@ Useful alternatives include:
 
 </div>
 
-Combining these terms often reveals records that do not appear under “Nunavut.” For example, a modern search for a Baffin Island incident may locate reports filed under Northwest Territories aviation records, while a search for Frobisher Bay may uncover material predating the 1987 name change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqaluit.ca">[Iqaluit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqaluit.ca</span><span class="citation-popover-snippet">About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</span></span></span>
+Combining these terms often reveals records that do not appear under “Nunavut.” For example, a modern search for a Baffin Island incident may locate reports filed under Northwest Territories aviation records, while a search for Frobisher Bay may uncover material predating the 1987 name change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqaluit.ca">[Iqaluit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqaluit.ca</span><span class="citation-popover-snippet">About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-3-dark.svg" | relative_url }}" alt="Old Labels illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Nunavut UFO History
 
-The apparent scarcity of older Nunavut UFO reports can be misleading. In many cases, the reports were not lost; they were catalogued according to the political and administrative landscape that existed when they were created. The creation of Nunavut in 1999 introduced a new territorial identity, but it did not automatically rewrite decades of archived paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
+The apparent scarcity of older Nunavut UFO reports can be misleading. In many cases, the reports were not lost; they were catalogued according to the political and administrative landscape that existed when they were created. The creation of Nunavut in 1999 introduced a new territorial identity, but it did not automatically rewrite decades of archived paperwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline The Division of NWT and Nunavut</span><span class="citation-popover-snippet">Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</span><span class="citation-popover-meta">Published: April 1, 1999</span></span></span>
 
-For historians, archivists and readers interested in UFO claims from the Eastern Arctic, the key lesson is straightforward: treat “Nunavut” as a modern geographic frame rather than a historical search term. Many of the territory's older sighting reports remain discoverable, but only when searched through the Northwest Territories labels, community names and administrative filing systems that originally recorded them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+For historians, archivists and readers interested in UFO claims from the Eastern Arctic, the key lesson is straightforward: treat “Nunavut” as a modern geographic frame rather than a historical search term. Many of the territory's older sighting reports remain discoverable, but only when searched through the Northwest Territories labels, community names and administrative filing systems that originally recorded them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/psGxOznGuiM" title="Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer">Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=psGxOznGuiM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why searching Nunavut can miss older UFO files. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why searching Nunavut can miss older UFO files. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand historical categorization and investigation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand historical categorization and investigation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arctic Dreams on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AOAX0VK89P4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Arctic Dreams" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arctic Dreams">Arctic Dreams</a>
-        </h4>
-        <p class="fr-book-author">By Barry Lopez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arctic Dreams on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AOAX0VK89P4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Arctic Dreams" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arctic Dreams">Arctic Dreams</a>
+</h4>
+<p class="fr-book-author">By Barry Lopez</p>
         
-        <p class="fr-book-desc">Provides wider context for the geography and culture behind Eastern Arctic archival records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for the geography and culture behind Eastern Arctic archival records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arctic+Dreams+by+Barry+Lopez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official records and government documentation shape UFO research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arctic+Dreams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arctic Dreams</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arctic+Dreams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arctic Dreams</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="old-labels-why-searching-nunavut-can-miss-older-ufo-files-nunavut-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For historians, archivists and readers interested in UFO claims from the Eastern
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,183 +734,183 @@ For historians, archivists and readers interested in UFO claims from the Eastern
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iqaluit.ca  
-   Link: <a href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/visitors/explore-iqaluit/history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</p></details>
+   Link:<a href="https://iqaluit.ca/visitors/explore-iqaluit/history" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/visitors/explore-iqaluit/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Iqaluit: History &amp; Milestones1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially become...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: natural-resources.canada.ca  
    Title: origin names canadas provincial territorial capitals  
-   Link: <a href="https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/origin-names-canadas-provincial-territorial-capitals" target="_blank" rel="noopener noreferrer nofollow">https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/origin-names-canadas-provincial-territorial-capitals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1955 to 1987, the settlement was named Frobisher Bay, after the explorer...Read more...</p></details>
+   Link:<a href="https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/origin-names-canadas-provincial-territorial-capitals" target="_blank" rel="noopener noreferrer nofollow">https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/origin-names-canadas-provincial-territorial-capitals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 1955 to 1987, the settlement was named Frobisher Bay, after the explorer...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iqaluit.ca  
-   Link: <a href="https://iqaluit.ca/" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Apply for a Business License · Apply...Read more...</p></details>
+   Link:<a href="https://iqaluit.ca/" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Apply for a Business License · Apply...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iqaluit.ca  
-   Link: <a href="https://iqaluit.ca/visitors/getting-here" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/visitors/getting-here</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting HereIqaluit is accessible by air and sea only. We serve as an air gateway to all the Baffin region communities, to Greenland (dur...</p></details>
+   Link:<a href="https://iqaluit.ca/visitors/getting-here" target="_blank" rel="noopener noreferrer nofollow">https://iqaluit.ca/visitors/getting-here</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting HereIqaluit is accessible by air and sea only. We serve as an air gateway to all the Baffin region communities, to Greenland (dur...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nwttimeline.ca  
    Title: Northwest Territories Timeline The Division of NWT and Nunavut  
-   Link: <a href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</p></details>
+   Link:<a href="https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwttimeline.ca/stories/the-division-of-nwt-and-nunavut/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northwest Territories TimelineThe Division of NWT and Nunavut - Northwest Territories...On April 1, 1999, two new Territories were offic...</p></details>
    Published: April 1, 1999  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ece.gov.nt.ca  
-   Link: <a href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</p></details>
+   Link:<a href="https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.ece.gov.nt.ca/en/services/nwt-archives/records-nwt-archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NWT Education and CultureThe Records of the NWT ArchivesThe NWT Archives has 44 metres of textual records created and accumulated by the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uphere.ca  
-   Link: <a href="https://uphere.ca/articles/iqaluits-airbase-origins" target="_blank" rel="noopener noreferrer nofollow">https://uphere.ca/articles/iqaluits-airbase-origins</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Up HereIqaluit&#x27;s Airbase OriginsThe base brought Inuit from nearby settlements to the airstrip, at Frobisher Bay, and many eventually set...</p></details>
+   Link:<a href="https://uphere.ca/articles/iqaluits-airbase-origins" target="_blank" rel="noopener noreferrer nofollow">https://uphere.ca/articles/iqaluits-airbase-origins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up HereIqaluit&#x27;s Airbase OriginsThe base brought Inuit from nearby settlements to the airstrip, at Frobisher Bay, and many eventually set...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Iqaluit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IqaluitIt was known as Frobisher Bay from 1942 to 1987, after the large bay on the coast on which the city is situated. Its traditiona...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Iqaluit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IqaluitIt was known as Frobisher Bay from 1942 to 1987, after the large bay on the coast on which the city is situated. Its traditiona...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Iqaluit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IqaluitIqaluit (en inuktitut: ᐃᖃᓗᐃᑦ, /i.qa.lu.it/, « beaucoup de poissons / place des poissons ») est la capitale et la plus grande v...</p></details>
+   Link:<a href="https://fr.wikipedia.org/wiki/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Iqaluit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IqaluitIqaluit (en inuktitut: ᐃᖃᓗᐃᑦ, /i.qa.lu.it/, « beaucoup de poissons / place des poissons ») est la capitale et la plus grande v...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canadashistory.ca  
    Title: the creation of nunavut  
-   Link: <a href="https://www.canadashistory.ca/explore/politics-law/the-creation-of-nunavut" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/politics-law/the-creation-of-nunavut</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Aug 2017 — On April 1, 1999, the map of Canada was redrawn: the Northwest Territories divides into two territories to allow for the cr...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/politics-law/the-creation-of-nunavut" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/politics-law/the-creation-of-nunavut</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Aug 2017 — On April 1, 1999, the map of Canada was redrawn: the Northwest Territories divides into two territories to allow for the cr...</p></details>
    Published: April 1, 1999  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gov.nu.ca  
    Title: 02 History of Iqaluit From Frobisher Bay to Nunavut s Capital  
-   Link: <a href="https://www.gov.nu.ca/sites/default/files/documents/2024-08/02_-_History_of_Iqaluit_-_From_Frobisher_Bay_to_Nunavut_s_Capital.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nu.ca/sites/default/files/documents/2024-08/02_-_History_of_Iqaluit_-_From_Frobisher_Bay_to_Nunavut_s_Capital.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially becomes Iqaluit, reverting to its origina...</p></details>
+   Link:<a href="https://www.gov.nu.ca/sites/default/files/documents/2024-08/02_-_History_of_Iqaluit_-_From_Frobisher_Bay_to_Nunavut_s_Capital.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nu.ca/sites/default/files/documents/2024-08/02_-_History_of_Iqaluit_-_From_Frobisher_Bay_to_Nunavut_s_Capital.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit1980 - Frobisher Bay is officially designated as a town. 1987 - Frobisher Bay officially becomes Iqaluit, reverting to its origina...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025TOP 10 RARE FACTS ABOUT ALIENS &amp; UFOS 1. Canada Has a Formal UFO Reporting System Since 1950, Ca...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada reports 1052 UFO sightings in 2025TOP 10 RARE FACTS ABOUT ALIENS &amp; UFOS 1. Canada Has a Formal UFO Reporting System Since 1950, Ca...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100090778786195/posts/iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-is-the-capital-of-the-canadian-territory-of-nunavut-located-on-the/869748432727775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090778786195/posts/iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-is-the-capital-of-the-canadian-territory-of-nunavut-located-on-the/869748432727775/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit (ᑦᑦᑦᑦᑦ) is the capital of the Canadian territory...22 Feb 2026 — The settlement&#x27;s traditional Inuktitut name was restored in 198...</p></details>
+   Link:<a href="https://www.facebook.com/100090778786195/posts/iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-is-the-capital-of-the-canadian-territory-of-nunavut-located-on-the/869748432727775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090778786195/posts/iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-is-the-capital-of-the-canadian-territory-of-nunavut-located-on-the/869748432727775/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit (ᑦᑦᑦᑦᑦ) is the capital of the Canadian territory...22 Feb 2026 — The settlement&#x27;s traditional Inuktitut name was restored in 198...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: weather.gc.ca  
    Title: Iqaluit, NU  
-   Link: <a href="https://weather.gc.ca/en/location/index.html?coords=63.750%2C-68.517" target="_blank" rel="noopener noreferrer nofollow">https://weather.gc.ca/en/location/index.html?coords=63.750%2C-68.517</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Day ForecastA mix of sun and cloud. Wind northwest 20 km/h becoming east 20 late in the afternoon. High 10. UV index 5 or moderate.Read...</p></details>
+   Link:<a href="https://weather.gc.ca/en/location/index.html?coords=63.750%2C-68.517" target="_blank" rel="noopener noreferrer nofollow">https://weather.gc.ca/en/location/index.html?coords=63.750%2C-68.517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Day ForecastA mix of sun and cloud. Wind northwest 20 km/h becoming east 20 late in the afternoon. High 10. UV index 5 or moderate.Read...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: activehistory.ca  
    Title: Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada had a UFO archive.” Last time I was at Library and Archives Canada, I told an archivist that I was studying Canada&#x27;s UFO documents...</p></details>
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada had a UFO archive.” Last time I was at Library and Archives Canada, I told an archivist that I was studying Canada&#x27;s UFO documents...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uphere.ca  
-   Link: <a href="https://uphere.ca/articles/so-much-name" target="_blank" rel="noopener noreferrer nofollow">https://uphere.ca/articles/so-much-name</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Much In A NameFrobisher Bay, named after ignominious 16th Century privateer Martin Frobisher, was changed to Iqaluit (&#x27;place of many f...</p></details>
+   Link:<a href="https://uphere.ca/articles/so-much-name" target="_blank" rel="noopener noreferrer nofollow">https://uphere.ca/articles/so-much-name</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Much In A NameFrobisher Bay, named after ignominious 16th Century privateer Martin Frobisher, was changed to Iqaluit (&#x27;place of many f...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tripadvisor.com  
    Title: Tourism g183793 Iqaluit Nunavut Vacations  
-   Link: <a href="https://www.tripadvisor.com/Tourism-g183793-Iqaluit_Nunavut-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g183793-Iqaluit_Nunavut-Vacations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit, Nunavut: All You Must Know Before You Go (2026)Canada&#x27;s newest and northernmost arctic capital incorporates the traditional prac...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Tourism-g183793-Iqaluit_Nunavut-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g183793-Iqaluit_Nunavut-Vacations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit, Nunavut: All You Must Know Before You Go (2026)Canada&#x27;s newest and northernmost arctic capital incorporates the traditional prac...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: threads.com  
-   Link: <a href="https://www.threads.com/%40cdnhistoryehx/post/DVjB10aDnZD/iqaluit-nunavutthe-name-comes-from-the-inuit-who-named-the-area-iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-me?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40cdnhistoryehx/post/DVjB10aDnZD/iqaluit-nunavutthe-name-comes-from-the-inuit-who-named-the-area-iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-me?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit, Nunavut: The name comes from the Inuit, who...6 Mar 2026 — From 1942 to 1987, it was known as Frobisher Bay, named for Sir Mart...</p></details>
+   Link:<a href="https://www.threads.com/%40cdnhistoryehx/post/DVjB10aDnZD/iqaluit-nunavutthe-name-comes-from-the-inuit-who-named-the-area-iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-me?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40cdnhistoryehx/post/DVjB10aDnZD/iqaluit-nunavutthe-name-comes-from-the-inuit-who-named-the-area-iqaluit-%E1%90%83%E1%96%83%E1%93%97%E1%90%83%E1%91%A6-me?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit, Nunavut: The name comes from the Inuit, who...6 Mar 2026 — From 1942 to 1987, it was known as Frobisher Bay, named for Sir Mart...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: Frobisher Bay  
-   Link: <a href="https://www.britannica.com/place/Frobisher-Bay" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Frobisher-Bay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada, Map, &amp; FactsJun 2, 2026 — It was identified as a bay in 1860. The city of Iqaluit at the head of the bay is the capital of Nunavu...</p></details>
+   Link:<a href="https://www.britannica.com/place/Frobisher-Bay" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Frobisher-Bay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada, Map, &amp; FactsJun 2, 2026 — It was identified as a bay in 1860. The city of Iqaluit at the head of the bay is the capital of Nunavu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
    Title: It lies at the head of Frobisher Bay, on southeastern Baffin Island.Read more  
-   Link: <a href="https://www.britannica.com/place/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Iqaluit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit | History, Facts, Map, &amp; PopulationMay 26, 2026 — Iqaluit, city, capital of Nunavut territory and headquarters of Baffin region...</p></details>
+   Link:<a href="https://www.britannica.com/place/Iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Iqaluit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit | History, Facts, Map, &amp; PopulationMay 26, 2026 — Iqaluit, city, capital of Nunavut territory and headquarters of Baffin region...</p></details>
    Published: May 26, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/iqaluit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit | Geography and Cartography | Research StartersSir Martin Frobisher, for whom the Iqaluit settlement was formerly named, believed...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/iqaluit" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/iqaluit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iqaluit | Geography and Cartography | Research StartersSir Martin Frobisher, for whom the Iqaluit settlement was formerly named, believed...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7067898/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7067898/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>smut fungi of Greenland - PMC - NIHby TT Denchev · 2020 · Cited by 19 — In East Canada and northeastern U.S.A., it is an alien species (E...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7067898/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7067898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smut fungi of Greenland - PMC - NIHby TT Denchev · 2020 · Cited by 19 — In East Canada and northeastern U.S.A., it is an alien species (E...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sfd2dw/drillers_in_nwt_spot_something_strange_in_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sfd2dw/drillers_in_nwt_spot_something_strange_in_sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drillers in NWT spot something strange in sky.: r/UFOsThere are way more gullible people using this format as an echo chambers telling e...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sfd2dw/drillers_in_nwt_spot_something_strange_in_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sfd2dw/drillers_in_nwt_spot_something_strange_in_sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drillers in NWT spot something strange in sky.: r/UFOsThere are way more gullible people using this format as an echo chambers telling e...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frobisherinn.com  
-   Link: <a href="https://www.frobisherinn.com/adventures.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.frobisherinn.com/adventures.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore Things to Do in Iqaluit NunavutFrom outdoor adventures to cultural Iqaluit attractions, there are plenty of things to see, do, an...</p></details>
+   Link:<a href="https://www.frobisherinn.com/adventures.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.frobisherinn.com/adventures.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore Things to Do in Iqaluit NunavutFrom outdoor adventures to cultural Iqaluit attractions, there are plenty of things to see, do, an...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medhumanities.ca  
-   Link: <a href="https://medhumanities.ca/lam/nunavut-archives-program-iqaluit-nunavut/" target="_blank" rel="noopener noreferrer nofollow">https://medhumanities.ca/lam/nunavut-archives-program-iqaluit-nunavut/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Medicine &amp; Medical HumanitiesNunavut Archives Program (Iqaluit, Nunavut)The Nunavut Archives Program contains the records of t...</p></details>
+   Link:<a href="https://medhumanities.ca/lam/nunavut-archives-program-iqaluit-nunavut/" target="_blank" rel="noopener noreferrer nofollow">https://medhumanities.ca/lam/nunavut-archives-program-iqaluit-nunavut/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Medicine &amp; Medical HumanitiesNunavut Archives Program (Iqaluit, Nunavut)The Nunavut Archives Program contains the records of t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tunngavik.com  
-   Link: <a href="https://www.tunngavik.com/documents/publications/1999-00-00-Nunavut.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tunngavik.com/documents/publications/1999-00-00-Nunavut.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nunavut &#x27;99 -- The Birth of a Territory fulfils a dreamWith a land claim agreement and now, a territory, the Inuit of Canada&#x27;s central an...</p></details>
+   Link:<a href="https://www.tunngavik.com/documents/publications/1999-00-00-Nunavut.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tunngavik.com/documents/publications/1999-00-00-Nunavut.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nunavut &#x27;99 -- The Birth of a Territory fulfils a dreamWith a land claim agreement and now, a territory, the Inuit of Canada&#x27;s central an...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogy in Canada... project to analyze UFO reports, less classified than Project Magnet, but still confidential. During the early months...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogy in Canada... project to analyze UFO reports, less classified than Project Magnet, but still confidential. During the early months...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august-25-1960</a>  
+   Link:<a href="https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/rcmp-ufo-report-strange-object-striking-clan-lake-northwest-territories-august</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: arctictoday.com  
    Title: pilots report ufo sighting nunavuts northern baffin island  
-   Link: <a href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...28 Nov 2018 — Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Isla...</p></details>
+   Link:<a href="https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/" target="_blank" rel="noopener noreferrer nofollow">https://www.arctictoday.com/pilots-report-ufo-sighting-nunavuts-northern-baffin-island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report UFO sighting over Nunavut&#x27;s northern Baffin...28 Nov 2018 — Pilots report UFO sighting over Nunavut&#x27;s northern Baffin Isla...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: digitalcollections.trentu.ca  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — The UFO documents I gleaned for this study are housed primarily at Library and...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — The UFO documents I gleaned for this study are housed primarily at Library and...</p></details>

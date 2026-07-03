@@ -256,15 +256,15 @@ image: /assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_uf
 
 ## Introduction
 
-For anyone trying to understand modern UFO reporting in [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}), the Canadian UFO Survey is both extremely useful and easy to misuse. It is Canada's longest-running national catalogue of UFO reports, drawing on witness submissions, researchers, media reports, government sources and, increasingly, social media. As a result, it can reveal reporting patterns that would otherwise be invisible. What it cannot do is prove that any particular sighting involved an extraordinary object, let alone extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious s...</span></span></span>
+For anyone trying to understand modern UFO reporting in [Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}), the Canadian UFO Survey is both extremely useful and easy to misuse. It is Canada's longest-running national catalogue of UFO reports, drawing on witness submissions, researchers, media reports, government sources and, increasingly, social media. As a result, it can reveal reporting patterns that would otherwise be invisible. What it cannot do is prove that any particular sighting involved an extraordinary object, let alone extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-1-dark.svg" | relative_url }}" alt="Survey Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction is especially important in Nova Scotia. Recent surveys have highlighted the province's unusually high share of Canadian reports, yet the same datasets show that most cases are brief observations of distant lights and that only a small fraction remain formally unexplained after classification. The survey is therefore best understood as a record of reported experiences rather than proof of what was actually in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+That distinction is especially important in Nova Scotia. Recent surveys have highlighted the province's unusually high share of Canadian reports, yet the same datasets show that most cases are brief observations of distant lights and that only a small fraction remain formally unexplained after classification. The survey is therefore best understood as a record of reported experiences rather than proof of what was actually in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 
 ## Nocturnal lights and point-source reports
 
-One of the most consistent findings across Canadian UFO Survey data is that the majority of reports involve distant lights observed at night. Earlier survey analyses found that nocturnal lights and similar categories accounted for most cases, while close-range encounters were comparatively rare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+One of the most consistent findings across Canadian UFO Survey data is that the majority of reports involve distant lights observed at night. Earlier survey analyses found that nocturnal lights and similar categories accounted for most cases, while close-range encounters were comparatively rare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
 
 This matters when reading Nova Scotia statistics. A report of a bright light over the coast, a moving point of light above Halifax Harbour, or an unusual object seen over rural Cape Breton may be genuinely puzzling to the witness. However, a distant light usually provides limited evidence for investigators. Important details such as size, speed, distance and altitude are often impossible to determine accurately from visual observation alone.
 
@@ -276,7 +276,7 @@ This is one reason why high report totals should be interpreted carefully. A pro
 
 A common misunderstanding is that an "unexplained" case and an "unknown object" are the same thing. The Canadian UFO Survey's classification system makes a sharper distinction.
 
-Recent survey results show that only a small percentage of reports are classified as unexplained. By contrast, a much larger share are categorised as having insufficient information. In the 2025 survey, 3.42 per cent of cases were listed as unexplained, while roughly 46 per cent lacked enough information for a reliable conclusion. The survey itself stresses that an unknown classification does not demonstrate alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+Recent survey results show that only a small percentage of reports are classified as unexplained. By contrast, a much larger share are categorised as having insufficient information. In the 2025 survey, 3.42 per cent of cases were listed as unexplained, while roughly 46 per cent lacked enough information for a reliable conclusion. The survey itself stresses that an unknown classification does not demonstrate alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 
 For Nova Scotia readers, this is one of the most important lessons the dataset offers.
 
@@ -301,7 +301,7 @@ Likewise, a large number of insufficient-information cases does not prove that s
 
 ## Why more reports do not automatically mean more phenomena
 
-Modern Nova Scotia has become unusually visible within Canadian UFO reporting networks. The surveys themselves have linked the province's overrepresentation partly to active online communities and reporting channels. Reports are now gathered from direct submissions, researchers, websites and social-media sources, creating a much larger pool of potential sightings than existed in earlier decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+Modern Nova Scotia has become unusually visible within Canadian UFO reporting networks. The surveys themselves have linked the province's overrepresentation partly to active online communities and reporting channels. Reports are now gathered from direct submissions, researchers, websites and social-media sources, creating a much larger pool of potential sightings than existed in earlier decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 
 This creates an important statistical problem.
 
@@ -312,7 +312,7 @@ The survey can therefore measure reporting behaviour as well as sighting behavio
 For Nova Scotia, that means a rise in recorded cases may reflect:
 
 * Greater public awareness of reporting systems.
-* Increased social-media visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[globalnews.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+* Increased social-media visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[globalnews.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 * Easier sharing of smartphone photographs and videos.
 * Local interest generated by famous historical cases such as [Shag Harbour]({{ 'shag-harbour/' | relative_url }}).
 * More researchers actively collecting reports.
@@ -327,13 +327,13 @@ Used correctly, the Canadian UFO Survey is a valuable source of evidence.
 
 It can demonstrate that:
 
-* Canadians continue to report large numbers of unusual aerial observations every year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
-* Certain regions, including Nova Scotia in recent years, contribute a disproportionate share of reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
-* Most reports involve distant lights rather than dramatic close encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
-* Reporting patterns change over time as technology and reporting networks evolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report The Canadian UFO Survey VIEW SURVEYS. JUST RELEASED</span><span class="citation-popover-snippet">Canadian UFO ReportThe Canadian UFO SurveyVIEW SURVEYS. JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. Download PDF. Report a Sighting! Re...</span></span></span>
-* A small minority of cases remain unresolved after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+* Canadians continue to report large numbers of unusual aerial observations every year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+* Certain regions, including Nova Scotia in recent years, contribute a disproportionate share of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+* Most reports involve distant lights rather than dramatic close encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</span><span class="citation-popover-meta">Published: February 11, 2023</span></span></span>
+* Reporting patterns change over time as technology and reporting networks evolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report The Canadian UFO Survey VIEW SURVEYS. JUST RELEASED</span><span class="citation-popover-snippet">Canadian UFO ReportThe Canadian UFO SurveyVIEW SURVEYS. JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. Download PDF. Report a Sighting! Re...</span></span></span>
+* A small minority of cases remain unresolved after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 
-These findings are meaningful because they are based on thousands of reports accumulated over decades. Since 1989, the survey has catalogued more than 24,000 Canadian cases, making it one of the country's largest long-term UFO datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</span></span></span>
+These findings are meaningful because they are based on thousands of reports accumulated over decades. Since 1989, the survey has catalogued more than 24,000 Canadian cases, making it one of the country's largest long-term UFO datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uIi9fCJ2Q3A" title="Reviewing the 2023 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uIi9fCJ2Q3A" target="_blank" rel="noopener noreferrer">Reviewing the 2023 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uIi9fCJ2Q3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uIi9fCJ2Q3A">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ By itself, it cannot prove:
 
 </div>
 
-The survey is fundamentally a reporting database, not a national investigation service. Even Canada's recent Sky Canada initiative emphasised that improving reporting systems is different from determining the true nature of reported phenomena. The focus of that project was on reporting and management processes rather than proving what specific sightings were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">preview sky canada report ocsa</span><span class="citation-popover-snippet">ISED CanadaSky Canada Report from the Office of the Chief Science...15 Jan 2025 — This report focuses on the services available to the C...</span></span></span>
+The survey is fundamentally a reporting database, not a national investigation service. Even Canada's recent Sky Canada initiative emphasised that improving reporting systems is different from determining the true nature of reported phenomena. The focus of that project was on reporting and management processes rather than proving what specific sightings were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">preview sky canada report ocsa</span><span class="citation-popover-snippet">ISED CanadaSky Canada Report from the Office of the Chief Science...15 Jan 2025 — This report focuses on the services available to the C...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-3-dark.svg" | relative_url }}" alt="Survey Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,7 +366,7 @@ The most useful way to read the Canadian UFO Survey is neither as proof of extra
 
 Instead, it functions as a map of Canadian UFO reporting.
 
-For Nova Scotia, that map shows a province with an active reporting culture, a strong historical interest in UFO stories, and a modern network that captures many more sightings than would once have reached researchers. It shows that unusual lights are reported regularly and that a small number of cases resist straightforward explanation. It also shows that many reports contain too little information for firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
+For Nova Scotia, that map shows a province with an active reporting culture, a strong historical interest in UFO stories, and a modern network that captures many more sightings than would once have reached researchers. It shows that unusual lights are reported regularly and that a small number of cases resist straightforward explanation. It also shows that many reports contain too little information for firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</span></span></span>
 
 The survey's greatest value lies in identifying patterns that deserve further scrutiny. Its greatest limitation is that patterns in reports are not the same thing as proof about the objects being reported. For modern Nova Scotia UFO history, keeping those two ideas separate is essential.
 
@@ -375,178 +375,178 @@ The survey's greatest value lies in identifying patterns that deserve further sc
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can UFO statistics really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can UFO statistics really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Closely matches a page about what UFO statistics and classifications can actually demonstrate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches a page about what UFO statistics and classifications can actually demonstrate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reported cases versus proven conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reported cases versus proven conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to the limits of statistical claims and extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the limits of statistical claims and extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers understand how people interpret ambiguous observations and patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how people interpret ambiguous observations and patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-book+-books+-series+-programme+-concert+-tour+-schenker+-band+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -book -books -series -programme -concert -tour -schenker -band -tv" data-ebay-reference="survey-limits-what-can-ufo-statistics-really-prove-nova-scotia-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ The survey's greatest value lies in identifying patterns that deserve further sc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ The survey's greatest value lies in identifying patterns that deserve further sc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ The survey's greatest value lies in identifying patterns that deserve further sc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ The survey's greatest value lies in identifying patterns that deserve further sc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ The survey's greatest value lies in identifying patterns that deserve further sc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,139 +752,139 @@ The survey's greatest value lies in identifying patterns that deserve further sc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious s...</p></details>
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canadianuforeport.com  
-   Link: <a href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</p></details>
+   Link:<a href="https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/Surveyessay2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 Canadian UFO SurveyFebruary 11, 2023 — This is an important statistic, because the current popular interest in abductions and se...</p></details>
    Published: February 11, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report The Canadian UFO Survey VIEW SURVEYS. JUST RELEASED  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportThe Canadian UFO SurveyVIEW SURVEYS. JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. Download PDF. Report a Sighting! Re...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportThe Canadian UFO SurveyVIEW SURVEYS. JUST RELEASED - THE 2025 CANADIAN UFO SURVEY. Download PDF. Report a Sighting! Re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Report from the Office of the Chief Science...15 Jan 2025 — This report focuses on the services available to the C...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Report from the Office of the Chief Science...15 Jan 2025 — This report focuses on the services available to the C...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: [The search](&amp;#123;&amp;#123; &#x27;the-search/&#x27; | relative_url &amp;#125;&amp;#125;) for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighting loc...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: [The search](&amp;#123;&amp;#123; &#x27;the-search/&#x27; | relative_url &amp;#125;&amp;#125;) for the unknown2 Mar 2026 — Similarly, approximately half of the documents refer to a specific UFO sighting loc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaDo aliens exist? Have you ever seen a UFO? According to a new survey from Ufology Research, 570 Canadians officially filed U...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaDo aliens exist? Have you ever seen a UFO? According to a new survey from Ufology Research, 570 Canadians officially filed U...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO sightings in 2025#UFO #UAP #UFOSightings #Disclosure #AnomalousPhenomena · Chris Rutkowski with E.T. and an alien in his Win...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: bill carolyn have you ever seen a ufo do you think theres life out thereaccordin  
-   Link: <a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
+   Link:<a href="https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coast1011/posts/bill-carolyn-have-you-ever-seen-a-ufo-do-you-think-theres-life-out-thereaccordin/1745962873129875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen a UFO or believe in aliens?“As with previous studies, the 2002 Canadian UFO survey does not offer any positive proof that U...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canadianuforeport.ca  
    Title: survey data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey Data1989 to 2025 Data (pdf) Download · 2025 Data (pdf) Download · 2024 Data... Copyright © 2026 Canadian UFO Report...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey Data1989 to 2025 Data (pdf) Download · 2025 Data (pdf) Download · 2024 Data... Copyright © 2026 Canadian UFO Report...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canadianuforeport.ca  
    Title: Other UFO Research  
-   Link: <a href="https://canadianuforeport.ca/other-research" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/other-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportExplore Canadian UFO Research, featuring detailed surveys on UFO sightings, crop circles, and physical trace cases acr...</p></details>
+   Link:<a href="https://canadianuforeport.ca/other-research" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/other-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportExplore Canadian UFO Research, featuring detailed surveys on UFO sightings, crop circles, and physical trace cases acr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The 2025 numbers show 1,052 UFO reports were shared in Canada, involving “participating private organizations, and through...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: globalnews.ca  
    Title: winnipeg based ufology research releases annual report on canadian ufo sightings  
-   Link: <a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
+   Link:<a href="https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3347979/winnipeg-based-ufology-research-releases-annual-report-on-canadian-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg-based Ufology Research releases annual report...31 Mar 2017 — Bright lights, airplane near-misses and light-fingered aliens wit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/1202634/about-1100-ufos-spotted-last-year-survey/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/1202634/about-1100-ufos-spotted-last-year-survey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About 1100 UFOs spotted in Canada last year, survey says12 Mar 2014 — Another three were listed under C4, “close encounters of the fourth...</p></details>
+   Link:<a href="https://globalnews.ca/news/1202634/about-1100-ufos-spotted-last-year-survey/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/1202634/about-1100-ufos-spotted-last-year-survey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About 1100 UFOs spotted in Canada last year, survey says12 Mar 2014 — Another three were listed under C4, “close encounters of the fourth...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Survey Reveals One in 10 Canadians Claim to...19 Jul 2021 — National Survey Reveals One in 10 Canadians Claim to Have Seen a UF...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceQ Media Inc.Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI tracking10 Mar 2026 — The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight incre...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>researcher in Manitoba supports AI tracking10 Mar 2026 — The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight incre...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nelsonstar.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
+   Link:<a href="https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nelsonstar.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...19 Mar 2026 — Every year since 1989, Ufology Research has released the Canadian UFO Sur...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rimbeyreview.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://rimbeyreview.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://rimbeyreview.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey. Sallenback said this year the team, led by... report any unexplained phenomena in the sky to www.canadianufore...</p></details>
+   Link:<a href="https://rimbeyreview.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://rimbeyreview.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Survey. Sallenback said this year the team, led by... report any unexplained phenomena in the sky to www.canadianufore...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lNS" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NSFile a UFO Report · Donate · About Us · Toggle website search · Menu Close · Posts · Data Bank · Map · Gallery...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lNS" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NSFile a UFO Report · Donate · About Us · Toggle website search · Menu Close · Posts · Data Bank · Map · Gallery...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thecanadiangothic.com  
    Title: In this episode, we are joined by Canadian  
-   Link: <a href="https://thecanadiangothic.com/episodes/ufoac-2026-04" target="_blank" rel="noopener noreferrer nofollow">https://thecanadiangothic.com/episodes/ufoac-2026-04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)1 Apr 2026 — In 2025, more 1052 UFO sightings were reported across Canada, an average...</p></details>
+   Link:<a href="https://thecanadiangothic.com/episodes/ufoac" target="_blank" rel="noopener noreferrer nofollow">https://thecanadiangothic.com/episodes/ufoac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)1 Apr 2026 — In 2025, more 1052 UFO sightings were reported across Canada, an average...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: img1.wsimg.com  
    Title: Final V2 The 2025 Canadian UFO Survey  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Survey9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so there have been attempts to st...</p></details>
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Survey9 Mar 2026 — However, over the years, even UFO has come to mean &#x27;aliens&#x27; in common parlance, so there have been attempts to st...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings1950–1974; 1967-03-16, Malmstrom UFO incident, North AmericaUnited States; Montana; 1967-05-20, Falcon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings1950–1974; 1967-03-16, Malmstrom UFO incident, North AmericaUnited States; Montana; 1967-05-20, Falcon...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-overview-
 
 ## Introduction
 
-McLeod Hill, on the north side of Fredericton, has a small but intriguing place in [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO history because it is one of the province’s few publicly cited “physical trace” claims: a report in which an unusual object was allegedly followed by marks in a farm field. The core claim is simple. In April 1965, a loud hissing object was reportedly seen hovering low over a farm field; the next morning, a series of circular holes was said to have been found there. That sounds more substantial than a distant light in the sky, but the evidence trail is thin: no publicly available laboratory report, no known official case file, no contemporary newspaper account located by later researchers, and no surviving measurements detailed enough to test the claim firmly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
+McLeod Hill, on the north side of Fredericton, has a small but intriguing place in [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO history because it is one of the province’s few publicly cited “physical trace” claims: a report in which an unusual object was allegedly followed by marks in a farm field. The core claim is simple. In April 1965, a loud hissing object was reportedly seen hovering low over a farm field; the next morning, a series of circular holes was said to have been found there. That sounds more substantial than a distant light in the sky, but the evidence trail is thin: no publicly available laboratory report, no known official case file, no contemporary newspaper account located by later researchers, and no surviving measurements detailed enough to test the claim firmly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-overview.webp" | relative_url }}" alt="Overview image for Mc Leod Hill" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,11 +291,11 @@ That tension is why McLeod Hill matters. It is not a “proved landing” case. 
 
 ## What witnesses reportedly saw
 
-The shortest published catalogue version dates the case to 14 April 1965 and places it at McLeod Hill, New Brunswick. It says a loud hissing object was seen hovering low over a farm field, and that a series of circular holes was found in the field the following morning. The source named in that catalogue is CUFOR, a civilian UFO research source, not a government agency or contemporary newspaper report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
+The shortest published catalogue version dates the case to 14 April 1965 and places it at McLeod Hill, New Brunswick. It says a loud hissing object was seen hovering low over a farm field, and that a series of circular holes was found in the field the following morning. The source named in that catalogue is CUFOR, a civilian UFO research source, not a government agency or contemporary newspaper report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
 
-A fuller [later retelling]({{ 'later-retelling/' | relative_url }}) connects the location with the farm of Walter Lint at McLeod Hill, Royal Road, Fredericton North. In that version, Dorothy Dearborn, a New Brunswick writer who included UFO experiences in a 1996 local-interest book, heard rumours of a reported landing and tried to trace the story. The later account says Lint was reluctant to discuss it because of the attention he had received at the time. It also says Dearborn searched the local *Daily Gleaner* but found nothing, then used a public request for information to locate people connected with the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
+A fuller [later retelling]({{ 'later-retelling/' | relative_url }}) connects the location with the farm of Walter Lint at McLeod Hill, Royal Road, Fredericton North. In that version, Dorothy Dearborn, a New Brunswick writer who included UFO experiences in a 1996 local-interest book, heard rumours of a reported landing and tried to trace the story. The later account says Lint was reluctant to discuss it because of the attention he had received at the time. It also says Dearborn searched the local *Daily Gleaner* but found nothing, then used a public request for information to locate people connected with the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
 
-The most vivid reported witness detail in the later account comes through Dr David Wade, who said he learned of the McLeod Hill incident while he was a university student in 1965. According to that account, Wade, his brother and a friend visited the Lint farm after hearing about the sighting. Lint’s daughters allegedly took them to the field, where the hay had been cut and three circular indentations were visible. They reportedly said the object had glowing, dinner-plate-sized features around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
+The most vivid reported witness detail in the later account comes through Dr David Wade, who said he learned of the McLeod Hill incident while he was a university student in 1965. According to that account, Wade, his brother and a friend visited the Lint farm after hearing about the sighting. Lint’s daughters allegedly took them to the field, where the hay had been cut and three circular indentations were visible. They reportedly said the object had glowing, dinner-plate-sized features around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
 
 Those details make the story memorable, but they also show the weakness of the record. The richer version appears decades after the alleged event and is mediated through local-history writing and a 2022 blog retelling of that material. The concise trace catalogue gives a date and a summary, but not names, statements, photographs, police notes, soil analysis or field diagrams. The two strands are compatible in broad terms, yet they do not produce the kind of independent, contemporary documentation that would make the case much stronger.
 
@@ -303,9 +303,9 @@ Those details make the story memorable, but they also show the weakness of the r
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-1-dark.svg" | relative_url }}" alt="Mc Leod Hill illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The circular holes claim
 
-The phrase “physical trace” can sound more decisive than it is. In UFO studies, it usually means that a sighting was associated with a mark, burn, depression, broken vegetation, residue, hole, ring, or other alleged effect on the ground. McLeod Hill is included in a Canadian list of crop circles and physical traces associated with UFO reports, alongside many stronger, weaker and openly uncertain cases. Its entry is only one sentence long: a hissing object, a low hover, and circular holes the next morning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
+The phrase “physical trace” can sound more decisive than it is. In UFO studies, it usually means that a sighting was associated with a mark, burn, depression, broken vegetation, residue, hole, ring, or other alleged effect on the ground. McLeod Hill is included in a Canadian list of crop circles and physical traces associated with UFO reports, alongside many stronger, weaker and openly uncertain cases. Its entry is only one sentence long: a hissing object, a low hover, and circular holes the next morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
 
-The later Lint-farm account changes the emphasis slightly. It describes three circular indentations in cut hay, marking out an area of about 30 feet. That is not exactly the same wording as “a series of circular holes”, and the difference matters. Holes imply punctures or cavities in the ground; indentations in grass or hay could be depressions, flattened patches, machinery marks, animal activity, drainage effects, or ordinary field irregularities noticed after an unusual story had already spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
+The later Lint-farm account changes the emphasis slightly. It describes three circular indentations in cut hay, marking out an area of about 30 feet. That is not exactly the same wording as “a series of circular holes”, and the difference matters. Holes imply punctures or cavities in the ground; indentations in grass or hay could be depressions, flattened patches, machinery marks, animal activity, drainage effects, or ordinary field irregularities noticed after an unusual story had already spread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
 
 For a trace case to carry much weight, investigators would ideally want several kinds of evidence:
 
@@ -329,13 +329,13 @@ None of those items is publicly attached to McLeod Hill in the accessible source
 
 ## Why the evidence remains limited
 
-The first problem is the missing contemporary paper trail. The later retelling explicitly says Dearborn searched the *Daily Gleaner* and could not find a report. That absence is important because a local newspaper article from 1965 could have fixed the date, names, description, location, number of marks and public response much closer to the event. Without it, the case leans heavily on memory and later reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
+The first problem is the missing contemporary paper trail. The later retelling explicitly says Dearborn searched the *Daily Gleaner* and could not find a report. That absence is important because a local newspaper article from 1965 could have fixed the date, names, description, location, number of marks and public response much closer to the event. Without it, the case leans heavily on memory and later reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
 
-The second problem is that McLeod Hill does not appear, in the accessible record, as a clear official Canadian investigation. Library and Archives Canada says its UFO collection includes government records from the Department of National Defence, Department of Transport, National Research Council and RCMP, with about 9,500 digitised documents accumulated between 1947 and the early 1980s. It also warns that searches by date or location can be incomplete because many records are undated or lack precise locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The second problem is that McLeod Hill does not appear, in the accessible record, as a clear official Canadian investigation. Library and Archives Canada says its UFO collection includes government records from the Department of National Defence, Department of Transport, National Research Council and RCMP, with about 9,500 digitised documents accumulated between 1947 and the early 1980s. It also warns that searches by date or location can be incomplete because many records are undated or lack precise locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-That caution cuts both ways. A failure to find a McLeod Hill file does not prove that no report was ever made, because Canadian UFO paperwork was uneven and sometimes poorly indexed. But it also means the case cannot borrow credibility from Canada’s official UFO archive unless a specific document is actually found. In Canada, federal UFO responsibility shifted over time, and by 1967 the National Research Council became the main body for receiving reports from the public, municipalities and agencies such as the RCMP and Department of National Defence; this was still a largely passive and inconsistent system rather than a single well-funded investigative bureau. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+That caution cuts both ways. A failure to find a McLeod Hill file does not prove that no report was ever made, because Canadian UFO paperwork was uneven and sometimes poorly indexed. But it also means the case cannot borrow credibility from Canada’s official UFO archive unless a specific document is actually found. In Canada, federal UFO responsibility shifted over time, and by 1967 the National Research Council became the main body for receiving reports from the public, municipalities and agencies such as the RCMP and Department of National Defence; this was still a largely passive and inconsistent system rather than a single well-funded investigative bureau.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-The third problem is the timing of the fuller narrative. Dearborn’s book was published in 1996, more than thirty years after the alleged 1965 event. Dearborn was a real and locally significant New Brunswick writer and journalist, and her bibliography does include *Legends, Oddities & Mysteries — Including UFO Experiences — in New Brunswick*. That gives the story a traceable local source, but not the same evidential status as a contemporary investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nble.lib.unb.ca/browse/d/dorothy-dearborn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nble.lib.unb.ca">[New Brunswick Literary Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nble.lib.unb.ca</span><span class="citation-popover-title">New Brunswick Literary Encyclopedia Dorothy Dearborn &#124; NBLE</span><span class="citation-popover-snippet">New Brunswick Literary Encyclopedia Dorothy Dearborn &#124; NBLE</span></span></span>
+The third problem is the timing of the fuller narrative. Dearborn’s book was published in 1996, more than thirty years after the alleged 1965 event. Dearborn was a real and locally significant New Brunswick writer and journalist, and her bibliography does include *Legends, Oddities & Mysteries — Including UFO Experiences — in New Brunswick*. That gives the story a traceable local source, but not the same evidential status as a contemporary investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nble.lib.unb.ca/browse/d/dorothy-dearborn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nble.lib.unb.ca">[New Brunswick Literary Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nble.lib.unb.ca</span><span class="citation-popover-title">New Brunswick Literary Encyclopedia Dorothy Dearborn &#124; NBLE</span><span class="citation-popover-snippet">New Brunswick Literary Encyclopedia Dorothy Dearborn &#124; NBLE</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-2-dark.svg" | relative_url }}" alt="Mc Leod Hill illustration 2" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,9 +352,9 @@ Within New Brunswick’s UFO history, McLeod Hill is useful as a cautionary exam
 
 ## How later reporting affected the case
 
-Later reporting kept McLeod Hill alive, but it did not greatly strengthen it. The 1996 Dearborn book appears to have preserved the local story, and the 2022 online retelling made some of that material easier to find. Those later accounts add human texture: the Lint farm, the reluctance to revisit the episode, the alleged visit by David Wade and others, and the description of three circular field indentations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
+Later reporting kept McLeod Hill alive, but it did not greatly strengthen it. The 1996 Dearborn book appears to have preserved the local story, and the 2022 online retelling made some of that material easier to find. Those later accounts add human texture: the Lint farm, the reluctance to revisit the episode, the alleged visit by David Wade and others, and the description of three circular field indentations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimlawrenceavondale.wordpress.com">[jimlawrenceavondale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimlawrenceavondale.wordpress.com</span><span class="citation-popover-title">frederictonnb canada multi ufo sightings of the 1960s</span><span class="citation-popover-snippet">Fredericton,NB, Canada Multi UFO sightings of the 1960’s &#124; jimlawrenceavondale...</span></span></span>
 
-What later reporting has not supplied is corroboration of the kind that would move the case into a stronger category. There is no cited police file, airport log, *Daily Gleaner* clipping, original witness statement, site photograph or scientific analysis in the public accounts located. The Canadian UFO Survey’s broader work also reminds readers that UFO databases include many reports later found to involve meteors, fireballs, stars, aircraft or other ordinary causes, because the term “UFO” often records uncertainty at the time of reporting rather than an extraordinary origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
+What later reporting has not supplied is corroboration of the kind that would move the case into a stronger category. There is no cited police file, airport log, *Daily Gleaner* clipping, original witness statement, site photograph or scientific analysis in the public accounts located. The Canadian UFO Survey’s broader work also reminds readers that UFO databases include many reports later found to involve meteors, fireballs, stars, aircraft or other ordinary causes, because the term “UFO” often records uncertainty at the time of reporting rather than an extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-snippet">Canadian UFO Report</span></span></span>
 
 McLeod Hill therefore remains best read as an unresolved local trace story with an evidence gap at its centre. The claim is specific enough to deserve mention in New Brunswick’s UFO record, but too thinly documented to support firm claims about what hovered over the field, what made the marks, or whether the two were causally connected.
 
@@ -362,194 +362,194 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-3-dark.svg" | relative_url }}" alt="Mc Leod Hill illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Something Leave Marks at Mc Leod Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Something Leave Marks at Mc Leod Hill?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses unexplained aerial phenomena using witness testimony, military sources, and investigative reporting similar to themes...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses unexplained aerial phenomena using witness testimony, military sources, and investigative reporting similar to themes...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, helping readers understand how cases like those from Yukon are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for evaluating UFO reports, helping readers understand how cases like those from Yukon are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="mc-leod-hill-did-something-leave-marks-at-mc-leod-hill-new-brunswick-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,129 +755,129 @@ McLeod Hill therefore remains best read as an unresolved local trace story with 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canadianuforeport.com  
    Title: Canadian UFO Report  
-   Link: <a href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf</a>  
+   Link:<a href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canadianuforeport.com  
    Title: Canadian UFO Report  
-   Link: <a href="https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf</a>  
+   Link:<a href="https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/UFOsOverCanada.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: open.canada.ca  
-   Link: <a href="https://open.canada.ca/en/search/ati/reference/9219f387f05652c173443c337f9512ad" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/en/search/ati/reference/9219f387f05652c173443c337f9512ad</a>  
+   Link:<a href="https://open.canada.ca/en/search/ati/reference/9219f387f05652c173443c337f9512ad" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/en/search/ati/reference/9219f387f05652c173443c337f9512ad</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: The Austin Chronicle 2004 12 17 djvu.txt  
-   Link: <a href="https://archive.org/stream/The_Austin_Chronicle-2004-12-17/The_Austin_Chronicle-2004-12-17_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/The_Austin_Chronicle-2004-12-17/The_Austin_Chronicle-2004-12-17_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/The_Austin_Chronicle-2004-12-17/The_Austin_Chronicle-2004-12-17_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/The_Austin_Chronicle-2004-12-17/The_Austin_Chronicle-2004-12-17_djvu.txt</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Canada FOIA Part 06 Pages 1501 1800 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Stanton T. [Friedman](&#123;&#123; 'friedman/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=Y-F80OfFY2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-F80OfFY2w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident【4K】...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y-F80OfFY2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-F80OfFY2w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s Famous Officially Investigated UFO Incident | Shag Harbour UFO Incident【4K】...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Brunswick UFO history The UFO Story you HAVEN&#x27;T heard Storied...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AffaetLkx2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AffaetLkx2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Brunswick UFO history The UFO Story you HAVEN&#x27;T heard Storied...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jimlawrenceavondale.wordpress.com  
    Title: frederictonnb canada multi ufo sightings of the 1960s  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton,NB, Canada Multi UFO sightings of the 1960’s | jimlawrenceavondale...</p></details>
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/2022/01/23/frederictonnb-canada-multi-ufo-sightings-of-the-1960s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton,NB, Canada Multi UFO sightings of the 1960’s | jimlawrenceavondale...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nble.lib.unb.ca  
    Title: New Brunswick Literary Encyclopedia Dorothy Dearborn | NBLE  
-   Link: <a href="https://nble.lib.unb.ca/browse/d/dorothy-dearborn" target="_blank" rel="noopener noreferrer nofollow">https://nble.lib.unb.ca/browse/d/dorothy-dearborn</a>  
+   Link:<a href="https://nble.lib.unb.ca/browse/d/dorothy-dearborn" target="_blank" rel="noopener noreferrer nofollow">https://nble.lib.unb.ca/browse/d/dorothy-dearborn</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/i0ms3o/canadas_ufos_the_search_for_the_unknown_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/i0ms3o/canadas_ufos_the_search_for_the_unknown_this/</a>  
+   Link:<a href="https://www.reddit.com/r/canada/comments/i0ms3o/canadas_ufos_the_search_for_the_unknown_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/i0ms3o/canadas_ufos_the_search_for_the_unknown_this/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sites.google.com  
    Title: national research council  
-   Link: <a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
+   Link:<a href="https://sites.google.com/view/canadaufohistory/glossary/national-research-council" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/view/canadaufohistory/glossary/national-research-council</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jimlawrenceavondale.wordpress.com  
-   Link: <a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
+   Link:<a href="https://jimlawrenceavondale.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://jimlawrenceavondale.wordpress.com/</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amazon.ca  
-   Link: <a href="https://www.amazon.ca/Legends-Oddities-Mysteries-including-experiences/dp/1896270069?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ca/Legends-Oddities-Mysteries-including-experiences/dp/1896270069?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Author · Carol Taylor. Illustrator. Legends, Oddities and Mysteries: including UFO experiences in New Brunswick. 5.0 5.0 out of 5 stars (...</p></details>
+   Link:<a href="https://www.amazon.ca/Legends-Oddities-Mysteries-including-experiences/dp/1896270069?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ca/Legends-Oddities-Mysteries-including-experiences/dp/1896270069?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author · Carol Taylor. Illustrator. Legends, Oddities and Mysteries: including UFO experiences in New Brunswick. 5.0 5.0 out of 5 stars (...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nimbus.ca  
    Title: legends oddities and mysteries  
-   Link: <a href="https://nimbus.ca/store/legends-oddities-and-mysteries.html?srsltid=AfmBOooOsZ0ppjxpNYJaEBMHwM0YNWKMbdgxUETDBq9jEglfukKZuwCK" target="_blank" rel="noopener noreferrer nofollow">https://nimbus.ca/store/legends-oddities-and-mysteries.html?srsltid=AfmBOooOsZ0ppjxpNYJaEBMHwM0YNWKMbdgxUETDBq9jEglfukKZuwCK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legends, Oddities and Mysteries including UFO...10 Dec 2013 — Legends, Oddities and Mysteries including UFO experiences in New Brunswick...</p></details>
+   Link:<a href="https://nimbus.ca/store/legends-oddities-and-mysteries.html?srsltid=AfmBOooOsZ0ppjxpNYJaEBMHwM0YNWKMbdgxUETDBq9jEglfukKZuwCK" target="_blank" rel="noopener noreferrer nofollow">https://nimbus.ca/store/legends-oddities-and-mysteries.html?srsltid=AfmBOooOsZ0ppjxpNYJaEBMHwM0YNWKMbdgxUETDBq9jEglfukKZuwCK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legends, Oddities and Mysteries including UFO...10 Dec 2013 — Legends, Oddities and Mysteries including UFO experiences in New Brunswick...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Stanton Friedman; Canada's Flying Saucer Physicist (featuring Paul Kimball)  
-   Link: <a href="https://www.youtube.com/watch?v=yAITlI4qAUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAITlI4qAUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman - Canadian Government and UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yAITlI4qAUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAITlI4qAUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman - Canadian Government and UFOs...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CKBCFM/posts/31-years-ago-today-there-were-several-witnesses-to-a-ufo-outside-the-heath-steel/10159462641996988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CKBCFM/posts/31-years-ago-today-there-were-several-witnesses-to-a-ufo-outside-the-heath-steel/10159462641996988/</a>  
+   Link:<a href="https://www.facebook.com/CKBCFM/posts/31-years-ago-today-there-were-several-witnesses-to-a-ufo-outside-the-heath-steel/10159462641996988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CKBCFM/posts/31-years-ago-today-there-were-several-witnesses-to-a-ufo-outside-the-heath-steel/10159462641996988/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newengland.com  
-   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
+   Link:<a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/news4buffalo/videos/cherry-creek-sightings/10153523094965505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news4buffalo/videos/cherry-creek-sightings/10153523094965505/</a>  
+   Link:<a href="https://www.facebook.com/news4buffalo/videos/cherry-creek-sightings/10153523094965505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news4buffalo/videos/cherry-creek-sightings/10153523094965505/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/author/list/229010.Dorothy_Dearborn" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/229010.Dorothy_Dearborn</a>  
+   Link:<a href="https://www.goodreads.com/author/list/229010.Dorothy_Dearborn" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/229010.Dorothy_Dearborn</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cfga-acgf.com  
-   Link: <a href="https://cfga-acgf.com/wp-content/uploads/2020/12/33rdgfga.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cfga-acgf.com/wp-content/uploads/2020/12/33rdgfga.pdf</a>  
+   Link:<a href="https://cfga-acgf.com/wp-content/uploads/2020/12/33rdgfga.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cfga-acgf.com/wp-content/uploads/2020/12/33rdgfga.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/author/b001k7up02/dorothy-dearborn?ref_=nav_crb_srp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/author/b001k7up02/dorothy-dearborn?ref_=nav_crb_srp</a>  
+   Link:<a href="https://www.abebooks.com/author/b001k7up02/dorothy-dearborn?ref_=nav_crb_srp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/author/b001k7up02/dorothy-dearborn?ref_=nav_crb_srp</a>  

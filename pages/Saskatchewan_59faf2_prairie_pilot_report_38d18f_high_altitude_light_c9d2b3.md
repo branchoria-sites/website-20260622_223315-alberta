@@ -268,13 +268,13 @@ Among [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-1-dark.svg" | relative_url }}" alt="High Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2021 Hudson Bay Delta report
 
-One of the better-known recent Saskatchewan pilot reports occurred on 9 May 2021 near Hudson Bay, Saskatchewan. According to a Transport Canada aviation occurrence report later highlighted in Canadian media, the crew of a Delta Air Lines flight cruising at approximately 39,000 feet reported seeing an object or light moving from right to left “well above” their aircraft. The sighting was significant because the crew believed the object appeared higher than an airliner already operating at a typical long-haul cruising altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kindersleysocial.ca">[kindersleysocial.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kindersleysocial.ca</span><span class="citation-popover-snippet">Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</span><span class="citation-popover-meta">Published: May 31, 2021</span></span></span>
+One of the better-known recent Saskatchewan pilot reports occurred on 9 May 2021 near Hudson Bay, Saskatchewan. According to a Transport Canada aviation occurrence report later highlighted in Canadian media, the crew of a Delta Air Lines flight cruising at approximately 39,000 feet reported seeing an object or light moving from right to left “well above” their aircraft. The sighting was significant because the crew believed the object appeared higher than an airliner already operating at a typical long-haul cruising altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kindersleysocial.ca">[kindersleysocial.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kindersleysocial.ca</span><span class="citation-popover-snippet">Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</span><span class="citation-popover-meta">Published: May 31, 2021</span></span></span>
 
 That description immediately created a puzzle. At night, pilots are generally very good at recognising other aircraft, navigation lights and common aviation traffic. However, judging the distance of a single light with no visible background reference is far more difficult. A light that appears to be thousands of feet above an aircraft may actually be much farther away and at a very different altitude than the observer assumes.
 
-The Hudson Bay report attracted attention because it entered an official aviation reporting channel rather than remaining an anecdote. Yet publicly available information remains limited. No radar confirmation, military interception, photographic evidence or detailed follow-up explanation was released. As a result, the case remains an observation rather than a solved incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kindersleysocial.ca">[kindersleysocial.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kindersleysocial.ca</span><span class="citation-popover-snippet">Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</span><span class="citation-popover-meta">Published: May 31, 2021</span></span></span>
+The Hudson Bay report attracted attention because it entered an official aviation reporting channel rather than remaining an anecdote. Yet publicly available information remains limited. No radar confirmation, military interception, photographic evidence or detailed follow-up explanation was released. As a result, the case remains an observation rather than a solved incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kindersleysocial.ca">[kindersleysocial.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kindersleysocial.ca</span><span class="citation-popover-snippet">Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</span><span class="citation-popover-meta">Published: May 31, 2021</span></span></span>
 
-A frequently discussed possibility is that the crew observed a satellite-related phenomenon. Online discussions following the report noted that a SpaceX [Starlink]({{ 'starlink-62fea8/' | relative_url }}) launch had occurred earlier that same day and suggested that sunlight reflecting from satellites or associated hardware could potentially create unusual high-altitude visual effects. This explanation has never been officially confirmed for the Hudson Bay sighting, but it demonstrates how modern satellite constellations have become part of the explanation landscape for some recent pilot reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO reported by Delta Air Lines pilot flying over</span><span class="citation-popover-snippet">UFO reported by Delta Air Lines pilot flying over...May 28, 2021 — As others have suggested my bet is what the pilot saw was conne...</span><span class="citation-popover-meta">Published: May 28, 2021</span></span></span>
+A frequently discussed possibility is that the crew observed a satellite-related phenomenon. Online discussions following the report noted that a SpaceX [Starlink]({{ 'starlink-62fea8/' | relative_url }}) launch had occurred earlier that same day and suggested that sunlight reflecting from satellites or associated hardware could potentially create unusual high-altitude visual effects. This explanation has never been officially confirmed for the Hudson Bay sighting, but it demonstrates how modern satellite constellations have become part of the explanation landscape for some recent pilot reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO reported by Delta Air Lines pilot flying over</span><span class="citation-popover-snippet">UFO reported by Delta Air Lines pilot flying over...May 28, 2021 — As others have suggested my bet is what the pilot saw was conne...</span><span class="citation-popover-meta">Published: May 28, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7AgcmoSecg" title="Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer">Pilot Reports a UFO Just Flying By his Plane | &quot;Creepy!&quot;</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 139.2K &middot; Uploaded: October 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7AgcmoSecg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7AgcmoSecg">Open on YouTube</a></p></div></div></div>
@@ -299,9 +299,9 @@ Several factors contribute to this problem:
 * **Relative motion effects:** An aircraft moving at hundreds of kilometres per hour can make stationary or distant objects appear to move dramatically.
 * **High-altitude illumination:** Satellites, rocket debris and atmospheric phenomena may remain sunlit long after the ground below is dark.
 * **Changing viewing angles:** As an aircraft turns or descends, a light can appear to accelerate, climb or change direction even if it is not doing so.
-* **Limited sensor evidence:** Many sightings are witnessed visually but leave no radar, photographic or infrared record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıCanada UFO sightings include reports from airline crews</span><span class="citation-popover-snippet">January 26, 2024 — 26 Jan 2024 — At least 17 reports of unexplained sightings were confirmed in 2023 by CTV News and are contained in an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span>
+* **Limited sensor evidence:** Many sightings are witnessed visually but leave no radar, photographic or infrared record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıCanada UFO sightings include reports from airline crews</span><span class="citation-popover-snippet">January 26, 2024 — 26 Jan 2024 — At least 17 reports of unexplained sightings were confirmed in 2023 by CTV News and are contained in an...</span><span class="citation-popover-meta">Published: January 26, 2024</span></span></span>
 
-This difficulty is well recognised in aviation reporting systems. Transport Canada’s CADORS database [records]({{ 'records-f9e6ac/' | relative_url }}) unusual airborne observations because they may affect safety, not because they have already been identified. A report can therefore be entirely genuine while remaining unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — CADORS data were used to identify where landings be...</span></span></span>
+This difficulty is well recognised in aviation reporting systems. Transport Canada’s CADORS database [records]({{ 'records-f9e6ac/' | relative_url }}) unusual airborne observations because they may affect safety, not because they have already been identified. A report can therefore be entirely genuine while remaining unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — CADORS data were used to identify where landings be...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z1sHnkF-088" title="The TRUTH About Delta 4819 Pilots!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z1sHnkF-088" target="_blank" rel="noopener noreferrer">The TRUTH About Delta 4819 Pilots!</a></p><p class="youtube-embed-meta">Channel: Taking Off</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z1sHnkF-088" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z1sHnkF-088">Open on YouTube</a></p></div></div></div>
@@ -321,194 +321,194 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-3-dark.svg" | relative_url }}" alt="High Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Lights Seem Higher Than Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Lights Seem Higher Than Aircraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains aviation-related sightings and discusses how trained observers assess unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains aviation-related sightings and discusses how trained observers assess unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness observations, misidentifications, and the limits of interpreting unusual lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness observations, misidentifications, and the limits of interpreting unusual lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a framework for evaluating unusual observations and understanding uncertainty in eyewitness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a framework for evaluating unusual observations and understanding uncertainty in eyewitness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made"><img src="{{ '/assets/images/marketplace-covers/823044ffaad25379db51.jpg' | relative_url }}" alt="Listing image for Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Harrier GR3 Pewter Jet Model Royal Hampshire 7.5&quot; In Length. Beautifully Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="high-lights-when-lights-seem-higher-than-aircraft-saskatchewan-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,111 +714,111 @@ Within the broader history of pilot reports over the Canadian Prairies, the Huds
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kindersleysocial.ca  
-   Link: <a href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow">https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</p></details>
+   Link:<a href="https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/" target="_blank" rel="noopener noreferrer nofollow">https://kindersleysocial.ca/2021/05/31/delta-air-lines-pilot-reported-ufo-flying-over-saskatchewan-in-early-may/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delta Air Lines Pilot Reported UFO Flying Over...May 31, 2021 — 31 May 2021 — A pilot with Delta Air Lines reported spotting something “...</p></details>
    Published: May 31, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: civil aviation daily occurrence reporting system cadors  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — CADORS data were used to identify where landings be...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — CADORS data were used to identify where landings be...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: UFO reported by Delta Air Lines pilot flying over  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reported by Delta Air Lines pilot flying over...May 28, 2021 — As others have suggested my bet is what the pilot saw was conne...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/nmvw0p/ufo_reported_by_delta_air_lines_pilot_flying_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reported by Delta Air Lines pilot flying over...May 28, 2021 — As others have suggested my bet is what the pilot saw was conne...</p></details>
    Published: May 28, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>o-pilot, we saw an incredibly bright bluish light...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o-pilot, we saw an incredibly bright bluish light...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1oasvc6/to_the_skywest_and_united_pilots_that_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1oasvc6/to_the_skywest_and_united_pilots_that_reported/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To the SkyWest and United Pilots that reported...People were shining lasers at planes on approach into JFK and just in pure denial. “The...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/1oasvc6/to_the_skywest_and_united_pilots_that_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1oasvc6/to_the_skywest_and_united_pilots_that_reported/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To the SkyWest and United Pilots that reported...People were shining lasers at planes on approach into JFK and just in pure denial. “The...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ised-isde.canada.ca  
    Title: preview [sky canada](&#123;&#123; 'sky-canada/' | relative_url &#125;&#125;) report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the Ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tc.canada.ca  
    Title: ca Advisory Circular (AC) No  
-   Link: <a href="https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no-100-001" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no-100-001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>100-001 - Transports Canada5 Apr 2024 — A system used by pilots to control some or all of the aerodrome lighting, aside from obstacle lig...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/advisory-circulars/advisory-circular-ac-no</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100-001 - Transports Canada5 Apr 2024 — A system used by pilots to control some or all of the aerodrome lighting, aside from obstacle lig...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aa.com.tr  
    Title: Anadolu AjansıCanada UFO sightings include reports from airline crews  
-   Link: <a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2024 — 26 Jan 2024 — At least 17 reports of unexplained sightings were confirmed in 2023 by CTV News and are contained in an...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2024 — 26 Jan 2024 — At least 17 reports of unexplained sightings were confirmed in 2023 by CTV News and are contained in an...</p></details>
    Published: January 26, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publications.gc.ca  
    Title: Transport Canada  
-   Link: <a href="https://publications.gc.ca/collections/collection_2020/tc/T52-2-2-2020-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2020/tc/T52-2-2-2020-1-eng.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ATC visual approach clearance and missed approach procedures for aircraft on an IFR flight plan. Rotating...</p></details>
+   Link:<a href="https://publications.gc.ca/collections/collection_2020/tc/T52-2-2-2020-1-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2020/tc/T52-2-2-2020-1-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATC visual approach clearance and missed approach procedures for aircraft on an IFR flight plan. Rotating...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/air-traffic/airspace-reviews/air-navigation-and-operational-basics-.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/air-traffic/airspace-reviews/air-navigation-and-operational-basics-.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Operational BasicsThe Canadian Aviation Regulations (CARs) 602.14 to 602.16 prescribe the minimum altitudes an aircraf...</p></details>
+   Link:<a href="https://www.navcanada.ca/en/air-traffic/airspace-reviews/air-navigation-and-operational-basics-.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/air-traffic/airspace-reviews/air-navigation-and-operational-basics-.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Operational BasicsThe Canadian Aviation Regulations (CARs) 602.14 to 602.16 prescribe the minimum altitudes an aircraf...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C5Q6DvVurAL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C5Q6DvVurAL/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MULTIPLE PILOTS REPORTS “FLASHING LIGHTS” IN A...A Delta Air Lines pilot&#x27;s final flight turned into a powerful moment over the radio whe...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C5Q6DvVurAL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C5Q6DvVurAL/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MULTIPLE PILOTS REPORTS “FLASHING LIGHTS” IN A...A Delta Air Lines pilot&#x27;s final flight turned into a powerful moment over the radio whe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/251941363127196/posts/1056249999362991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/251941363127196/posts/1056249999362991/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police searching for UFO in North Delta areaThe Popo are out looking for a UFO in North Delta! I knew all this cow tipping was finally go...</p></details>
+   Link:<a href="https://www.facebook.com/groups/251941363127196/posts/1056249999362991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/251941363127196/posts/1056249999362991/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police searching for UFO in North Delta areaThe Popo are out looking for a UFO in North Delta! I knew all this cow tipping was finally go...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lois-laws.justice.gc.ca  
-   Link: <a href="https://lois-laws.justice.gc.ca/eng/regulations/sor-96-433/fulltext.html" target="_blank" rel="noopener noreferrer nofollow">https://lois-laws.justice.gc.ca/eng/regulations/sor-96-433/fulltext.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Regulations (SOR /96-433)The operator of an aerodrome may display flare pots to provide temporary lighting for the landing or t...</p></details>
+   Link:<a href="https://lois-laws.justice.gc.ca/eng/regulations/sor-96-433/fulltext.html" target="_blank" rel="noopener noreferrer nofollow">https://lois-laws.justice.gc.ca/eng/regulations/sor-96-433/fulltext.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Regulations (SOR /96-433)The operator of an aerodrome may display flare pots to provide temporary lighting for the landing or t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1438685733057610/posts/3585078461751649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1438685733057610/posts/3585078461751649/</a>  
+   Link:<a href="https://www.facebook.com/groups/1438685733057610/posts/3585078461751649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1438685733057610/posts/3585078461751649/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: an investigation got underway sunday after the flight crew of a delta air lines  
-   Link: <a href="https://www.facebook.com/7NEWS/posts/an-investigation-got-underway-sunday-after-the-flight-crew-of-a-delta-air-lines-/918587866963883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWS/posts/an-investigation-got-underway-sunday-after-the-flight-crew-of-a-delta-air-lines-/918587866963883/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation got underway Sunday after the flight crew...30 Sept 2024 — An investigation got underway Sunday after the flight crew o...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWS/posts/an-investigation-got-underway-sunday-after-the-flight-crew-of-a-delta-air-lines-/918587866963883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWS/posts/an-investigation-got-underway-sunday-after-the-flight-crew-of-a-delta-air-lines-/918587866963883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation got underway Sunday after the flight crew...30 Sept 2024 — An investigation got underway Sunday after the flight crew o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nypost.com  
    Title: credible ufo sightings spotted by jet pilots are being ignored by government  
-   Link: <a href="https://nypost.com/2021/12/01/credible-ufo-sightings-spotted-by-jet-pilots-are-being-ignored-by-government/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/12/01/credible-ufo-sightings-spotted-by-jet-pilots-are-being-ignored-by-government/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Credible&#x27; UFO sightings spotted by jet pilots are being &#x27;...1 Dec 2021 — Credible sightings of UFOs by commercial jet pilots are routin...</p></details>
+   Link:<a href="https://nypost.com/2021/12/01/credible-ufo-sightings-spotted-by-jet-pilots-are-being-ignored-by-government/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/12/01/credible-ufo-sightings-spotted-by-jet-pilots-are-being-ignored-by-government/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Credible&#x27; UFO sightings spotted by jet pilots are being &#x27;...1 Dec 2021 — Credible sightings of UFOs by commercial jet pilots are routin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discoverweyburn.com  
-   Link: <a href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots...</p></details>
+   Link:<a href="https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://discoverweyburn.com/articles/pilots-report-bizarre-lights-when-flying-over-southeast-saskatchewan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report bizarre lights when flying over southeast...13 Feb 2024 — On January 19th, there were reports of lights from pilots...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2021-05-27: UAP Brief to Canada&#x27;s Defense Minister Tom Owens UAP · 61 views Air traffic control audio: Pilots report &#x27;triangles&#x27; over Can...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2021-05-27: UAP Brief to Canada&#x27;s Defense Minister Tom Owens UAP · 61 views Air traffic control audio: Pilots report &#x27;triangles&#x27; over Can...</p></details>
    Published: May 27, 2021  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documentcloud.org  
    Title: 23559555 cirvis aor and tsb reports for 2022 cadors uap cases  
-   Link: <a href="https://www.documentcloud.org/documents/23559555-cirvis-aor-and-tsb-reports-for-2022-cadors-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/23559555-cirvis-aor-and-tsb-reports-for-2022-cadors-uap-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From &#x27;unidentified&#x27; objects to a &#x27;strange light&#x27;: What pilots...These include four aviation occurrence reports (AOR) From &#x27;unidentified&#x27;...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/23559555-cirvis-aor-and-tsb-reports-for-2022-cadors-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/23559555-cirvis-aor-and-tsb-reports-for-2022-cadors-uap-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From &#x27;unidentified&#x27; objects to a &#x27;strange light&#x27;: What pilots...These include four aviation occurrence reports (AOR) From &#x27;unidentified&#x27;...</p></details>

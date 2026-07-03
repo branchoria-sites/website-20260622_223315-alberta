@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-index/
 description: Focused pages that expand on Newfoundland and Labrador.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11
 parent_title: Newfoundland and Labrador
@@ -16,7 +16,7 @@ parent_permalink: /newfoundland-and-labrador/
 
 # Explore Topics in Newfoundland and Labrador
 
-The following pages expand on the main **[Newfoundland and Labrador]({{ '/newfoundland-and-labrador/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Newfoundland and Labrador]({{ '/newfoundland-and-labrador/' | relative_url }})** page and cover its key branches in.
 
 - [Clarenville]({{ '/clarenville/' | relative_url }})
 - [Gander]({{ '/gander/' | relative_url }})

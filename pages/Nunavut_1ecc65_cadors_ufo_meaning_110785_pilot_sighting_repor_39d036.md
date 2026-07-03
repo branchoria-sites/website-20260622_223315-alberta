@@ -262,18 +262,18 @@ image: /assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_re
 
 ## Introduction
 
-When a pilot in [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) reports an unusual light, object or aerial phenomenon, the sighting does not go straight into a public database as a confirmed mystery. Instead, it moves through a reporting chain designed for aviation safety. In many cases, the first concern is practical rather than extraordinary: could the object affect aircraft operations, [airspace]({{ 'airspace/' | relative_url }}) awareness or flight safety? If the event meets reporting criteria, air traffic services personnel and aviation authorities may create an entry in Transport Canada’s Civil Aviation Daily Occurrence Reporting System (CADORS), where it becomes part of the public aviation record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System ...15 Jul 2021 — Air Traffic Services (ATS) operations certificate h...</span></span></span>
+When a pilot in [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}) reports an unusual light, object or aerial phenomenon, the sighting does not go straight into a public database as a confirmed mystery. Instead, it moves through a reporting chain designed for aviation safety. In many cases, the first concern is practical rather than extraordinary: could the object affect aircraft operations, [airspace]({{ 'airspace/' | relative_url }}) awareness or flight safety? If the event meets reporting criteria, air traffic services personnel and aviation authorities may create an entry in Transport Canada’s Civil Aviation Daily Occurrence Reporting System (CADORS), where it becomes part of the public aviation record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System ...15 Jul 2021 — Air Traffic Services (ATS) operations certificate h...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-1-dark.svg" | relative_url }}" alt="Report Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This process is particularly important in Nunavut. The territory’s vast distances, sparse ground observation networks and heavy reliance on aviation mean that pilots are often the first people to notice unusual activity in the sky. As a result, [pilot reports]({{ 'pilot-report/' | relative_url }}) have become one of the most significant sources of officially documented UFO-related observations in the North. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
+This process is particularly important in Nunavut. The territory’s vast distances, sparse ground observation networks and heavy reliance on aviation mean that pilots are often the first people to notice unusual activity in the sky. As a result, [pilot reports]({{ 'pilot-report/' | relative_url }}) have become one of the most significant sources of officially documented UFO-related observations in the North.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nunatsiaq.com">[Nunatsiaq News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nunatsiaq.com</span><span class="citation-popover-title">65674pilots spot possible ufo above nunavuts northern baffin island</span><span class="citation-popover-snippet">24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuwQMa0xL28" title="Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer">Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023</a></p><p class="youtube-embed-meta">Channel: daniel otis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuwQMa0xL28">Open on YouTube</a></p></div></div></div>
 
 ## From cockpit report to air traffic services
 
-A pilot who sees an unidentified object will typically report it through normal aviation communication channels. Depending on the circumstances, that may involve speaking directly with air traffic control, a flight service station, company operations personnel or other aviation authorities responsible for monitoring flight activity. The key point is that the report begins as an operational observation rather than a paranormal claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System ...15 Jul 2021 — Air Traffic Services (ATS) operations certificate h...</span></span></span>
+A pilot who sees an unidentified object will typically report it through normal aviation communication channels. Depending on the circumstances, that may involve speaking directly with air traffic control, a flight service station, company operations personnel or other aviation authorities responsible for monitoring flight activity. The key point is that the report begins as an operational observation rather than a paranormal claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">Transport CanadaThe Civil Aviation Daily Occurrence Reporting System ...15 Jul 2021 — Air Traffic Services (ATS) operations certificate h...</span></span></span>
 
 In a Nunavut scenario, a flight crew might report:
 
@@ -287,9 +287,9 @@ In a Nunavut scenario, a flight crew might report:
 
 </div>
 
-Controllers and aviation personnel record the information they receive, including location, time, altitude, aircraft involved and any immediate safety concerns. If the occurrence falls within reporting requirements, it enters the broader aviation occurrence reporting system. Canadian regulations require holders of Air Traffic Services (ATS) certificates to report specified aviation occurrences to the Minister according to CADORS procedures. Department of Justice Canada+2Department of Justice Canada <span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws-lois.justice.gc.ca">[laws-lois.justice.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws-lois.justice.gc.ca</span><span class="citation-popover-snippet">Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433)807.01 The holder of an ATS operations certificate shall report t...</span></span></span>
+Controllers and aviation personnel record the information they receive, including location, time, altitude, aircraft involved and any immediate safety concerns. If the occurrence falls within reporting requirements, it enters the broader aviation occurrence reporting system. Canadian regulations require holders of Air Traffic Services (ATS) certificates to report specified aviation occurrences to the Minister according to CADORS procedures. Department of Justice Canada+2Department of Justice Canada<span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws-lois.justice.gc.ca">[laws-lois.justice.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws-lois.justice.gc.ca</span><span class="citation-popover-snippet">Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433)807.01 The holder of an ATS operations certificate shall report t...</span></span></span>
 
-For readers examining Nunavut UFO history, this means that the appearance of a sighting in CADORS usually indicates that it was serious enough to be reported through official aviation channels. It does not mean investigators have determined what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwapps.tc.gc.ca">[wwwapps.tc.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwapps.tc.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+For readers examining Nunavut UFO history, this means that the appearance of a sighting in CADORS usually indicates that it was serious enough to be reported through official aviation channels. It does not mean investigators have determined what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwapps.tc.gc.ca">[wwwapps.tc.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwapps.tc.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-3-dark.svg" | relative_url }}" alt="Report Chain illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -298,7 +298,7 @@ For readers examining Nunavut UFO history, this means that the appearance of a s
 
 ## NAV CANADA's role in CADORS entries
 
-NAV CANADA occupies a central position in the reporting chain because it operates Canada's civil air navigation system and handles much of the country's air traffic services activity. Independent aviation references note that NAV CANADA is the main provider of CADORS occurrence information, supplying the majority of reports entered into the system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Civil Aviation Daily Occurrence Reporting System (CADORS)Under the Canadian Aeronautics Act, there is a mandatory requirement for...</span></span></span>
+NAV CANADA occupies a central position in the reporting chain because it operates Canada's civil air navigation system and handles much of the country's air traffic services activity. Independent aviation references note that NAV CANADA is the main provider of CADORS occurrence information, supplying the majority of reports entered into the system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Civil Aviation Daily Occurrence Reporting System (CADORS)Under the Canadian Aeronautics Act, there is a mandatory requirement for...</span></span></span>
 
 The reporting flow generally works as follows:
 
@@ -351,194 +351,194 @@ Within Nunavut's UFO record, CADORS entries are valuable because they create a d
 For historians, journalists and researchers examining unusual aerial reports in the territory, the reporting chain itself is often as important as the sighting. A pilot observation becomes noteworthy not because CADORS proves what was seen, but because the system preserves an official record of what was reported, when it was reported and how aviation authorities initially handled the event. [Transport Canada+2open.canada.ca](https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a pilot sighting becomes official. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a pilot sighting becomes official. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how pilot sightings are documented and evaluated by aviation and government authorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how pilot sightings are documented and evaluated by aviation and government authorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains reporting, classification, and investigation of unidentified aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reporting, classification, and investigation of unidentified aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for how unusual aerial observations can intersect with aviation, defense, and aircraft identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how unusual aerial observations can intersect with aviation, defense, and aircraft identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Offers insight into pilot observation, reporting culture, and operational aviation environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into pilot observation, reporting culture, and operational aviation environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="report-chain-d4f095-how-a-pilot-sighting-becomes-official-nunavut-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For historians, journalists and researchers examining unusual aerial reports in 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For historians, journalists and researchers examining unusual aerial reports in 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For historians, journalists and researchers examining unusual aerial reports in 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For historians, journalists and researchers examining unusual aerial reports in 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For historians, journalists and researchers examining unusual aerial reports in 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,130 +744,130 @@ For historians, journalists and researchers examining unusual aerial reports in 
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: civil aviation daily occurrence reporting system cadors manual tp 4044  
-   Link: <a href="https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaCivil Aviation Daily Occurrence Reporting System (CADORS...5 Sept 2025 — The purpose of the CADORS Manual is to outline...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaCivil Aviation Daily Occurrence Reporting System (CADORS...5 Sept 2025 — The purpose of the CADORS Manual is to outline...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nunatsiaq.com  
    Title: 65674pilots spot possible ufo above nunavuts northern baffin island  
-   Link: <a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/65674pilots_spot_possible_ufo_above_nunavuts_northern_baffin_island/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, as they flew from Iqaluit to the Mary River mine in north Baffin Island.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: open.canada.ca  
-   Link: <a href="https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Report SystemThe system provides initial information on occurrences involving any Canadian-registered air...</p></details>
+   Link:<a href="https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Report SystemThe system provides initial information on occurrences involving any Canadian-registered air...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wwwapps.tc.gc.ca  
-   Link: <a href="https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=" target="_blank" rel="noopener noreferrer nofollow">https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=</a>  
+   Link:<a href="https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=" target="_blank" rel="noopener noreferrer nofollow">https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/rd.aspx?occdtefrom%3D2010-01-01%26occdteto%3D2024-02-25%26srchfldcd%3D6%26txt%3DUFO%26srchtype%3D3%26rt%3DWS%26hypl%3Dy%26cnum%3D2011O0003=</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wwwapps.tc.gc.ca  
-   Link: <a href="https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/rd.aspx?cno%3D%26dtef%3D2017-06-25%26dtet%3D2017-06-27%26otp%3D-1%26ftop%3D%253e%253d%26ftno%3D0%26ijop%3D%253e%253d%26ijno%3D0%26olc%3D%26prv%3DAB%26rgn%3D5%26tsbno%3D%26tsbi%3D-1%26arno%3D%26ocatno%3D%26ocatop%3D1%26oevtno%3D%26oevtop%3D1%26evtacoc%3D3%26fltno%3D%26fltr%3D-1%26cars%3D-1%26acat%3D-1%26nar%3D%26aiddl%3D-1%26aidxt%3D%26optdl%3D-1%26optcomt%3D%26optseq%3D%26optxt%3D%26opdlxt%3DResults%2Bwill%2Bappear%2Bin%2Bthis%2Blist%26mkdl%3D-1%26mkxt%3D%26mdldl%3D-1%26mdlxt%3D%26cmkdl%3DC%26cmkxt%3D%26rt%3DQR%26hypl%3Dy%26cnum%3D2017C2958=" target="_blank" rel="noopener noreferrer nofollow">https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/rd.aspx?cno%3D%26dtef%3D2017-06-25%26dtet%3D2017-06-27%26otp%3D-1%26ftop%3D%253e%253d%26ftno%3D0%26ijop%3D%253e%253d%26ijno%3D0%26olc%3D%26prv%3DAB%26rgn%3D5%26tsbno%3D%26tsbi%3D-1%26arno%3D%26ocatno%3D%26ocatop%3D1%26oevtno%3D%26oevtop%3D1%26evtacoc%3D3%26fltno%3D%26fltr%3D-1%26cars%3D-1%26acat%3D-1%26nar%3D%26aiddl%3D-1%26aidxt%3D%26optdl%3D-1%26optcomt%3D%26optseq%3D%26optxt%3D%26opdlxt%3DResults%2Bwill%2Bappear%2Bin%2Bthis%2Blist%26mkdl%3D-1%26mkxt%3D%26mdldl%3D-1%26mdlxt%3D%26cmkdl%3DC%26cmkxt%3D%26rt%3DQR%26hypl%3Dy%26cnum%3D2017C2958=</a>  
+   Link:<a href="https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/rd.aspx?cno%3D%26dtef%3D2017-06-25%26dtet%3D2017-06-27%26otp%3D-1%26ftop%3D%253e%253d%26ftno%3D0%26ijop%3D%253e%253d%26ijno%3D0%26olc%3D%26prv%3DAB%26rgn%3D5%26tsbno%3D%26tsbi%3D-1%26arno%3D%26ocatno%3D%26ocatop%3D1%26oevtno%3D%26oevtop%3D1%26evtacoc%3D3%26fltno%3D%26fltr%3D-1%26cars%3D-1%26acat%3D-1%26nar%3D%26aiddl%3D-1%26aidxt%3D%26optdl%3D-1%26optcomt%3D%26optseq%3D%26optxt%3D%26opdlxt%3DResults%2Bwill%2Bappear%2Bin%2Bthis%2Blist%26mkdl%3D-1%26mkxt%3D%26mdldl%3D-1%26mdlxt%3D%26cmkdl%3DC%26cmkxt%3D%26rt%3DQR%26hypl%3Dy%26cnum%3D2017C2958=" target="_blank" rel="noopener noreferrer nofollow">https://wwwapps.tc.gc.ca/saf-sec-sur/2/cadors-screaq/rd.aspx?cno%3D%26dtef%3D2017-06-25%26dtet%3D2017-06-27%26otp%3D-1%26ftop%3D%253e%253d%26ftno%3D0%26ijop%3D%253e%253d%26ijno%3D0%26olc%3D%26prv%3DAB%26rgn%3D5%26tsbno%3D%26tsbi%3D-1%26arno%3D%26ocatno%3D%26ocatop%3D1%26oevtno%3D%26oevtop%3D1%26evtacoc%3D3%26fltno%3D%26fltr%3D-1%26cars%3D-1%26acat%3D-1%26nar%3D%26aiddl%3D-1%26aidxt%3D%26optdl%3D-1%26optcomt%3D%26optseq%3D%26optxt%3D%26opdlxt%3DResults%2Bwill%2Bappear%2Bin%2Bthis%2Blist%26mkdl%3D-1%26mkxt%3D%26mdldl%3D-1%26mdlxt%3D%26cmkdl%3DC%26cmkxt%3D%26rt%3DQR%26hypl%3Dy%26cnum%3D2017C2958=</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Reporting System (CADORS)Under the Canadian Aeronautics Act, there is a mandatory requirement for...</p></details>
+   Link:<a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Reporting System (CADORS)Under the Canadian Aeronautics Act, there is a mandatory requirement for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada is aware of the recent sightings and events of Unidentif...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tc.canada.ca  
    Title: report incident affecting airport aerodrome safety  
-   Link: <a href="https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an incident affecting airport or aerodrome safety8 Jun 2023 — Transport Canada&#x27;s Civil Aviation Daily Occurrence Reporting System (CADORS...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an incident affecting airport or aerodrome safety8 Jun 2023 — Transport Canada&#x27;s Civil Aviation Daily Occurrence Reporting System (CADORS...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tc.canada.ca  
-   Link: <a href="https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FROM STANDARDS SPECIFIED IN THE...31 Jan 2009 — Section 807.01 stipulates that the holder of an ATS operations certificate shall report...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FROM STANDARDS SPECIFIED IN THE...31 Jan 2009 — Section 807.01 stipulates that the holder of an ATS operations certificate shall report...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tc.canada.ca  
    Title: Search Civil Aviation Daily Occurrence Reporting System (CADORS)  
-   Link: <a href="https://tc.canada.ca/en/aviation/aviation-accidents-investigations/emergencies-incident-reporting" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-accidents-investigations/emergencies-incident-reporting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Incident Reporting - Transports CanadaJan 7, 2020 — The Transportation Safety Board of Canada is the official source of aviation...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/aviation-accidents-investigations/emergencies-incident-reporting" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-accidents-investigations/emergencies-incident-reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Incident Reporting - Transports CanadaJan 7, 2020 — The Transportation Safety Board of Canada is the official source of aviation...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nunatsiaq.com  
-   Link: <a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our top 10 stories of 201831 Dec 2018 — The top news story of 2018 on Nunatsiaq.com: a UFO sighting in northern Baffin Island...</p></details>
+   Link:<a href="https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/" target="_blank" rel="noopener noreferrer nofollow">https://nunatsiaq.com/stories/article/our-top-10-stories-of-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our top 10 stories of 201831 Dec 2018 — The top news story of 2018 on Nunatsiaq.com: a UFO sighting in northern Baffin Island...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: laws-lois.justice.gc.ca  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433)807.01 The holder of an ATS operations certificate shall report t...</p></details>
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433)807.01 The holder of an ATS operations certificate shall report t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: laws-lois.justice.gc.ca  
    Title: Department of Justice Canada Canadian Aviation Regulations (SOR /96-433)  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433) - Justice Canada807.01 The holder of an ATS operations certifica...</p></details>
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice CanadaCanadian Aviation Regulations (SOR /96-433) - Justice Canada807.01 The holder of an ATS operations certifica...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
+   Link:<a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/hbrcih/cador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/hbrcih/cador/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cador: r/flyingAll a CADOR is is an official report of some kind of incident. It can be about an airspace or runway incursion, a bird st...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/hbrcih/cador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/hbrcih/cador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cador: r/flyingAll a CADOR is is an official report of some kind of incident. It can be about an airspace or runway incursion, a bird st...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Graphical-representation-of-Civil-Aviation-Daily-Occurrence-Reporting-System-CADORS_fig1_379689369" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Graphical-representation-of-Civil-Aviation-Daily-Occurrence-Reporting-System-CADORS_fig1_379689369</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Graphical representation of Civil Aviation Daily Occurrence...Download scientific diagram | Graphical representation of Civil Aviation D...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Graphical-representation-of-Civil-Aviation-Daily-Occurrence-Reporting-System-CADORS_fig1_379689369" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Graphical-representation-of-Civil-Aviation-Daily-Occurrence-Reporting-System-CADORS_fig1_379689369</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Graphical representation of Civil Aviation Daily Occurrence...Download scientific diagram | Graphical representation of Civil Aviation D...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bst.gc.ca  
-   Link: <a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of CanadaReport an air transportation occurrenceYou need to report the occurrence if you are the owner, opera...</p></details>
+   Link:<a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of CanadaReport an air transportation occurrenceYou need to report the occurrence if you are the owner, opera...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-j6HAGD8BR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-j6HAGD8BR8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thrilling Pilotviews into Nunavut, Baffin IslandJustPlanes in the cockpit of a FIRST AIR ATR-42 bound for Pangnirtung, Nunavut on Baffin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-j6HAGD8BR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-j6HAGD8BR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thrilling Pilotviews into Nunavut, Baffin IslandJustPlanes in the cockpit of a FIRST AIR ATR-42 bound for Pangnirtung, Nunavut on Baffin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cabinradio.ca  
    Title: canadian north crew reports lights in sky over yellowknife  
-   Link: <a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian North crew reports &#x27;lights in sky&#x27; over Yellowknife11 Feb 2023 — The crew of a Canadian North flight in late January reported un...</p></details>
+   Link:<a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian North crew reports &#x27;lights in sky&#x27; over Yellowknife11 Feb 2023 — The crew of a Canadian North flight in late January reported un...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: icao.int  
    Title: 5.2 08 Annex A CADORS Reportable Occurences for CANADA  
-   Link: <a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p># $ CADORS MANUAL TP 4044CADORS REPORTABLE OCCURRENCES 1. Aircraft Accident. The aircraft receives a Traffic Alert and Collision Avoidanc...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p># $ CADORS MANUAL TP 4044CADORS REPORTABLE OCCURRENCES 1. Aircraft Accident. The aircraft receives a Traffic Alert and Collision Avoidanc...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q6JgyhoCyi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6JgyhoCyi8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q6JgyhoCyi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6JgyhoCyi8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: canadacommons.ca  
-   Link: <a href="https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes a systemic approach...Read more...</p></details>
+   Link:<a href="https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes a systemic approach...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NunatsiaqNews/posts/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-islandreport-made-to-no/10156398137969442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NunatsiaqNews/posts/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-islandreport-made-to-no/10156398137969442/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rt made to NORAD following Nov. 24 sighting...</p></details>
+   Link:<a href="https://www.facebook.com/NunatsiaqNews/posts/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-islandreport-made-to-no/10156398137969442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NunatsiaqNews/posts/pilots-report-ufo-sighting-over-nunavuts-northern-baffin-islandreport-made-to-no/10156398137969442/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rt made to NORAD following Nov. 24 sighting...</p></details>

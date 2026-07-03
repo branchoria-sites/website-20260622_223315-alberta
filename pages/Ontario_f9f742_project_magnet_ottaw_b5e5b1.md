@@ -280,7 +280,7 @@ image: /assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-overview-social
 
 ## Introduction
 
-Yes, Ottawa did briefly host something close to a UFO laboratory, but not in the science-fiction sense implied by later folklore. Project Magnet was a small, partly official Department of Transport effort led by engineer Wilbert B. Smith in the early 1950s. Its most famous outpost was an experimental detection station at [Shirley Bay]({{ 'shirley-bay/' | relative_url }}), west of Ottawa, where Smith tried to measure magnetic, radiation, radio and gravity disturbances that he thought might accompany unidentified flying objects. The project matters in Ontario’s UFO history because it turned “flying saucer” curiosity into a federal, instrument-based experiment on Canadian soil. It did not prove extraterrestrial visitation, and later official summaries describe its detection efforts as unsuccessful, but it left a unusually clear paper trail in Canadian [archives]({{ 'archives-675dfa/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS+2ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+Yes, Ottawa did briefly host something close to a UFO laboratory, but not in the science-fiction sense implied by later folklore. Project Magnet was a small, partly official Department of Transport effort led by engineer Wilbert B. Smith in the early 1950s. Its most famous outpost was an experimental detection station at [Shirley Bay]({{ 'shirley-bay/' | relative_url }}), west of Ottawa, where Smith tried to measure magnetic, radiation, radio and gravity disturbances that he thought might accompany unidentified flying objects. The project matters in Ontario’s UFO history because it turned “flying saucer” curiosity into a federal, instrument-based experiment on Canadian soil. It did not prove extraterrestrial visitation, and later official summaries describe its detection efforts as unsuccessful, but it left a unusually clear paper trail in Canadian [archives]({{ 'archives-675dfa/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS+2ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-overview.webp" | relative_url }}" alt="Overview image for Project Magnet" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,25 +288,25 @@ Project Magnet is best understood as a Cold War boundary case: part serious engi
 
 ## How Project Magnet began
 
-Project Magnet began with Wilbert Brockhouse Smith, an electrical engineer working for the Department of Transport in Ottawa. Smith’s day job was not fringe science. According to the University of Toronto Institute for Aerospace Studies, his main research interest was geomagnetism within the federal Telecommunications Division, and Canadian government agencies including the Department of Transport, Defence Research Board, National Research Council and Department of National Defence were already receiving and documenting UFO reports from the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+Project Magnet began with Wilbert Brockhouse Smith, an electrical engineer working for the Department of Transport in Ottawa. Smith’s day job was not fringe science. According to the University of Toronto Institute for Aerospace Studies, his main research interest was geomagnetism within the federal Telecommunications Division, and Canadian government agencies including the Department of Transport, Defence Research Board, National Research Council and Department of National Defence were already receiving and documenting UFO reports from the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
-The unusual step was Smith’s attempt to link those reports with a possible physical mechanism. He believed that unidentified objects, if real, might operate through effects connected with the Earth’s magnetic field. The Office of the Chief Science Advisor’s Sky Canada Project summarises the 1950 decision clearly: the Department of Transport granted Smith permission to conduct part-time research into whether some UFOs could use the Earth’s magnetic field as a source of propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The unusual step was Smith’s attempt to link those reports with a possible physical mechanism. He believed that unidentified objects, if real, might operate through effects connected with the Earth’s magnetic field. The Office of the Chief Science Advisor’s Sky Canada Project summarises the 1950 decision clearly: the Department of Transport granted Smith permission to conduct part-time research into whether some UFOs could use the Earth’s magnetic field as a source of propulsion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-That framing is important. Project Magnet did not begin as a public UFO hotline or a permanent investigative agency. It began as a small research proposal that could be made to fit, at least loosely, within existing federal work on radio, ionospheric and magnetic phenomena. Matthew Hayes’s academic history of Canadian UFO investigation argues that Smith was able to “shoehorn” UFO research into the Department of Transport’s existing scientific interests; without Smith’s personal drive, Canada might not have entered the UFO field in quite this way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+That framing is important. Project Magnet did not begin as a public UFO hotline or a permanent investigative agency. It began as a small research proposal that could be made to fit, at least loosely, within existing federal work on radio, ionospheric and magnetic phenomena. Matthew Hayes’s academic history of Canadian UFO investigation argues that Smith was able to “shoehorn” UFO research into the Department of Transport’s existing scientific interests; without Smith’s personal drive, Canada might not have entered the UFO field in quite this way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
-Smith’s approach differed from the more familiar model of simply collecting witness reports. He wanted physical data. His assumption was that if UFOs were real machines, they might disturb measurable fields around them. That made Project Magnet especially distinctive within Ontario’s UFO record: its centre of gravity was not a dramatic public sighting over Toronto or a rural close encounter, but a federal engineer trying to convert witness claims into instrument readings at an Ottawa-area facility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+Smith’s approach differed from the more familiar model of simply collecting witness reports. He wanted physical data. His assumption was that if UFOs were real machines, they might disturb measurable fields around them. That made Project Magnet especially distinctive within Ontario’s UFO record: its centre of gravity was not a dramatic public sighting over Toronto or a rural close encounter, but a federal engineer trying to convert witness claims into instrument readings at an Ottawa-area facility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-1-dark.svg" | relative_url }}" alt="Project Magnet illustration 1" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Shirley Bay tried to measure
 
-The “UFO laboratory” was at Shirley Bay, an Ottawa-area research site west of the city. The University of Toronto account says Smith established a government experimental detection facility there to monitor anomalies in local magnetic and radiation fields. Later specialist summaries describe the station as a small observatory intended to capture physical signatures: radio noise, gravitational disturbances, radioactivity and magnetic disturbances were all treated as possible clues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+The “UFO laboratory” was at Shirley Bay, an Ottawa-area research site west of the city. The University of Toronto account says Smith established a government experimental detection facility there to monitor anomalies in local magnetic and radiation fields. Later specialist summaries describe the station as a small observatory intended to capture physical signatures: radio noise, gravitational disturbances, radioactivity and magnetic disturbances were all treated as possible clues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 The logic was simple, even if the assumptions were highly speculative. A witness report could be mistaken, exaggerated or impossible to verify after the event. An instrument trace, by contrast, looked like evidence that could be recorded, compared and argued over. Smith’s Shirley Bay set-up therefore tried to answer a practical question: could a UFO be detected without relying on someone seeing it first?
 
-The equipment did not make Project Magnet a large, well-funded laboratory. It was closer to a small experimental station run around the edges of Smith’s official work. Hayes’s study notes that the Project Magnet team was small, part-time and constrained by ordinary Department of Transport duties. That helps explain why the project could be both officially authorised and institutionally fragile: it existed inside government, but it never became a stable government programme with broad scientific backing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
+The equipment did not make Project Magnet a large, well-funded laboratory. It was closer to a small experimental station run around the edges of Smith’s official work. Hayes’s study notes that the Project Magnet team was small, part-time and constrained by ordinary Department of Transport duties. That helps explain why the project could be both officially authorised and institutionally fragile: it existed inside government, but it never became a stable government programme with broad scientific backing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collections</span></span></span>
 
-The most famous Shirley Bay claim concerns an unexplained instrument event. UTIAS records that Smith observed one dramatic change in a magnetic-field detector, but that it was never explained. Popular retellings often connect this to an August 1954 event at Shirley Bay, when equipment allegedly registered an unusual disturbance under heavy cloud, leaving only the instrument trace rather than a visual observation. The cautious reading is that the trace was interesting to Smith, but it was not enough to establish what caused it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+The most famous Shirley Bay claim concerns an unexplained instrument event. UTIAS records that Smith observed one dramatic change in a magnetic-field detector, but that it was never explained. Popular retellings often connect this to an August 1954 event at Shirley Bay, when equipment allegedly registered an unusual disturbance under heavy cloud, leaving only the instrument trace rather than a visual observation. The cautious reading is that the trace was interesting to Smith, but it was not enough to establish what caused it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 That difference between “unexplained” and “proven extraordinary” is the key to the case. An anomalous reading can result from equipment behaviour, local interference, environmental conditions, aircraft, operator error or a real external event. Without independent confirmation, repeated measurements or a clear chain from reading to object, the Shirley Bay episode remains unresolved rather than evidentially decisive.
 
@@ -315,13 +315,13 @@ That difference between “unexplained” and “proven extraordinary” is the 
 
 ## Why the evidence stayed unresolved
 
-Project Magnet’s weakness was not that it asked a foolish question. The stronger criticism is that it could not produce reliable, repeatable evidence that convinced other scientists or officials. The Sky Canada Project states that Smith’s detection efforts were unsuccessful, attracted media interest and unwelcome attention for the department, and that he could not persuade colleagues of the merit of his research. After the Department of Transport ended Project Magnet in 1954, Smith continued privately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Project Magnet’s weakness was not that it asked a foolish question. The stronger criticism is that it could not produce reliable, repeatable evidence that convinced other scientists or officials. The Sky Canada Project states that Smith’s detection efforts were unsuccessful, attracted media interest and unwelcome attention for the department, and that he could not persuade colleagues of the merit of his research. After the Department of Transport ended Project Magnet in 1954, Smith continued privately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 The difficulty was partly scientific. Smith’s hypothesis required instruments to detect a phenomenon whose nature, timing and expected signature were not established. That made interpretation slippery. If a detector showed nothing, believers could say no UFO had appeared. If it showed a spike, sceptics could ask why the spike should be attributed to a UFO rather than to ordinary interference or instrument behaviour. The result was a project that could accumulate suggestive moments without producing a robust test.
 
-The difficulty was also institutional. Project Magnet’s public visibility grew faster than official confidence in its findings. The Literary Review of Canada, discussing Hayes’s book, describes the project as Canada’s first official UFO investigation by virtue of its sponsors, but also notes that the Defence Research Board later judged flying-saucer reports as neither a security threat nor a useful scientific opportunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewcanada.ca">[Literary Review of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewcanada.ca</span><span class="citation-popover-title">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span><span class="citation-popover-snippet">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span></span></span>
+The difficulty was also institutional. Project Magnet’s public visibility grew faster than official confidence in its findings. The Literary Review of Canada, discussing Hayes’s book, describes the project as Canada’s first official UFO investigation by virtue of its sponsors, but also notes that the Defence Research Board later judged flying-saucer reports as neither a security threat nor a useful scientific opportunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewcanada.ca">[Literary Review of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewcanada.ca</span><span class="citation-popover-title">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span><span class="citation-popover-snippet">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span></span></span>
 
-That judgement did not end Canadian UFO record-keeping. It did, however, shift the centre of gravity away from Smith’s personal experiment. Project Second Storey, created in 1952 by the Defence Research Board, brought together scientific, military and intelligence-linked officials under the chairmanship of NRC astronomer Peter Millman. The Sky Canada Project says that committee developed a standard reporting form, held six meetings between 1952 and 1954, and recommended ending military investigations after concluding UFOs were not a security threat or of scientific interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+That judgement did not end Canadian UFO record-keeping. It did, however, shift the centre of gravity away from Smith’s personal experiment. Project Second Storey, created in 1952 by the Defence Research Board, brought together scientific, military and intelligence-linked officials under the chairmanship of NRC astronomer Peter Millman. The Sky Canada Project says that committee developed a standard reporting form, held six meetings between 1952 and 1954, and recommended ending military investigations after concluding UFOs were not a security threat or of scientific interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For readers, the important distinction is this: Project Magnet tried to detect and interpret UFOs as a possible physical technology; Project Second Storey treated the subject more as a reporting, assessment and security-management problem. The former was more imaginative and experimental. The latter was more bureaucratic and sceptical. Both emerged from Ottawa, and both show why Ontario’s UFO history is inseparable from federal decision-making.
 
@@ -329,22 +329,22 @@ For readers, the important distinction is this: Project Magnet tried to detect a
 <img src="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-2-dark.svg" | relative_url }}" alt="Project Magnet illustration 2" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Ottawa’s records actually preserve
 
-The Project Magnet story is unusually traceable because Canadian UFO files survived in public collections. Library and Archives Canada states that its government UFO records came from the Department of National Defence, Department of Transport, National Research Council and Royal Canadian Mounted Police. The collection covers records accumulated between 1947 and the early 1980s and includes about 9,500 digitised documents, including correspondence, reports, memos and procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The Project Magnet story is unusually traceable because Canadian UFO files survived in public collections. Library and Archives Canada states that its government UFO records came from the Department of National Defence, Department of Transport, National Research Council and Royal Canadian Mounted Police. The collection covers records accumulated between 1947 and the early 1980s and includes about 9,500 digitised documents, including correspondence, reports, memos and procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-Those records are not a single, tidy case file proving one conclusion. They are a patchwork: official correspondence, sighting forms, policy notes, public enquiries and departmental records created for different purposes. LAC itself warns that researchers need varied search strategies because some documents have dates, some do not; some name locations, while others do not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Those records are not a single, tidy case file proving one conclusion. They are a patchwork: official correspondence, sighting forms, policy notes, public enquiries and departmental records created for different purposes. LAC itself warns that researchers need varied search strategies because some documents have dates, some do not; some name locations, while others do not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 That archival messiness matters. It makes Project Magnet more credible as a historical episode than many UFO legends, because there are real institutional traces. But it also weakens the strongest extraordinary claims, because a paper trail is not the same as proof of the object Smith hoped to detect. The files show that federal officials took the subject seriously enough to discuss, record and sometimes investigate; they do not show that Ottawa confirmed alien craft.
 
-The University of Ottawa’s Arthur Bray fonds adds another layer. Search results from the university archive identify Project Magnet material among Wilbert Smith-related correspondence and documents, while Sky Canada’s notes cite a Project Second Storey reporting form preserved as a reprint of a Project Magnet report file in the University of Ottawa Archives. This underlines how the surviving evidence is divided between federal holdings and private or donated archival collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcs-atom.uottawa.ca">[Arcs Atom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcs-atom.uottawa.ca</span><span class="citation-popover-title">Arcs Atom Research on Wilbert B</span><span class="citation-popover-snippet">Smith - University of OttawaThe series is divided into four sub series, which pertain to Mr. Smith&#x27;s involvement with Project Magnet and...</span></span></span>
+The University of Ottawa’s Arthur Bray fonds adds another layer. Search results from the university archive identify Project Magnet material among Wilbert Smith-related correspondence and documents, while Sky Canada’s notes cite a Project Second Storey reporting form preserved as a reprint of a Project Magnet report file in the University of Ottawa Archives. This underlines how the surviving evidence is divided between federal holdings and private or donated archival collections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcs-atom.uottawa.ca">[Arcs Atom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcs-atom.uottawa.ca</span><span class="citation-popover-title">Arcs Atom Research on Wilbert B</span><span class="citation-popover-snippet">Smith - University of OttawaThe series is divided into four sub series, which pertain to Mr. Smith&#x27;s involvement with Project Magnet and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OYSKEKuHSAw" title="Wilbert Smith on UFOs Project Magnet and his Contacts with the Boys from Topside Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OYSKEKuHSAw" target="_blank" rel="noopener noreferrer">Wilbert Smith on UFOs Project Magnet and his Contacts with the Boys from Topside Part 1</a></p><p class="youtube-embed-meta">Channel: ISleepNow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OYSKEKuHSAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OYSKEKuHSAw">Open on YouTube</a></p></div></div></div>
 
 ## What Project Magnet changed in Ontario’s UFO history
 
-Project Magnet changed Ontario’s UFO history less by solving the UFO question than by setting a pattern that recurred for decades. Reports came in; officials tried to classify, explain or contain them; members of the public suspected secrecy; and records moved between agencies as departments tried to avoid becoming permanent UFO authorities. The Sky Canada Project describes this wider Canadian history as fragmented, with responsibility shifting between federal organisations and no continuous, cohesive reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Project Magnet changed Ontario’s UFO history less by solving the UFO question than by setting a pattern that recurred for decades. Reports came in; officials tried to classify, explain or contain them; members of the public suspected secrecy; and records moved between agencies as departments tried to avoid becoming permanent UFO authorities. The Sky Canada Project describes this wider Canadian history as fragmented, with responsibility shifting between federal organisations and no continuous, cohesive reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-Ottawa’s role was therefore double-edged. On one hand, federal institutions gave Canadian UFO reports a formal archival afterlife. A sighting or memo could end up in government files rather than disappearing entirely into newspaper gossip. On the other hand, the lack of a stable, transparent system made it easy for suspicion to grow. Hayes’s work, as reviewed in the Literary Review of Canada, connects these early exchanges between officials and citizens with later Canadian debates about secrecy, mistrust and conspiracy theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewcanada.ca">[Literary Review of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewcanada.ca</span><span class="citation-popover-title">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span><span class="citation-popover-snippet">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span></span></span>
+Ottawa’s role was therefore double-edged. On one hand, federal institutions gave Canadian UFO reports a formal archival afterlife. A sighting or memo could end up in government files rather than disappearing entirely into newspaper gossip. On the other hand, the lack of a stable, transparent system made it easy for suspicion to grow. Hayes’s work, as reviewed in the Literary Review of Canada, connects these early exchanges between officials and citizens with later Canadian debates about secrecy, mistrust and conspiracy theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reviewcanada.ca">[Literary Review of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reviewcanada.ca</span><span class="citation-popover-title">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span><span class="citation-popover-snippet">Literary Review of Canada Eyes Like Saucers &#124; Literary Review of Canada</span></span></span>
 
 Within Ontario, Shirley Bay remains the most concrete symbol of that early moment. It was not Area 51, and it should not be inflated into a hidden alien-recovery base. It was a small Ottawa-area station where an engineer pursued a controversial idea with enough official permission to make the episode historically significant, but not enough evidence to convince the institutions around him. That is exactly why it remains useful: it shows how early UFO investigation could be simultaneously official, sincere, speculative and inconclusive.
 
@@ -352,9 +352,9 @@ Within Ontario, Shirley Bay remains the most concrete symbol of that early momen
 <img src="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-3-dark.svg" | relative_url }}" alt="Project Magnet illustration 3" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_project_magnet_ottaw_b5e5b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story still matters
 
-Project Magnet matters today because it complicates two easy myths. The first myth is that governments never took UFO reports seriously. Ottawa clearly did, at least briefly and unevenly. Smith received permission to investigate, equipment was set up at Shirley Bay, Project Second Storey followed, and federal agencies retained thousands of pages of UFO-related records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Project Magnet matters today because it complicates two easy myths. The first myth is that governments never took UFO reports seriously. Ottawa clearly did, at least briefly and unevenly. Smith received permission to investigate, equipment was set up at Shirley Bay, Project Second Storey followed, and federal agencies retained thousands of pages of UFO-related records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-The second myth is that official interest equals official confirmation. The evidence does not support that. Project Magnet generated intriguing claims, an experimental detection effort and a lasting archival footprint, but it did not produce repeatable proof that UFOs were extraterrestrial vehicles or magnetic-propulsion craft. Later Canadian official summaries describe Smith’s detection efforts as unsuccessful and note that his colleagues remained unconvinced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The second myth is that official interest equals official confirmation. The evidence does not support that. Project Magnet generated intriguing claims, an experimental detection effort and a lasting archival footprint, but it did not produce repeatable proof that UFOs were extraterrestrial vehicles or magnetic-propulsion craft. Later Canadian official summaries describe Smith’s detection efforts as unsuccessful and note that his colleagues remained unconvinced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 The most balanced conclusion is that Ottawa did build a UFO laboratory in the limited historical sense: a small, instrumented observatory at Shirley Bay attached to a federal engineer’s authorised research. It was real, local to Ontario, and unusually early in Canadian UFO history. Its results, however, stayed unresolved. The lasting value of Project Magnet is not that it proves what UFOs were, but that it shows how Canada first tried — awkwardly, experimentally and under Cold War pressure — to decide whether unusual things reported in the sky could be turned into a scientific and defence question.
 
@@ -363,194 +363,194 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Ottawa Build A UFO Laboratory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Ottawa Build A UFO Laboratory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places government and scientific UFO investigations like Project Magnet in broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places government and scientific UFO investigations like Project Magnet in broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores government involvement and evidence claims similar to the official dimensions of Project Magnet.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government involvement and evidence claims similar to the official dimensions of Project Magnet.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical and analytical perspectives on unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical and analytical perspectives on unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the same Cold War era during which Project Magnet operated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the same Cold War era during which Project Magnet operated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 Alien A.R.V. UFO UAP Area 51 Mark McCandlish Blueprint Wall Art Poster"><img src="https://i.ebayimg.com/images/g/qlkAAeSwPvlpqD59/s-l225.jpg" alt="Listing image for Large A0 Alien A.R.V. UFO UAP Area 51 Mark McCandlish Blueprint Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Large A0 Alien A.R.V. UFO UAP Area 51 Mark McCandlish Blueprint Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="project-magnet-did-ottawa-build-a-ufo-laboratory-ontario-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE (UFO) - Minimalist Parody Poster Print by Posteritty Saucer"><img src="https://i.ebayimg.com/images/g/3KUAAOSwjjtc1FBW/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE (UFO) - Minimalist Parody Poster Print by Posteritty Saucer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE (UFO) - Minimalist Parody Poster Print by Posteritty Saucer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="did-ottawa-build-a-ufo-laboratory-ufo-poster-series-television-book-books-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,132 +753,131 @@ The most balanced conclusion is that Ottawa did build a UFO laboratory in the li
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: utias.utoronto.ca  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace Studies...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace Studies...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ised-isde.canada.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: digitalcollections.trentu.ca  
    Title: Digital Collections  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ised-isde.canada.ca  
    Title: report sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/rapport-sky-canada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/rapport-sky-canada.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/rapport-sky-canada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/rapport-sky-canada.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: gestion signalements publics phenomenes aeriens non identifies canada  
-   Link: <a href="https://ised-isde.canada.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada?ref=uaplogbook.com</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/fr/bureau-conseillere-scientifique-chef/projet-ciel-canada/gestion-signalements-publics-phenomenes-aeriens-non-identifies-canada?ref=uaplogbook.com</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canadaufohistory.com  
-   Link: <a href="https://www.canadaufohistory.com/1947-1954/project-magnet" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1947-1954/project-magnet</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO HistoryCanada UFO History - Project Magnet...</p></details>
+   Link:<a href="https://www.canadaufohistory.com/1947-1954/project-magnet" target="_blank" rel="noopener noreferrer nofollow">https://www.canadaufohistory.com/1947-1954/project-magnet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO HistoryCanada UFO History - Project Magnet...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reviewcanada.ca  
    Title: Literary Review of Canada Eyes Like Saucers | Literary Review of Canada  
-   Link: <a href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/</a>  
+   Link:<a href="https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://reviewcanada.ca/magazine/2022/07/eyes-like-saucers/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arcs-atom.uottawa.ca  
    Title: Arcs Atom Research on Wilbert B  
-   Link: <a href="https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith - University of OttawaThe series is divided into four sub series, which pertain to Mr. Smith&#x27;s involvement with Project Magnet and...</p></details>
+   Link:<a href="https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/research-on-wilbert-smith</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smith - University of OttawaThe series is divided into four sub series, which pertain to Mr. Smith&#x27;s involvement with Project Magnet and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: radiocom.ca  
    Title: Wilbert Smith  
-   Link: <a href="https://radiocom.ca/z_a_ufo_observatory.htm" target="_blank" rel="noopener noreferrer nofollow">https://radiocom.ca/z_a_ufo_observatory.htm</a>  
+   Link:<a href="https://radiocom.ca/z_a_ufo_observatory.htm" target="_blank" rel="noopener noreferrer nofollow">https://radiocom.ca/z_a_ufo_observatory.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/document/doi/10.1515/9780228012290-006/html?srsltid=AfmBOoriQ9lqOfddvMmbbvA7b1FKFvow50nZ6Q-NaNeh4oypsWuLso6R" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9780228012290-006/html?srsltid=AfmBOoriQ9lqOfddvMmbbvA7b1FKFvow50nZ6Q-NaNeh4oypsWuLso6R</a>  
+   Link:<a href="https://www.degruyterbrill.com/document/doi/10.1515/9780228012290-006/html?srsltid=AfmBOoriQ9lqOfddvMmbbvA7b1FKFvow50nZ6Q-NaNeh4oypsWuLso6R" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9780228012290-006/html?srsltid=AfmBOoriQ9lqOfddvMmbbvA7b1FKFvow50nZ6Q-NaNeh4oypsWuLso6R</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arcs-atom.uottawa.ca  
    Title: ca Project Magnet  
-   Link: <a href="https://arcs-atom.uottawa.ca/index.php/project-magnet" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/project-magnet</a>  
+   Link:<a href="https://arcs-atom.uottawa.ca/index.php/project-magnet" target="_blank" rel="noopener noreferrer nofollow">https://arcs-atom.uottawa.ca/index.php/project-magnet</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mysteriesofcanada.com  
    Title: wilbert smith  
-   Link: <a href="https://mysteriesofcanada.com/canada/wilbert-smith/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriesofcanada.com/canada/wilbert-smith/</a>  
+   Link:<a href="https://mysteriesofcanada.com/canada/wilbert-smith/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriesofcanada.com/canada/wilbert-smith/</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reprint of Project Magnet Report file. X30-3, box 1126.1. University of Ottawa Archives, Ottawa, ON. Return to...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reprint of Project Magnet Report file. X30-3, box 1126.1. University of Ottawa Archives, Ottawa, ON. Return to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ottawarewind.com  
    Title: close encounters of the ottawa kind  
-   Link: <a href="https://ottawarewind.com/2013/12/17/close-encounters-of-the-ottawa-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ottawarewind.com/2013/12/17/close-encounters-of-the-ottawa-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OTTAWA REWINDClose Encounters Of The Ottawa Kind17 Dec 2013 — At 3:01pm on August 8, 1954 the instrumentation at the Shirley&#x27;s Bay instal...</p></details>
+   Link:<a href="https://ottawarewind.com/2013/12/17/close-encounters-of-the-ottawa-kind/" target="_blank" rel="noopener noreferrer nofollow">https://ottawarewind.com/2013/12/17/close-encounters-of-the-ottawa-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OTTAWA REWINDClose Encounters Of The Ottawa Kind17 Dec 2013 — At 3:01pm on August 8, 1954 the instrumentation at the Shirley&#x27;s Bay instal...</p></details>
    Published: August 8, 1954  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=A79-_OFjbJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A79-_OFjbJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilbert Smith on UFOs Project Magnet and his Contacts with the Boys from Topside...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A79-_OFjbJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A79-_OFjbJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wilbert Smith on UFOs Project Magnet and his Contacts with the Boys from Topside...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Wilbert Smith on UFOs Project Magnet and his Contacts with the Boys from Topside  
-   Link: <a href="https://www.youtube.com/watch?v=OYSKEKuHSAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OYSKEKuHSAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Part 2 — Canadian Reports, Research &amp; Disclosure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OYSKEKuHSAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OYSKEKuHSAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Part 2 — Canadian Reports, Research &amp; Disclosure...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Welcome to Bardo: UFO & Psi research. Part 3/4  
-   Link: <a href="https://www.youtube.com/watch?v=f2CHqXnCs5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f2CHqXnCs5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Related Talk, Old Time Radio Show, 1950 Project Magnet Wilbert B Smith...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f2CHqXnCs5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f2CHqXnCs5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Related Talk, Old Time Radio Show, 1950 Project Magnet Wilbert B Smith...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: UFOs Part 1 — Canadian Reports, Research & Disclosure  
-   Link: <a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CS2z-V6Qjsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Bardo: UFO &amp; Psi research. Part 3/4 - VERSADOCO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CS2z-V6Qjsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Bardo: UFO &amp; Psi research. Part 3/4 - VERSADOCO...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/project-magnet-a-chronology-of-ufo-[sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/project-magnet-a-chronology-of-ufo-[sightings</a>  
+   Link:<a href="https://www.experiencersupport.org/declassified/project-magnet-a-chronology-of-ufo-[sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/project-magnet-a-chronology-of-ufo-[sightings</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoricalSocietyOttawa/posts/stranger-thingsandrew-king-asks-whats-going-on-at-shirleys-bay-in-the-latest-rel/2216605178546931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricalSocietyOttawa/posts/stranger-thingsandrew-king-asks-whats-going-on-at-shirleys-bay-in-the-latest-rel/2216605178546931/</a>  
+   Link:<a href="https://www.facebook.com/HistoricalSocietyOttawa/posts/stranger-thingsandrew-king-asks-whats-going-on-at-shirleys-bay-in-the-latest-rel/2216605178546931/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoricalSocietyOttawa/posts/stranger-thingsandrew-king-asks-whats-going-on-at-shirleys-bay-in-the-latest-rel/2216605178546931/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ottawa/comments/3c3v6h/til_that_ottawa_ran_a_ufo_study_program_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ottawa/comments/3c3v6h/til_that_ottawa_ran_a_ufo_study_program_called/</a>  
+   Link:<a href="https://www.reddit.com/r/ottawa/comments/3c3v6h/til_that_ottawa_ran_a_ufo_study_program_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ottawa/comments/3c3v6h/til_that_ottawa_ran_a_ufo_study_program_called/</a>  

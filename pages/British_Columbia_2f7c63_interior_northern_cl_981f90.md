@@ -284,13 +284,13 @@ Interior and northern [British Columbia]({{ 'what-makes-british-columbias-ufo-re
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-overview.webp" | relative_url }}" alt="Overview image for Interior Claims" loading="eager" decoding="sync" fetchpriority="high">
-That is why the useful question is not simply whether these accounts sound dramatic. It is whether they reached a record system, whether multiple witnesses saw the same thing, whether the report contained testable details, and whether later explanations such as meteors, satellites, aircraft, drones, astronomical objects or camera effects fit the facts better. Canada’s federal UFO archive and the Canadian UFO Survey both show that British Columbia has a long reporting history, but they also show why unresolved does not mean confirmed extraordinary technology. Library and Archives Canada says its historic UFO files came from the Department of National Defence, Department of Transport, National Research Council and RCMP, and include about 9,500 digitised documents accumulated between 1947 and the early 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+That is why the useful question is not simply whether these accounts sound dramatic. It is whether they reached a record system, whether multiple witnesses saw the same thing, whether the report contained testable details, and whether later explanations such as meteors, satellites, aircraft, drones, astronomical objects or camera effects fit the facts better. Canada’s federal UFO archive and the Canadian UFO Survey both show that British Columbia has a long reporting history, but they also show why unresolved does not mean confirmed extraordinary technology. Library and Archives Canada says its historic UFO files came from the Department of National Defence, Department of Transport, National Research Council and RCMP, and include about 9,500 digitised documents accumulated between 1947 and the early 1980s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 ## Why the harder cases move inland
 
 British Columbia’s coastal UFO history is shaped by cities, ports, airports and ferry corridors. The Interior and north are different. Reports from these regions often happen along highways, near lakes, above ridgelines, over forest, or around small communities where the nearest airport, weather station or independent observer may be some distance away. This gives the stories a particular tension: witnesses may have darker skies and fewer urban light sources, but investigators may have fewer cross-checks.
 
-The Canadian UFO Survey’s long dataset is useful here because it records not only spectacular reports but also ordinary-looking cases, likely explanations and unresolved classifications. Its public data page makes the compiled national datasets available from 1989 onwards, including the consolidated 1989 to 2025 file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report Canadian UFO Survey Data</span><span class="citation-popover-snippet">Canadian UFO Report Canadian UFO Survey Data</span></span></span> That dataset shows a spread of British Columbia reports outside Vancouver and Victoria: Meldrum Creek, Kleaza Creek, Porcher Island, [Prince George]({{ 'prince-george/' | relative_url }}), Grassmere, [Williams Lake]({{ 'williams-lake/' | relative_url }}), Quesnel, Vanderhoof, Kamloops, Kelowna, Penticton and other Interior or northern locations all appear in different years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg+3Wsimg+3Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
+The Canadian UFO Survey’s long dataset is useful here because it records not only spectacular reports but also ordinary-looking cases, likely explanations and unresolved classifications. Its public data page makes the compiled national datasets available from 1989 onwards, including the consolidated 1989 to 2025 file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report Canadian UFO Survey Data</span><span class="citation-popover-snippet">Canadian UFO Report Canadian UFO Survey Data</span></span></span> That dataset shows a spread of British Columbia reports outside Vancouver and Victoria: Meldrum Creek, Kleaza Creek, Porcher Island, [Prince George]({{ 'prince-george/' | relative_url }}), Grassmere, [Williams Lake]({{ 'williams-lake/' | relative_url }}), Quesnel, Vanderhoof, Kamloops, Kelowna, Penticton and other Interior or northern locations all appear in different years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg+3Wsimg+3Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
 
 The key is that the inland pattern is not one neat “flap” with a single cause. It is a case family: some entries are close-range claims, some are daylight discs or nocturnal discs, some are fireballs, some are probably ordinary lights, and a small minority are marked unresolved or insufficiently explained in the survey’s classification. In plain terms, the Interior and north are not a single mystery zone. They are a set of places where geography, sparse documentation and striking witness descriptions often collide.
 
@@ -298,7 +298,7 @@ The key is that the inland pattern is not one neat “flap” with a single caus
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-1-dark.svg" | relative_url }}" alt="Interior Claims illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meldrum Creek and the close-range problem
 
-The most direct Interior close-range anchor in the Canadian UFO Survey data is the Meldrum Creek entry from 23 June 1989. The record lists Meldrum Creek, British Columbia, at 00:25, with a duration of 480 seconds, one witness, an orange disc, a relatively high strangeness and reliability score, the National Research Council as the source, and an “unknown” evaluation. The short comment is vivid: a “saucer w/windows” flew near the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
+The most direct Interior close-range anchor in the Canadian UFO Survey data is the Meldrum Creek entry from 23 June 1989. The record lists Meldrum Creek, British Columbia, at 00:25, with a duration of 480 seconds, one witness, an orange disc, a relatively high strangeness and reliability score, the National Research Council as the source, and an “unknown” evaluation. The short comment is vivid: a “saucer w/windows” flew near the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
 
 That brief entry explains both the appeal and the weakness of this class of case. It has features that make it more interesting than a distant light: a named rural location, a precise time, an eight-minute duration, an object shape, a colour, a close-range classification and a specific structural detail. A witness who says an object had windows is claiming more than a vague glow in the sky. For UFO historians, that kind of detail makes the case worth preserving.
 
@@ -311,21 +311,21 @@ This matters because close-range language can create a false sense of certainty.
 
 ## Williams Lake shows how clusters can look stronger than one case
 
-Williams Lake and the surrounding Cariboo appear repeatedly in the survey data, and that repetition can make the region feel more evidentially weighty than a single isolated report. In January 1993, for example, the dataset includes a Williams Lake nocturnal disc or close-range-style entry describing a yellow round object seen by two witnesses for 600 seconds, listed with RCMP and National Research Council references and marked unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
+Williams Lake and the surrounding Cariboo appear repeatedly in the survey data, and that repetition can make the region feel more evidentially weighty than a single isolated report. In January 1993, for example, the dataset includes a Williams Lake nocturnal disc or close-range-style entry describing a yellow round object seen by two witnesses for 600 seconds, listed with RCMP and National Research Council references and marked unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
 
-The same search result also shows why clusters need careful handling. On 25 January 1993, several British Columbia and western Canadian entries are listed as fireballs, including Williams Lake, Prince George and other places. Fireball or bolide entries are exactly the sort of thing that can generate many reports over a wide region while still having a natural explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> A cluster can therefore mean two quite different things: either several reports are converging on something genuinely unusual, or many witnesses are seeing the same ordinary but impressive sky event from different places.
+The same search result also shows why clusters need careful handling. On 25 January 1993, several British Columbia and western Canadian entries are listed as fireballs, including Williams Lake, Prince George and other places. Fireball or bolide entries are exactly the sort of thing that can generate many reports over a wide region while still having a natural explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> A cluster can therefore mean two quite different things: either several reports are converging on something genuinely unusual, or many witnesses are seeing the same ordinary but impressive sky event from different places.
 
-Later Williams Lake entries keep that ambiguity alive. In October 2011, the dataset includes several striking Williams Lake triangle or close-range-style reports: a multi-coloured triangular object said to have followed a car, a black triangular object with lights said to have followed a car, and another triangular report where an object crossed the road ahead of a car. Some were marked unknown, while at least one was treated as insufficiently explained rather than confidently resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
+Later Williams Lake entries keep that ambiguity alive. In October 2011, the dataset includes several striking Williams Lake triangle or close-range-style reports: a multi-coloured triangular object said to have followed a car, a black triangular object with lights said to have followed a car, and another triangular report where an object crossed the road ahead of a car. Some were marked unknown, while at least one was treated as insufficiently explained rather than confidently resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
 
 These are exactly the kinds of claims that interest readers: low objects, road encounters, triangles, repeated dates and apparent interaction with a vehicle. Yet they also raise familiar problems. Were the reports independent? Were they prompted by local discussion? Were the dates and times exact? Was there any corroborating video, dashcam footage, phone metadata, aircraft data or astronomical check? A cluster is not automatically stronger evidence; it is stronger only when the records can be compared in detail.
 
 ## Prince George and the northern evidence gap
 
-Prince George is a useful northern case study because it appears in both historic and modern reporting contexts. One commonly cited 1969 account says that, on New Year’s Day, three unrelated witnesses in Prince George reported a strange round object in the late-afternoon sky, radiating yellow-orange light and apparently ascending from about 2,000 to 10,000 feet. Search results for Library and Archives Canada identify this as part of the federal UFO record, although the older database page itself can be difficult to access reliably through modern web tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+Prince George is a useful northern case study because it appears in both historic and modern reporting contexts. One commonly cited 1969 account says that, on New Year’s Day, three unrelated witnesses in Prince George reported a strange round object in the late-afternoon sky, radiating yellow-orange light and apparently ascending from about 2,000 to 10,000 feet. Search results for Library and Archives Canada identify this as part of the federal UFO record, although the older database page itself can be difficult to access reliably through modern web tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 Even taken cautiously, the 1969 Prince George case shows why northern British Columbia can be important in the provincial UFO record. It is not a simple “one person saw a light” story. The claim involves multiple unrelated witnesses, a described object, a reported altitude change and official archiving. Those features make it more substantial than a passing anecdote, even though the public-facing summary does not settle what the object was.
 
-Modern Prince George reporting also illustrates how quickly impressive-looking sightings can become identifiable. In December 2023, local reporting described calls about UFOs in the Prince George sky, including bright red lights and a line of bright white lights captured on video. The article said the line of white lights was identified as a Starlink satellite train, while the red streaking lights were not identified in that short report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastreporter.net">[Coast Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastreporter.net</span><span class="citation-popover-title">Coast Reporter What&#x27;s behind some of the UFO sightings in Prince George?</span><span class="citation-popover-snippet">Coast ReporterWhat&#x27;s behind some of the UFO sightings in Prince George? - Coast Reporter...</span></span></span> This is a useful corrective: the same region can contain both genuinely unresolved reports and highly recognisable modern misidentifications.
+Modern Prince George reporting also illustrates how quickly impressive-looking sightings can become identifiable. In December 2023, local reporting described calls about UFOs in the Prince George sky, including bright red lights and a line of bright white lights captured on video. The article said the line of white lights was identified as a Starlink satellite train, while the red streaking lights were not identified in that short report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastreporter.net">[Coast Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastreporter.net</span><span class="citation-popover-title">Coast Reporter What&#x27;s behind some of the UFO sightings in Prince George?</span><span class="citation-popover-snippet">Coast ReporterWhat&#x27;s behind some of the UFO sightings in Prince George? - Coast Reporter...</span></span></span> This is a useful corrective: the same region can contain both genuinely unresolved reports and highly recognisable modern misidentifications.
 
 For northern close-range claims, the evidence gap is often not witness sincerity. It is the lack of enough independent data to separate a nearby object from a distant one. A satellite train, aircraft lights over a valley, a meteor, a drone, a military or commercial flight, a reflection, or an astronomical object can all look strange when there is little foreground context. Northern British Columbia gives witnesses dramatic skies, but it does not automatically give investigators decisive evidence.
 
@@ -333,11 +333,11 @@ For northern close-range claims, the evidence gap is often not witness sincerity
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-2-dark.svg" | relative_url }}" alt="Interior Claims illustration 2" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Okanagan pattern is active but uneven
 
-The Okanagan is one of the most productive Interior regions for recent public UFO reporting, partly because it has a chain of populated communities, open views across lakes and mountains, and strong local media interest. A Kelowna report from July 2021, discussed by Kelowna10, described a white or metallic spherical object seen from Ben Lee Park, moving, stopping, climbing and then returning to its original area. The article said this was the lone official Kelowna sighting in the 2021 Canadian UFO Survey, while other Okanagan reports included a Peachland orange fireball and Penticton sightings, including a grey cigar-shaped object with a row of lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelowna10.com">[Kelowna10]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelowna10.com</span><span class="citation-popover-title">Recounting this Kelowna UFO sighting</span><span class="citation-popover-snippet">Recounting this Kelowna UFO sighting...</span></span></span>
+The Okanagan is one of the most productive Interior regions for recent public UFO reporting, partly because it has a chain of populated communities, open views across lakes and mountains, and strong local media interest. A Kelowna report from July 2021, discussed by Kelowna10, described a white or metallic spherical object seen from Ben Lee Park, moving, stopping, climbing and then returning to its original area. The article said this was the lone official Kelowna sighting in the 2021 Canadian UFO Survey, while other Okanagan reports included a Peachland orange fireball and Penticton sightings, including a grey cigar-shaped object with a row of lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelowna10.com">[Kelowna10]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelowna10.com</span><span class="citation-popover-title">Recounting this Kelowna UFO sighting</span><span class="citation-popover-snippet">Recounting this Kelowna UFO sighting...</span></span></span>
 
-That local article also gives useful national context. It reported that the Kelowna case was one of 722 Canadian reports in 2021, that just over seven per cent of all reports were classified as unexplained, and that British Columbia made up around 14 per cent of accounts that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelowna10.com">[Kelowna10]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelowna10.com</span><span class="citation-popover-title">Recounting this Kelowna UFO sighting</span><span class="citation-popover-snippet">Recounting this Kelowna UFO sighting...</span></span></span> The important point is not that the Okanagan is “proven” unusual. It is that it is a region where reports are visible enough to enter public datasets and local news, allowing at least some comparison over time.
+That local article also gives useful national context. It reported that the Kelowna case was one of 722 Canadian reports in 2021, that just over seven per cent of all reports were classified as unexplained, and that British Columbia made up around 14 per cent of accounts that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelowna10.com">[Kelowna10]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelowna10.com</span><span class="citation-popover-title">Recounting this Kelowna UFO sighting</span><span class="citation-popover-snippet">Recounting this Kelowna UFO sighting...</span></span></span> The important point is not that the Okanagan is “proven” unusual. It is that it is a region where reports are visible enough to enter public datasets and local news, allowing at least some comparison over time.
 
-The long survey dataset shows how mixed the Okanagan material is. Penticton entries include several fireballs or bolides, some of which were treated as explained or probable, alongside more ambiguous reports such as glowing objects, spheres, cigar-shaped objects and orange lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> Kelowna entries also range from starlike objects near the Big Dipper in 2008 to 2024 reports logged through Enigma, including entries that looked like a drone, mountain tower lights, distant colour-changing lights, and a May 2024 claim of 10 to 12 silent orbs during an aurora night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
+The long survey dataset shows how mixed the Okanagan material is. Penticton entries include several fireballs or bolides, some of which were treated as explained or probable, alongside more ambiguous reports such as glowing objects, spheres, cigar-shaped objects and orange lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> Kelowna entries also range from starlike objects near the Big Dipper in 2008 to 2024 reports logged through Enigma, including entries that looked like a drone, mountain tower lights, distant colour-changing lights, and a May 2024 claim of 10 to 12 silent orbs during an aurora night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span>
 
 That mixture is exactly what an evidence-led reader should expect. The Okanagan generates interesting reports, but many are not close-range object cases in the strict sense. Some are distant lights, some are camera-led or app-led reports, some occur during visually complex sky conditions, and some are classified as probable explanations. The page-specific lesson is that Interior claims become stronger when they contain testable details, not merely when they come from a region with many sightings.
 
@@ -348,11 +348,11 @@ That mixture is exactly what an evidence-led reader should expect. The Okanagan 
 
 A close-range UFO claim should not be dismissed just because it is strange, but it should not be upgraded simply because it is dramatic. The strongest Interior and northern cases share several features that make later analysis possible.
 
-First, the report needs a clear time and place. Meldrum Creek’s 1989 entry is more useful than many anecdotes because it gives a date, time, duration and location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> Second, it helps when the report entered a recognised archive or survey rather than remaining only as a retold story. Library and Archives Canada’s historic UFO collection and the Canadian UFO Survey are not proof machines, but they preserve records in a way that lets later readers compare cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+First, the report needs a clear time and place. Meldrum Creek’s 1989 entry is more useful than many anecdotes because it gives a date, time, duration and location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">1989 to 2025 excel data</span><span class="citation-popover-snippet">1989 to 2025 excel data</span></span></span> Second, it helps when the report entered a recognised archive or survey rather than remaining only as a retold story. Library and Archives Canada’s historic UFO collection and the Canadian UFO Survey are not proof machines, but they preserve records in a way that lets later readers compare cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 Third, multiple independent witnesses matter only if their accounts can be separated. Three people talking together after a sighting may converge on a shared description. Three unrelated reports made separately, with matching times, directions and movement, are more useful. Fourth, the description must be specific without becoming too interpretive. “Orange disc with apparent windows moving near the witness” is a better starting record than “alien spacecraft”, because the former describes what was reportedly seen while the latter jumps to an explanation.
 
-Fifth, investigators need negative evidence as well as positive evidence. Were there aircraft in the area? Was the International Space Station visible? Were Starlink satellites passing? Was there a meteor shower, aurora, rocket re-entry, drone activity, searchlight, fire, cloud reflection, logging or mining activity, or a local tower light? Ufology Research’s recent communications specialist described checking flight paths, the International Space Station, planetary alignments, rocket fuel dumps, drone activity and other public data before leaving a case unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelownacapnews.com">[Kelowna Capital News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelownacapnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Kelowna Capital News...</span></span></span>
+Fifth, investigators need negative evidence as well as positive evidence. Were there aircraft in the area? Was the International Space Station visible? Were Starlink satellites passing? Was there a meteor shower, aurora, rocket re-entry, drone activity, searchlight, fire, cloud reflection, logging or mining activity, or a local tower light? Ufology Research’s recent communications specialist described checking flight paths, the International Space Station, planetary alignments, rocket fuel dumps, drone activity and other public data before leaving a case unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelownacapnews.com">[Kelowna Capital News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelownacapnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Kelowna Capital News...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-3-dark.svg" | relative_url }}" alt="Interior Claims illustration 3" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_interior_northern_cl_981f90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -360,11 +360,11 @@ Fifth, investigators need negative evidence as well as positive evidence. Were t
 
 Interior and northern British Columbia are ideal for memorable UFO stories and difficult for firm conclusions. A witness on a dark road near Williams Lake, a resident looking over Okanagan hills, or a northern observer watching lights above Prince George may have an entirely sincere experience. But sincerity does not solve the measurement problem. Distance, size, altitude and speed are hard to judge without reference points, and those are exactly the quantities that often make a UFO report sound extraordinary.
 
-Canada’s own current UAP discussion recognises this reporting weakness. The Office of the Chief Science Advisor’s Sky Canada preview said there is no official, accessible platform for Canadians to report UAP sightings, obtain potential explanations or review reliable information; it also noted limited analysis unless reports are considered safety or security risks, and rare follow-up for people who report sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> In a province such as British Columbia, that means many rural and northern reports may never move beyond a short form, a social media post, a local article or a private memory.
+Canada’s own current UAP discussion recognises this reporting weakness. The Office of the Chief Science Advisor’s Sky Canada preview said there is no official, accessible platform for Canadians to report UAP sightings, obtain potential explanations or review reliable information; it also noted limited analysis unless reports are considered safety or security risks, and rare follow-up for people who report sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span> In a province such as British Columbia, that means many rural and northern reports may never move beyond a short form, a social media post, a local article or a private memory.
 
-The Canadian UFO Survey helps fill that gap, but it is not complete. The Office of the Chief Science Advisor notes that the survey tallied 570 reports in 2023 and has catalogued more than 24,000 Canadian reports since 1989, while also noting that the 2023 list may be incomplete because MUFON Canada data was not available to Ufology Research that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span> In other words, the database is one of the best available Canadian tools, but it is still a collection assembled from uneven reporting streams.
+The Canadian UFO Survey helps fill that gap, but it is not complete. The Office of the Chief Science Advisor notes that the survey tallied 570 reports in 2023 and has catalogued more than 24,000 Canadian reports since 1989, while also noting that the 2023 list may be incomplete because MUFON Canada data was not available to Ufology Research that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span> In other words, the database is one of the best available Canadian tools, but it is still a collection assembled from uneven reporting streams.
 
-That is why “unknown” should be read carefully. In the Canadian UFO Survey language quoted in local coverage of the 2025 survey, an unknown classification does not imply alien visitation; a case may still have an explanation after further investigation, and even unexplained cases are not incontrovertible proof of extraterrestrial intervention or a mysterious natural phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelownacapnews.com">[Kelowna Capital News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelownacapnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Kelowna Capital News...</span></span></span> That caution is especially important for close-range claims, because the emotional force of the story can easily outrun the evidence.
+That is why “unknown” should be read carefully. In the Canadian UFO Survey language quoted in local coverage of the 2025 survey, an unknown classification does not imply alien visitation; a case may still have an explanation after further investigation, and even unexplained cases are not incontrovertible proof of extraterrestrial intervention or a mysterious natural phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelownacapnews.com">[Kelowna Capital News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelownacapnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Kelowna Capital News...</span></span></span> That caution is especially important for close-range claims, because the emotional force of the story can easily outrun the evidence.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kfc4lxRARdk" title="Widespread UFO REPORTS Over BRITISH COLUMBIA Last Night!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kfc4lxRARdk" target="_blank" rel="noopener noreferrer">Widespread UFO REPORTS Over BRITISH COLUMBIA Last Night!!!</a></p><p class="youtube-embed-meta">Channel: Joey Only - Cariboo Weather Dude</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kfc4lxRARdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kfc4lxRARdk">Open on YouTube</a></p></div></div></div>
@@ -378,194 +378,194 @@ What these places contribute to British Columbia’s UFO history is not certaint
 The strongest future Interior or northern case would not need to be the most spectacular story. It would need synchronised witness accounts, exact time and location, original images or video with metadata, sky-condition notes, aircraft and satellite checks, and ideally an independent record from aviation, weather, police, astronomy, dashcam, security camera or radar sources. Until then, the harder cases beyond the coast remain exactly that: harder, not settled.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Harder Cases Beyond the Coast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Harder Cases Beyond the Coast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on assessing witness reports, records, corroboration, and unresolved cases rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on assessing witness reports, records, corroboration, and unresolved cases rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for classifying and evaluating sightings, useful for discussing difficult rural and close-range reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for classifying and evaluating sightings, useful for discussing difficult rural and close-range reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on case documentation, official records, and investigative standards relevant to judging strong claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on case documentation, official records, and investigative standards relevant to judging strong claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores patterns in anomalous reports and witness narratives, complementing discussion of persistent unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores patterns in anomalous reports and witness narratives, complementing discussion of persistent unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed"><img src="{{ '/assets/images/marketplace-covers/1472c54d35a01062948a.jpg' | relative_url }}" alt="Listing image for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed"><img src="{{ '/assets/images/marketplace-covers/1472c54d35a01062948a.jpg' | relative_url }}" alt="Listing image for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b14904c97eb1095580da.jpg' | relative_url }}" alt="Listing image for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b14904c97eb1095580da.jpg' | relative_url }}" alt="Listing image for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT"><img src="{{ '/assets/images/marketplace-covers/d894a12dd708f4d9ebd8.jpg' | relative_url }}" alt="Listing image for APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT"><img src="{{ '/assets/images/marketplace-covers/d894a12dd708f4d9ebd8.jpg' | relative_url }}" alt="Listing image for APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">APOLLO 11 Framed NEIL ARMSTRONG MOON LANDING APOLLO 11 MEMORABILIA SPACE GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="interior-claims-the-harder-cases-beyond-the-coast-british-columbia-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ The strongest future Interior or northern case would not need to be the most spe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ The strongest future Interior or northern case would not need to be the most spe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ The strongest future Interior or northern case would not need to be the most spe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ The strongest future Interior or northern case would not need to be the most spe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ The strongest future Interior or northern case would not need to be the most spe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,86 +771,86 @@ The strongest future Interior or northern case would not need to be the most spe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: img1.wsimg.com  
    Title: 1989 to 2025 excel data  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162</a>  
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/908b1b66-e225-4d7c-afe0-f0f102620919/1989%20to%202025%20excel%20data.pdf?ver=1776956963162</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kelowna10.com  
    Title: Recounting this Kelowna UFO sighting  
-   Link: <a href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recounting this Kelowna UFO sighting...</p></details>
+   Link:<a href="https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://kelowna10.com/watch-recounting-this-kelowna-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recounting this Kelowna UFO sighting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report Canadian UFO Survey Data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: coastreporter.net  
    Title: Coast Reporter What's behind some of the UFO sightings in Prince George?  
-   Link: <a href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast ReporterWhat&#x27;s behind some of the UFO sightings in Prince George? - Coast Reporter...</p></details>
+   Link:<a href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coast ReporterWhat&#x27;s behind some of the UFO sightings in Prince George? - Coast Reporter...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report ANNUAL SURVEYS  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kelownacapnews.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings | Kelowna Capital News...</p></details>
+   Link:<a href="https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://kelownacapnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelowna Capital NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings | Kelowna Capital News...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Widespread UFO REPORTS Over BRITISH COLUMBIA Last Night!!!  
-   Link: <a href="https://www.youtube.com/watch?v=kfc4lxRARdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfc4lxRARdk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kfc4lxRARdk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfc4lxRARdk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Woman Witnesses Strange UFO Sighting In British Columbia | Alien Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=kX91dySxqXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX91dySxqXQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Canada increasing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kX91dySxqXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX91dySxqXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Canada increasing...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO sightings in Canada increasing  
-   Link: <a href="https://www.youtube.com/watch?v=QJ-Wwm-sMjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJ-Wwm-sMjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The man who chases Canadian conspiracies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QJ-Wwm-sMjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJ-Wwm-sMjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The man who chases Canadian conspiracies...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFOs: The man who chases Canadian conspiracies  
-   Link: <a href="https://www.youtube.com/watch?v=yG9lOAvPIWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yG9lOAvPIWA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yG9lOAvPIWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yG9lOAvPIWA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Science writer releasing book on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  

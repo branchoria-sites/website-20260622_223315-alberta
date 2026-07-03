@@ -274,17 +274,17 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-ov
 
 ## Introduction
 
-The 1978 Clarenville sighting became [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s landmark UFO case because it was not only a late-night rumour or a vague light seen from a distance. RCMP Constable James Blackwood was reportedly called to the scene, watched the object with local witnesses, used optical equipment, and later gave detailed public accounts of what he said he saw. The case centres on the early hours of 26 October 1978, near Clarenville and Random Island, when witnesses described a silent, brightly lit, oval or fin-tailed object hovering over the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The 1978 Clarenville sighting became [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})’s landmark UFO case because it was not only a late-night rumour or a vague light seen from a distance. RCMP Constable James Blackwood was reportedly called to the scene, watched the object with local witnesses, used optical equipment, and later gave detailed public accounts of what he said he saw. The case centres on the early hours of 26 October 1978, near Clarenville and Random Island, when witnesses described a silent, brightly lit, oval or fin-tailed object hovering over the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-overview.webp" | relative_url }}" alt="Overview image for Clarenville" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is still limited. No recovered material, radar track, photograph, official explanation, or physical trace has become the public foundation of the story. Its importance lies instead in witness evidence: the presence of a named police officer, multiple civilian observers, a long reported viewing time, and a description that remained memorable enough to be revived in later interviews and commemorated by the Royal Canadian Mint in 2020. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The evidence is still limited. No recovered material, radar track, photograph, official explanation, or physical trace has become the public foundation of the story. Its importance lies instead in witness evidence: the presence of a named police officer, multiple civilian observers, a long reported viewing time, and a description that remained memorable enough to be revived in later interviews and commemorated by the Royal Canadian Mint in 2020.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
 ## What witnesses said happened
 
-The core account places the sighting near Clarenville, looking towards the waters around Random Island, in the early morning of 26 October 1978. Later summaries describe the object as brightly lit, oval-shaped, and fin-tailed, hovering above the water rather than simply flashing across the sky like a meteor. The Royal Canadian Mint’s 2020 account, based on the story as it entered Canadian UFO folklore, says Blackwood responded to astonished onlookers and, with them, observed the object through binoculars and a high-powered scope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The core account places the sighting near Clarenville, looking towards the waters around Random Island, in the early morning of 26 October 1978. Later summaries describe the object as brightly lit, oval-shaped, and fin-tailed, hovering above the water rather than simply flashing across the sky like a meteor. The Royal Canadian Mint’s 2020 account, based on the story as it entered Canadian UFO folklore, says Blackwood responded to astonished onlookers and, with them, observed the object through binoculars and a high-powered scope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-That detail matters because many UFO reports are over in seconds. Clarenville’s claim is stronger as testimony because the object was reportedly present long enough for witnesses to point it out, for a police officer to arrive, and for people to look at it with [optical aids]({{ 'optical-aids/' | relative_url }}). VOCM’s later report, built around Blackwood’s recollection after the Mint coin was issued, says he and around a dozen others witnessed the phenomenon during the early morning hours, and that he remembered it as hovering offshore, shining a fluorescent-type light downwards, and remaining in the area for almost two hours before rising and disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
+That detail matters because many UFO reports are over in seconds. Clarenville’s claim is stronger as testimony because the object was reportedly present long enough for witnesses to point it out, for a police officer to arrive, and for people to look at it with [optical aids]({{ 'optical-aids/' | relative_url }}). VOCM’s later report, built around Blackwood’s recollection after the Mint coin was issued, says he and around a dozen others witnessed the phenomenon during the early morning hours, and that he remembered it as hovering offshore, shining a fluorescent-type light downwards, and remaining in the area for almost two hours before rising and disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
 
 The usual description contains several recurring features:
 
@@ -293,32 +293,32 @@ The usual description contains several recurring features:
 * **Lights:** bright, coloured, or flashing lights, with a strong downward glow in later Blackwood accounts.
 * **Sound:** witnesses reportedly heard no engine or mechanical noise.
 * **Duration:** estimates vary, but the story is usually told as lasting roughly an hour to two hours.
-* **End of sighting:** the object was said to rise and vanish into the night sky rather than travel away like an ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+* **End of sighting:** the object was said to rise and vanish into the night sky rather than travel away like an ordinary aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-The most famous moment in the story is Blackwood’s claim that when he activated the lights on his police cruiser, the object appeared to mimic or respond with lights of its own. That reported interaction is one reason the case has been repeated so often: it turns the sighting from passive observation into what witnesses interpreted as a possible response. It is also one of the hardest claims to evaluate, because it depends on timing, perception, and memory rather than on a recorded signal or instrument reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The most famous moment in the story is Blackwood’s claim that when he activated the lights on his police cruiser, the object appeared to mimic or respond with lights of its own. That reported interaction is one reason the case has been repeated so often: it turns the sighting from passive observation into what witnesses interpreted as a possible response. It is also one of the hardest claims to evaluate, because it depends on timing, perception, and memory rather than on a recorded signal or instrument reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-1-dark.svg" | relative_url }}" alt="Clarenville illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Constable James Blackwood’s role
 
-Blackwood’s involvement is the main reason Clarenville stands apart from many other Newfoundland and Labrador UFO stories. A police officer is not automatically a perfect observer, but a named RCMP constable responding in an official capacity gives the case a public anchor. He was not merely a passer-by telling a story afterwards; according to the standard account, he went to the scene because local witnesses had already reported something unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+Blackwood’s involvement is the main reason Clarenville stands apart from many other Newfoundland and Labrador UFO stories. A police officer is not automatically a perfect observer, but a named RCMP constable responding in an official capacity gives the case a public anchor. He was not merely a passer-by telling a story afterwards; according to the standard account, he went to the scene because local witnesses had already reported something unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-The Nighttime podcast’s episode description presents a useful summary of why Blackwood’s role became central. It says he expected the call to be another mistaken report of a vague light, but found witnesses already viewing a clearly visible object with binoculars. The episode frames the sighting as a roughly two-hour event that later produced both an international media wave and a local UFO craze. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">5747414 the 1978 clarenville ufo sighting 1 jim blackwood s account</span><span class="citation-popover-snippet">Nighttime / The 1978 Clarenville UFO Sighting - 1 - Jim Blackwood&#x27;s Account...</span></span></span>
+The Nighttime podcast’s episode description presents a useful summary of why Blackwood’s role became central. It says he expected the call to be another mistaken report of a vague light, but found witnesses already viewing a clearly visible object with binoculars. The episode frames the sighting as a roughly two-hour event that later produced both an international media wave and a local UFO craze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audioboom.com">[Audioboom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audioboom.com</span><span class="citation-popover-title">5747414 the 1978 clarenville ufo sighting 1 jim blackwood s account</span><span class="citation-popover-snippet">Nighttime / The 1978 Clarenville UFO Sighting - 1 - Jim Blackwood&#x27;s Account...</span></span></span>
 
-Blackwood’s later recollections are vivid. VOCM reported in 2020 that he remembered the object hovering over the ocean not far from shore, shining a large fluorescent-type light beneath it, and remaining visible before slowly rising into the sky. Canadian Coin News, quoting Blackwood from an earlier Packet newspaper report, gives a similar account: he said the craft was hovering between Clarenville and Random Island, only a couple of hundred feet off the water, and that it activated lights when he switched on the police cruiser’s roof lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
+Blackwood’s later recollections are vivid. VOCM reported in 2020 that he remembered the object hovering over the ocean not far from shore, shining a large fluorescent-type light beneath it, and remaining visible before slowly rising into the sky. Canadian Coin News, quoting Blackwood from an earlier Packet newspaper report, gives a similar account: he said the craft was hovering between Clarenville and Random Island, only a couple of hundred feet off the water, and that it activated lights when he switched on the police cruiser’s roof lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
 
-The strength of Blackwood’s evidence is therefore not that it proves an extraordinary object existed. It is that it gives historians and readers a more specific witness profile than usual: a young RCMP constable, on duty, called to a scene, observing with other people, later willing to repeat his account publicly. The weakness is just as clear: the public evidence remains testimonial. Even the Royal Canadian Mint’s commemorative account ends by saying the object left no trace except what it calls a credible eyewitness account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The strength of Blackwood’s evidence is therefore not that it proves an extraordinary object existed. It is that it gives historians and readers a more specific witness profile than usual: a young RCMP constable, on duty, called to a scene, observing with other people, later willing to repeat his account publicly. The weakness is just as clear: the public evidence remains testimonial. Even the Royal Canadian Mint’s commemorative account ends by saying the object left no trace except what it calls a credible eyewitness account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LvnWjFojHMA" title="NTV UFO Interview with James Blackwood – 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer">NTV UFO Interview with James Blackwood – 1978</a></p><p class="youtube-embed-meta">Channel: James Blackwood - Raccoon Whisperer &middot; Views: 37.4K &middot; Uploaded: October 2020 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LvnWjFojHMA">Open on YouTube</a></p></div></div></div>
 
 ## Why the RCMP witness evidence matters
 
-The RCMP connection matters in three ways. First, it makes the sighting harder to dismiss as a single isolated rumour. The case involved multiple civilian witnesses and an officer who reportedly arrived after the initial call, meaning the story was not built around one person’s private experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The RCMP connection matters in three ways. First, it makes the sighting harder to dismiss as a single isolated rumour. The case involved multiple civilian witnesses and an officer who reportedly arrived after the initial call, meaning the story was not built around one person’s private experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-Second, Blackwood’s reported use of binoculars and a high-powered scope makes the case more detailed than a typical “light in the sky” report. Optical aids do not remove all uncertainty: they can magnify atmospheric shimmer, make distance difficult to judge, and encourage the eye to impose shape on lights. Still, they gave the witnesses more time and apparent detail than a brief naked-eye sighting would have allowed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+Second, Blackwood’s reported use of binoculars and a high-powered scope makes the case more detailed than a typical “light in the sky” report. Optical aids do not remove all uncertainty: they can magnify atmospheric shimmer, make distance difficult to judge, and encourage the eye to impose shape on lights. Still, they gave the witnesses more time and apparent detail than a brief naked-eye sighting would have allowed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-Third, the officer’s account helped the story survive. Local reporting, later interviews, podcasts, online summaries, and the Mint’s collector coin all return to the same point: Clarenville is remembered because a Mountie said he saw it too. VOCM reported that the incident drew international attention and that Blackwood gave around 200 media interviews, which helps explain why this single event has remained more visible than many other provincial reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
+Third, the officer’s account helped the story survive. Local reporting, later interviews, podcasts, online summaries, and the Mint’s collector coin all return to the same point: Clarenville is remembered because a Mountie said he saw it too. VOCM reported that the incident drew international attention and that Blackwood gave around 200 media interviews, which helps explain why this single event has remained more visible than many other provincial reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM</span><span class="citation-popover-snippet">Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago &#124; VOCM...</span></span></span>
 
 That visibility should not be confused with proof. Police officers can misperceive distant lights, remember dramatic events imperfectly, and be influenced by the reactions of other witnesses. But the RCMP witness element does raise the case above purely anonymous folklore. It gives the account a named source, a public role, a repeatable narrative, and a reason to be discussed in the history of Newfoundland and Labrador UFO reports rather than left as an obscure local anecdote.
 
@@ -326,9 +326,9 @@ That visibility should not be confused with proof. Police officers can mispercei
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-2-dark.svg" | relative_url }}" alt="Clarenville illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence, doubts, and what remains unresolved
 
-The Clarenville case is best described as unresolved witness testimony, not a solved aviation event and not proof of alien visitation. The strongest evidence is the convergence of accounts around a named place, date, group of witnesses, and RCMP officer. The weakest point is the lack of publicly available physical or technical evidence. There is no widely cited recovered debris, no definitive photograph, no confirmed radar record, and no official explanation that can be tested against all witness claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The Clarenville case is best described as unresolved witness testimony, not a solved aviation event and not proof of alien visitation. The strongest evidence is the convergence of accounts around a named place, date, group of witnesses, and RCMP officer. The weakest point is the lack of publicly available physical or technical evidence. There is no widely cited recovered debris, no definitive photograph, no confirmed radar record, and no official explanation that can be tested against all witness claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
-Several ordinary explanations remain possible in principle, even if none has become the settled public answer. A distant aircraft, ship lights, a misjudged astronomical object, atmospheric distortion, reflected light, or a combination of real lights and mistaken distance could produce a strange impression over water at night. Transport Canada’s modern guidance is useful here because it warns that “UFO” in Canadian aviation [records]({{ 'records-45a181/' | relative_url }}) can cover many ordinary categories, including drones, balloons, meteors, weather phenomena, and birds, and should not be read as meaning extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+Several ordinary explanations remain possible in principle, even if none has become the settled public answer. A distant aircraft, ship lights, a misjudged astronomical object, atmospheric distortion, reflected light, or a combination of real lights and mistaken distance could produce a strange impression over water at night. Transport Canada’s modern guidance is useful here because it warns that “UFO” in Canadian aviation [records]({{ 'records-45a181/' | relative_url }}) can cover many ordinary categories, including drones, balloons, meteors, weather phenomena, and birds, and should not be read as meaning extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 Clarenville is not easily reduced to one of those categories from the public evidence alone, especially because witnesses described a long duration, low hovering, shape, silence, and apparent light response. But those same details are also difficult to verify after the fact. Distance over dark water can be deceptive. A bright object may appear lower, larger, or nearer than it is. Flashing lights can seem to answer one another when the timing is coincidental. A telescope or binoculars can sharpen the witness’s confidence without necessarily solving scale, range, or identity.
 
@@ -341,9 +341,9 @@ The most cautious assessment is therefore a middle one. Clarenville is stronger 
 
 The Clarenville sighting became folklore partly because it has a simple, memorable structure: a small Newfoundland town, a strange light over the water, frightened or amazed witnesses, and a Mountie who arrives expecting little but leaves with his own account. It fits the geography of Newfoundland and Labrador, where coastal darkness, islands, bays, ferry routes, aircraft paths, and scattered communities can all shape how unusual lights are seen and retold.
 
-Later reporting strengthened the cultural life of the case more than the evidential record. Product of Newfoundland summarises the Random Island incident as perhaps better documented than the 1951 [Gander]({{ 'gander/' | relative_url }})-area report, notes that Blackwood filed an official report, and places Clarenville within a reported run of similar sightings along the east coast from late October into mid-November. That wider flap context is interesting, but it also needs caution: a cluster of reports can reflect a real recurring stimulus, heightened public attention, media contagion, or a mixture of all three. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
+Later reporting strengthened the cultural life of the case more than the evidential record. Product of Newfoundland summarises the Random Island incident as perhaps better documented than the 1951 [Gander]({{ 'gander/' | relative_url }})-area report, notes that Blackwood filed an official report, and places Clarenville within a reported run of similar sightings along the east coast from late October into mid-November. That wider flap context is interesting, but it also needs caution: a cluster of reports can reflect a real recurring stimulus, heightened public attention, media contagion, or a mixture of all three.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productofnewfoundland.ca">[Product of Newfoundland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productofnewfoundland.ca</span><span class="citation-popover-snippet">Open source on productofnewfoundland.ca.</span></span></span>
 
-The Royal Canadian Mint’s 2020 coin gave the story a new public life. The Mint presented the Clarenville Event as part of its “Canada’s Unexplained Phenomena” series, with artwork by East Coast artist Adam Young and glow-in-the-dark elements meant to echo the witness descriptions. The coin did not validate the sighting as an extraordinary craft; it commemorated the story’s place in Canadian unexplained-phenomena culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
+The Royal Canadian Mint’s 2020 coin gave the story a new public life. The Mint presented the Clarenville Event as part of its “Canada’s Unexplained Phenomena” series, with artwork by East Coast artist Adam Young and glow-in-the-dark elements meant to echo the witness descriptions. The coin did not validate the sighting as an extraordinary craft; it commemorated the story’s place in Canadian unexplained-phenomena culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</span></span></span>
 
 That distinction is important. Commemoration is not confirmation. A coin, podcast, newspaper feature, or local retelling can preserve a case while also smoothing over uncertainties. The more Clarenville becomes a neat legend, the more readers need to separate the stable core from later embellishment: an RCMP officer and civilians reported a strange, silent, lit object near Random Island in October 1978; the object was not publicly identified; the later legend has grown around that unresolved witness account.
 
@@ -353,9 +353,9 @@ That distinction is important. Commemoration is not confirmation. A coin, podcas
 
 Clarenville matters because it shows how a UFO case becomes credible in [public memory]({{ 'public-memory-388e3e/' | relative_url }}) without becoming scientifically resolved. It has the ingredients readers tend to value: a named official witness, multiple observers, a specific location, a long duration, and a consistent set of striking details. It also has the limitations that investigators care about: no public physical trace, no conclusive technical record, and no way to replay the event under controlled conditions.
 
-Within Newfoundland and Labrador’s wider UFO history, Clarenville sits between aviation-linked cases such as Gander and later public-security or media-driven cases such as the 2010 [Harbour Mille]({{ 'harbour-mille/' | relative_url }}) reports. Its centre of gravity is not military radar or pilot testimony but policing and local witness evidence. Library and Archives Canada notes that Canadian federal UFO records came from several agencies, including the Department of National Defence, Department of Transport, National Research Council, and the RCMP, which is a reminder that Canadian UFO history has often passed through ordinary institutional channels rather than a single dedicated UFO office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Within Newfoundland and Labrador’s wider UFO history, Clarenville sits between aviation-linked cases such as Gander and later public-security or media-driven cases such as the 2010 [Harbour Mille]({{ 'harbour-mille/' | relative_url }}) reports. Its centre of gravity is not military radar or pilot testimony but policing and local witness evidence. Library and Archives Canada notes that Canadian federal UFO records came from several agencies, including the Department of National Defence, Department of Transport, National Research Council, and the RCMP, which is a reminder that Canadian UFO history has often passed through ordinary institutional channels rather than a single dedicated UFO office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-Modern Canadian UAP discussions also help frame the case. The Sky Canada Project found that UAP reports in Canada are scattered across different channels, often not analysed unless they raise safety or security issues, and that a lack of accessible public explanation can feed misinformation. That is exactly the kind of gap in which older cases like Clarenville live: memorable enough to endure, but not documented in a way that can fully satisfy either believers or sceptics decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+Modern Canadian UAP discussions also help frame the case. The Sky Canada Project found that UAP reports in Canada are scattered across different channels, often not analysed unless they raise safety or security issues, and that a lack of accessible public explanation can feed misinformation. That is exactly the kind of gap in which older cases like Clarenville live: memorable enough to endure, but not documented in a way that can fully satisfy either believers or sceptics decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 Clarenville’s value is therefore not that it settles the UFO question. It is that it provides Newfoundland and Labrador’s clearest example of how witness credibility, local geography, official presence, and later folklore can combine into a lasting provincial case. The responsible reading is neither to mock the witnesses nor to overstate the claim. The sighting remains unexplained in public accounts, but “unexplained” means exactly that: the available evidence has not produced a secure identification, not that the extraordinary interpretation has been proven.
 
@@ -364,194 +364,138 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Clarenville Became Newfoundland&#x27;s Landmark UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Clarenville Became Newfoundland&#x27;s Landmark UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores witness reports and investigation methods similar to those discussed in the Clarenville case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness reports and investigation methods similar to those discussed in the Clarenville case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines notable sightings, evidence assessment, and competing explanations for UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable sightings, evidence assessment, and competing explanations for UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony from officials and trained observers, paralleling the involvement of an RCMP officer in the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony from officials and trained observers, paralleling the involvement of an RCMP officer in the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO reports with folklore traditions, matching the article&#x27;s discussion of evidence, doubts, and legend-building.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports with folklore traditions, matching the article&#x27;s discussion of evidence, doubts, and legend-building.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="clarenville-why-clarenville-became-newfoundland-s-landmark-ufo-case-newfoundland-and-labrador-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-moonbase+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-clarenville-became-newfoundland-s-landmark-ufo-case-ufo-pin-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin -book -books -series -television -gerry -anderson -band -concert -tour -shado -moonbase -tv" data-ebay-reference="why-clarenville-became-newfoundland-s-landmark-ufo-case-ufo-pin-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +511,7 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +531,7 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +563,7 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +615,7 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +660,7 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,122 +698,121 @@ Clarenville’s value is therefore not that it settles the UFO question. It is t
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newswire.ca  
-   Link: <a href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</p></details>
+   Link:<a href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville, Newfoundland and Labrador Comes to Life on New Royal Canadian Mint Collect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vocm.com  
    Title: Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago | VOCM  
-   Link: <a href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/13/103414/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago | VOCM...</p></details>
+   Link:<a href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/13/103414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Mountie Recalls UFO Sighting Near Clarenville 42 Years Ago | VOCM...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: audioboom.com  
    Title: 5747414 the 1978 clarenville ufo sighting 1 jim blackwood s account  
-   Link: <a href="https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime / The 1978 Clarenville UFO Sighting - 1 - Jim Blackwood&#x27;s Account...</p></details>
+   Link:<a href="https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/5747414-the-1978-clarenville-ufo-sighting-1-jim-blackwood-s-account</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime / The 1978 Clarenville UFO Sighting - 1 - Jim Blackwood&#x27;s Account...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vocm.com  
    Title: clarenville coin ufo  
-   Link: <a href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/12/clarenville-coin-ufo/</a>  
+   Link:<a href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/12/clarenville-coin-ufo/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gc.ca  
    Title: report sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: us canada unidentified objects  
-   Link: <a href="https://time.com/6254917/us-canada-unidentified-objects/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254917/us-canada-unidentified-objects/</a>  
+   Link:<a href="https://time.com/6254917/us-canada-unidentified-objects/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6254917/us-canada-unidentified-objects/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: productofnewfoundland.ca  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 1978, when Clarenville made UFO history. On that night, RCMP Constable James Blackwood responded to a call from astonished on...</p></details>
+   Link:<a href="https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 1978, when Clarenville made UFO history. On that night, RCMP Constable James Blackwood responded to a call from astonished on...</p></details>
    Published: October 26, 1978  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/document/doi/10.1515/9780228012290/html?srsltid=AfmBOoqBnJ_e22wCL0T4jop0j1xvePQOWEV0tMg__26JOCoAyWVRRic9" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9780228012290/html?srsltid=AfmBOoqBnJ_e22wCL0T4jop0j1xvePQOWEV0tMg__26JOCoAyWVRRic9</a>  
+   Link:<a href="https://www.degruyterbrill.com/document/doi/10.1515/9780228012290/html?srsltid=AfmBOoqBnJ_e22wCL0T4jop0j1xvePQOWEV0tMg__26JOCoAyWVRRic9" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/9780228012290/html?srsltid=AfmBOoqBnJ_e22wCL0T4jop0j1xvePQOWEV0tMg__26JOCoAyWVRRic9</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yf5YfObpBC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yf5YfObpBC4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP Officer Blackwood - UFO sighting Newfoundland 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yf5YfObpBC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yf5YfObpBC4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP Officer Blackwood - UFO sighting Newfoundland 1978...</p></details>
    Published: October 26, 1978  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: RCMP Officer Interview  
-   Link: <a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP officer James Blackwood talks about his UFO sighting in Clarenville, Canada, October 26, 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP officer James Blackwood talks about his UFO sighting in Clarenville, Canada, October 26, 1978...</p></details>
    Published: October 26, 1978  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: canadiancoinnews.com  
    Title: The 49.80  
-   Link: <a href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow">https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;8 Oct 2020 — Using binoculars and a high-powered scope, they obse...</p></details>
+   Link:<a href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow">https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;8 Oct 2020 — Using binoculars and a high-powered scope, they obse...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8YSCpcWJtE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8YSCpcWJtE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarenville 1978 UFO 1978-10-26: Clarenville Newfoundland UFO Tom Owens UAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8YSCpcWJtE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8YSCpcWJtE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarenville 1978 UFO 1978-10-26: Clarenville Newfoundland UFO Tom Owens UAP...</p></details>
    Published: November 1978  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15okytl/anyone_heard_about_the_clarenville_newfoundland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15okytl/anyone_heard_about_the_clarenville_newfoundland/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15okytl/anyone_heard_about_the_clarenville_newfoundland/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15okytl/anyone_heard_about_the_clarenville_newfoundland/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/196296450559634/posts/875175512671721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/196296450559634/posts/875175512671721/</a>  
+   Link:<a href="https://www.facebook.com/groups/196296450559634/posts/875175512671721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/196296450559634/posts/875175512671721/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stalbertgazette.com  
-   Link: <a href="https://www.stalbertgazette.com/politics/robust-federal-collection-analysis-of-ufo-data-could-dispel-misinformation-report-10960650" target="_blank" rel="noopener noreferrer nofollow">https://www.stalbertgazette.com/politics/robust-federal-collection-analysis-of-ufo-data-could-dispel-misinformation-report-10960650</a>  
+   Link:<a href="https://www.stalbertgazette.com/politics/robust-federal-collection-analysis-of-ufo-data-could-dispel-misinformation-report-10960650" target="_blank" rel="noopener noreferrer nofollow">https://www.stalbertgazette.com/politics/robust-federal-collection-analysis-of-ufo-data-could-dispel-misinformation-report-10960650</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newshubasia.com  
-   Link: <a href="https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/" target="_blank" rel="noopener noreferrer nofollow">https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/</a>  
+   Link:<a href="https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/" target="_blank" rel="noopener noreferrer nofollow">https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/b9b2ea4c-cbe4-4bae-86f6-9b58b3fb0b6f/ufo-talker-interview-the-clarenville-incident-retired-rcmp-officer-james-blackwood-talks-about-the-night-he-witnessed-a-ufo-that-lit-up-the-bay-why-did-the-u-s-air-force-visit-him-one-year-later?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/b9b2ea4c-cbe4-4bae-86f6-9b58b3fb0b6f/ufo-talker-interview-the-clarenville-incident-retired-rcmp-officer-james-blackwood-talks-about-the-night-he-witnessed-a-ufo-that-lit-up-the-bay-why-did-the-u-s-air-force-visit-him-one-year-later?tag=searcht-20</a>  
+   Link:<a href="https://music.amazon.com/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/b9b2ea4c-cbe4-4bae-86f6-9b58b3fb0b6f/ufo-talker-interview-the-clarenville-incident-retired-rcmp-officer-james-blackwood-talks-about-the-night-he-witnessed-a-ufo-that-lit-up-the-bay-why-did-the-u-s-air-force-visit-him-one-year-later?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/podcasts/d82c1476-9e38-4350-b79c-7b499e4fd0ce/episodes/b9b2ea4c-cbe4-4bae-86f6-9b58b3fb0b6f/ufo-talker-interview-the-clarenville-incident-retired-rcmp-officer-james-blackwood-talks-about-the-night-he-witnessed-a-ufo-that-lit-up-the-bay-why-did-the-u-s-air-force-visit-him-one-year-later?tag=searcht-20</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%98%84%F0%9D%97%BC-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%AE%F0%9D%98%85-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A2%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2in-june-of-1997-two-halifax-regional-police/749064657223782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%98%84%F0%9D%97%BC-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%AE%F0%9D%98%85-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A2%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2in-june-of-1997-two-halifax-regional-police/749064657223782/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%98%84%F0%9D%97%BC-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%AE%F0%9D%98%85-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A2%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2in-june-of-1997-two-halifax-regional-police/749064657223782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%98%84%F0%9D%97%BC-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%AE%F0%9D%98%85-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A2%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%AE-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2in-june-of-1997-two-halifax-regional-police/749064657223782/</a>  

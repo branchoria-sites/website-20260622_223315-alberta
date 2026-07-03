@@ -262,7 +262,7 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_of
 
 ## Introduction
 
-The most enduring part of the [Harbour Mille]({{ 'harbour-mille/' | relative_url }}) incident was not the sighting itself but the way official responses unfolded afterwards. Within days of residents reporting missile-like objects over the south coast of [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }}) in January 2010, different public bodies appeared to offer different answers. Early suggestions that a missile launch might have occurred were later withdrawn. Federal officials denied that any missile launch had taken place. Yet no definitive public explanation immediately replaced the rejected missile theory. That gap between denial and explanation became a story in its own right. For many residents, the issue was no longer simply what had been seen in the sky, but why government agencies seemed unable to provide a clear, consistent account of what had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+The most enduring part of the [Harbour Mille]({{ 'harbour-mille/' | relative_url }}) incident was not the sighting itself but the way official responses unfolded afterwards. Within days of residents reporting missile-like objects over the south coast of [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }}) in January 2010, different public bodies appeared to offer different answers. Early suggestions that a missile launch might have occurred were later withdrawn. Federal officials denied that any missile launch had taken place. Yet no definitive public explanation immediately replaced the rejected missile theory. That gap between denial and explanation became a story in its own right. For many residents, the issue was no longer simply what had been seen in the sky, but why government agencies seemed unable to provide a clear, consistent account of what had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-1-dark.svg" | relative_url }}" alt="Denial Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,11 +270,11 @@ The most enduring part of the [Harbour Mille]({{ 'harbour-mille/' | relative_url
 
 The accountability problem emerged because information moved through several institutions without producing a single authoritative public explanation.
 
-According to contemporary reporting, RCMP personnel initially treated the reports seriously enough to make inquiries and communicate with witnesses. Some early accounts indicated that witnesses were told the object may have been connected to a French missile launch, a claim that spread quickly through local discussion and media coverage. That possibility was especially attractive because Harbour Mille faces the North Atlantic and lies relatively close to the French territory of Saint Pierre and Miquelon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+According to contemporary reporting, RCMP personnel initially treated the reports seriously enough to make inquiries and communicate with witnesses. Some early accounts indicated that witnesses were told the object may have been connected to a French missile launch, a claim that spread quickly through local discussion and media coverage. That possibility was especially attractive because Harbour Mille faces the North Atlantic and lies relatively close to the French territory of Saint Pierre and Miquelon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
-As journalists sought clarification, responsibility appeared to shift between agencies. Reports described questions moving from the RCMP to Public Safety Canada and then towards the Prime Minister's Office. Rather than creating clarity, the sequence highlighted uncertainty about who was actually responsible for explaining the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+As journalists sought clarification, responsibility appeared to shift between agencies. Reports described questions moving from the RCMP to Public Safety Canada and then towards the Prime Minister's Office. Rather than creating clarity, the sequence highlighted uncertainty about who was actually responsible for explaining the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
-At the same time, police acknowledged an important limitation: there was no debris, physical evidence, or confirmed impact site that would allow a conventional investigation to proceed. Without material evidence, investigators were largely dependent on witness testimony and photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddeeradvocate.com">[Red Deer Advocate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddeeradvocate.com</span><span class="citation-popover-snippet">Red Deer AdvocateOfficials look at report of mysterious object in skyHelen Cleary-Escott, an RCMP spokeswoman, said there is no debris or...</span></span></span>
+At the same time, police acknowledged an important limitation: there was no debris, physical evidence, or confirmed impact site that would allow a conventional investigation to proceed. Without material evidence, investigators were largely dependent on witness testimony and photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddeeradvocate.com">[Red Deer Advocate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddeeradvocate.com</span><span class="citation-popover-snippet">Red Deer AdvocateOfficials look at report of mysterious object in skyHelen Cleary-Escott, an RCMP spokeswoman, said there is no debris or...</span></span></span>
 
 The result was an unusual situation. The sighting had become significant enough to attract national attention, yet no agency appeared able to provide a complete public narrative from observation to conclusion.
 
@@ -283,7 +283,7 @@ The result was an unusual situation. The sighting had become significant enough 
 
 ## What the denial did and did not answer
 
-The strongest official statement eventually came from federal authorities, who said there was no indication that a missile launch had occurred. Reports also noted that French authorities indicated there had been no French military activity connected to the sighting. NORAD similarly stated that it knew of no rocket launch matching the event. These statements substantially weakened the original missile explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+The strongest official statement eventually came from federal authorities, who said there was no indication that a missile launch had occurred. Reports also noted that French authorities indicated there had been no French military activity connected to the sighting. NORAD similarly stated that it knew of no rocket launch matching the event. These statements substantially weakened the original missile explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 However, the denial answered only one question: what the object probably was not.
 
@@ -295,7 +295,7 @@ It did not answer several questions that mattered to local residents:
 * Were all relevant authorities consulted before public statements were made?
 * What alternative explanation best fit the available evidence?
 
-In public communication terms, a denial and an explanation are not the same thing. Officials succeeded in rejecting the missile-launch claim, but they did not immediately provide a detailed replacement account that ordinary observers could follow from beginning to end. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+In public communication terms, a denial and an explanation are not the same thing. Officials succeeded in rejecting the missile-launch claim, but they did not immediately provide a detailed replacement account that ordinary observers could follow from beginning to end.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
 This distinction helps explain why the case remained alive in Newfoundland and Labrador's UFO history long after the missile theory had lost much of its credibility.
 
@@ -305,11 +305,11 @@ This distinction helps explain why the case remained alive in Newfoundland and L
 
 Many UFO controversies persist because of uncertainty about evidence. Harbour Mille also persisted because of uncertainty about process.
 
-When different agencies appear to provide conflicting information, observers often focus on the contradictions rather than the underlying event. In Harbour Mille, residents heard an early missile-related explanation, then a denial, but were left without a widely accepted official reconstruction of what had actually been seen. That sequence encouraged suspicion among people who felt information was being withheld or managed rather than fully explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+When different agencies appear to provide conflicting information, observers often focus on the contradictions rather than the underlying event. In Harbour Mille, residents heard an early missile-related explanation, then a denial, but were left without a widely accepted official reconstruction of what had actually been seen. That sequence encouraged suspicion among people who felt information was being withheld or managed rather than fully explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
-Political interest amplified the issue. Public figures sought additional information from federal authorities, and questions about transparency became part of the discussion. The controversy therefore shifted from a narrow sighting report into a broader debate about government openness and accountability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+Political interest amplified the issue. Public figures sought additional information from federal authorities, and questions about transparency became part of the discussion. The controversy therefore shifted from a narrow sighting report into a broader debate about government openness and accountability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
-Importantly, an accountability gap does not prove a cover-up. Administrative confusion, fragmented jurisdiction and incomplete information can produce the same public impression. Aviation matters, military activity, policing and national security reporting often involve different organisations with different responsibilities. When communication is not coordinated, the public may see contradiction even where none was intended. The Harbour Mille case illustrates how that dynamic can occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+Importantly, an accountability gap does not prove a cover-up. Administrative confusion, fragmented jurisdiction and incomplete information can produce the same public impression. Aviation matters, military activity, policing and national security reporting often involve different organisations with different responsibilities. When communication is not coordinated, the public may see contradiction even where none was intended. The Harbour Mille case illustrates how that dynamic can occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cu-Yv3thTEI">Open on YouTube</a></p></div></div></div>
@@ -319,204 +319,204 @@ Importantly, an accountability gap does not prove a cover-up. Administrative con
 
 ## Why the denial failed to settle the case
 
-Later sceptical interpretations increasingly pointed towards a distant aircraft contrail illuminated by low-angle sunlight, an explanation that addressed several visual features seen in the photographs. Yet those analyses emerged gradually and largely outside the initial official response. By the time alternative explanations gained attention, the [public memory]({{ 'public-memory-388e3e/' | relative_url }}) of conflicting statements had already become part of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+Later sceptical interpretations increasingly pointed towards a distant aircraft contrail illuminated by low-angle sunlight, an explanation that addressed several visual features seen in the photographs. Yet those analyses emerged gradually and largely outside the initial official response. By the time alternative explanations gained attention, the [public memory]({{ 'public-memory-388e3e/' | relative_url }}) of conflicting statements had already become part of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
-For that reason, Harbour Mille occupies an unusual place in Newfoundland and Labrador's UFO history. The central question is not simply whether witnesses misidentified an aircraft, a contrail or some other conventional phenomenon. The case is remembered because official institutions successfully rejected the most dramatic explanation while failing to provide a clear, immediate and widely trusted account of what people had actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+For that reason, Harbour Mille occupies an unusual place in Newfoundland and Labrador's UFO history. The central question is not simply whether witnesses misidentified an aircraft, a contrail or some other conventional phenomenon. The case is remembered because official institutions successfully rejected the most dramatic explanation while failing to provide a clear, immediate and widely trusted account of what people had actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
-The lesson of the incident is therefore as much about public trust as aerial phenomena. A denial can remove one possibility, but if it leaves the underlying event unexplained in the public mind, suspicion often survives long after the original claim has been challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
+The lesson of the incident is therefore as much about public trust as aerial phenomena. A denial can remove one possibility, but if it leaves the underlying event unexplained in the public mind, suspicion often survives long after the original claim has been challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: introtoglobalstudies.com">[introtoglobalstudies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">introtoglobalstudies.com</span><span class="citation-popover-title">Mystery rocket launches off of L.A</span><span class="citation-popover-snippet">and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-3-dark.svg" | relative_url }}" alt="Denial Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why did the official denial not settle it?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why did the official denial not settle it?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official statements, investigations, and why public questions persist after government responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official statements, investigations, and why public questions persist after government responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers understand why denials alone often fail to resolve public uncertainty without convincing evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why denials alone often fail to resolve public uncertainty without convincing evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Explores how conflicting official narratives can fuel suspicion and long-running controversies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how conflicting official narratives can fuel suspicion and long-running controversies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how modern communities interpret unexplained phenomena when official answers seem incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how modern communities interpret unexplained phenomena when official answers seem incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="denial-gap-why-did-the-official-denial-not-settle-it-newfoundland-and-labrador-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ The lesson of the incident is therefore as much about public trust as aerial phe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ The lesson of the incident is therefore as much about public trust as aerial phe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ The lesson of the incident is therefore as much about public trust as aerial phe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ The lesson of the incident is therefore as much about public trust as aerial phe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ The lesson of the incident is therefore as much about public trust as aerial phe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,90 +722,90 @@ The lesson of the incident is therefore as much about public trust as aerial phe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: introtoglobalstudies.com  
    Title: Mystery rocket launches off of L.A  
-   Link: <a href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</p></details>
+   Link:<a href="https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.introtoglobalstudies.com/2012/03/mystery-rocket-launches-off-the-north-american-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Newfoundland27 Mar 2012 — On Monday, January 25th 2010, Darlene Stewart saw something remarkable in the skies over Harbour Mille, a s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rcmp.ca  
-   Link: <a href="https://rcmp.ca/en/nl/news/2026/05/4353543" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/nl/news/2026/05/4353543</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Bay St. George RCMP detachment responding to...27 May 2026 — The item has been secured and will be continuously monitored until...</p></details>
+   Link:<a href="https://rcmp.ca/en/nl/news/2026/05/4353543" target="_blank" rel="noopener noreferrer nofollow">https://rcmp.ca/en/nl/news/2026/05/4353543</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Bay St. George RCMP detachment responding to...27 May 2026 — The item has been secured and will be continuously monitored until...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddeeradvocate.com  
-   Link: <a href="https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Deer AdvocateOfficials look at report of mysterious object in skyHelen Cleary-Escott, an RCMP spokeswoman, said there is no debris or...</p></details>
+   Link:<a href="https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/28/officials-look-at-report-of-mysterious-object-in-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Deer AdvocateOfficials look at report of mysterious object in skyHelen Cleary-Escott, an RCMP spokeswoman, said there is no debris or...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddeeradvocate.com  
    Title: woman who claims she saw missiles says area not used by model hobbyists  
-   Link: <a href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Woman who claims she saw missiles says area not used...30 Jan 2010 — Newfoundland Premier Danny Williams said he was concerned about the...</p></details>
+   Link:<a href="https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/" target="_blank" rel="noopener noreferrer nofollow">https://reddeeradvocate.com/2010/01/30/woman-who-claims-she-saw-missiles-says-area-not-used-by-model-hobbyists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Woman who claims she saw missiles says area not used...30 Jan 2010 — Newfoundland Premier Danny Williams said he was concerned about the...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pugwashgroup.ca  
-   Link: <a href="https://pugwashgroup.ca/cnanw/20-mishaps-that-might-have-started-a-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow">https://pugwashgroup.ca/cnanw/20-mishaps-that-might-have-started-a-nuclear-war/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Mishaps That Might Have Started a Nuclear WarThe leaders and the military commanders have thought about the possibility of a nuclear w...</p></details>
+   Link:<a href="https://pugwashgroup.ca/cnanw/20-mishaps-that-might-have-started-a-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow">https://pugwashgroup.ca/cnanw/20-mishaps-that-might-have-started-a-nuclear-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Mishaps That Might Have Started a Nuclear WarThe leaders and the military commanders have thought about the possibility of a nuclear w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ucs.org  
-   Link: <a href="https://www.ucs.org/sites/default/files/attach/2015/04/Close%20Calls%20with%20Nuclear%20Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/Close%20Calls%20with%20Nuclear%20Weapons.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Calls with Nuclear WeaponsNuclear weapons systems are designed so that several things would have to go wrong to result in an accide...</p></details>
+   Link:<a href="https://www.ucs.org/sites/default/files/attach/2015/04/Close%20Calls%20with%20Nuclear%20Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/Close%20Calls%20with%20Nuclear%20Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Calls with Nuclear WeaponsNuclear weapons systems are designed so that several things would have to go wrong to result in an accide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cgai.ca  
-   Link: <a href="https://www.cgai.ca/th_pp_canadian_ballistic_missile_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.cgai.ca/th_pp_canadian_ballistic_missile_dilemma</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Ballistic Missile DilemmaIts objective is to ensure the effective and efficient employment of limited air and missile defenc...</p></details>
+   Link:<a href="https://www.cgai.ca/th_pp_canadian_ballistic_missile_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.cgai.ca/th_pp_canadian_ballistic_missile_dilemma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Ballistic Missile DilemmaIts objective is to ensure the effective and efficient employment of limited air and missile defenc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: on the night of january 25 2010 residents of the small coastal community of harb  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/photos/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104503316184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104503316184/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden29 Nov 2025 — On the night of January 25, 2010, residents of the small coastal community of Harbour Mille were shaken when three mi...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/photos/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104503316184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104503316184/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden29 Nov 2025 — On the night of January 25, 2010, residents of the small coastal community of Harbour Mille were shaken when three mi...</p></details>
    Published: January 25, 2010  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: on the night of january 25 2010 residents of the small coastal community of harb  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104523316182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104523316182/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Facts29 Nov 2025 — On the night of January 25, 2010, residents of the small coastal community of Harbour Mille were shaken when th...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104523316182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-the-night-of-january-25-2010-residents-of-the-small-coastal-community-of-harb/1488104523316182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Facts29 Nov 2025 — On the night of January 25, 2010, residents of the small coastal community of Harbour Mille were shaken when th...</p></details>
    Published: January 25, 2010  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PLANETXNEWS.org/posts/fiery-mystery-object-seen-by-hundreds-of-people-on-vero-beach-fl-new-years-daya-/747680272391441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PLANETXNEWS.org/posts/fiery-mystery-object-seen-by-hundreds-of-people-on-vero-beach-fl-new-years-daya-/747680272391441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2010, residents of Harbour Mille in Newfoundland reported seeing strange missile-like objects flying in the area...</p></details>
+   Link:<a href="https://www.facebook.com/PLANETXNEWS.org/posts/fiery-mystery-object-seen-by-hundreds-of-people-on-vero-beach-fl-new-years-daya-/747680272391441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PLANETXNEWS.org/posts/fiery-mystery-object-seen-by-hundreds-of-people-on-vero-beach-fl-new-years-daya-/747680272391441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2010, residents of Harbour Mille in Newfoundland reported seeing strange missile-like objects flying in the area...</p></details>
    Published: January 25, 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/255211284928954/posts/2463498290766898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/255211284928954/posts/2463498290766898/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting over Lunenburg, NSThe Harbour Mile UFO Incident “On January 25, 2010, residents of Harbour Mille in Newfoundland reported se...</p></details>
+   Link:<a href="https://www.facebook.com/groups/255211284928954/posts/2463498290766898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/255211284928954/posts/2463498290766898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting over Lunenburg, NSThe Harbour Mile UFO Incident “On January 25, 2010, residents of Harbour Mille in Newfoundland reported se...</p></details>
    Published: January 25, 2010  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntv.ca  
    Title: rcmp warn of historic military munition discovered near st georges  
-   Link: <a href="https://ntv.ca/news/rcmp-warn-of-historic-military-munition-discovered-near-st-georges/" target="_blank" rel="noopener noreferrer nofollow">https://ntv.ca/news/rcmp-warn-of-historic-military-munition-discovered-near-st-georges/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George RCMP was advised Wednesday that a historic military munition was discovered near St. George&#x27;s. The item was voluntarily turned...</p></details>
+   Link:<a href="https://ntv.ca/news/rcmp-warn-of-historic-military-munition-discovered-near-st-georges/" target="_blank" rel="noopener noreferrer nofollow">https://ntv.ca/news/rcmp-warn-of-historic-military-munition-discovered-near-st-georges/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George RCMP was advised Wednesday that a historic military munition was discovered near St. George&#x27;s. The item was voluntarily turned...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashes in Shag Harbour, Nova Scotia... RCMP and no... January 25, 2010, residents of Harbour Mille in Newfoundland reported seeing...</p></details>
+   Link:<a href="https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/temagamitalk/posts/2926622154392044/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crashes in Shag Harbour, Nova Scotia... RCMP and no... January 25, 2010, residents of Harbour Mille in Newfoundland reported seeing...</p></details>
    Published: January 25, 2010  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cu-Yv3thTEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connection between UFO sightings &amp; nuclear facilities in Canada. Why wont the gov disclose [records](&amp;#123;&amp;#123; &#x27;records-45a181/&#x27; | relative_url &amp;#125;&amp;#125;)?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cu-Yv3thTEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cu-Yv3thTEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connection between UFO sightings &amp; nuclear facilities in Canada. Why wont the gov disclose [records](&amp;#123;&amp;#123; &#x27;records-45a181/&#x27; | relative_url &amp;#125;&amp;#125;)?...</p></details>

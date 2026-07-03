@@ -256,19 +256,19 @@ image: /assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_cou
 
 ## Introduction
 
-Toronto regularly appears near the top of Canadian UFO rankings, but a simple question complicates the headline numbers: what exactly counts as “Toronto”? Depending on whether reports are assigned to the City of Toronto, the wider Greater Toronto Area (GTA), or the Statistics Canada Toronto Census Metropolitan Area (CMA), the total can change significantly. That boundary problem matters because Toronto is Canada's largest urban region, and a sighting recorded in Mississauga, Vaughan, Markham, Brampton or Pickering may be reported publicly as a Toronto-area event even when it falls outside the city's municipal limits. As a result, Toronto's position in UFO league tables often reflects geography and data classification as much as it reflects the number of unusual observations themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
+Toronto regularly appears near the top of Canadian UFO rankings, but a simple question complicates the headline numbers: what exactly counts as “Toronto”? Depending on whether reports are assigned to the City of Toronto, the wider Greater Toronto Area (GTA), or the Statistics Canada Toronto Census Metropolitan Area (CMA), the total can change significantly. That boundary problem matters because Toronto is Canada's largest urban region, and a sighting recorded in Mississauga, Vaughan, Markham, Brampton or Pickering may be reported publicly as a Toronto-area event even when it falls outside the city's municipal limits. As a result, Toronto's position in UFO league tables often reflects geography and data classification as much as it reflects the number of unusual observations themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-1-dark.svg" | relative_url }}" alt="Toronto Counts illustration 1" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [Ontario]({{ 'why-ontario-matters-in-canadian-ufo/' | relative_url }})'s UFO statistics, Toronto is therefore best understood not as a single city point on a map but as a reporting region whose boundaries shift depending on the source and methodology. That distinction helps explain why some surveys appear to give Toronto dramatically different totals from one table to the next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
+Within [Ontario]({{ 'why-ontario-matters-in-canadian-ufo/' | relative_url }})'s UFO statistics, Toronto is therefore best understood not as a single city point on a map but as a reporting region whose boundaries shift depending on the source and methodology. That distinction helps explain why some surveys appear to give Toronto dramatically different totals from one table to the next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
 
 ## Metro Toronto versus city-only figures
 
-The clearest example comes from recent Canadian UFO Survey reporting. In the 2025 survey, Toronto was listed as Canada's leading metropolitan centre with 53 reports, yet a separate city ranking showed Toronto with a much lower figure. Similar differences appeared in earlier surveys. The discrepancy is not evidence of missing reports or statistical errors. Instead, it reflects the use of different geographic units for counting [sightings]({{ 'sightings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
+The clearest example comes from recent Canadian UFO Survey reporting. In the 2025 survey, Toronto was listed as Canada's leading metropolitan centre with 53 reports, yet a separate city ranking showed Toronto with a much lower figure. Similar differences appeared in earlier surveys. The discrepancy is not evidence of missing reports or statistical errors. Instead, it reflects the use of different geographic units for counting [sightings]({{ 'sightings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
 
-This distinction mirrors how Canadian statisticians define urban areas. Statistics Canada treats a census metropolitan area as a region made up of multiple adjacent municipalities centred on a major urban core. The Toronto CMA extends far beyond the municipal boundaries of the City of Toronto itself and includes numerous surrounding communities that are economically and socially integrated with the city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
+This distinction mirrors how Canadian statisticians define urban areas. Statistics Canada treats a census metropolitan area as a region made up of multiple adjacent municipalities centred on a major urban core. The Toronto CMA extends far beyond the municipal boundaries of the City of Toronto itself and includes numerous surrounding communities that are economically and socially integrated with the city.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
 
-The scale difference is substantial. The City of Toronto covers about 630 square kilometres and has a population of roughly three million, while the broader Toronto region contains more than six million residents spread across an area approaching 6,000 square kilometres. A reporting system that counts the wider metropolitan area will naturally generate many more sightings than one restricted to city limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.ca">[City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.ca</span><span class="citation-popover-title">at a glance</span><span class="citation-popover-snippet">City of TorontoToronto at a GlanceJan 25, 2024 — Indicators (2023), City of Toronto, Toronto Region. Land Area (km2), 630, 5,903. Populat...</span></span></span>
+The scale difference is substantial. The City of Toronto covers about 630 square kilometres and has a population of roughly three million, while the broader Toronto region contains more than six million residents spread across an area approaching 6,000 square kilometres. A reporting system that counts the wider metropolitan area will naturally generate many more sightings than one restricted to city limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.ca">[City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.ca</span><span class="citation-popover-title">at a glance</span><span class="citation-popover-snippet">City of TorontoToronto at a GlanceJan 25, 2024 — Indicators (2023), City of Toronto, Toronto Region. Land Area (km2), 630, 5,903. Populat...</span></span></span>
 
 For UFO researchers, the lesson is straightforward: before comparing Toronto with Montreal, Calgary, Vancouver or other Canadian cities, it is essential to know whether the comparison uses municipal boundaries or metropolitan ones. Otherwise, apparently dramatic differences may simply reflect different counting rules.
 
@@ -291,7 +291,7 @@ Several factors encourage this tendency:
 
 </div>
 
-These issues are not unique to UFO reporting. They appear in crime statistics, transportation studies, economic analysis and demographic research whenever a large metropolitan area overlaps multiple local governments. Statistics Canada's own geographic framework recognises this by separating municipal boundaries from metropolitan-area boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
+These issues are not unique to UFO reporting. They appear in crime statistics, transportation studies, economic analysis and demographic research whenever a large metropolitan area overlaps multiple local governments. Statistics Canada's own geographic framework recognises this by separating municipal boundaries from metropolitan-area boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
 
 For UFO databases, however, the consequences are especially noticeable because the underlying numbers are relatively small. Moving a few dozen cases between a metropolitan category and a city-only category can substantially change a ranking table.
 
@@ -301,9 +301,9 @@ For UFO databases, however, the consequences are especially noticeable because t
 
 Even when the boundary issue is accounted for, Toronto remains one of Canada's most active UFO reporting areas. Population is the simplest explanation.
 
-The Toronto CMA is Canada's largest metropolitan area, with more than six million residents. A larger population creates more potential observers, more smartphones, more social-media sharing and more opportunities for unusual aerial events to be noticed and reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www150.statcan.gc.ca">[Statistics Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www150.statcan.gc.ca</span><span class="citation-popover-title">Statistics Canada Illustrated Glossary</span><span class="citation-popover-snippet">Statistics CanadaIllustrated Glossary - Census metropolitan area (CMA) and...9 Feb 2022 — The population counts are: 6,202,225 in Toront...</span></span></span>
+The Toronto CMA is Canada's largest metropolitan area, with more than six million residents. A larger population creates more potential observers, more smartphones, more social-media sharing and more opportunities for unusual aerial events to be noticed and reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www150.statcan.gc.ca">[Statistics Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www150.statcan.gc.ca</span><span class="citation-popover-title">Statistics Canada Illustrated Glossary</span><span class="citation-popover-snippet">Statistics CanadaIllustrated Glossary - Census metropolitan area (CMA) and...9 Feb 2022 — The population counts are: 6,202,225 in Toront...</span></span></span>
 
-The region also sits beneath some of the busiest airspace in the country. Flights arriving at and departing from the Toronto area create a constant stream of lights, navigation beacons and aircraft movements. Satellites, Starlink trains, atmospheric effects and astronomical objects are likewise observed by a very large urban population. Researchers studying Canadian UFO reports have repeatedly noted that many cases eventually receive conventional [explanations]({{ 'explanations-221c83/' | relative_url }}), while others remain unresolved largely because available information is insufficient rather than because an extraordinary object was demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...Read more...</span></span></span>
+The region also sits beneath some of the busiest airspace in the country. Flights arriving at and departing from the Toronto area create a constant stream of lights, navigation beacons and aircraft movements. Satellites, Starlink trains, atmospheric effects and astronomical objects are likewise observed by a very large urban population. Researchers studying Canadian UFO reports have repeatedly noted that many cases eventually receive conventional [explanations]({{ 'explanations-221c83/' | relative_url }}), while others remain unresolved largely because available information is insufficient rather than because an extraordinary object was demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">it investigated in 2023, 31% could not be conclusively explained due to...Read more...</span></span></span>
 
 This means that Toronto's high ranking does not automatically imply a uniquely mysterious hotspot. It may instead reflect a combination of population density, observation opportunities and reporting behaviour.
 
@@ -338,13 +338,13 @@ What the rankings cannot show:
 
 </div>
 
-The Canadian UFO Survey itself cautions that report totals require interpretation and that most cases ultimately receive conventional explanations or lack enough information for firm conclusions. [Raw counts]({{ 'raw-counts/' | relative_url }}) are therefore best viewed as indicators of reporting activity rather than direct measures of unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
+The Canadian UFO Survey itself cautions that report totals require interpretation and that most cases ultimately receive conventional explanations or lack enough information for firm conclusions. [Raw counts]({{ 'raw-counts/' | relative_url }}) are therefore best viewed as indicators of reporting activity rather than direct measures of unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">survey data</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-3-dark.svg" | relative_url }}" alt="Toronto Counts illustration 3" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The larger lesson for Ontario's UFO statistics
 
-Toronto illustrates a broader problem within Ontario UFO data: geographic labels can shape the story readers think the numbers are telling. A report count attached to "Toronto" may actually represent observations from a sprawling metropolitan region rather than from the city proper. When researchers separate metropolitan figures from municipal figures, Toronto's total often changes dramatically, even though the underlying sightings remain the same. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
+Toronto illustrates a broader problem within Ontario UFO data: geographic labels can shape the story readers think the numbers are telling. A report count attached to "Toronto" may actually represent observations from a sprawling metropolitan region rather than from the city proper. When researchers separate metropolitan figures from municipal figures, Toronto's total often changes dramatically, even though the underlying sightings remain the same.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www12.statcan.gc.ca">[Statistics Canada+2City of Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www12.statcan.gc.ca</span><span class="citation-popover-title">definition eng.cfm</span><span class="citation-popover-snippet">Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</span></span></span>
 
 For anyone comparing Ontario locations, the most useful question is not simply how many reports Toronto recorded. It is how the reports were counted, what geographic boundary was used, and whether the comparison is being made on the same basis everywhere else. Once those questions are asked, Toronto's prominence becomes less a mystery and more a lesson in how urban geography influences UFO statistics.
 
@@ -353,194 +353,194 @@ For anyone comparing Ontario locations, the most useful question is not simply h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Toronto&#x27;s UFO Count Changes Shape. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Toronto&#x27;s UFO Count Changes Shape. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains reporting categories and observational data issues that relate to city and regional sighting counts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reporting categories and observational data issues that relate to city and regional sighting counts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO reports are collected, classified, and interpreted across regions and datasets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO reports are collected, classified, and interpreted across regions and datasets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines how official records and reporting systems shape UFO statistics and public understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how official records and reporting systems shape UFO statistics and public understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses the challenges of cataloging and interpreting large numbers of sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the challenges of cataloging and interpreting large numbers of sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="https://i.ebayimg.com/images/g/MGUAAOSwLANlldxL/s-l225.jpg" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="toronto-counts-why-toronto-s-ufo-count-changes-shape-ontario-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Vintage Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Vs8AAeSwExpphimb/s-l225.jpg" alt="Listing image for Space UFO Vintage Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Space UFO Vintage Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-toronto-s-ufo-count-changes-shape-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For anyone comparing Ontario locations, the most useful question is not simply h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For anyone comparing Ontario locations, the most useful question is not simply h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For anyone comparing Ontario locations, the most useful question is not simply h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For anyone comparing Ontario locations, the most useful question is not simply h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For anyone comparing Ontario locations, the most useful question is not simply h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,178 +743,177 @@ For anyone comparing Ontario locations, the most useful question is not simply h
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: toronto.ca  
    Title: at a glance  
-   Link: <a href="https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/" target="_blank" rel="noopener noreferrer nofollow">https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City of TorontoToronto at a GlanceJan 25, 2024 — Indicators (2023), City of Toronto, Toronto Region. Land Area (km2), 630, 5,903. Populat...</p></details>
+   Link:<a href="https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/" target="_blank" rel="noopener noreferrer nofollow">https://www.toronto.ca/city-government/data-research-maps/toronto-at-a-glance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City of TorontoToronto at a GlanceJan 25, 2024 — Indicators (2023), City of Toronto, Toronto Region. Land Area (km2), 630, 5,903. Populat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: toronto.ca  
-   Link: <a href="https://www.toronto.ca/city-government/data-research-maps/maps/census-tract-reference-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.toronto.ca/city-government/data-research-maps/maps/census-tract-reference-maps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City of TorontoCensus Tract Reference MapsThe Census Tract Reference Maps display the boundaries and names of census tracts for the Toron...</p></details>
+   Link:<a href="https://www.toronto.ca/city-government/data-research-maps/maps/census-tract-reference-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.toronto.ca/city-government/data-research-maps/maps/census-tract-reference-maps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City of TorontoCensus Tract Reference MapsThe Census Tract Reference Maps display the boundaries and names of census tracts for the Toron...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>it investigated in 2023, 31% could not be conclusively explained due to...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it investigated in 2023, 31% could not be conclusively explained due to...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and represent al...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and represent al...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www12.statcan.gc.ca  
    Title: definition eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/definition-eng.cfm?ID=geo009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaCensus metropolitan area (CMA) and...Nov 17, 2021 — A census metropolitan area (CMA) or a census agglomeration (CA) is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: www150.statcan.gc.ca  
    Title: Statistics Canada Illustrated Glossary  
-   Link: <a href="https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaIllustrated Glossary - Census metropolitan area (CMA) and...9 Feb 2022 — The population counts are: 6,202,225 in Toront...</p></details>
+   Link:<a href="https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/n1/pub/92-195-x/2021001/geo/cma-rmr/cma-rmr-eng.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaIllustrated Glossary - Census metropolitan area (CMA) and...9 Feb 2022 — The population counts are: 6,202,225 in Toront...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canadianuforeport.ca  
    Title: survey data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 10, 2026 — In 2025, Ontario led the pack with 30 per cent of the total number of UFO reports, Quebec claimed about 20 per cent, B.C...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 10, 2026 — In 2025, Ontario led the pack with 30 per cent of the total number of UFO reports, Quebec claimed about 20 per cent, B.C...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: www12.statcan.gc.ca  
    Title: index2021 eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/index2021-eng.cfm?year=21" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/index2021-eng.cfm?year=21</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaCensus Tract Reference Maps10 Feb 2022 — The maps display the boundaries and names of census tracts and census subdivisi...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/index2021-eng.cfm?year=21" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/index2021-eng.cfm?year=21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaCensus Tract Reference Maps10 Feb 2022 — The maps display the boundaries and names of census tracts and census subdivisi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: www150.statcan.gc.ca  
-   Link: <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaPopulation estimates, July 1, by census metropolitan area...Population estimates, July 1, by census metropolitan area a...</p></details>
+   Link:<a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics CanadaPopulation estimates, July 1, by census metropolitan area...Population estimates, July 1, by census metropolitan area a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: www12.statcan.gc.ca  
    Title: index2021 eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>statcan.gc.ca2021 Census Boundary files29 Sept 2023 — List of 2021 Census boundary files depicting boundaries of 2021 Census standard geo...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>statcan.gc.ca2021 Census Boundary files29 Sept 2023 — List of 2021 Census boundary files depicting boundaries of 2021 Census standard geo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: www12.statcan.gc.ca  
    Title: Facts cma eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>metropolitan area of Toronto, OntarioIn 2011, the population of Toronto census metropolitan area (CMA) was 5,583,064, representing a perc...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>metropolitan area of Toronto, OntarioIn 2011, the population of Toronto census metropolitan area (CMA) was 5,583,064, representing a perc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: statcan.gc.ca  
-   Link: <a href="https://www.statcan.gc.ca/en/start" target="_blank" rel="noopener noreferrer nofollow">https://www.statcan.gc.ca/en/start</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s national statistical agencyStatistics Canada is the national statistical office. The agency ensures Canadians have the key infor...</p></details>
+   Link:<a href="https://www.statcan.gc.ca/en/start" target="_blank" rel="noopener noreferrer nofollow">https://www.statcan.gc.ca/en/start</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s national statistical agencyStatistics Canada is the national statistical office. The agency ensures Canadians have the key infor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: www150.statcan.gc.ca  
-   Link: <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000601" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000601</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>counts, for census metropolitan areas...Feb 9, 2022 — 27.23 area is the area in square kilometres of the land-based portions of standard...</p></details>
+   Link:<a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000601" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>counts, for census metropolitan areas...Feb 9, 2022 — 27.23 area is the area in square kilometres of the land-based portions of standard...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: www12.statcan.gc.ca  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/ips/index.cfm?g=2021S0503535&amp;l=en&amp;q=92-999-X&amp;t=201" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/ips/index.cfm?g=2021S0503535&amp;l=en&amp;q=92-999-X&amp;t=201</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>statcan.gc.ca2021 Census – Individual geography maps12 Feb 2025 — Map Scale. 0. 20. 40km. Displayed boundary: Census metropolitan areas o...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/ips/index.cfm?g=2021S0503535&amp;l=en&amp;q=92-999-X&amp;t=201" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/geosearch-georecherche/ips/index.cfm?g=2021S0503535&amp;l=en&amp;q=92-999-X&amp;t=201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>statcan.gc.ca2021 Census – Individual geography maps12 Feb 2025 — Map Scale. 0. 20. 40km. Displayed boundary: Census metropolitan areas o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: www12.statcan.gc.ca  
    Title: Facts cma eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng&amp;TOPIC=1" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng&amp;TOPIC=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Geography Series, 2016 CensusJul 18, 2019 — In 2016, the enumerated population of Toronto census metropolitan area (CMA) was 5,928,040...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng&amp;TOPIC=1" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?GC=535&amp;GK=CMA&amp;LANG=Eng&amp;TOPIC=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Geography Series, 2016 CensusJul 18, 2019 — In 2016, the enumerated population of Toronto census metropolitan area (CMA) was 5,928,040...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: www150.statcan.gc.ca  
-   Link: <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014901" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014901</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of population change by census metropolitan...14 Jan 2026 — Components of population change by census metropolitan area and census agglo...</p></details>
+   Link:<a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014901" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of population change by census metropolitan...14 Jan 2026 — Components of population change by census metropolitan area and census agglo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: www12.statcan.gc.ca  
    Title: map eng.cfm  
-   Link: <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/map-eng.cfm?CMA=535" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/map-eng.cfm?CMA=535</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>geography: Maps14 Jan 2022 — This is a reference map showing census tracts for the census metropolitan area of Toronto, Ontario. Toronto...</p></details>
+   Link:<a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/map-eng.cfm?CMA=535" target="_blank" rel="noopener noreferrer nofollow">https://www12.statcan.gc.ca/census-recensement/2021/geo/maps-cartes/referencemaps-cartesdereference/cma_ca_ct-rmr_ar_sr/map-eng.cfm?CMA=535</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>geography: Maps14 Jan 2022 — This is a reference map showing census tracts for the census metropolitan area of Toronto, Ontario. Toronto...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyMap of Canada with UFO icons spread across various provinces. annual surveys. View files from 1989-2025. VIEW SURVEYS...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO SurveyMap of Canada with UFO icons spread across various provinces. annual surveys. View files from 1989-2025. VIEW SURVEYS...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Greater Toronto Area  
-   Link: <a href="https://en.wikipedia.org/wiki/Greater_Toronto_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Greater_Toronto_Area</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greater Toronto AreaA map of Toronto&#x27;s Census Metropolitan Area, which contains a large portion of the GTA · Toronto is the central ci...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Greater_Toronto_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Greater_Toronto_Area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greater Toronto AreaA map of Toronto&#x27;s Census Metropolitan Area, which contains a large portion of the GTA · Toronto is the central ci...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)“As with previous studies, the 2002 Canadian UFO survey does not offer any positive pr...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2025 Canadian UFO Survey (with Chris Rutkowski)“As with previous studies, the 2002 Canadian UFO survey does not offer any positive pr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Love CanadaMore than 1000 UFO sightings were reported across Canada in 2025, according to the latest Canadian UFO Survey. A total of 10...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: canadians reported more than 1000 ufo sightings in 2025 according to the latest  
-   Link: <a href="https://www.facebook.com/toronto.culture/photos/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633159470041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toronto.culture/photos/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633159470041/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians reported more than 1000 UFO sightings...12 Mar 2026 — Canadians reported more than 1000 UFO sightings in 2025, according to th...</p></details>
+   Link:<a href="https://www.facebook.com/toronto.culture/photos/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633159470041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toronto.culture/photos/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633159470041/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians reported more than 1000 UFO sightings...12 Mar 2026 — Canadians reported more than 1000 UFO sightings in 2025, according to th...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vicnews.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...Mar 19, 2026 — South Cariboo woman helps document 2025&#x27;s 1,052 Canadian UFO sightings...</p></details>
+   Link:<a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...Mar 19, 2026 — South Cariboo woman helps document 2025&#x27;s 1,052 Canadian UFO sightings...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our...Read more...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: List of census metropolitan areas and agglomerations in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_census_metropolitan_areas_and_agglomerations_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_census_metropolitan_areas_and_agglomerations_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of census metropolitan areas and agglomerations in...Census metropolitan areas (CMAs) and census agglomerations (CAs) are geogra...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_census_metropolitan_areas_and_agglomerations_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_census_metropolitan_areas_and_agglomerations_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of census metropolitan areas and agglomerations in...Census metropolitan areas (CMAs) and census agglomerations (CAs) are geogra...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mdl.library.utoronto.ca  
    Title: These files will be accessible via Scholars Geo Portal at a later date.Read more  
-   Link: <a href="https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/2021/geospatial-data-and-maps" target="_blank" rel="noopener noreferrer nofollow">https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/2021/geospatial-data-and-maps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>utoronto.ca2021 Census: Geospatial data and maps | Map and Data LibraryCurrently, census boundary files are only available on the Statist...</p></details>
+   Link:<a href="https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/2021/geospatial-data-and-maps" target="_blank" rel="noopener noreferrer nofollow">https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/2021/geospatial-data-and-maps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>utoronto.ca2021 Census: Geospatial data and maps | Map and Data LibraryCurrently, census boundary files are only available on the Statist...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: manifolddatamining.com  
    Title: new boundaries and names from the 2021 census  
-   Link: <a href="https://manifolddatamining.com/new-boundaries-and-names-from-the-2021-census/" target="_blank" rel="noopener noreferrer nofollow">https://manifolddatamining.com/new-boundaries-and-names-from-the-2021-census/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2023 — According to the 2021 Census data, 16 Census Metropolitan Areas (CMAs) in Ontario experienced population growth since the...</p></details>
+   Link:<a href="https://manifolddatamining.com/new-boundaries-and-names-from-the-2021-census/" target="_blank" rel="noopener noreferrer nofollow">https://manifolddatamining.com/new-boundaries-and-names-from-the-2021-census/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2023 — According to the 2021 Census data, 16 Census Metropolitan Areas (CMAs) in Ontario experienced population growth since the...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: Have you ever seen anything unexplainable in the sky?Read more  
-   Link: <a href="https://www.facebook.com/toronto.culture/posts/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633269470030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toronto.culture/posts/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633269470030/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians reported more than 1000 UFO sightings...Mar 12, 2026 — ” Montreal, Toronto, Vancouver and Edmonton topped the cities with the...</p></details>
+   Link:<a href="https://www.facebook.com/toronto.culture/posts/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633269470030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toronto.culture/posts/canadians-reported-more-than-1000-ufo-sightings-in-2025-according-to-the-latest-/1526633269470030/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadians reported more than 1000 UFO sightings...Mar 12, 2026 — ” Montreal, Toronto, Vancouver and Edmonton topped the cities with the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: winnipeg.citynews.ca  
    Title: ufo sightings rising in canada  
-   Link: <a href="https://winnipeg.citynews.ca/video/2026/03/11/ufo-sightings-rising-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/video/2026/03/11/ufo-sightings-rising-in-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings rising in CanadaThe Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our Kob...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/video/2026/03/11/ufo-sightings-rising-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/video/2026/03/11/ufo-sightings-rising-in-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings rising in CanadaThe Canadian UFO Survey reports over 1,000 UFO sightings in 2025, a slight increase from previous year. Our Kob...</p></details>

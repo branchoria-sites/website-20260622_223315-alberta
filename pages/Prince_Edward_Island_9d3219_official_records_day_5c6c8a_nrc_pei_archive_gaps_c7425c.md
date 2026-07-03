@@ -256,13 +256,13 @@ image: /assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nr
 
 ## Introduction
 
-The federal [record trail]({{ 'record-trail/' | relative_url }}) behind the Days Corner sighting is important because it proves that the event entered Canada’s official reporting system. What it does **not** prove is what the witnesses actually saw. For [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}) researchers, that distinction matters. The National Research Council (NRC) files preserve evidence that a report existed, when it was received, and how it moved through government channels. They are archival records, not final investigative verdicts. The Days Corner entry therefore sits at the intersection of two realities: Canada maintained a formal repository for unusual aerial reports, yet many Prince Edward Island cases survive only as brief administrative traces with missing context, incomplete descriptions, or uncertain follow-up. Library and Archives Canada+2Science.gc.ca <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
+The federal [record trail]({{ 'record-trail/' | relative_url }}) behind the Days Corner sighting is important because it proves that the event entered Canada’s official reporting system. What it does **not** prove is what the witnesses actually saw. For [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}) researchers, that distinction matters. The National Research Council (NRC) files preserve evidence that a report existed, when it was received, and how it moved through government channels. They are archival records, not final investigative verdicts. The Days Corner entry therefore sits at the intersection of two realities: Canada maintained a formal repository for unusual aerial reports, yet many Prince Edward Island cases survive only as brief administrative traces with missing context, incomplete descriptions, or uncertain follow-up. Library and Archives Canada+2Science.gc.ca<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[collectionscanada.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nrc_pei_archive_gaps_c7425c-Illustration-1-dark.svg" | relative_url }}" alt="NRC files illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nrc_pei_archive_gaps_c7425c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nrc_pei_archive_gaps_c7425c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What does the federal file really prove?
 
-The Days Corner report appears within the NRC's long-running collection of “Reports on non-meteoric sightings, unidentified flying objects.” In the Library and Archives Canada catalogue, the case is recorded as a sighting at Days Corner, Prince Edward Island, on 1 October 1977, with related documentation dated a few days later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
+The Days Corner report appears within the NRC's long-running collection of “Reports on non-meteoric sightings, unidentified flying objects.” In the Library and Archives Canada catalogue, the case is recorded as a sighting at Days Corner, Prince Edward Island, on 1 October 1977, with related documentation dated a few days later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
 
 That record establishes several things with reasonable confidence:
 
@@ -275,7 +275,7 @@ That record establishes several things with reasonable confidence:
 
 </div>
 
-However, the file does **not** automatically establish that investigators identified an unknown craft, ruled out conventional [explanations]({{ 'explanations-b5b0c8/' | relative_url }}), or conducted a detailed field investigation. Readers often assume that the presence of a case in a government UFO archive implies official endorsement of the [witness account]({{ 'witness-account/' | relative_url }}). In Canada’s system, the opposite is often true: inclusion usually indicates that a report was logged, not that a conclusion was reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+However, the file does **not** automatically establish that investigators identified an unknown craft, ruled out conventional [explanations]({{ 'explanations-b5b0c8/' | relative_url }}), or conducted a detailed field investigation. Readers often assume that the presence of a case in a government UFO archive implies official endorsement of the [witness account]({{ 'witness-account/' | relative_url }}). In Canada’s system, the opposite is often true: inclusion usually indicates that a report was logged, not that a conclusion was reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
 This is especially important for small Prince Edward Island cases. The surviving paperwork can be genuine while the underlying event remains unresolved, weakly documented, or simply impossible to reconstruct decades later.
 
@@ -286,7 +286,7 @@ This is especially important for small Prince Edward Island cases. The surviving
 
 The route from witness to archive was less dramatic than many later retellings suggest.
 
-By the late 1960s, responsibility for maintaining Canada's central UFO repository had shifted to the NRC. Historical accounts of the programme indicate that earlier Department of National Defence files were transferred to NRC oversight, where reports were retained in what became known as the Non-Meteoric Sighting File. NRC functioned primarily as a repository and clearing house rather than a dedicated investigative agency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">In the 1960s, UFO sightings around the world increased exponentially, with many occurring in Canada.Read more...</span></span></span>
+By the late 1960s, responsibility for maintaining Canada's central UFO repository had shifted to the NRC. Historical accounts of the programme indicate that earlier Department of National Defence files were transferred to NRC oversight, where reports were retained in what became known as the Non-Meteoric Sighting File. NRC functioned primarily as a repository and clearing house rather than a dedicated investigative agency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">In the 1960s, UFO sightings around the world increased exponentially, with many occurring in Canada.Read more...</span></span></span>
 
 In practice, reports could arrive through several channels:
 
@@ -301,7 +301,7 @@ In practice, reports could arrive through several channels:
 
 </div>
 
-When a Prince Edward Island witness contacted police, a brief report might be transmitted onward and eventually incorporated into federal files. The resulting archive often preserved only the information considered necessary for administrative purposes. Extensive witness interviews, photographs, radar analysis, or follow-up investigations were not guaranteed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</span></span></span>
+When a Prince Edward Island witness contacted police, a brief report might be transmitted onward and eventually incorporated into federal files. The resulting archive often preserved only the information considered necessary for administrative purposes. Extensive witness interviews, photographs, radar analysis, or follow-up investigations were not guaranteed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</span></span></span>
 
 For Days Corner, this means the surviving federal record tells us more about the reporting pathway than about the ultimate identity of the object.
 
@@ -312,7 +312,7 @@ For Days Corner, this means the surviving federal record tells us more about the
 
 One of the most misunderstood phrases in Canadian UFO archives is “non-meteoric.”
 
-The term did not mean “alien” or even “genuinely unexplained.” Instead, it reflected the NRC's historical interest in distinguishing reports that were not immediately attributable to meteor activity. The archive category gathered a broad range of unusual aerial observations that reached federal attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+The term did not mean “alien” or even “genuinely unexplained.” Instead, it reflected the NRC's historical interest in distinguishing reports that were not immediately attributable to meteor activity. The archive category gathered a broad range of unusual aerial observations that reached federal attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
 As a result, the collection contains reports of varying quality:
 
@@ -337,15 +337,15 @@ That distinction becomes especially significant when discussing Prince Edward Is
 
 Prince Edward Island presents a particular challenge for archival UFO research because the surviving record is small and uneven.
 
-Unlike provinces with major population centres, extensive military infrastructure, or large aviation reporting networks, PEI generated relatively few federal UFO files. Consequently, a single surviving document can attract disproportionate attention simply because there are not many comparable [records]({{ 'records-10b687/' | relative_url }}) available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+Unlike provinces with major population centres, extensive military infrastructure, or large aviation reporting networks, PEI generated relatively few federal UFO files. Consequently, a single surviving document can attract disproportionate attention simply because there are not many comparable [records]({{ 'records-10b687/' | relative_url }}) available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 Several factors contribute to the gaps:
 
-**Reports were never guaranteed to enter federal systems.** Many [witnesses]({{ 'witnesses/' | relative_url }}) spoke only to neighbours, local newspapers, or civilian UFO groups. If no official agency became involved, no federal file may have been created. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+**Reports were never guaranteed to enter federal systems.** Many [witnesses]({{ 'witnesses/' | relative_url }}) spoke only to neighbours, local newspapers, or civilian UFO groups. If no official agency became involved, no federal file may have been created.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
-**Records were created for administration, not future historians.** Officials recorded enough information to process a report, not necessarily enough to satisfy later researchers seeking precise timelines or detailed witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</span></span></span>
+**Records were created for administration, not future historians.** Officials recorded enough information to process a report, not necessarily enough to satisfy later researchers seeking precise timelines or detailed witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</span></span></span>
 
-**Responsibility was fragmented.** The modern Sky Canada review found that Canadian UAP reporting historically lacked a single coordinated national system. Information could be scattered across agencies, making comprehensive reconstruction difficult decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
+**Responsibility was fragmented.** The modern Sky Canada review found that Canadian UAP reporting historically lacked a single coordinated national system. Information could be scattered across agencies, making comprehensive reconstruction difficult decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</span></span></span>
 
 **Follow-up varied dramatically.** Some reports generated correspondence or analysis, while others remained little more than a short occurrence record.
 
@@ -384,197 +384,197 @@ This is one reason why Days Corner remains interesting. It is not merely a sight
 
 The strongest conclusion that can be drawn from the NRC files is modest but valuable. They demonstrate that Prince Edward Island sightings occasionally entered Canada's official reporting network and were preserved within a national archive. They do not demonstrate that investigators confirmed extraordinary phenomena.
 
-For Days Corner, the federal record confirms a documented report and a traceable bureaucratic path into the NRC's non-meteoric files. Beyond that point, the archive becomes increasingly silent. The surviving paperwork records the existence of the claim, but it does not settle the claim itself. That combination of documentation and uncertainty is precisely why Days Corner remains one of the most discussed official-file cases in Prince Edward Island's UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
+For Days Corner, the federal record confirms a documented report and a traceable bureaucratic path into the NRC's non-meteoric files. Beyond that point, the archive becomes increasingly silent. The surviving paperwork records the existence of the claim, but it does not settle the claim itself. That combination of documentation and uncertainty is precisely why Days Corner remains one of the most discussed official-file cases in Prince Edward Island's UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-snippet">Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What does the federal file really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What does the federal file really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official records, government reporting, and evidentiary standards relevant to interpreting archival UFO files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official records, government reporting, and evidentiary standards relevant to interpreting archival UFO files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are documented, categorized, and evaluated rather than simply accepted as proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are documented, categorized, and evaluated rather than simply accepted as proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses government handling of UFO reports and the limits of what official files can establish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government handling of UFO reports and the limits of what official files can establish.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines documentary evidence, witness reports, and government records while discussing evidentiary uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documentary evidence, witness reports, and government records while discussing evidentiary uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="nrc-files-f4a536-what-does-the-federal-file-really-prove-prince-edward-island-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For Days Corner, the federal record confirms a documented report and a traceable
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For Days Corner, the federal record confirms a documented report and a traceable
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For Days Corner, the federal record confirms a documented report and a traceable
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For Days Corner, the federal record confirms a documented report and a traceable
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For Days Corner, the federal record confirms a documented report and a traceable
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,136 +780,136 @@ For Days Corner, the federal record confirms a documented report and a traceable
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: utias.utoronto.ca  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1960s, UFO sightings around the world increased exponentially, with many occurring in Canada.Read more...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1960s, UFO sightings around the world increased exponentially, with many occurring in Canada.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: utias.utoronto.ca  
    Title: 1960s dr gordon patterson establishes the utias ufo project  
-   Link: <a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Throughout the following years, DND maintained a UFO file based on reports su...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gordon Patterson establishes The UTIAS UFO...15 Aug 2018 — Throughout the following years, DND maintained a UFO file based on reports su...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — Historically, the National Research Council of Canada (NRC) collec...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Public Reporting of Unidentified Aerial...28 Jun 2025 — Historically, the National Research Council of Canada (NRC) collec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — This report focuses on the services available to the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenomena (UAP) repor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gc.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The acronym UFO stands for &#x27;Unidentified Flying Object&#x27; and... extrater...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Questions and Answers about the Sky Canada ProjectJan 15, 2025 — The acronym UFO stands for &#x27;Unidentified Flying Object&#x27; and... extrater...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Canada FOIA Part 12 Pages 3301 3600 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot; classified Can...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2012%20-%20Pages%203301-3600_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot; classified Can...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;brws_s=&amp;q7=National+Research+Council&amp;sk=1856</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaResults - Canada&#x27;s UFOs: The Search for the UnknownDocument...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lac-bac.gc.ca  
    Title: ARCHIVE D  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=ON&amp;sk=1116</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digitalcollections.trentu.ca  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — telex reports to inform the National Research Council o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;interval=&amp;isn_id_nbr=4700&amp;record_id=4700-1867-8444" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;interval=&amp;isn_id_nbr=4700&amp;record_id=4700-1867-8444</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — Herzberg Institute of Astrophysics - Reports on non-meteoric sightings...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;interval=&amp;isn_id_nbr=4700&amp;record_id=4700" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=taq6tkh1mabsust3353mthnd63&amp;interval=&amp;isn_id_nbr=4700&amp;record_id=4700</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — Herzberg Institute of Astrophysics - Reports on non-meteoric sightings...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogy in Canadathe final form of the &#x27;Project Second Storey Sighting Report was approved, Project Second Storey&#x27;s forms and instruction...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/canada.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/canada.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogy in Canadathe final form of the &#x27;Project Second Storey Sighting Report was approved, Project Second Storey&#x27;s forms and instruction...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage UAP (UFO) sighti...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage UAP (UFO) sighti...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: ufo sightings on peinow that we have your attention we would like to talk to you  
-   Link: <a href="https://www.facebook.com/heritagePEI/posts/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342439292453721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/posts/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342439292453721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings on Prince Edward IslandOn July 1st, 1947, four [Summerside](&amp;#123;&amp;#123; &#x27;summerside/&#x27; | relative_url &amp;#125;&amp;#125;) residents saw a bright, luminous object travelling at great heigh...</p></details>
+   Link:<a href="https://www.facebook.com/heritagePEI/posts/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342439292453721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/posts/ufo-sightings-on-peinow-that-we-have-your-attention-we-would-like-to-talk-to-you/4342439292453721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings on Prince Edward IslandOn July 1st, 1947, four [Summerside](&amp;#123;&amp;#123; &#x27;summerside/&#x27; | relative_url &amp;#125;&amp;#125;) residents saw a bright, luminous object travelling at great heigh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: buzzpei.com  
    Title: ufos over prince edward island historical sightings on the public record  
-   Link: <a href="https://buzzpei.com/event/ufos-over-prince-edward-island-historical-sightings-on-the-public-record/" target="_blank" rel="noopener noreferrer nofollow">https://buzzpei.com/event/ufos-over-prince-edward-island-historical-sightings-on-the-public-record/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Prince Edward Island: Historical Sightings on the...11 Apr 2026 — David&#x27;s presentation will not only share historical reports...</p></details>
+   Link:<a href="https://buzzpei.com/event/ufos-over-prince-edward-island-historical-sightings-on-the-public-record/" target="_blank" rel="noopener noreferrer nofollow">https://buzzpei.com/event/ufos-over-prince-edward-island-historical-sightings-on-the-public-record/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Prince Edward Island: Historical Sightings on the...11 Apr 2026 — David&#x27;s presentation will not only share historical reports...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he UFO disclosure to come in days as first files are sent for...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gysh5o/this_is_a_really_serious_sighting_national_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he UFO disclosure to come in days as first files are sent for...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Related material: See Library and Archives Canada&#x27;s online Thematic Guide &quot;...Read more...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Related material: See Library and Archives Canada&#x27;s online Thematic Guide &quot;...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thecanadareport.ca  
-   Link: <a href="https://www.thecanadareport.ca/nrc-ufo-reports-after-1995/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecanadareport.ca/nrc-ufo-reports-after-1995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC UFO Reports: Canada&#x27;s Quiet Sightings Log After 199514 May 2026 — The National Research Council officially stopped collecting public...</p></details>
+   Link:<a href="https://www.thecanadareport.ca/nrc-ufo-reports-after-1995/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecanadareport.ca/nrc-ufo-reports-after-1995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NRC UFO Reports: Canada&#x27;s Quiet Sightings Log After 199514 May 2026 — The National Research Council officially stopped collecting public...</p></details>
    Published: May 2026  

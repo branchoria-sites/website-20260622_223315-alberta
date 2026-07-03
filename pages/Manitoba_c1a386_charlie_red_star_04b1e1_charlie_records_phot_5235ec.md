@@ -262,7 +262,7 @@ image: /assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_ph
 
 ## Introduction
 
-The [Charlie Red Star]({{ 'charlie-red-star/' | relative_url }}) sightings are often remembered for dramatic witness stories, but the strongest reason the case remains part of [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s UFO history is that it left a documentary trail. Reports were logged with the Royal Canadian Mounted Police (RCMP), some cases entered federal UFO record systems, newspaper coverage preserved witness statements, and a small number of photographs circulated among investigators and researchers. Together, these records show that something was being reported repeatedly across southern Manitoba in 1975 and 1976. They do not, however, prove what was being seen. The distinction is important. Documentation can confirm that sightings occurred and were investigated; it cannot automatically identify the object behind those sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+The [Charlie Red Star]({{ 'charlie-red-star/' | relative_url }}) sightings are often remembered for dramatic witness stories, but the strongest reason the case remains part of [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s UFO history is that it left a documentary trail. Reports were logged with the Royal Canadian Mounted Police (RCMP), some cases entered federal UFO record systems, newspaper coverage preserved witness statements, and a small number of photographs circulated among investigators and researchers. Together, these records show that something was being reported repeatedly across southern Manitoba in 1975 and 1976. They do not, however, prove what was being seen. The distinction is important. Documentation can confirm that sightings occurred and were investigated; it cannot automatically identify the object behind those sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-1-dark.svg" | relative_url }}" alt="Records trail illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -273,9 +273,9 @@ For readers trying to understand the evidential status of Charlie Red Star, the 
 
 ## RCMP-linked reports and Canadian UFO record-keeping
 
-One reason Charlie Red Star stands out from many local legends is that some reports moved beyond informal storytelling and entered official channels. During the large Canadian UFO wave of 1975, the RCMP routinely received reports from members of the public and forwarded information into wider government and research systems. Manitoba generated an unusually large number of reports that year. Research based on Canadian UFO [archives]({{ 'archives/' | relative_url }}) identifies 134 Manitoba cases in 1975 alone, with many reports preserved in [federal files]({{ 'federal-files/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+One reason Charlie Red Star stands out from many local legends is that some reports moved beyond informal storytelling and entered official channels. During the large Canadian UFO wave of 1975, the RCMP routinely received reports from members of the public and forwarded information into wider government and research systems. Manitoba generated an unusually large number of reports that year. Research based on Canadian UFO [archives]({{ 'archives/' | relative_url }}) identifies 134 Manitoba cases in 1975 alone, with many reports preserved in [federal files]({{ 'federal-files/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Within the Charlie Red Star sequence, several sightings are known to have been reported directly to the RCMP. One documented example occurred on 7 July 1975, when Mrs Freddie Giesbrecht reported seeing a UFO east of her farmhouse near Carman. The report survives because it entered the reporting chain rather than remaining a private account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+Within the Charlie Red Star sequence, several sightings are known to have been reported directly to the RCMP. One documented example occurred on 7 July 1975, when Mrs Freddie Giesbrecht reported seeing a UFO east of her farmhouse near Carman. The report survives because it entered the reporting chain rather than remaining a private account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 This matters because official reporting creates a paper trail:
 
@@ -289,7 +289,7 @@ This matters because official reporting creates a paper trail:
 
 </div>
 
-At the same time, the existence of an RCMP report should not be confused with an RCMP endorsement of extraordinary explanations. The police role was generally administrative and investigative. Officers documented what witnesses claimed to have seen. In most Canadian UFO cases, including those preserved in national archives, recording a sighting did not mean authorities had determined that an unknown craft was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
+At the same time, the existence of an RCMP report should not be confused with an RCMP endorsement of extraordinary explanations. The police role was generally administrative and investigative. Officers documented what witnesses claimed to have seen. In most Canadian UFO cases, including those preserved in national archives, recording a sighting did not mean authorities had determined that an unknown craft was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
 
 The Charlie Red Star file therefore occupies an important middle ground. It is much better documented than a simple rumour, but it never progressed into a case with a definitive official conclusion.
 
@@ -300,11 +300,11 @@ The Charlie Red Star file therefore occupies an important middle ground. It is m
 
 The archival record establishes several points with reasonable confidence.
 
-First, repeated reports of unusual lights were genuinely being made in southern Manitoba. The sightings were not invented decades later. Contemporary records, newspapers and later archival compilations all show recurring reports centred on the Carman area and neighbouring communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Fireside Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+First, repeated reports of unusual lights were genuinely being made in southern Manitoba. The sightings were not invented decades later. Contemporary records, newspapers and later archival compilations all show recurring reports centred on the Carman area and neighbouring communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Fireside Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Second, the reports attracted enough attention to be preserved in Canadian UFO collections. Researchers such as Chris Rutkowski have repeatedly pointed to the volume of surviving documentation from the period, including records that originated with government agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+Second, the reports attracted enough attention to be preserved in Canadian UFO collections. Researchers such as Chris Rutkowski have repeatedly pointed to the volume of surviving documentation from the period, including records that originated with government agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Third, the records show consistency in at least some witness descriptions. Many reports referred to a bright red light or glowing object, often seen at night and sometimes described as moving in unusual ways. That recurring description is one reason later writers treated Charlie Red Star as a connected flap rather than a series of unrelated incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Sources: The Big Book of UFOs — Chris A.Read more...</span></span></span>
+Third, the records show consistency in at least some witness descriptions. Many reports referred to a bright red light or glowing object, often seen at night and sometimes described as moving in unusual ways. That recurring description is one reason later writers treated Charlie Red Star as a connected flap rather than a series of unrelated incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkpoutine.com">[Dark Poutine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkpoutine.com</span><span class="citation-popover-title">289 spooktober 3 more on canadian ufos and the charlie red star sightings</span><span class="citation-popover-snippet">Sources: The Big Book of UFOs — Chris A.Read more...</span></span></span>
 
 However, the archives cannot establish several claims that are often assumed by enthusiasts:
 
@@ -318,7 +318,7 @@ However, the archives cannot establish several claims that are often assumed by 
 
 </div>
 
-This limitation is common in UFO archives generally. Histories of Canadian UFO investigations note that official files frequently preserve witness testimony, sketches and reports while still leaving the underlying cause unresolved. Documentation demonstrates that an observation occurred; identification requires stronger evidence than a report alone can provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
+This limitation is common in UFO archives generally. Histories of Canadian UFO investigations note that official files frequently preserve witness testimony, sketches and reports while still leaving the underlying cause unresolved. Documentation demonstrates that an observation occurred; identification requires stronger evidence than a report alone can provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
 
 For that reason, historians and sceptical investigators often treat the Charlie Red Star archive as evidence of a social and observational phenomenon rather than as proof of a particular explanation.
 
@@ -328,9 +328,9 @@ For that reason, historians and sceptical investigators often treat the Charlie 
 
 Photographs are often presented as the strongest surviving evidence from the Charlie Red Star flap. Yet they are also among the most misunderstood pieces of evidence.
 
-Several photographs associated with the sightings have circulated in books, articles and later discussions of the case. Their value is real but limited. They demonstrate that photographers captured unusual-looking lights in the night sky. What they generally do not provide is enough information to determine distance, size, speed or physical structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebooktrail.com">[The Book Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebooktrail.com</span><span class="citation-popover-title">charlie red star</span><span class="citation-popover-snippet">The Book TrailCharlie Red Star2 Jul 2017 — There are some amazing UFO facts and figures in this book and a lot of unexplained too. What c...</span></span></span>
+Several photographs associated with the sightings have circulated in books, articles and later discussions of the case. Their value is real but limited. They demonstrate that photographers captured unusual-looking lights in the night sky. What they generally do not provide is enough information to determine distance, size, speed or physical structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebooktrail.com">[The Book Trail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebooktrail.com</span><span class="citation-popover-title">charlie red star</span><span class="citation-popover-snippet">The Book TrailCharlie Red Star2 Jul 2017 — There are some amazing UFO facts and figures in this book and a lot of unexplained too. What c...</span></span></span>
 
-This problem is not unique to Charlie Red Star. Histories of Canadian UFO investigations note that visual materials such as photographs, sketches and witness illustrations often contribute less evidentially than many people expect. Investigators repeatedly found that such images were useful for documenting what witnesses believed they saw but were often poor tools for identifying the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
+This problem is not unique to Charlie Red Star. Histories of Canadian UFO investigations note that visual materials such as photographs, sketches and witness illustrations often contribute less evidentially than many people expect. Investigators repeatedly found that such images were useful for documenting what witnesses believed they saw but were often poor tools for identifying the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</span></span></span>
 
 Night photography creates particular difficulties:
 
@@ -354,202 +354,202 @@ The Charlie Red Star photographs therefore occupy an awkward evidential position
 
 ## Why the records matter even if the mystery remains
 
-The lasting importance of the Charlie Red Star records lies less in what they prove than in what they preserve. The RCMP reports, archived files, newspaper accounts and photographs demonstrate that a significant cluster of sightings occurred during Manitoba’s most famous UFO flap of the 1970s. They show that witnesses came forward repeatedly, that authorities recorded at least some reports, and that the events left a traceable documentary footprint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Fireside Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+The lasting importance of the Charlie Red Star records lies less in what they prove than in what they preserve. The RCMP reports, archived files, newspaper accounts and photographs demonstrate that a significant cluster of sightings occurred during Manitoba’s most famous UFO flap of the 1970s. They show that witnesses came forward repeatedly, that authorities recorded at least some reports, and that the events left a traceable documentary footprint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski+2Fireside Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Yet the same records also illustrate a central lesson of UFO history. Documentation and identification are not the same thing. The Charlie Red Star evidence trail confirms that people reported unusual red lights over southern Manitoba. It does not conclusively reveal what those lights were. That combination—good documentation paired with uncertain interpretation—is precisely why the case remains unresolved and why it continues to occupy a distinctive place in Manitoba’s UFO record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+Yet the same records also illustrate a central lesson of UFO history. Documentation and identification are not the same thing. The Charlie Red Star evidence trail confirms that people reported unusual red lights over southern Manitoba. It does not conclusively reveal what those lights were. That combination—good documentation paired with uncertain interpretation—is precisely why the case remains unresolved and why it continues to occupy a distinctive place in Manitoba’s UFO record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chrisrutkowski.substack.com">[Chris Rutkowski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chrisrutkowski.substack.com</span><span class="citation-popover-title">Chris Rutkowski50 Years Ago: Canada&#x27;s &quot;Summer of UFOs.</span><span class="citation-popover-snippet">July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-3-dark.svg" | relative_url }}" alt="Records trail illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What do the Charlie Red Star records prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What do the Charlie Red Star records prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases, government files, and the limits of what official records can prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases, government files, and the limits of what official records can prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings, reports, photographs, and witness testimony are evaluated as evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings, reports, photographs, and witness testimony are evaluated as evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Provides Canadian UFO case context and archival research relevant to Manitoba sightings and record-keeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides Canadian UFO case context and archival research relevant to Manitoba sightings and record-keeping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Directly addresses witness reports, photographs, and how investigators assess evidential strength.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness reports, photographs, and how investigators assess evidential strength.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th"><img src="{{ '/assets/images/marketplace-covers/75cc0b77ca2501990fed.jpg' | relative_url }}" alt="Listing image for Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Times Map 1922 Manitoba Ontario Canada Winnipeg Dakota Lake Super 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th"><img src="{{ '/assets/images/marketplace-covers/704884c6bc90070b55bd.jpg' | relative_url }}" alt="Listing image for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th"><img src="{{ '/assets/images/marketplace-covers/704884c6bc90070b55bd.jpg' | relative_url }}" alt="Listing image for Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print 1931 Dent Map Western Provinces Saskatchewan Manitoba Vancouver 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th"><img src="{{ '/assets/images/marketplace-covers/6f2b23b8eca6e009e8ee.jpg' | relative_url }}" alt="Listing image for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th"><img src="{{ '/assets/images/marketplace-covers/6f2b23b8eca6e009e8ee.jpg' | relative_url }}" alt="Listing image for Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Old Print Exploration Canada Greenland Cassell Map 1920 Alberta Manitoba 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th"><img src="{{ '/assets/images/marketplace-covers/93e91a07645ee76f3996.jpg' | relative_url }}" alt="Listing image for Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">Original Old Vintage Print Manitoba &amp; Ontario 1920 Large 23X18 Map Canada 20th</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Manitoba map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Manitoba map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Manitoba+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Manitoba map print" data-ebay-reference="records-trail-what-do-the-charlie-red-star-records-prove-manitoba-manitoba-map-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,113 +755,113 @@ Yet the same records also illustrate a central lesson of UFO history. Documentat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: chrisrutkowski.substack.com  
    Title: Chris Rutkowski50 Years Ago: Canada's "Summer of UFOs."  
-   Link: <a href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</p></details>
+   Link:<a href="https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://chrisrutkowski.substack.com/p/50-years-ago-canadas-summer-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2025 — Back to Carman: on July 7, 1975, Mrs. Freddie Giesbrecht reported to RCMP that she had seen a UFO to the east of her farmh...</p></details>
    Published: July 1, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report of a Strasbourg, SK sig...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: firesidecanada.ca  
    Title: charlie redstar manitobas friendly ufo  
-   Link: <a href="https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For period of 16-18 months between 1975 and 1976, a mysterious red light was routinely seen flying...Read more...</p></details>
+   Link:<a href="https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://firesidecanada.ca/charlie-redstar-manitobas-friendly-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For period of 16-18 months between 1975 and 1976, a mysterious red light was routinely seen flying...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: darkpoutine.com  
    Title: 289 spooktober 3 more on canadian ufos and the charlie red star sightings  
-   Link: <a href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources: The Big Book of UFOs — Chris A.Read more...</p></details>
+   Link:<a href="https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://darkpoutine.com/2023/10/289-spooktober-3-more-on-canadian-ufos-and-the-charlie-red-star-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources: The Big Book of UFOs — Chris A.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thebooktrail.com  
    Title: charlie red star  
-   Link: <a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book TrailCharlie Red Star2 Jul 2017 — There are some amazing UFO facts and figures in this book and a lot of unexplained too. What c...</p></details>
+   Link:<a href="https://www.thebooktrail.com/book-trails/charlie-red-star/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebooktrail.com/book-trails/charlie-red-star/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book TrailCharlie Red Star2 Jul 2017 — There are some amazing UFO facts and figures in this book and a lot of unexplained too. What c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canadacommons.ca  
    Title: charlie red star  
-   Link: <a href="https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>True Reports of One of North America&#x27;s...12 Aug 2017 — A wave of UFO sightings struck southern Manitoba in 1975, with possible connectio...</p></details>
+   Link:<a href="https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/1880923/charlie-red-star/2630359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>True Reports of One of North America&#x27;s...12 Aug 2017 — A wave of UFO sightings struck southern Manitoba in 1975, with possible connectio...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: epl.bibliocommons.com  
-   Link: <a href="https://epl.bibliocommons.com/v2/record/S980C3028431" target="_blank" rel="noopener noreferrer nofollow">https://epl.bibliocommons.com/v2/record/S980C3028431</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star | Edmonton Public Library28 Apr 2026 — In 1975, Manitobans reported UFOs over their province almost nightly...</p></details>
+   Link:<a href="https://epl.bibliocommons.com/v2/record/S980C3028431" target="_blank" rel="noopener noreferrer nofollow">https://epl.bibliocommons.com/v2/record/S980C3028431</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star | Edmonton Public Library28 Apr 2026 — In 1975, Manitobans reported UFOs over their province almost nightly...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Grant Cameron and The Charlie Red Star Experience  
-   Link: <a href="https://www.youtube.com/watch?v=yjT1GfQAK7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjT1GfQAK7I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjT1GfQAK7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjT1GfQAK7I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research...</p></details>
    Published: September 9, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Somewhere in the Skies | Canada&#x27;s UFO Files Declassified with Chris Rutkowski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Somewhere in the Skies | Canada&#x27;s UFO Files Declassified with Chris Rutkowski...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2470472336723738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2470472336723738/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2470472336723738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2470472336723738/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star The Canadian UFO - Believing the BizarreBack in 1975 and 1976, Manitoba experienced a consistent and playful red...</p></details>
+   Link:<a href="https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/20fQKS9c9mp3lSLmu7QU87?si=fa598ff9ab684b11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Red Star The Canadian UFO - Believing the BizarreBack in 1975 and 1976, Manitoba experienced a consistent and playful red...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thisparanormallife.com  
-   Link: <a href="https://www.thisparanormallife.com/posts/422-canadas-most-131107887" target="_blank" rel="noopener noreferrer nofollow">https://www.thisparanormallife.com/posts/422-canadas-most-131107887</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Join This Paranormal Life&#x27;s community for exclusive content...</p></details>
+   Link:<a href="https://www.thisparanormallife.com/posts/422-canadas-most-131107887" target="_blank" rel="noopener noreferrer nofollow">https://www.thisparanormallife.com/posts/422-canadas-most-131107887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Join This Paranormal Life&#x27;s community for exclusive content...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaThe UFO was nicknamed &quot;Charlie Redstar&quot; by the public. 1978... According to the 2002 [Canadian UFO Survey](&amp;#123;&amp;#123; &#x27;survey-data/&#x27; | relative_url &amp;#125;&amp;#125;) publi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaThe UFO was nicknamed &quot;Charlie Redstar&quot; by the public. 1978... According to the 2002 [Canadian UFO Survey](&amp;#123;&amp;#123; &#x27;survey-data/&#x27; | relative_url &amp;#125;&amp;#125;) publi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
    Title: 1z Kq VEUv Ec Dnr At G8PUWf3  
-   Link: <a href="https://open.spotify.com/episode/1zKqVEUvEcDnrAtG8PUWf3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1zKqVEUvEcDnrAtG8PUWf3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#422 Canada&#x27;s Most SHOCKING True UFO Story... UFO with wide, vast, open plains and mountain ranges to fly around without being...</p></details>
+   Link:<a href="https://open.spotify.com/episode/1zKqVEUvEcDnrAtG8PUWf3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/1zKqVEUvEcDnrAtG8PUWf3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#422 Canada&#x27;s Most SHOCKING True UFO Story... UFO with wide, vast, open plains and mountain ranges to fly around without being...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Somewhere in the Skies | Canada's UFO Files Declassified with Chris Rutkowski  
-   Link: <a href="https://www.youtube.com/watch?v=VNTh1JMO8bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VNTh1JMO8bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO witness Edwin Fuhr being interviewed in 1991 Chris Rutkowski · 801 views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VNTh1JMO8bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VNTh1JMO8bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO witness Edwin Fuhr being interviewed in 1991 Chris Rutkowski · 801 views...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VdjMxOkkOn0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tings from New York to Iraq | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VdjMxOkkOn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VdjMxOkkOn0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tings from New York to Iraq | Backscroll...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Top UFO Researcher Grant Cameron's personal ufo story Charlie Red Star  
-   Link: <a href="https://www.youtube.com/watch?v=JMu6U0utClc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JMu6U0utClc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZRS: Grant Cameron - UFOs and Charlie Red Star...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JMu6U0utClc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JMu6U0utClc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZRS: Grant Cameron - UFOs and Charlie Red Star...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: XZRS: Grant Cameron  
-   Link: <a href="https://www.youtube.com/watch?v=lpqUnFAIx2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpqUnFAIx2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grant Cameron and The Charlie Red Star Experience - September 9, 2017...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lpqUnFAIx2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpqUnFAIx2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grant Cameron and The Charlie Red Star Experience - September 9, 2017...</p></details>
    Published: September 9, 2017  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/836387034777097/posts/1231724881909975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/836387034777097/posts/1231724881909975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did KIng Charles really fly a UFO in Canada in 1975? New...CHARLIE RED STAR CANADIAN UFO ATTACKS AT NUCLEAR PLANTS These sightings inclu...</p></details>
+   Link:<a href="https://www.facebook.com/groups/836387034777097/posts/1231724881909975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/836387034777097/posts/1231724881909975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did KIng Charles really fly a UFO in Canada in 1975? New...CHARLIE RED STAR CANADIAN UFO ATTACKS AT NUCLEAR PLANTS These sightings inclu...</p></details>

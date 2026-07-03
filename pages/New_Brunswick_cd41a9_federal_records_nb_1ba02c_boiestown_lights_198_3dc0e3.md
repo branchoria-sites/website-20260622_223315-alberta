@@ -262,7 +262,7 @@ image: /assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_l
 
 ## Introduction
 
-The Boiestown lights reported in late summer 1981 are a useful example of how some entries in Canada’s federal UFO archives can appear intriguing at first glance yet point towards ordinary explanations when examined closely. According to a report filed through the RCMP’s Doaktown Detachment, witnesses described an oval object displaying a red light near the horizon in the Boiestown area of central [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}). The observation reportedly lasted for around two and a half hours and had apparently been seen on several consecutive nights at roughly the same time. Those details are important because long-duration, repeated sightings low on the horizon often fit known astronomical, atmospheric or aviation-related explanations better than they fit claims of an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+The Boiestown lights reported in late summer 1981 are a useful example of how some entries in Canada’s federal UFO archives can appear intriguing at first glance yet point towards ordinary explanations when examined closely. According to a report filed through the RCMP’s Doaktown Detachment, witnesses described an oval object displaying a red light near the horizon in the Boiestown area of central [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}). The observation reportedly lasted for around two and a half hours and had apparently been seen on several consecutive nights at roughly the same time. Those details are important because long-duration, repeated sightings low on the horizon often fit known astronomical, atmospheric or aviation-related explanations better than they fit claims of an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_lights_198_3dc0e3-Illustration-1-dark.svg" | relative_url }}" alt="Boiestown Lights illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_lights_198_3dc0e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_lights_198_3dc0e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,7 +270,7 @@ Within the broader history of New Brunswick UFO reporting, the Boiestown case st
 
 ## What the Doaktown Detachment recorded
 
-The surviving federal record comes from an RCMP report that was later forwarded into the National Research Council’s UFO files. The report states that on 31 August 1981 a complaint was received from Professor Gary Whiteford of Fredericton concerning an unidentified object appearing over the Boiestown area. Police attended the area but reported negative results during their patrol. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+The surviving federal record comes from an RCMP report that was later forwarded into the National Research Council’s UFO files. The report states that on 31 August 1981 a complaint was received from Professor Gary Whiteford of Fredericton concerning an unidentified object appearing over the Boiestown area. Police attended the area but reported negative results during their patrol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 According to the report:
 
@@ -279,9 +279,9 @@ According to the report:
 * It appeared close to the horizon.
 * The only apparent movement was vertical.
 * The observation lasted approximately two and a half hours.
-* Local residents reportedly said similar appearances had occurred over several nights at about the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+* Local residents reportedly said similar appearances had occurred over several nights at about the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
-These details matter because they differ from many classic UFO reports involving rapid manoeuvres, close encounters or brief unexpected events. Instead, the Boiestown observation involved a distant light seen for an extended period under clear viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+These details matter because they differ from many classic UFO reports involving rapid manoeuvres, close encounters or brief unexpected events. Instead, the Boiestown observation involved a distant light seen for an extended period under clear viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 The fact that the report entered [federal records]({{ 'federal-records/' | relative_url }}) shows that it was formally logged, not that it was verified as an extraordinary phenomenon. This distinction is central to understanding Canadian UFO archives generally and New Brunswick cases specifically.
 
@@ -304,7 +304,7 @@ When a bright star or planet sits close to the horizon:
 
 </div>
 
-The Boiestown report specifically noted that the only apparent motion was vertical. Apparently vertical movement is often reported when observers watch a distant light near the horizon for a long period. Atmospheric refraction, changing visibility through haze, and normal perspective effects can make a stationary object appear to climb, descend or hover unpredictably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+The Boiestown report specifically noted that the only apparent motion was vertical. Apparently vertical movement is often reported when observers watch a distant light near the horizon for a long period. Atmospheric refraction, changing visibility through haze, and normal perspective effects can make a stationary object appear to climb, descend or hover unpredictably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 The reported duration is also significant. An observation lasting around two and a half hours is far more consistent with a bright astronomical object or a distant fixed light source than with an aircraft performing unusual manoeuvres. Aircraft generally traverse the sky, while stars and planets remain in roughly the same area for long periods.
 
@@ -318,7 +318,7 @@ The available evidence does not allow a definitive identification, but several c
 
 A bright celestial object is arguably the strongest candidate.
 
-The report describes a light visible over multiple nights at roughly the same time, near the horizon, under clear skies and for extended periods. Those are exactly the conditions under which bright planets and first-magnitude stars are most frequently misidentified. A bright object low in the sky can appear red, orange or white and can seem to pulse or rotate because of atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+The report describes a light visible over multiple nights at roughly the same time, near the horizon, under clear skies and for extended periods. Those are exactly the conditions under which bright planets and first-magnitude stars are most frequently misidentified. A bright object low in the sky can appear red, orange or white and can seem to pulse or rotate because of atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 The repeated timing is particularly important. Genuine astronomical objects naturally reappear on successive evenings in approximately the same area of the sky. An unusual aircraft or unknown vehicle would not normally be expected to maintain such a predictable schedule.
 
@@ -352,207 +352,207 @@ Several features of the report support that conclusion:
 * A horizon location rather than an overhead observation.
 * Apparently limited motion.
 * A duration measured in hours rather than seconds or minutes.
-* Reports of recurrence over multiple nights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+* Reports of recurrence over multiple nights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 </div>
 
 None of these factors proves a conventional explanation, but together they weaken the case for an extraordinary one. The available record contains no radar data, aircraft interception, physical evidence or independent measurements that would elevate the sighting beyond an unexplained visual observation.
 
-For students of New Brunswick’s UFO history, the Boiestown lights remain valuable because they illustrate an important lesson from the federal archives: not every archived UFO report represents a deep mystery. Sometimes the most informative cases are those that demonstrate how ordinary celestial or atmospheric phenomena can acquire an unusual appearance when viewed repeatedly near the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
+For students of New Brunswick’s UFO history, the Boiestown lights remain valuable because they illustrate an important lesson from the federal archives: not every archived UFO report represents a deep mystery. Sometimes the most informative cases are those that demonstrate how ordinary celestial or atmospheric phenomena can acquire an unusual appearance when viewed repeatedly near the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f_CqvPodsjw" title="RCMP Officer Blackwood - UFO sighting Newfoundland 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer">RCMP Officer Blackwood - UFO sighting Newfoundland 1978</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f_CqvPodsjw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Boiestown lights really unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Boiestown lights really unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFO reports systematically and discusses how observational details affect interpretation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports systematically and discusses how observational details affect interpretation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating official reports and understanding how unusual sightings are documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating official reports and understanding how unusual sightings are documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains skeptical investigation methods useful when assessing long-duration lights near the horizon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains skeptical investigation methods useful when assessing long-duration lights near the horizon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify stars, planets, and other celestial objects often mistaken for unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify stars, planets, and other celestial objects often mistaken for unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="boiestown-lights-were-the-boiestown-lights-really-unusual-new-brunswick-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-boiestown-lights-really-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="were-the-boiestown-lights-really-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,74 +755,73 @@ For students of New Brunswick’s UFO history, the Boiestown lights remain valua
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Canada FOIA Part 19 Pages 5401 5700 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>had been reported appearing around same time each night for several nights 4. Professor Gary WHITEFORD is a Professor at the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/erh/ta/ta93-4a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/erh/ta/ta93-4a.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NO. 93-4AThe initial lightning occurred in extreme southwest New York State, and Figure 9 indicates considerable lightning across southwe...</p></details>
+   Link:<a href="https://www.weather.gov/media/erh/ta/ta93-4a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/erh/ta/ta93-4a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NO. 93-4AThe initial lightning occurred in extreme southwest New York State, and Figure 9 indicates considerable lightning across southwe...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SLAS.Talk/posts/2913672262146794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SLAS.Talk/posts/2913672262146794/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation report for meteorite discoveryPretty neat! From the meteorites community on Reddit: Watch the impact of a meteorite that fel...</p></details>
+   Link:<a href="https://www.facebook.com/groups/SLAS.Talk/posts/2913672262146794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SLAS.Talk/posts/2913672262146794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation report for meteorite discoveryPretty neat! From the meteorites community on Reddit: Watch the impact of a meteorite that fel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2507.19075" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.19075</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit dissimilarity criteria in meteor showersby A Courtot · 2025 · Cited by 3 — An actual meteor shower is defined by its parent body, i...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2507.19075" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2507.19075</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit dissimilarity criteria in meteor showersby A Courtot · 2025 · Cited by 3 — An actual meteor shower is defined by its parent body, i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: RCMP Officer Blackwood  
-   Link: <a href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_CqvPodsjw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files RCMP Chris Rutkowski Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f_CqvPodsjw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f_CqvPodsjw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files RCMP Chris Rutkowski Chris Rutkowski on Canada&#x27;s UFOs, Government UFO Consultation and Nearly Five Decades of Research I...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Somewhere in the Skies | Canada&#x27;s UFO Files Declassified with Chris Rutkowski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=psGxOznGuiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=psGxOznGuiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Somewhere in the Skies | Canada&#x27;s UFO Files Declassified with Chris Rutkowski...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: One of the best UFO photos ever  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11h41d4/one_of_the_best_ufo_photos_ever_made_in_1981_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11h41d4/one_of_the_best_ufo_photos_ever_made_in_1981_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>made in 1981 on...We saw a UFO on Friday night for about 2-3 minutes, photos, videos, and wife cried after · r/UFOs - We saw a UFO on Fr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11h41d4/one_of_the_best_ufo_photos_ever_made_in_1981_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11h41d4/one_of_the_best_ufo_photos_ever_made_in_1981_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>made in 1981 on...We saw a UFO on Friday night for about 2-3 minutes, photos, videos, and wife cried after · r/UFOs - We saw a UFO on Fr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britastro.org  
    Title: An internal reflection is visible in the image.Read more  
-   Link: <a href="https://britastro.org/journal_contents_ite/observing-recovering-the-winchcombe-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/journal_contents_ite/observing-recovering-the-winchcombe-meteorite</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing &amp; recovering the Winchcombe meteorite31 May 2021 — The Winchcombe fireball, as seen from Wilcot in Wiltshire using a UFOCapture...</p></details>
+   Link:<a href="https://britastro.org/journal_contents_ite/observing-recovering-the-winchcombe-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/journal_contents_ite/observing-recovering-the-winchcombe-meteorite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing &amp; recovering the Winchcombe meteorite31 May 2021 — The Winchcombe fireball, as seen from Wilcot in Wiltshire using a UFOCapture...</p></details>
    Published: May 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1978JRASC..72...15H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1978JRASC..72...15H</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Innisfree meteorite and the Canadian camera networkby I Halliday · 1978 · Cited by 195 — By coincidence, the next fall in Canada, the Inn...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1978JRASC..72...15H" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1978JRASC..72...15H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innisfree meteorite and the Canadian camera networkby I Halliday · 1978 · Cited by 195 — By coincidence, the next fall in Canada, the Inn...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2017/rncan-nrcan/M44-81-1C-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2017/rncan-nrcan/M44-81-1C-eng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>M44-81-1C-eng.pdf1981b: Cruise Report for R/V Wecoma cruise W8103-A to. Pacific study area W-N, March, 1981; Report. OSU-9, School of Oce...</p></details>
+   Link:<a href="https://publications.gc.ca/collections/collection_2017/rncan-nrcan/M44-81-1C-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2017/rncan-nrcan/M44-81-1C-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M44-81-1C-eng.pdf1981b: Cruise Report for R/V Wecoma cruise W8103-A to. Pacific study area W-N, March, 1981; Report. OSU-9, School of Oce...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Somewhere in the Skies | Canada's UFO Files Declassified with Chris Rutkowski  
-   Link: <a href="https://www.youtube.com/watch?v=VNTh1JMO8bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VNTh1JMO8bc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VNTh1JMO8bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VNTh1JMO8bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Rutkowski launch of Canada&#x27;s UFOs: Declassified (August Night Press)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 234217821 Television observations of Perseid meteors  
-   Link: <a href="https://www.researchgate.net/publication/234217821_Television_observations_of_Perseid_meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234217821_Television_observations_of_Perseid_meteors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both the cometary and asteroidal groups of meteors...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/234217821_Television_observations_of_Perseid_meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234217821_Television_observations_of_Perseid_meteors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both the cometary and asteroidal groups of meteors...Read more...</p></details>

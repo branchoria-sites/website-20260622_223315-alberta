@@ -256,13 +256,13 @@ image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_o
 
 ## Introduction
 
-In [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}), some of the most convincing “object” sightings are not objects at all. The territory sits beneath one of the world's most active auroral regions, and the northern lights can sometimes appear as bright shapes, glowing masses, columns, rays or isolated patches that seem to move independently across the sky. A witness may honestly describe a hovering craft, a luminous disc or a structured formation, only for later analysis to suggest an auroral display was responsible. This matters because Yukon’s UFO history includes many reports of unusual lights seen in conditions that also favour aurora viewing: long winter nights, remote roads, dark horizons and excellent visibility. The key question is not whether people imagined what they saw, but how aurora can create the impression of a discrete object and what clues help separate an atmospheric display from something physically travelling through the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center+2travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+In [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}), some of the most convincing “object” sightings are not objects at all. The territory sits beneath one of the world's most active auroral regions, and the northern lights can sometimes appear as bright shapes, glowing masses, columns, rays or isolated patches that seem to move independently across the sky. A witness may honestly describe a hovering craft, a luminous disc or a structured formation, only for later analysis to suggest an auroral display was responsible. This matters because Yukon’s UFO history includes many reports of unusual lights seen in conditions that also favour aurora viewing: long winter nights, remote roads, dark horizons and excellent visibility. The key question is not whether people imagined what they saw, but how aurora can create the impression of a discrete object and what clues help separate an atmospheric display from something physically travelling through the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center+2travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-1-dark.svg" | relative_url }}" alt="Aurora Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When northern lights look like UFOs
 
-Aurora is often described as a curtain of light, but that description can be misleading because many displays do not resemble curtains at all. During active geomagnetic conditions, aurora can fragment into bright rays, compact arcs, glowing patches and rapidly changing structures. Some forms appear sharply defined rather than diffuse, especially when only part of a larger display is visible through gaps in cloud, trees or mountain ridges. Space Weather Prediction Center+2Space Weather Prediction Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+Aurora is often described as a curtain of light, but that description can be misleading because many displays do not resemble curtains at all. During active geomagnetic conditions, aurora can fragment into bright rays, compact arcs, glowing patches and rapidly changing structures. Some forms appear sharply defined rather than diffuse, especially when only part of a larger display is visible through gaps in cloud, trees or mountain ridges. Space Weather Prediction Center+2Space Weather Prediction Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 For a driver or observer in Yukon, several effects can create the impression of a solid object:
 
@@ -270,7 +270,7 @@ For a driver or observer in Yukon, several effects can create the impression of 
 * Vertical rays can resemble beams, towers or structured craft.
 * Rapid brightening can give the impression that something has suddenly appeared.
 * Fading and re-forming elsewhere can seem like instantaneous movement.
-* Overhead aurora can produce a corona effect in which light appears to converge toward a central point, creating the illusion of a luminous object directly above the observer. Space Weather Prediction Center+2Space Weather Prediction Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+* Overhead aurora can produce a corona effect in which light appears to converge toward a central point, creating the illusion of a luminous object directly above the observer. Space Weather Prediction Center+2Space Weather Prediction Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 These impressions are especially powerful when observers are not watching the entire sky and instead focus on one striking feature.
 
@@ -279,31 +279,31 @@ These impressions are especially powerful when observers are not watching the en
 
 ## How aurora changes shape, colour and position
 
-One reason aurora generates mistaken UFO reports is that it behaves in ways many people do not expect. The lights are not static. NOAA's aurora guidance notes that arcs can develop into bundles of rays, folded curtains and complex structures spanning huge sections of the sky. Displays may brighten, ripple, curl and reorganise within minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+One reason aurora generates mistaken UFO reports is that it behaves in ways many people do not expect. The lights are not static. NOAA's aurora guidance notes that arcs can develop into bundles of rays, folded curtains and complex structures spanning huge sections of the sky. Displays may brighten, ripple, curl and reorganise within minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
-Colour changes can add to the mystery. Green is the most familiar auroral colour, but red, purple and mixed tones also occur. A witness who sees a bright green feature transform into a reddish glow may interpret this as a powered object changing state rather than an atmospheric phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Colour changes can add to the mystery. Green is the most familiar auroral colour, but red, purple and mixed tones also occur. A witness who sees a bright green feature transform into a reddish glow may interpret this as a powered object changing state rather than an atmospheric phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Position changes can be deceptive as well. An auroral arc may stretch from horizon to horizon, yet an observer concentrating on one bright section may perceive that section as a single moving body. Because the surrounding structure can be faint or invisible, the eye naturally treats the brightest area as an independent object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+Position changes can be deceptive as well. An auroral arc may stretch from horizon to horizon, yet an observer concentrating on one bright section may perceive that section as a single moving body. Because the surrounding structure can be faint or invisible, the eye naturally treats the brightest area as an independent object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
-In Yukon, where displays can appear across vast, dark landscapes with few visual reference points, judging distance and scale becomes particularly difficult. A feature hundreds of kilometres away in the upper atmosphere may seem surprisingly close. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
+In Yukon, where displays can appear across vast, dark landscapes with few visual reference points, judging distance and scale becomes particularly difficult. A feature hundreds of kilometres away in the upper atmosphere may seem surprisingly close.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-2-dark.svg" | relative_url }}" alt="Aurora Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clues that separate aurora from a discrete object
 
-The strongest clue is scale. A genuine aircraft, drone or other physical object occupies a limited part of the sky. Aurora often reveals itself through connections to a much larger pattern once observers look beyond the brightest feature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+The strongest clue is scale. A genuine aircraft, drone or other physical object occupies a limited part of the sky. Aurora often reveals itself through connections to a much larger pattern once observers look beyond the brightest feature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 Several practical indicators favour an auroral explanation:
 
-**Sky-wide behaviour.** The light is linked to arcs, rays or glow extending across a broad region rather than remaining a self-contained object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+**Sky-wide behaviour.** The light is linked to arcs, rays or glow extending across a broad region rather than remaining a self-contained object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
-**Shape-shifting instead of travel.** The feature changes form, brightness or orientation more than it changes geographic position. A craft would be expected to move through space; aurora often appears to transform in place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+**Shape-shifting instead of travel.** The feature changes form, brightness or orientation more than it changes geographic position. A craft would be expected to move through space; aurora often appears to transform in place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
-**Multiple colours and diffuse edges.** Structured craft reports often emphasise sharp outlines. Auroral features frequently have soft boundaries, colour gradients and uneven brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Multiple colours and diffuse edges.** Structured craft reports often emphasise sharp outlines. Auroral features frequently have soft boundaries, colour gradients and uneven brightness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-**Space-weather correlation.** Strong geomagnetic activity, aurora forecasts and widespread regional sightings increase the likelihood that an unusual light was atmospheric rather than a unique local event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[Noaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">aurora forecast</span><span class="citation-popover-snippet">Tiny tutorial: Aurora forecast27 Oct 2020 — Animated tiny tutorial for accessing the aurora forecast. Below, you can go through each...</span></span></span>
+**Space-weather correlation.** Strong geomagnetic activity, aurora forecasts and widespread regional sightings increase the likelihood that an unusual light was atmospheric rather than a unique local event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[Noaa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">aurora forecast</span><span class="citation-popover-snippet">Tiny tutorial: Aurora forecast27 Oct 2020 — Animated tiny tutorial for accessing the aurora forecast. Below, you can go through each...</span></span></span>
 
-**Large-area visibility.** If observers separated by many kilometres report similar sky effects, an auroral display becomes more likely because the phenomenon occupies a vast region of the upper atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+**Large-area visibility.** If observers separated by many kilometres report similar sky effects, an auroral display becomes more likely because the phenomenon occupies a vast region of the upper atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 None of these clues alone proves the answer, but together they often provide a more convincing explanation than a single unidentified object.
 
@@ -312,213 +312,213 @@ None of these clues alone proves the answer, but together they often provide a m
 
 ## Why dark Yukon roads make misreadings easier
 
-Many memorable Yukon light sightings occur while travelling. Long highways between communities can place observers in extremely dark environments with few reference points. A bright auroral feature seen above a ridge line may seem to hover just beyond the next bend. Without buildings, power lines or nearby landmarks, estimating distance becomes difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
+Many memorable Yukon light sightings occur while travelling. Long highways between communities can place observers in extremely dark environments with few reference points. A bright auroral feature seen above a ridge line may seem to hover just beyond the next bend. Without buildings, power lines or nearby landmarks, estimating distance becomes difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
 
-Motion perception also changes in darkness. If a vehicle is moving while an auroral feature shifts shape overhead, the combined effect can make the light appear to pace the observer. This is a common source of sincere but misleading impressions. The witness is accurately reporting what the light seemed to do, yet the apparent movement comes from changing perspective and evolving auroral structure rather than from a physical object following the road. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+Motion perception also changes in darkness. If a vehicle is moving while an auroral feature shifts shape overhead, the combined effect can make the light appear to pace the observer. This is a common source of sincere but misleading impressions. The witness is accurately reporting what the light seemed to do, yet the apparent movement comes from changing perspective and evolving auroral structure rather than from a physical object following the road.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
-Yukon’s long aurora season further increases the odds of such encounters. The territory experiences months of dark nights favourable for viewing northern lights, placing more people outdoors and looking upward during periods when unusual atmospheric displays are possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com+2Canadian Affair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
+Yukon’s long aurora season further increases the odds of such encounters. The territory experiences months of dark nights favourable for viewing northern lights, placing more people outdoors and looking upward during periods when unusual atmospheric displays are possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com+2Canadian Affair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-title">Northern lights</span><span class="citation-popover-snippet">Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-3-dark.svg" | relative_url }}" alt="Aurora Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Yukon UFO reports
 
-Aurora does not explain every unexplained light seen in Yukon, and investigators should not use it as a blanket answer. However, it is one of the most important mechanisms behind northern-sky misidentifications. The territory's location beneath the auroral oval, combined with remote viewing conditions and long periods of darkness, creates circumstances in which atmospheric light can genuinely resemble a structured object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidc.be">[SIDC+2travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidc.be</span><span class="citation-popover-snippet">Aurora lookalikes &#124; SIDCAurora are quite dynamic and often compared to waving curtains. They occur in an oval a few 100 km wide and c...</span></span></span>
+Aurora does not explain every unexplained light seen in Yukon, and investigators should not use it as a blanket answer. However, it is one of the most important mechanisms behind northern-sky misidentifications. The territory's location beneath the auroral oval, combined with remote viewing conditions and long periods of darkness, creates circumstances in which atmospheric light can genuinely resemble a structured object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sidc.be">[SIDC+2travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sidc.be</span><span class="citation-popover-snippet">Aurora lookalikes &#124; SIDCAurora are quite dynamic and often compared to waving curtains. They occur in an oval a few 100 km wide and c...</span></span></span>
 
-For historians of Yukon UFO reports, the lesson is straightforward: a witness can provide a detailed, sincere account of a hovering or moving luminous object and still have observed an auroral feature. Understanding how northern lights change shape, colour and apparent position helps distinguish between reports that point toward an atmospheric explanation and those that remain genuinely difficult to classify. Space Weather Prediction Center+2Space Weather Prediction Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
+For historians of Yukon UFO reports, the lesson is straightforward: a witness can provide a detailed, sincere account of a hovering or moving luminous object and still have observed an auroral feature. Understanding how northern lights change shape, colour and apparent position helps distinguish between reports that point toward an atmospheric explanation and those that remain genuinely difficult to classify. Space Weather Prediction Center+2Space Weather Prediction Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swpc.noaa.gov">[swpc.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swpc.noaa.gov</span><span class="citation-popover-snippet">The latitude of the evening arcs depends on the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dbwHx29c4e0" title="The science behind the northern lights (aurora borealis)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dbwHx29c4e0" target="_blank" rel="noopener noreferrer">The science behind the northern lights (aurora borealis)</a></p><p class="youtube-embed-meta">Channel: CBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dbwHx29c4e0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dbwHx29c4e0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When northern lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When northern lights look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how unusual sky phenomena can be interpreted as UFOs and encourages careful observational analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual sky phenomena can be interpreted as UFOs and encourages careful observational analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers context for evaluating reported UFO events and distinguishing genuine mysteries from likely misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers context for evaluating reported UFO events and distinguishing genuine mysteries from likely misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims and understanding how perception can misinterpret natural events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims and understanding how perception can misinterpret natural events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Northern Lights on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Northern Lights">Northern Lights</a>
-        </h4>
-        <p class="fr-book-author">By Tom Kerss, Royal Observatory Greenwich et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Northern Lights on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Northern Lights">Northern Lights</a>
+</h4>
+<p class="fr-book-author">By Tom Kerss, Royal Observatory Greenwich et al.</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Northern+Lights+Tom+Kerss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3843a49def4024dc9809.jpg' | relative_url }}" alt="Listing image for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3843a49def4024dc9809.jpg' | relative_url }}" alt="Listing image for STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY CLOUDY BLUE NIGHT SKY CONTEMPORARY FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/b71c88422112a296f568.jpg' | relative_url }}" alt="Listing image for STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/b71c88422112a296f568.jpg' | relative_url }}" alt="Listing image for STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">STARRY NIGHT SKY AT A NATIONAL PARK FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Blue Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/442c54400e75441b276c.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Blue Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Blue Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="aurora-clues-when-northern-lights-look-like-ufos-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,106 +724,106 @@ For historians of Yukon UFO reports, the lesson is straightforward: a witness ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: swpc.noaa.gov  
-   Link: <a href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/content/aurora-tutorial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The latitude of the evening arcs depends on the...Read more...</p></details>
+   Link:<a href="https://www.swpc.noaa.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.swpc.noaa.gov/content/aurora-tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latitude of the evening arcs depends on the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: travelyukon.com  
    Title: Northern lights  
-   Link: <a href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/media/northern-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</p></details>
+   Link:<a href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/media/northern-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon, CanadaThe aurora borealis are visible from mid-August to mid-April. Ideal viewing conditions consist of dark and clear nights (pre...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sidc.be  
-   Link: <a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora lookalikes | SIDCAurora are quite dynamic and often compared to waving curtains. They occur in an oval a few 100 km wide and c...</p></details>
+   Link:<a href="https://sidc.be/article/aurora-lookalikes" target="_blank" rel="noopener noreferrer nofollow">https://sidc.be/article/aurora-lookalikes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora lookalikes | SIDCAurora are quite dynamic and often compared to waving curtains. They occur in an oval a few 100 km wide and c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aurora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: noaa.gov  
    Title: aurora forecast  
-   Link: <a href="https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny tutorial: Aurora forecast27 Oct 2020 — Animated tiny tutorial for accessing the aurora forecast. Below, you can go through each...</p></details>
+   Link:<a href="https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/data/tiny-tutorials/aurora-forecast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny tutorial: Aurora forecast27 Oct 2020 — Animated tiny tutorial for accessing the aurora forecast. Below, you can go through each...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: travelyukon.com  
-   Link: <a href="https://www.travelyukon.com/en/get-inspired/5-tips-northern-lights-viewing" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/get-inspired/5-tips-northern-lights-viewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 tips for northern lights viewingWinter (November to March) is the classic choice, offering the longest and darkest nights. The trade-of...</p></details>
+   Link:<a href="https://www.travelyukon.com/en/get-inspired/5-tips-northern-lights-viewing" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/get-inspired/5-tips-northern-lights-viewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 tips for northern lights viewingWinter (November to March) is the classic choice, offering the longest and darkest nights. The trade-of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: travelyukon.com  
-   Link: <a href="https://www.travelyukon.com/en/discover-yukon/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/discover-yukon/northern-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights | Travel YukonBest season August to April; Best time 10pm-3am. Explore the lights. 3-4 days. fall_fn.jpg. Itinerary Autum...</p></details>
+   Link:<a href="https://www.travelyukon.com/en/discover-yukon/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/discover-yukon/northern-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights | Travel YukonBest season August to April; Best time 10pm-3am. Explore the lights. 3-4 days. fall_fn.jpg. Itinerary Autum...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/aurora</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Often the auroral forms are made of many tall rays that look much like a curtain made of folds of cloth. During the...Read more...</p></details>
+   Link:<a href="https://www.spaceweather.gov/phenomena/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/aurora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Often the auroral forms are made of many tall rays that look much like a curtain made of folds of cloth. During the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora is the name given to the glow or light produced when electrons from space flow down Earth&#x27;s magnetic field and collide with atoms...</p></details>
+   Link:<a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora is the name given to the glow or light produced when electrons from space flow down Earth&#x27;s magnetic field and collide with atoms...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canadianaffair.com  
    Title: However, Yukon is blessed with a long season for the lights from mid  
-   Link: <a href="https://www.canadianaffair.com/blog/northern-lights-yukon-see" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianaffair.com/blog/northern-lights-yukon-see</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian AffairThe Northern Lights of Yukon – when and where to see them18 Dec 2018 — From November to March is roughly the best time to...</p></details>
+   Link:<a href="https://www.canadianaffair.com/blog/northern-lights-yukon-see" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianaffair.com/blog/northern-lights-yukon-see</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian AffairThe Northern Lights of Yukon – when and where to see them18 Dec 2018 — From November to March is roughly the best time to...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astrobackyard.com  
-   Link: <a href="https://astrobackyard.com/auroras/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/auroras/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Seeing &amp; Photographing AurorasLearn how to see and photograph auroras, understand their science, and protect dark s...</p></details>
+   Link:<a href="https://astrobackyard.com/auroras/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/auroras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Seeing &amp; Photographing AurorasLearn how to see and photograph auroras, understand their science, and protect dark s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/116253449678/posts/10158949250169679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/116253449678/posts/10158949250169679/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora borealis viewing tips for beginnersFor aurora watching: You can keep an eye on space weather conditions at NOAA&#x27;s space weather pa...</p></details>
+   Link:<a href="https://www.facebook.com/groups/116253449678/posts/10158949250169679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/116253449678/posts/10158949250169679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora borealis viewing tips for beginnersFor aurora watching: You can keep an eye on space weather conditions at NOAA&#x27;s space weather pa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: auroraforecast.me  
-   Link: <a href="https://auroraforecast.me/best-time/yt" target="_blank" rel="noopener noreferrer nofollow">https://auroraforecast.me/best-time/yt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Months for Northern Lights in YukonPlan your Yukon aurora trip: top months September, October, March, peak 23:00-01:00, up to 14h da...</p></details>
+   Link:<a href="https://auroraforecast.me/best-time/yt" target="_blank" rel="noopener noreferrer nofollow">https://auroraforecast.me/best-time/yt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Months for Northern Lights in YukonPlan your Yukon aurora trip: top months September, October, March, peak 23:00-01:00, up to 14h da...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gi.alaska.edu  
-   Link: <a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteAurora ForecastForecast: Low aurora activity forecasted. If skies are clear, low-level displays may be visible overh...</p></details>
+   Link:<a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical InstituteAurora ForecastForecast: Low aurora activity forecasted. If skies are clear, low-level displays may be visible overh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: northerntales.ca  
-   Link: <a href="https://www.northerntales.ca/category/aurora-tours" target="_blank" rel="noopener noreferrer nofollow">https://www.northerntales.ca/category/aurora-tours</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Experience: Aurora ToursIn northern regions like the Yukon, the best time to view the aurora is from late August to mid-April. Duri...</p></details>
+   Link:<a href="https://www.northerntales.ca/category/aurora-tours" target="_blank" rel="noopener noreferrer nofollow">https://www.northerntales.ca/category/aurora-tours</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Experience: Aurora ToursIn northern regions like the Yukon, the best time to view the aurora is from late August to mid-April. Duri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Yukon/comments/1acd1z9/northern_lights_in_september/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Yukon/comments/1acd1z9/northern_lights_in_september/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights in September?: r/YukonSo I&#x27;m planning a trip to Whitehorse towards the end of this year to try to see the northern light...</p></details>
+   Link:<a href="https://www.reddit.com/r/Yukon/comments/1acd1z9/northern_lights_in_september/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Yukon/comments/1acd1z9/northern_lights_in_september/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northern lights in September?: r/YukonSo I&#x27;m planning a trip to Whitehorse towards the end of this year to try to see the northern light...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kherli.github.io  
-   Link: <a href="https://kherli.github.io/Aurora-Field-Guide-And-Handbook/main.html" target="_blank" rel="noopener noreferrer nofollow">https://kherli.github.io/Aurora-Field-Guide-And-Handbook/main.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preface — ARCTICS Aurora Field Guide And HandbookWelcome to the Aurora Handbook for Citizen Science, a guide intended to bridge the gap b...</p></details>
+   Link:<a href="https://kherli.github.io/Aurora-Field-Guide-And-Handbook/main.html" target="_blank" rel="noopener noreferrer nofollow">https://kherli.github.io/Aurora-Field-Guide-And-Handbook/main.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preface — ARCTICS Aurora Field Guide And HandbookWelcome to the Aurora Handbook for Citizen Science, a guide intended to bridge the gap b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arcticrange.com  
    Title: Aurora Borealis Forecast Whitehorse (Yukon)Auroral activity will be active  
-   Link: <a href="https://www.arcticrange.com/en/forecast/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.arcticrange.com/en/forecast/aurora</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather permitting, active auroral displays will be visible overhead from Barrow to Anchorage and Juneau, and visible low on...Read more...</p></details>
+   Link:<a href="https://www.arcticrange.com/en/forecast/aurora" target="_blank" rel="noopener noreferrer nofollow">https://www.arcticrange.com/en/forecast/aurora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather permitting, active auroral displays will be visible overhead from Barrow to Anchorage and Juneau, and visible low on...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-xlKNxfBl-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-xlKNxfBl-Y</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-xlKNxfBl-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-xlKNxfBl-Y</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: travelocity.ca  
-   Link: <a href="https://www.travelocity.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelocity.ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get helpful alerts about flight status and gate numbers. Access all your travel details, even when offline...</p></details>
+   Link:<a href="https://www.travelocity.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelocity.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get helpful alerts about flight status and gate numbers. Access all your travel details, even when offline...</p></details>

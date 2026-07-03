@@ -295,27 +295,27 @@ image: /assets/images/Ontario_f9f742-overview-social.jpg
 
 ## Introduction
 
-That does not mean Ontario is Canada’s “most alien” province. It means Ontario is where population density, aviation corridors, federal archives, media attention and public reporting all overlap. The best way to read Ontario’s UFO record is therefore not as a chain of confirmed extraordinary craft, but as a long-running public record of unusual sky observations, official caution, occasional pilot and police involvement, and many ordinary [explanations]({{ 'explanations-221c83/' | relative_url }}) that still leave a small residue of unresolved cases. Transport Canada itself warns that “UFO” in aviation reporting can cover drones, balloons, meteors, weather phenomena, birds and other objects, not extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+That does not mean Ontario is Canada’s “most alien” province. It means Ontario is where population density, aviation corridors, federal archives, media attention and public reporting all overlap. The best way to read Ontario’s UFO record is therefore not as a chain of confirmed extraordinary craft, but as a long-running public record of unusual sky observations, official caution, occasional pilot and police involvement, and many ordinary [explanations]({{ 'explanations-221c83/' | relative_url }}) that still leave a small residue of unresolved cases. Transport Canada itself warns that “UFO” in aviation reporting can cover drones, balloons, meteors, weather phenomena, birds and other objects, not extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742-overview.webp" | relative_url }}" alt="Overview image for Why Ontario Matters In Canadian UFO History" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Ontario sits near the centre of Canada’s UFO record
 
-Ontario’s role begins with Ottawa. Library and Archives Canada holds federal UFO records acquired from the Department of National Defence, the Department of Transport, the National Research Council and the Royal Canadian Mounted Police. The digitised collection covers records accumulated between 1947 and the early 1980s and includes roughly 9,500 documents: correspondence, sighting reports, memos and reporting procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Ontario’s role begins with Ottawa. Library and Archives Canada holds federal UFO records acquired from the Department of National Defence, the Department of Transport, the National Research Council and the Royal Canadian Mounted Police. The digitised collection covers records accumulated between 1947 and the early 1980s and includes roughly 9,500 documents: correspondence, sighting reports, memos and reporting procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-That federal archive is crucial because Canada did not build a single permanent UFO agency. Instead, responsibility moved between departments. The Office of the Chief Science Advisor’s Sky Canada Project summarises the pattern: public reports went to the RCMP, Transport Canada, National Defence, local police and other bodies; in 1967, responsibility for overseeing UFO reports shifted to the National Research Council; in 1995, the NRC stopped collecting reports and the surviving material went to Library and Archives Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+That federal archive is crucial because Canada did not build a single permanent UFO agency. Instead, responsibility moved between departments. The Office of the Chief Science Advisor’s Sky Canada Project summarises the pattern: public reports went to the RCMP, Transport Canada, National Defence, local police and other bodies; in 1967, responsibility for overseeing UFO reports shifted to the National Research Council; in 1995, the NRC stopped collecting reports and the surviving material went to Library and Archives Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ised-isde.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For Ontario readers, this means many “Ontario UFO records” are not simply local stories. They sit inside federal systems based in Ottawa, in aviation databases run by Transport Canada, or in national survey work carried out by civilian researchers. A sighting over Toronto, Sudbury, [Falconbridge]({{ 'falconbridge/' | relative_url }}) or the Ottawa Valley may therefore appear in several different kinds of record: a police note, a military or civil aviation report, a newspaper clipping, a private UFO survey, or no formal record at all.
 
 ## Ottawa, Project Magnet and the flying-saucer laboratory
 
-The most distinctive Ontario chapter is Project Magnet. In 1950, Wilbert B. Smith, a Department of Transport radio engineer in Ottawa, was authorised to pursue work that connected geomagnetism, propulsion and UFO reports. The University of Toronto Institute for Aerospace Studies describes this as Canada’s official entry into UFO investigation, noting that Smith worked within the Department of Transport’s existing interest in radio propagation and magnetic phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
+The most distinctive Ontario chapter is Project Magnet. In 1950, Wilbert B. Smith, a Department of Transport radio engineer in Ottawa, was authorised to pursue work that connected geomagnetism, propulsion and UFO reports. The University of Toronto Institute for Aerospace Studies describes this as Canada’s official entry into UFO investigation, noting that Smith worked within the Department of Transport’s existing interest in radio propagation and magnetic phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace Studies...</span></span></span>
 
-Smith’s approach was not simply to collect witness stories. He wanted measurable effects. At [Shirley Bay]({{ 'shirley-bay/' | relative_url }}), west of Ottawa, he set up an experimental detection facility intended to monitor local magnetic and radiation anomalies. UTIAS records that the station observed one dramatic magnetic-field change, but that it was never explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-title">1960s dr gordon patterson establishes the utias ufo project</span><span class="citation-popover-snippet">1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</span></span></span>
+Smith’s approach was not simply to collect witness stories. He wanted measurable effects. At [Shirley Bay]({{ 'shirley-bay/' | relative_url }}), west of Ottawa, he set up an experimental detection facility intended to monitor local magnetic and radiation anomalies. UTIAS records that the station observed one dramatic magnetic-field change, but that it was never explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-title">1960s dr gordon patterson establishes the utias ufo project</span><span class="citation-popover-snippet">1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 This is why Project Magnet remains important even though it did not prove the extraterrestrial hypothesis. It shows that early Canadian UFO interest was entangled with real Cold War science: radio engineering, ionospheric research, defence research and the hope that unusual reports might point to new technology. It also shows the weakness of that approach. Smith’s beliefs moved beyond what many colleagues found acceptable, and the evidence produced by the project never became a robust, repeatable scientific case.
 
-Project Second Storey followed in 1952 under the Defence Research Board. Its membership included military and scientific representatives, and it was chaired by astronomer Peter Millman. The committee concluded that the situation did not justify a large-scale official investigation, although Millman thought some cases remained unexplained and recommended a standard format for recording [sightings]({{ 'sightings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-title">1960s dr gordon patterson establishes the utias ufo project</span><span class="citation-popover-snippet">1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</span></span></span>
+Project Second Storey followed in 1952 under the Defence Research Board. Its membership included military and scientific representatives, and it was chaired by astronomer Peter Millman. The committee concluded that the situation did not justify a large-scale official investigation, although Millman thought some cases remained unexplained and recommended a standard format for recording [sightings]({{ 'sightings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[UTIAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-title">1960s dr gordon patterson establishes the utias ufo project</span><span class="citation-popover-snippet">1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</span></span></span>
 
 
 <img src="{{ "/assets/images/Ontario_f9f742-Illustration-1-dark.svg" | relative_url }}" alt="Why Ontario Matters In Canadian UFO History illustration 1" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,9 +323,9 @@ Project Second Storey followed in 1952 under the Defence Research Board. Its mem
 
 Unlike Nova Scotia’s Shag Harbour incident or Manitoba’s Falcon Lake case, Ontario does not have one universally recognised “definitive” UFO event that dominates the provincial record. Its importance is broader and more statistical. In modern surveys, Ontario often leads because more people live there, more flights cross its airspace, and more witnesses have easy access to media and online reporting channels.
 
-The 2025 Canadian UFO Survey reported 1,052 sightings across Canada, the highest total since 2020 but below the pandemic-era peak. Of those, only 3.42 per cent were classified as unexplained. Chris Rutkowski, the survey’s long-time research coordinator, told Global News that most cases had relatively simple possible explanations such as aircraft, satellites, planets and similar objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span>
+The 2025 Canadian UFO Survey reported 1,052 sightings across Canada, the highest total since 2020 but below the pandemic-era peak. Of those, only 3.42 per cent were classified as unexplained. Chris Rutkowski, the survey’s long-time research coordinator, told Global News that most cases had relatively simple possible explanations such as aircraft, satellites, planets and similar objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span>
 
-Ontario’s share was still striking. The 2025 survey placed Ontario first with 30 per cent of national UFO reports; Toronto had 53 reports, more than any other Canadian metropolitan area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span> A separate report on the survey gave the underlying provincial count as 307 Ontario reports, ahead of Quebec’s 210 and British Columbia’s 131. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vicnews.com">[Victoria News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vicnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Victoria News...</span></span></span>
+Ontario’s share was still striking. The 2025 survey placed Ontario first with 30 per cent of national UFO reports; Toronto had 53 reports, more than any other Canadian metropolitan area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span> A separate report on the survey gave the underlying provincial count as 307 Ontario reports, ahead of Quebec’s 210 and British Columbia’s 131.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vicnews.com">[Victoria News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vicnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Victoria News...</span></span></span>
 
 The key point is that “most reports” does not mean “best evidence”. A province with millions of residents, major airports, dense satellite visibility, drone use, lakefront sightlines and heavy media coverage will naturally generate more reports. The better question is not how many sightings Ontario has, but how many are well documented, independently witnessed, checked against known aircraft and astronomical sources, and still difficult to explain.
 
@@ -334,7 +334,7 @@ The key point is that “most reports” does not mean “best evidence”. A pr
 
 ## The Falconbridge 1975 case and northern Ontario’s military edge
 
-One of Ontario’s more serious UFO episodes is the 1975 Falconbridge case near Sudbury. The incident is often discussed because it involved a radar station and a Cold War air-defence setting rather than only a casual civilian witness. Archival summaries describe a rash of sightings at the Falconbridge radar station in 1975, with Canadian personnel reportedly requesting American jet interception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c-and-e-museum.org">[c-and-e-museum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c-and-e-museum.org</span><span class="citation-popover-snippet">American jets were scrambled to intercept the UFOs, after the Canadians requested.Read more...</span></span></span>
+One of Ontario’s more serious UFO episodes is the 1975 Falconbridge case near Sudbury. The incident is often discussed because it involved a radar station and a Cold War air-defence setting rather than only a casual civilian witness. Archival summaries describe a rash of sightings at the Falconbridge radar station in 1975, with Canadian personnel reportedly requesting American jet interception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c-and-e-museum.org">[c-and-e-museum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c-and-e-museum.org</span><span class="citation-popover-snippet">American jets were scrambled to intercept the UFOs, after the Canadians requested.Read more...</span></span></span>
 
 The case belongs in Ontario’s UFO history because it sits at the intersection of public UFO culture and continental air defence. Northern Ontario was part of a larger radar and military geography linked to warning systems, RCAF activity and NORAD-era concerns about unknown objects in North American airspace. That does not make the Falconbridge reports proof of an exotic craft, but it does make them more consequential than a single anonymous light in the sky.
 
@@ -342,7 +342,7 @@ The problem is evidence quality. Publicly accessible summaries are fragmentary, 
 
 ## Moonbeam shows how UFOs became Ontario folklore
 
-Ontario’s UFO history is not only files and investigations. It is also roadside culture. [Moonbeam]({{ 'moonbeam/' | relative_url }}), a small northern Ontario township, adopted a UFO as its symbol in 1991 and erected a flying-saucer model along Highway 11. TVO reported that the saucer is 2.7 metres high and 5.5 metres in diameter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[TVO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-title">roadside attraction showdown moonbeams flying saucer</span><span class="citation-popover-snippet">Roadside-attraction showdown: Moonbeam&#x27;s Flying Saucer30 Aug 2021 — The town adopted a UFO as its symbol in 1991 and erected a 2.7-met...</span></span></span>
+Ontario’s UFO history is not only files and investigations. It is also roadside culture. [Moonbeam]({{ 'moonbeam/' | relative_url }}), a small northern Ontario township, adopted a UFO as its symbol in 1991 and erected a flying-saucer model along Highway 11. TVO reported that the saucer is 2.7 metres high and 5.5 metres in diameter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[TVO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-title">roadside attraction showdown moonbeams flying saucer</span><span class="citation-popover-snippet">Roadside-attraction showdown: Moonbeam&#x27;s Flying Saucer30 Aug 2021 — The town adopted a UFO as its symbol in 1991 and erected a 2.7-met...</span></span></span>
 
 Moonbeam is useful because it shows how UFO imagery can become local identity without requiring a strong evidential claim. The town’s name and flying-saucer attraction play with the idea of strange lights and northern skies, but the public meaning is cultural and touristic rather than investigative. It turns the UFO from a contested object into a landmark: something visitors photograph, remember and associate with northern Ontario.
 
@@ -352,15 +352,15 @@ That distinction matters. Folklore, branding and sincere witness testimony often
 <img src="{{ "/assets/images/Ontario_f9f742-Illustration-2-dark.svg" | relative_url }}" alt="Why Ontario Matters In Canadian UFO History illustration 2" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official Canadian systems now do with Ontario reports
 
-Today, a witness in Ontario has no single federal UFO office to call. The Sky Canada Project found that Canada’s public reporting system is fragmented: police services may receive reports when safety is involved; Transport Canada and NAV CANADA may appear in aviation contexts; civilian organisations compile reports; and historical records are mostly archival rather than part of an active investigative programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
+Today, a witness in Ontario has no single federal UFO office to call. The Sky Canada Project found that Canada’s public reporting system is fragmented: police services may receive reports when safety is involved; Transport Canada and NAV CANADA may appear in aviation contexts; civilian organisations compile reports; and historical records are mostly archival rather than part of an active investigative programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
 
-Transport Canada’s aviation database, [CADORS]({{ 'cadors/' | relative_url }}), is especially important for pilot and air-traffic-related incidents. But CADORS is not a UFO truth machine. Transport Canada says it is a preliminary occurrence-reporting system used to capture aviation safety information, and that entries can be unsubstantiated and subject to change. The same guidance stresses that the term “UFO” in CADORS may describe drones, balloons, meteors, weather, birds or other objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+Transport Canada’s aviation database, [CADORS]({{ 'cadors/' | relative_url }}), is especially important for pilot and air-traffic-related incidents. But CADORS is not a UFO truth machine. Transport Canada says it is a preliminary occurrence-reporting system used to capture aviation safety information, and that entries can be unsubstantiated and subject to change. The same guidance stresses that the term “UFO” in CADORS may describe drones, balloons, meteors, weather, birds or other objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 That caveat is essential for Ontario because of the province’s busy airspace. Toronto Pearson, Ottawa, Hamilton, London, northern air routes, military traffic and cross-border aviation all increase the chance that unusual lights will be reported by pilots or passengers. A pilot report is often more useful than a casual sighting because it may include time, altitude, heading and air-traffic context. But it is still an initial observation, not an automatic conclusion.
 
 ## The main explanations that weaken many Ontario cases
 
-Most Ontario UFO reports fall into familiar categories. Bright planets can appear to hover. Meteors and bolides can create short, dramatic fireballs. Aircraft landing lights can seem stationary when seen head-on. Satellites and Starlink trains can look like organised formations. Drones and balloons complicate modern reports, especially near cities and events. Long-duration sightings, particularly those lasting an hour or more, often point towards astronomical objects moving slowly with Earth’s rotation rather than manoeuvring craft. The Canadian UFO Survey’s 2025 reporting emphasised that duration is one of the biggest clues to explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span>
+Most Ontario UFO reports fall into familiar categories. Bright planets can appear to hover. Meteors and bolides can create short, dramatic fireballs. Aircraft landing lights can seem stationary when seen head-on. Satellites and Starlink trains can look like organised formations. Drones and balloons complicate modern reports, especially near cities and events. Long-duration sightings, particularly those lasting an hour or more, often point towards astronomical objects moving slowly with Earth’s rotation rather than manoeuvring craft. The Canadian UFO Survey’s 2025 reporting emphasised that duration is one of the biggest clues to explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National &#124; Globalnews.ca...</span></span></span>
 
 This does not mean witnesses are foolish or dishonest. Many UFO reports are sincere descriptions of something genuinely puzzling to the observer. The difficulty is that the human eye is weak at judging distance, size and speed in a dark sky, especially when there is no fixed reference point. A small nearby drone, a distant aircraft and a bright planet can all feel “large” or “close” when the context is missing.
 
@@ -371,7 +371,7 @@ The strongest Ontario cases therefore tend to be those with multiple independent
 
 ## What remains unresolved — and what “unresolved” should mean
 
-Unresolved does not mean alien. It means the available information has not produced a confident identification. The Canadian UFO Survey’s 2025 figure of 3.42 per cent unexplained is a useful guardrail: even after ordinary explanations are considered, a small residue remains, but the survey itself stresses that “unknown” is not proof of extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vicnews.com">[Victoria News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vicnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Victoria News...</span></span></span>
+Unresolved does not mean alien. It means the available information has not produced a confident identification. The Canadian UFO Survey’s 2025 figure of 3.42 per cent unexplained is a useful guardrail: even after ordinary explanations are considered, a small residue remains, but the survey itself stresses that “unknown” is not proof of extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vicnews.com">[Victoria News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vicnews.com</span><span class="citation-popover-title">south cariboo woman helps document the 2025 canadian 1052 ufo sightings</span><span class="citation-popover-snippet">Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings &#124; Victoria News...</span></span></span>
 
 For Ontario, unresolved cases usually matter in one of three ways. Some matter historically, because they show how Canadian institutions handled strange reports during the Cold War. Project Magnet and Project Second Storey are in this category. Some matter operationally, because unknown objects near aircraft can raise safety questions even if the object later turns out to be a drone, balloon or weather phenomenon. CADORS reports fall here. Some matter culturally, because they show how UFO stories circulate through local identity, tourism and media. Moonbeam is the clearest Ontario example.
 
@@ -384,7 +384,7 @@ The most honest conclusion is that Ontario has a rich UFO record, but not a simp
 
 A useful Ontario UFO claim should answer a few basic questions before it is treated as significant: exact date and time, precise location, direction of travel, duration, number of witnesses, weather, proximity to airports or military facilities, whether aircraft or satellite checks were done, and whether the original report exists in an official or archival record.
 
-For historical cases, Library and Archives Canada is the best starting point because it preserves federal records from National Defence, Transport, the National Research Council and the RCMP. For modern aviation-related events, CADORS can be useful, but its own cautions must be kept in mind. For broad patterns, the Canadian UFO Survey is valuable because it has collected annual Canadian data since 1989 and allows Ontario to be compared with other provinces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+For historical cases, Library and Archives Canada is the best starting point because it preserves federal records from National Defence, Transport, the National Research Council and the RCMP. For modern aviation-related events, CADORS can be useful, but its own cautions must be kept in mind. For broad patterns, the Canadian UFO Survey is valuable because it has collected annual Canadian data since 1989 and allows Ontario to be compared with other provinces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 The strongest Ontario UFO history is not the most sensational version. It is the version that keeps the province’s real texture intact: Ottawa’s federal files, Shirley Bay’s experimental ambition, northern radar and military geography, Toronto’s high reporting volume, Moonbeam’s playful saucer landmark, and the recurring fact that most strange lights become less strange when the timing, sky conditions and aviation context are checked.
 
@@ -392,194 +392,194 @@ The strongest Ontario UFO history is not the most sensational version. It is the
 <img src="{{ "/assets/images/Ontario_f9f742-Illustration-3-dark.svg" | relative_url }}" alt="Why Ontario Matters In Canadian UFO History illustration 3" data-theme-src-dark="{{ "/assets/images/Ontario_f9f742-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ontario_f9f742-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ontario Matters In Canadian UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ontario Matters In Canadian UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Gic3gcQysOsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Evidence">The UFO Evidence</a>
+</h4>
+<p class="fr-book-author">By Richard H. Hall</p>
         
-        <p class="fr-book-desc">Helps place Canadian and Ontario sightings within the broader historical record of reported UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place Canadian and Ontario sightings within the broader historical record of reported UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Evidence+by+Richard+H.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1863183-M.jpg" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Unidentified flying objects, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Unidentified flying objects, Sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official investigations, pilot reports, and government records similar to those discussed in Ontario&#x27;s UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official investigations, pilot reports, and government records similar to those discussed in Ontario&#x27;s UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores government records, witness testimony, and unresolved cases, themes central to Ontario&#x27;s UFO archive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government records, witness testimony, and unresolved cases, themes central to Ontario&#x27;s UFO archive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ontario-matters-in-canadian-ufo-why-ontario-matters-in-canadian-ufo-history-ontario-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ The strongest Ontario UFO history is not the most sensational version. It is the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ The strongest Ontario UFO history is not the most sensational version. It is the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ The strongest Ontario UFO history is not the most sensational version. It is the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The strongest Ontario UFO history is not the most sensational version. It is the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ The strongest Ontario UFO history is not the most sensational version. It is the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,192 +785,192 @@ The strongest Ontario UFO history is not the most sensational version. It is the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: utias.utoronto.ca  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace Studies...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace Studies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: c-and-e-museum.org  
-   Link: <a href="https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American jets were scrambled to intercept the UFOs, after the Canadians requested.Read more...</p></details>
+   Link:<a href="https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.c-and-e-museum.org/Pinetreeline/other/other15/other15e.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American jets were scrambled to intercept the UFOs, after the Canadians requested.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tvo.org  
    Title: roadside attraction showdown moonbeams flying saucer  
-   Link: <a href="https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside-attraction showdown: Moonbeam&#x27;s Flying Saucer30 Aug 2021 — The town adopted a UFO as its symbol in 1991 and erected a 2.7-met...</p></details>
+   Link:<a href="https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/article/roadside-attraction-showdown-moonbeams-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside-attraction showdown: Moonbeam&#x27;s Flying Saucer30 Aug 2021 — The town adopted a UFO as its symbol in 1991 and erected a 2.7-met...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: canada.ca  
    Title: episode 054  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: canada.ca  
    Title: episode 064  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-064.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-064.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-064.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-064.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ised-isde.canada.ca  
    Title: report sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/report-sky-canada-project.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results released...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Canada's UFO survey results released  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings rising in Canada...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings rising in Canada...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vicnews.com  
    Title: south cariboo woman helps document the 2025 canadian 1052 ufo sightings  
-   Link: <a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings | Victoria News...</p></details>
+   Link:<a href="https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://vicnews.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Victoria NewsSouth Cariboo woman helps document 2025’s 1,052 Canadian UFO sightings | Victoria News...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: utias.utoronto.ca  
    Title: 1960s dr gordon patterson establishes the utias ufo project  
-   Link: <a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/2018/08/15/1960s-dr-gordon-patterson-establishes-the-utias-ufo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1960s: Dr. Gordon Patterson establishes The UTIAS UFO Project - University of Toronto Institute for Aerospace Studies...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National | Globalnews.ca...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsReports of UFO sightings in Canada jumped last year. What’s going on? - National | Globalnews.ca...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Second Storey  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Second_Storey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Second_Storey</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Second_Storey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Second_Storey</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: candemuseum.org  
-   Link: <a href="https://www.candemuseum.org/sites/default/files/archives/Pinetreeline/other/other15/other15i.html" target="_blank" rel="noopener noreferrer nofollow">https://www.candemuseum.org/sites/default/files/archives/Pinetreeline/other/other15/other15i.html</a>  
+   Link:<a href="https://www.candemuseum.org/sites/default/files/archives/Pinetreeline/other/other15/other15i.html" target="_blank" rel="noopener noreferrer nofollow">https://www.candemuseum.org/sites/default/files/archives/Pinetreeline/other/other15/other15i.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: northeasternontario.com  
    Title: Moonbeam | The Seven  
-   Link: <a href="https://www.northeasternontario.com/moonbeam" target="_blank" rel="noopener noreferrer nofollow">https://www.northeasternontario.com/moonbeam</a>  
+   Link:<a href="https://www.northeasternontario.com/moonbeam" target="_blank" rel="noopener noreferrer nofollow">https://www.northeasternontario.com/moonbeam</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: activehistory.ca  
    Title: Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
+   Link:<a href="https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/3761270/canadas-best-documented-ufo-sighting-still-intrigues-50-years-on/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: globalnews.ca  
    Title: ufo data collection spy balloons misinformation  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: canadaplatforms.com  
-   Link: <a href="https://canadaplatforms.com/Moonbeam" target="_blank" rel="noopener noreferrer nofollow">https://canadaplatforms.com/Moonbeam</a>  
+   Link:<a href="https://canadaplatforms.com/Moonbeam" target="_blank" rel="noopener noreferrer nofollow">https://canadaplatforms.com/Moonbeam</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aa.com.tr  
    Title: canada ufo sightings include reports from airline crews  
-   Link: <a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
+   Link:<a href="https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/canada-ufo-sightings-include-reports-from-airline-crews/3120051</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video details the results and analysis of annual sighting tracking across Canadian provinces, providing concrete context for Ontario...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video details the results and analysis of annual sighting tracking across Canadian provinces, providing concrete context for Ontario...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFOs Part 1 — Canadian Reports, Research & Disclosure  
-   Link: <a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CS2z-V6Qjsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CS2z-V6Qjsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: falcontrailsresort.com  
-   Link: <a href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow">https://falcontrailsresort.com/close-encounters-of-the-2nd-kind</a>  
+   Link:<a href="https://falcontrailsresort.com/close-encounters-of-the-2nd-kind" target="_blank" rel="noopener noreferrer nofollow">https://falcontrailsresort.com/close-encounters-of-the-2nd-kind</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PeterboroughExaminer/posts/a-trent-university-student-will-be-sharing-what-he-has-unearthed-about-the-canad/1839698786094918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterboroughExaminer/posts/a-trent-university-student-will-be-sharing-what-he-has-unearthed-about-the-canad/1839698786094918/</a>  
+   Link:<a href="https://www.facebook.com/PeterboroughExaminer/posts/a-trent-university-student-will-be-sharing-what-he-has-unearthed-about-the-canad/1839698786094918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PeterboroughExaminer/posts/a-trent-university-student-will-be-sharing-what-he-has-unearthed-about-the-canad/1839698786094918/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/vice/canadian-military-documents-ufo-sightings-intelligence-report-reveals-6ddc25b87706" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/vice/canadian-military-documents-ufo-sightings-intelligence-report-reveals-6ddc25b87706</a>  
+   Link:<a href="https://medium.com/vice/canadian-military-documents-ufo-sightings-intelligence-report-reveals-6ddc25b87706" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/vice/canadian-military-documents-ufo-sightings-intelligence-report-reveals-6ddc25b87706</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/moviesinsiders.ntgroup/posts/3872729642863095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/moviesinsiders.ntgroup/posts/3872729642863095/</a>  
+   Link:<a href="https://www.facebook.com/groups/moviesinsiders.ntgroup/posts/3872729642863095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/moviesinsiders.ntgroup/posts/3872729642863095/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/canada/comments/1g1mvc9/falcon_lake_incident_is_canadas_bestdocumented/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1g1mvc9/falcon_lake_incident_is_canadas_bestdocumented/</a>  
+   Link:<a href="https://www.reddit.com/r/canada/comments/1g1mvc9/falcon_lake_incident_is_canadas_bestdocumented/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/1g1mvc9/falcon_lake_incident_is_canadas_bestdocumented/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: roadsideattractions.ca  
-   Link: <a href="https://www.roadsideattractions.ca/roadside/saucer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideattractions.ca/roadside/saucer.html</a>  
+   Link:<a href="https://www.roadsideattractions.ca/roadside/saucer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideattractions.ca/roadside/saucer.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: roadsideamerica.com  
-   Link: <a href="https://www.roadsideamerica.com/tip/29487" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/29487</a>  
+   Link:<a href="https://www.roadsideamerica.com/tip/29487" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/29487</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/308494644052837/posts/1462334595335497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/308494644052837/posts/1462334595335497/</a>  
+   Link:<a href="https://www.facebook.com/groups/308494644052837/posts/1462334595335497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/308494644052837/posts/1462334595335497/</a>  

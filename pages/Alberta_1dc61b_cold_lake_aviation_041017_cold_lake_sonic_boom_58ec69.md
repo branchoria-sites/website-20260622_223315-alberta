@@ -256,15 +256,15 @@ image: /assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_b
 
 ## Introduction
 
-Around [Cold Lake]({{ 'cold-lake/' | relative_url }}), a sudden boom, deep rumble or delayed crash of sound can easily become part of a UFO story. Yet one of the most important lessons from [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})'s aviation-linked sightings is that unusual sounds are often easier to explain than unusual lights. Cold Lake sits beside one of Canada's busiest military flying environments, where authorised supersonic training occasionally produces sonic booms that can be heard far from the aircraft itself. In some cases, witnesses hear an explosion-like sound without ever seeing a jet. In others, they see an aircraft or bright object first and only hear it many seconds later. Both effects can make an ordinary flight seem mysterious if the underlying physics is not understood. Near Cold Lake, understanding sonic booms and delayed sound is often the difference between a puzzling sky report and a well-grounded aviation explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
+Around [Cold Lake]({{ 'cold-lake/' | relative_url }}), a sudden boom, deep rumble or delayed crash of sound can easily become part of a UFO story. Yet one of the most important lessons from [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})'s aviation-linked sightings is that unusual sounds are often easier to explain than unusual lights. Cold Lake sits beside one of Canada's busiest military flying environments, where authorised supersonic training occasionally produces sonic booms that can be heard far from the aircraft itself. In some cases, witnesses hear an explosion-like sound without ever seeing a jet. In others, they see an aircraft or bright object first and only hear it many seconds later. Both effects can make an ordinary flight seem mysterious if the underlying physics is not understood. Near Cold Lake, understanding sonic booms and delayed sound is often the difference between a puzzling sky report and a well-grounded aviation explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Was that UFO sound really a jet?
 
-Cold Lake's military airspace is unusual by Canadian standards. The area supports fighter training linked to 4 Wing Cold Lake and the Cold Lake Air Weapons Range, where authorised supersonic operations can occur within restricted airspace. As a result, residents occasionally experience sounds that would be rare elsewhere in Alberta. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
+Cold Lake's military airspace is unusual by Canadian standards. The area supports fighter training linked to 4 Wing Cold Lake and the Cold Lake Air Weapons Range, where authorised supersonic operations can occur within restricted airspace. As a result, residents occasionally experience sounds that would be rare elsewhere in Alberta.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
 
-A key point is that a sonic boom is not simply the noise of an aircraft engine. It is a shock wave created when an aircraft travels faster than the speed of sound. To someone on the ground, the result can resemble an explosion, a clap of thunder, or a sudden impact. The sound may seem to come from nowhere because the aircraft can be many kilometres away by the time the boom reaches the listener. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">like sound of thunder 2</span><span class="citation-popover-snippet">Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</span></span></span>
+A key point is that a sonic boom is not simply the noise of an aircraft engine. It is a shock wave created when an aircraft travels faster than the speed of sound. To someone on the ground, the result can resemble an explosion, a clap of thunder, or a sudden impact. The sound may seem to come from nowhere because the aircraft can be many kilometres away by the time the boom reaches the listener.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">like sound of thunder 2</span><span class="citation-popover-snippet">Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</span></span></span>
 
 For UFO researchers and curious witnesses alike, this matters because reports often begin with phrases such as:
 
@@ -278,15 +278,15 @@ For UFO researchers and curious witnesses alike, this matters because reports of
 
 </div>
 
-Those descriptions are not necessarily signs of something unknown. They are often exactly what physics predicts when fast military aircraft operate nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+Those descriptions are not necessarily signs of something unknown. They are often exactly what physics predicts when fast military aircraft operate nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 ## The 2022 Cold Lake sonic boom example
 
-One of the clearest modern examples occurred on 29 August 2022. Residents around the Cold Lake region reported a loud boom that prompted questions and speculation. Shortly afterwards, officials from 4 Wing Cold Lake confirmed that a CF-18 Hornet conducting approved training within the Cold Lake Air Weapons Range had produced a sonic boom at approximately 11:36 a.m. The flight had authorisation for supersonic operations within restricted airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News+2The Albertan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+One of the clearest modern examples occurred on 29 August 2022. Residents around the Cold Lake region reported a loud boom that prompted questions and speculation. Shortly afterwards, officials from 4 Wing Cold Lake confirmed that a CF-18 Hornet conducting approved training within the Cold Lake Air Weapons Range had produced a sonic boom at approximately 11:36 a.m. The flight had authorisation for supersonic operations within restricted airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News+2The Albertan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
-The incident is useful because it demonstrates how a dramatic event can have a documented aviation explanation. Many witnesses experienced a startling noise before knowing what caused it. Without the subsequent confirmation, some reports might easily have entered local folklore as an unexplained aerial event. Instead, the case shows the value of checking military activity and official statements before treating an unusual sound as evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+The incident is useful because it demonstrates how a dramatic event can have a documented aviation explanation. Many witnesses experienced a startling noise before knowing what caused it. Without the subsequent confirmation, some reports might easily have entered local folklore as an unexplained aerial event. Instead, the case shows the value of checking military activity and official statements before treating an unusual sound as evidence of something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
-The 2022 example was not unique. Local reporting has documented other occasions when loud booms in northeastern Alberta were linked to military training from the Cold Lake area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakelandtoday.ca">[Lakeland Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakelandtoday.ca</span><span class="citation-popover-title">boom could have been jet fighters training in weapons range 1908315</span><span class="citation-popover-snippet">Lac La Biche Post Jan 25...Read more...</span></span></span>
+The 2022 example was not unique. Local reporting has documented other occasions when loud booms in northeastern Alberta were linked to military training from the Cold Lake area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakelandtoday.ca">[Lakeland Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakelandtoday.ca</span><span class="citation-popover-title">boom could have been jet fighters training in weapons range 1908315</span><span class="citation-popover-snippet">Lac La Biche Post Jan 25...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zv5sBWBQvE0" title="Mysterious sonic boom rattles South Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer">Mysterious sonic boom rattles South Carolina</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zv5sBWBQvE0">Open on YouTube</a></p></div></div></div>
@@ -295,29 +295,29 @@ The 2022 example was not unique. Local reporting has documented other occasions 
 
 One of the most misunderstood aspects of aviation sightings is the timing of sound.
 
-People naturally expect noise and motion to arrive together. For ordinary everyday objects, they usually do. Aircraft are different because light reaches the observer almost instantly, while sound travels much more slowly through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.hkust.edu.hk">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.hkust.edu.hk</span><span class="citation-popover-title">Science Focus Sonic Booms</span><span class="citation-popover-snippet">Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</span></span></span>
+People naturally expect noise and motion to arrive together. For ordinary everyday objects, they usually do. Aircraft are different because light reaches the observer almost instantly, while sound travels much more slowly through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.hkust.edu.hk">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.hkust.edu.hk</span><span class="citation-popover-title">Science Focus Sonic Booms</span><span class="citation-popover-snippet">Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</span></span></span>
 
 This creates several effects that can make an aircraft seem strange:
 
 ### Seeing the aircraft before hearing it
 
-A fighter jet may already be crossing the sky when the sound finally reaches a witness. Someone can watch the aircraft move across the horizon and only hear the engine roar many seconds later. This can create the impression that the sound belongs to something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.hkust.edu.hk">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.hkust.edu.hk</span><span class="citation-popover-title">Science Focus Sonic Booms</span><span class="citation-popover-snippet">Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</span></span></span>
+A fighter jet may already be crossing the sky when the sound finally reaches a witness. Someone can watch the aircraft move across the horizon and only hear the engine roar many seconds later. This can create the impression that the sound belongs to something else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencefocus.hkust.edu.hk">[Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencefocus.hkust.edu.hk</span><span class="citation-popover-title">Science Focus Sonic Booms</span><span class="citation-popover-snippet">Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</span></span></span>
 
 ### Hearing a boom after the aircraft has gone
 
-With supersonic flight, the shock wave trails behind the aircraft. A witness may look up after hearing the boom and find no obvious source because the aircraft has already travelled far beyond the point where the sound was generated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+With supersonic flight, the shock wave trails behind the aircraft. A witness may look up after hearing the boom and find no obvious source because the aircraft has already travelled far beyond the point where the sound was generated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-2-dark.svg" | relative_url }}" alt="Sonic Booms illustration 2" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Misjudging distance and speed
 
-A high-performance military aircraft can cover large distances very quickly. When sound arrives late, observers often underestimate how far away the aircraft really is. This can make a routine training flight appear to have accelerated suddenly, vanished, or changed direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+A high-performance military aircraft can cover large distances very quickly. When sound arrives late, observers often underestimate how far away the aircraft really is. This can make a routine training flight appear to have accelerated suddenly, vanished, or changed direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
-These timing effects are particularly relevant around Cold Lake because witnesses may be observing aircraft operating within a vast training area rather than directly over the city itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
+These timing effects are particularly relevant around Cold Lake because witnesses may be observing aircraft operating within a vast training area rather than directly over the city itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coldlake.com">[City of Cold Lake]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coldlake.com</span><span class="citation-popover-snippet">City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</span></span></span>
 
 ## Why sonic booms can seem more mysterious than the aircraft
 
-A common misconception is that a sonic boom occurs only at the instant an aircraft "breaks the sound barrier". In reality, the shock-wave effect continues while the aircraft remains supersonic. People on the ground hear the boom when that moving shock wave passes over them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+A common misconception is that a sonic boom occurs only at the instant an aircraft "breaks the sound barrier". In reality, the shock-wave effect continues while the aircraft remains supersonic. People on the ground hear the boom when that moving shock wave passes over them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 This leads to several characteristics that often appear in witness reports:
 
@@ -328,11 +328,11 @@ This leads to several characteristics that often appear in witness reports:
 * Windows or buildings may briefly vibrate.
 * Different communities may report the same event over a wide area.
 * Some people hear a single sharp crack, while others describe thunder-like rumbling.
-* Witnesses may disagree about the direction from which the sound came. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">like sound of thunder 2</span><span class="citation-popover-snippet">Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</span></span></span>
+* Witnesses may disagree about the direction from which the sound came.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">like sound of thunder 2</span><span class="citation-popover-snippet">Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</span></span></span>
 
 </div>
 
-Because these experiences feel dramatic and unexpected, they can become attached to stories about mysterious lights, unknown objects or unusual sky activity. In a Cold Lake setting, however, the presence of nearby military training makes a sonic-boom explanation especially important to consider before moving toward more speculative interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+Because these experiences feel dramatic and unexpected, they can become attached to stories about mysterious lights, unknown objects or unusual sky activity. In a Cold Lake setting, however, the presence of nearby military training makes a sonic-boom explanation especially important to consider before moving toward more speculative interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-3-dark.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -350,7 +350,7 @@ Before concluding that an event was unexplained, record:
 * How long the delay was between seeing something and hearing it.
 * Whether the sound resembled thunder, an explosion, a crack or a prolonged rumble.
 * Whether neighbours across a wider area heard the same thing.
-* Any official notices, local news reports or military statements issued afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+* Any official notices, local news reports or military statements issued afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
 </div>
 
@@ -363,197 +363,197 @@ The timing information is especially valuable. A delayed sound strongly suggests
 
 Cold Lake illustrates a broader pattern within Alberta's UFO record. Some reports become mysterious not because the object itself was extraordinary, but because witnesses encountered aviation effects they rarely experience elsewhere. A sonic boom can sound like an explosion. A fighter jet can appear silent until it is already overhead. A shock wave can arrive long after the aircraft has moved on.
 
-That does not mean every Cold Lake report is automatically explained. It does mean that unusual sounds near one of Canada's principal fighter-training regions should be examined through an aviation lens first. The confirmed 2022 sonic-boom incident shows why: a startling event that initially seemed mysterious turned out to be a documented result of authorised military training. In the context of Alberta UFO history, sonic booms and delayed sound are therefore less a mystery in themselves than a reminder of how easily human perception can be confused by fast aircraft operating in complex airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News+2The Albertan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+That does not mean every Cold Lake report is automatically explained. It does mean that unusual sounds near one of Canada's principal fighter-training regions should be examined through an aviation lens first. The confirmed 2022 sonic-boom incident shows why: a startling event that initially seemed mysterious turned out to be a documented result of authorised military training. In the context of Alberta UFO history, sonic booms and delayed sound are therefore less a mystery in themselves than a reminder of how easily human perception can be confused by fast aircraft operating in complex airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: couriernews.ca">[The Courier News+2The Albertan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">couriernews.ca</span><span class="citation-popover-title">sonic boom the cause of noise around cold lake</span><span class="citation-popover-snippet">“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was that UFO sound really a jet?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was that UFO sound really a jet?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and separating misidentifications from genuinely unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and separating misidentifications from genuinely unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Encourages readers to compare unexplained reports with aviation and observational evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to compare unexplained reports with aviation and observational evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand military aviation programs and why unusual aircraft activity can be misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand military aviation programs and why unusual aircraft activity can be misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides accessible insight into high-performance flight and the culture surrounding fast aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides accessible insight into high-performance flight and the culture surrounding fast aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/9b3910aa6d4c6039bf19.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/9b3910aa6d4c6039bf19.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)"><img src="{{ '/assets/images/marketplace-covers/ecb74100f43092760065.jpg' | relative_url }}" alt="Listing image for Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)"><img src="{{ '/assets/images/marketplace-covers/ecb74100f43092760065.jpg' | relative_url }}" alt="Listing image for Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Large RAF Spitfire Aviation Art Print – Barrie A. F. Clark, 1978 (122×66cm)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="sonic-booms-was-that-ufo-sound-really-a-jet-alberta-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ That does not mean every Cold Lake report is automatically explained. It does me
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,115 +759,115 @@ That does not mean every Cold Lake report is automatically explained. It does me
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: like sound of thunder 2  
-   Link: <a href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/like-sound-of-thunder-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</p></details>
+   Link:<a href="https://www.nasa.gov/image-article/like-sound-of-thunder-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/like-sound-of-thunder-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Like the Sound of Thunder8 Dec 2010 — The shock waves created by the supersonic flight of an aircraft, sonic booms sound much like an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic: The History of NASA&#x27;s Sonic Boom Research (...When the airplane is moving at or faster than the speed of sound, these pr...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic: The History of NASA&#x27;s Sonic Boom Research (...When the airplane is moving at or faster than the speed of sound, these pr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
    Title: x 59 first supersonic flight  
-   Link: <a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/</a>  
+   Link:<a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sonic the Hedgehog  
-   Link: <a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_the_Hedgehog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic the HedgehogSonic the Hedgehog is Sega&#x27;s flagship franchise, one of the best-selling video game franchises, and one of the highe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_the_Hedgehog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic the HedgehogSonic the Hedgehog is Sega&#x27;s flagship franchise, one of the best-selling video game franchises, and one of the highe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.northeastern.edu  
    Title: meteor sonic boom new england  
-   Link: <a href="https://news.northeastern.edu/2026/06/03/meteor-sonic-boom-new-england/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2026/06/03/meteor-sonic-boom-new-england/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Made New England&#x27;s Meteor Sonic Boom So Rare?3 Jun 2026 — A sonic boom shook New England after a meteor exploded over Cape Cod Bay. North...</p></details>
+   Link:<a href="https://news.northeastern.edu/2026/06/03/meteor-sonic-boom-new-england/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2026/06/03/meteor-sonic-boom-new-england/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Made New England&#x27;s Meteor Sonic Boom So Rare?3 Jun 2026 — A sonic boom shook New England after a meteor exploded over Cape Cod Bay. North...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: coldlake.com  
-   Link: <a href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.coldlake.com/live/4-wing-cold-lake/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</p></details>
+   Link:<a href="https://www.coldlake.com/live/4-wing-cold-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.coldlake.com/live/4-wing-cold-lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City of Cold Lake4 Wing Cold LakeFor over seven decades, Cold Lake has been the proud home of 4 Wing, the largest and busiest fighter air...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: couriernews.ca  
    Title: sonic boom the cause of noise around cold lake  
-   Link: <a href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow">https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</p></details>
+   Link:<a href="https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/" target="_blank" rel="noopener noreferrer nofollow">https://couriernews.ca/featured-news/sonic-boom-the-cause-of-noise-around-cold-lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“On August 29, 2022, at approximately 11:36 am a CF-18 Hornet from...Read more...</p></details>
    Published: August 29, 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencefocus.hkust.edu.hk  
    Title: Science Focus Sonic Booms  
-   Link: <a href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://sciencefocus.hkust.edu.hk/sonic-booms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</p></details>
+   Link:<a href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://sciencefocus.hkust.edu.hk/sonic-booms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science FocusSonic Booms - Science FocusWhen the jet reaches the speed of sound and beyond, it can no longer be heard from any observer i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thealbertan.com  
    Title: national defence confirms loud noise in northern alberta was sonic boom 5756703  
-   Link: <a href="https://www.thealbertan.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703" target="_blank" rel="noopener noreferrer nofollow">https://www.thealbertan.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defence confirms loud noise in Northern Alberta...30 Aug 2022 — A loud noise heard by many in the Cold Lake area was in fact a...</p></details>
+   Link:<a href="https://www.thealbertan.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703" target="_blank" rel="noopener noreferrer nofollow">https://www.thealbertan.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defence confirms loud noise in Northern Alberta...30 Aug 2022 — A loud noise heard by many in the Cold Lake area was in fact a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lakelandtoday.ca  
    Title: boom could have been jet fighters training in weapons range 1908315  
-   Link: <a href="https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lac La Biche Post Jan 25...Read more...</p></details>
+   Link:<a href="https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315" target="_blank" rel="noopener noreferrer nofollow">https://www.lakelandtoday.ca/lac-la-biche-news/boom-could-have-been-jet-fighters-training-in-weapons-range-1908315</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lac La Biche Post Jan 25...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/10346703/cfb-cold-lake-419-tactical-fighter-training-squadron-marks-end-of-operations" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/10346703/cfb-cold-lake-419-tactical-fighter-training-squadron-marks-end-of-operations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CFB Cold Lake 419 Tactical Fighter Training Squadron marks...With CT-155 Hawk training jets being retired, the 419 Tactical Fighter Trai...</p></details>
+   Link:<a href="https://globalnews.ca/video/10346703/cfb-cold-lake-419-tactical-fighter-training-squadron-marks-end-of-operations" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/10346703/cfb-cold-lake-419-tactical-fighter-training-squadron-marks-end-of-operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CFB Cold Lake 419 Tactical Fighter Training Squadron marks...With CT-155 Hawk training jets being retired, the 419 Tactical Fighter Trai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Boom &gt; Air Force &gt; Fact Sheet DisplaySonic boom is an impulsive noise similar to thunder. It is caused by an object moving faster t...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Boom &gt; Air Force &gt; Fact Sheet DisplaySonic boom is an impulsive noise similar to thunder. It is caused by an object moving faster t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a First, NASA&#x27;s Experimental X-59 Plane Flew Faster...Jun 8, 2026 — The aircraft is expected to make its first “mission conditions” f...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/in-a-first-nasas-experimental-x-59-plane-flew-faster-than-the-speed-of-sound-setting-the-stage-for-quiet-supersonic-aircraft-180988916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a First, NASA&#x27;s Experimental X-59 Plane Flew Faster...Jun 8, 2026 — The aircraft is expected to make its first “mission conditions” f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: townandcountrytoday.com  
    Title: national defence confirms loud noise in northern alberta was sonic boom 5756703  
-   Link: <a href="https://www.townandcountrytoday.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703" target="_blank" rel="noopener noreferrer nofollow">https://www.townandcountrytoday.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defence confirms loud noise in Northern Alberta...30 Aug 2022 — Loud noise heard by many in the Cold Lake area was in fact a so...</p></details>
+   Link:<a href="https://www.townandcountrytoday.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703" target="_blank" rel="noopener noreferrer nofollow">https://www.townandcountrytoday.com/beyond-local/national-defence-confirms-loud-noise-in-northern-alberta-was-sonic-boom-5756703</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defence confirms loud noise in Northern Alberta...30 Aug 2022 — Loud noise heard by many in the Cold Lake area was in fact a so...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: boomsupersonic.com  
    Title: from backwards suns to jet lag free landings what its like to fly supersonic  
-   Link: <a href="https://boomsupersonic.com/flyby/from-backwards-suns-to-jet-lag-free-landings-what-its-like-to-fly-supersonic" target="_blank" rel="noopener noreferrer nofollow">https://boomsupersonic.com/flyby/from-backwards-suns-to-jet-lag-free-landings-what-its-like-to-fly-supersonic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Backwards Suns to Jet‑Lag‑Free Landings: What It&#x27;s...20 Dec 2024 — When an aircraft breaks the sound barrier, it creates a sudden c...</p></details>
+   Link:<a href="https://boomsupersonic.com/flyby/from-backwards-suns-to-jet-lag-free-landings-what-its-like-to-fly-supersonic" target="_blank" rel="noopener noreferrer nofollow">https://boomsupersonic.com/flyby/from-backwards-suns-to-jet-lag-free-landings-what-its-like-to-fly-supersonic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Backwards Suns to Jet‑Lag‑Free Landings: What It&#x27;s...20 Dec 2024 — When an aircraft breaks the sound barrier, it creates a sudden c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aviation.stackexchange.com  
    Title: The diagrams explaining a sonic boom often show sound waves like the waves  
-   Link: <a href="https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do sonic booms happen at speeds significantly faster...Mar 24, 2025 — I just realized that I must not understand sonic booms as well as...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do sonic booms happen at speeds significantly faster...Mar 24, 2025 — I just realized that I must not understand sonic booms as well as...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zv5sBWBQvE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sonic boom rattles South CarolinaHundreds of people reported feeling the sudden, jarring rumble. The U.S. Geological Survey sa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zv5sBWBQvE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sonic boom rattles South CarolinaHundreds of people reported feeling the sudden, jarring rumble. The U.S. Geological Survey sa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: acousticstoday.org  
-   Link: <a href="https://acousticstoday.org/human-perception-sonic-booms-supersonic-aircraft-alexandra-loubeau-juliet-page/" target="_blank" rel="noopener noreferrer nofollow">https://acousticstoday.org/human-perception-sonic-booms-supersonic-aircraft-alexandra-loubeau-juliet-page/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency energy, the transient nature of the sound, and high-frequency energy at...Read more...</p></details>
+   Link:<a href="https://acousticstoday.org/human-perception-sonic-booms-supersonic-aircraft-alexandra-loubeau-juliet-page/" target="_blank" rel="noopener noreferrer nofollow">https://acousticstoday.org/human-perception-sonic-booms-supersonic-aircraft-alexandra-loubeau-juliet-page/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency energy, the transient nature of the sound, and high-frequency energy at...Read more...</p></details>

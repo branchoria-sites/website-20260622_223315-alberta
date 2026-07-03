@@ -256,17 +256,17 @@ image: /assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unr
 
 ## Introduction
 
-Many [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) UFO reports remained officially “unidentified” for a simple reason: investigators could not determine a reliable explanation from the information available. In the Canadian archival system, an unidentified case did not mean officials had discovered alien technology. More often, it meant that witnesses provided too little detail, physical evidence was absent, weather or astronomical conditions were uncertain, or the report arrived too late for meaningful follow-up. Canadian government files repeatedly show that unresolved status was often an administrative outcome rather than a dramatic conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Many [British Columbia]({{ 'what-makes-british-columbias-ufo-record/' | relative_url }}) UFO reports remained officially “unidentified” for a simple reason: investigators could not determine a reliable explanation from the information available. In the Canadian archival system, an unidentified case did not mean officials had discovered alien technology. More often, it meant that witnesses provided too little detail, physical evidence was absent, weather or astronomical conditions were uncertain, or the report arrived too late for meaningful follow-up. Canadian government files repeatedly show that unresolved status was often an administrative outcome rather than a dramatic conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved files illustration 1" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters when reading British Columbia UFO records. The province generated reports from densely populated coastal cities, remote mountain regions, islands, shipping routes and busy aviation corridors. Those conditions produced many observations that were difficult to verify after the fact. As a result, some files stayed open-ended in the archive even when no extraordinary explanation was supported by the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+This distinction matters when reading British Columbia UFO records. The province generated reports from densely populated coastal cities, remote mountain regions, islands, shipping routes and busy aviation corridors. Those conditions produced many observations that were difficult to verify after the fact. As a result, some files stayed open-ended in the archive even when no extraordinary explanation was supported by the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 ## What information was often missing
 
 The most common reason a British Columbia UFO report remained unidentified was incomplete information.
 
-Canadian UFO files were collected by several different agencies, including the Royal Canadian Mounted Police, Department of Transport, Department of National Defence and National Research Council. Reports often arrived in uneven formats. Some consisted of detailed witness statements, while others contained only a brief description of a light in the sky and a rough location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Canadian UFO files were collected by several different agencies, including the Royal Canadian Mounted Police, Department of Transport, Department of National Defence and National Research Council. Reports often arrived in uneven formats. Some consisted of detailed witness statements, while others contained only a brief description of a light in the sky and a rough location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 Key details were frequently absent:
 
@@ -283,9 +283,9 @@ Key details were frequently absent:
 
 </div>
 
-Without those details, investigators could not confidently compare a sighting against aircraft movements, astronomical objects, satellites, meteors or atmospheric phenomena. In many cases, the evidence was insufficient to support either a conventional explanation or an extraordinary one. The result was an “unidentified” classification based on uncertainty rather than mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Without those details, investigators could not confidently compare a sighting against aircraft movements, astronomical objects, satellites, meteors or atmospheric phenomena. In many cases, the evidence was insufficient to support either a conventional explanation or an extraordinary one. The result was an “unidentified” classification based on uncertainty rather than mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
-Another complication was timing. Witnesses sometimes reported sightings days or weeks later. By then, weather records, aviation information or opportunities to interview additional witnesses could be difficult to reconstruct accurately. A case could therefore remain unresolved simply because crucial evidence had disappeared before anyone examined it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</span></span></span>
+Another complication was timing. Witnesses sometimes reported sightings days or weeks later. By then, weather records, aviation information or opportunities to interview additional witnesses could be difficult to reconstruct accurately. A case could therefore remain unresolved simply because crucial evidence had disappeared before anyone examined it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_a_WjHCaHY" title="B.C. residents baffled as strange shape floats through night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer">B.C. residents baffled as strange shape floats through night sky</a></p><p class="youtube-embed-meta">Channel: CBC British Columbia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_a_WjHCaHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_a_WjHCaHY">Open on YouTube</a></p></div></div></div>
@@ -294,11 +294,11 @@ Another complication was timing. Witnesses sometimes reported sightings days or 
 
 British Columbia presented unusual challenges for investigators.
 
-The province combines major urban centres with vast stretches of sparsely populated wilderness. Mountain ranges, coastal inlets, dense forests and isolated communities often limited the number of available witnesses and made follow-up investigations difficult. A strange light seen over a remote valley in northern British Columbia might have only one observer and no supporting records. In such circumstances, determining distance, size and speed became highly speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</span></span></span>
+The province combines major urban centres with vast stretches of sparsely populated wilderness. Mountain ranges, coastal inlets, dense forests and isolated communities often limited the number of available witnesses and made follow-up investigations difficult. A strange light seen over a remote valley in northern British Columbia might have only one observer and no supporting records. In such circumstances, determining distance, size and speed became highly speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</span></span></span>
 
 The province's geography also affects visual perception. Lights viewed across water, through layers of coastal atmosphere or against mountain backdrops can appear to move, change shape or hover unexpectedly. Pilots and ordinary observers alike can misjudge distance and altitude when few visual reference points are available.
 
-Astronomical and atmospheric factors added further uncertainty. Bright planets near the horizon, meteors, auroral activity, unusual cloud formations and temperature inversions have all generated reports that initially appeared unusual. Yet investigators could not always prove that a specific sighting matched one of those explanations. When evidence was incomplete, the file often remained unresolved despite the existence of plausible conventional possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</span></span></span>
+Astronomical and atmospheric factors added further uncertainty. Bright planets near the horizon, meteors, auroral activity, unusual cloud formations and temperature inversions have all generated reports that initially appeared unusual. Yet investigators could not always prove that a specific sighting matched one of those explanations. When evidence was incomplete, the file often remained unresolved despite the existence of plausible conventional possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved files illustration 2" data-theme-src-dark="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,13 +306,13 @@ Astronomical and atmospheric factors added further uncertainty. Bright planets n
 
 British Columbia's UFO history is closely connected to aviation.
 
-The province contains major civilian airports, military facilities, coastal air routes and cross-border traffic with the United States. Many reports involved objects seen from aircraft or near aviation corridors. Because aviation safety was a concern, sightings were sometimes forwarded through transport or defence channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+The province contains major civilian airports, military facilities, coastal air routes and cross-border traffic with the United States. Many reports involved objects seen from aircraft or near aviation corridors. Because aviation safety was a concern, sightings were sometimes forwarded through transport or defence channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 However, an aviation connection did not guarantee a solution.
 
 Historical investigators often lacked immediate access to all relevant flight information. Military activity could be classified, records could be incomplete, and sightings might occur in areas with multiple possible aircraft sources. Even when an aircraft explanation seemed likely, officials sometimes lacked enough evidence to demonstrate it conclusively.
 
-This produced an important archival category: cases that were probably explainable but not definitively explained. Such reports could remain officially unidentified despite strong suspicion that the cause was ordinary aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">citizens and the state. Beginning in th...</span></span></span>
+This produced an important archival category: cases that were probably explainable but not definitively explained. Such reports could remain officially unidentified despite strong suspicion that the cause was ordinary aviation activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">citizens and the state. Beginning in th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MuTXU_Xnys" title="The renewed interest in UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer">The renewed interest in UFOs</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 147.3K &middot; Uploaded: May 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MuTXU_Xnys">Open on YouTube</a></p></div></div></div>
@@ -321,9 +321,9 @@ This produced an important archival category: cases that were probably explainab
 
 Readers sometimes assume that a file marked “unidentified” represents a persistent scientific puzzle. In reality, archival classifications often reflect the limits of available evidence.
 
-Canadian UFO investigations were generally fragmented across departments rather than handled by a single permanent investigative agency. Researchers examining historical records frequently find incomplete files, missing attachments, duplicate reports and correspondence that ended before a final determination was reached. Some records were created primarily for documentation rather than intensive field investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Canadian UFO investigations were generally fragmented across departments rather than handled by a single permanent investigative agency. Researchers examining historical records frequently find incomplete files, missing attachments, duplicate reports and correspondence that ended before a final determination was reached. Some records were created primarily for documentation rather than intensive field investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
-As government interest shifted over time, the emphasis increasingly moved toward collecting and preserving reports rather than conducting exhaustive investigations of every sighting. The National Research Council eventually became a major repository for reports before ending collection activities in 1995, with the records later transferred to Library and Archives Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</span></span></span>
+As government interest shifted over time, the emphasis increasingly moved toward collecting and preserving reports rather than conducting exhaustive investigations of every sighting. The National Research Council eventually became a major repository for reports before ending collection activities in 1995, with the records later transferred to Library and Archives Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">management public reporting unidentified aerial phenomena canada</span><span class="citation-popover-snippet">All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</span></span></span>
 
 That history helps explain why some British Columbia files never progressed beyond an unresolved status. Investigators often lacked the resources, evidence or mandate needed to push every report to a definitive conclusion.
 
@@ -346,203 +346,203 @@ An unidentified case may indicate:
 
 </div>
 
-It does not automatically imply advanced technology, extraterrestrial visitors or a hidden government discovery. Canadian archival collections preserve many reports precisely because officials could not reach a firm conclusion, not because they confirmed something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+It does not automatically imply advanced technology, extraterrestrial visitors or a hidden government discovery. Canadian archival collections preserve many reports precisely because officials could not reach a firm conclusion, not because they confirmed something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
-For British Columbia researchers, the unresolved files remain valuable because they reveal how people interpreted unusual experiences, how government agencies handled reports, and where the historical record reaches its limits. Their enduring uncertainty is usually a reflection of missing evidence and difficult investigative conditions rather than proof of an unknown technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2canadashistory.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+For British Columbia researchers, the unresolved files remain valuable because they reveal how people interpreted unusual experiences, how government agencies handled reports, and where the historical record reaches its limits. Their enduring uncertainty is usually a reflection of missing evidence and difficult investigative conditions rather than proof of an unknown technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2canadashistory.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQ4bbC_RmbQ" title="UFOs Above Canada - 5 - The Canadian Government and UFOs (with Matthew Hayes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQ4bbC_RmbQ" target="_blank" rel="noopener noreferrer">UFOs Above Canada - 5 - The Canadian Government and UFOs (with Matthew Hayes)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQ4bbC_RmbQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQ4bbC_RmbQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why unidentified does not mean alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why unidentified does not mean alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek’s classification approach directly addresses why cases remain unidentified without proving alien origin.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek’s classification approach directly addresses why cases remain unidentified without proving alien origin.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credible reports while distinguishing unresolved cases from proven extraterrestrial explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credible reports while distinguishing unresolved cases from proven extraterrestrial explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines how governments recorded, investigated, and left some UFO reports unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how governments recorded, investigated, and left some UFO reports unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why unexplained observations require careful evidence rather than extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why unexplained observations require careful evidence rather than extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="unresolved-files-why-unidentified-does-not-mean-alien-british-columbia-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For British Columbia researchers, the unresolved files remain valuable because t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For British Columbia researchers, the unresolved files remain valuable because t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For British Columbia researchers, the unresolved files remain valuable because t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For British Columbia researchers, the unresolved files remain valuable because t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For British Columbia researchers, the unresolved files remain valuable because t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,119 +748,119 @@ For British Columbia researchers, the unresolved files remain valuable because t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
    Title: management public reporting unidentified aerial phenomena canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All related material was transferred to what is now known as Library and Archives Canada (LAC)...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in th...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>citizens and the state. Beginning in th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Canada&#x27;s UFO investigation files are held at Library and Archives Canada in Ottawa. When I was a reference archivist there...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Canada&#x27;s UFO investigation files are held at Library and Archives Canada in Ottawa. When I was a reference archivist there...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
    Title: Canada FOIA Part 20 Pages 5701 6000 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2020%20-%20Pages%205701-6000_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;8000 pages of Declassified Canadian UFO...Full text of &quot;8,000 pages of Declassified Canadian UFO Documents&quot;. See other for...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Global Threat (Full Episode) | UFOs: Investigating the Unknown  
-   Link: <a href="https://www.youtube.com/watch?v=gQcMa9kPfR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gQcMa9kPfR4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files unresolved unidentified document UFO&#x27;s: Investigating the Unknown MEGA EPISODE | Secret Programs and Close Encounters |...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gQcMa9kPfR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gQcMa9kPfR4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada UFO files unresolved unidentified document UFO&#x27;s: Investigating the Unknown MEGA EPISODE | Secret Programs and Close Encounters |...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: batadora.trentu.ca  
    Title: etd 776  
-   Link: <a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</p></details>
+   Link:<a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CollectionsA History of Canada&#x27;s UFO Investigation, 1950-1995From 1950-1995, the Canadian government investigated the phenomenon...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: activehistory.ca  
    Title: Active History Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada, UFOs, and Wishful Thinking - Active History10 Feb 2017 — They start around 1945 and go all the way to the mid-1990s, when it seem...</p></details>
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada, UFOs, and Wishful Thinking - Active History10 Feb 2017 — They start around 1945 and go all the way to the mid-1990s, when it seem...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Related material: See Library and Archives Canada&#x27;s online Thematic Guide &quot;Unidentified Flying...Read more...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=FonAndCol&amp;idnumber=134925&amp;resource=folderlist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Related material: See Library and Archives Canada&#x27;s online Thematic Guide &quot;Unidentified Flying...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcollections.trentu.ca  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — It is not an official document; it is not part of the national archives coll...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — It is not an official document; it is not part of the national archives coll...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: 8000 pages of declassified ufo documents from  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaI made a fully searchable archive of the recent UFO files. (OCR... r/UFOs - New UFO Files Released Today Pentagon Release 02 May 2...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r1jvak/8000_pages_of_declassified_ufo_documents_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaI made a fully searchable archive of the recent UFO files. (OCR... r/UFOs - New UFO Files Released Today Pentagon Release 02 May 2...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaWe may not be Area 51, but did you know that we hold a vast collection of #UFO files? Hear the story of the Fa...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaWe may not be Area 51, but did you know that we hold a vast collection of #UFO files? Hear the story of the Fa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1117796184947213/posts/5550007225059398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1117796184947213/posts/5550007225059398/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Different types of UFO&#x27;s, some are round, huge, cilinder&#x27;s etc. My niece told me, the aliens run around the back yard...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1117796184947213/posts/5550007225059398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1117796184947213/posts/5550007225059398/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Different types of UFO&#x27;s, some are round, huge, cilinder&#x27;s etc. My niece told me, the aliens run around the back yard...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)&quot;The best hoax in UFO history,&quot; (The Report on Unidentified Flying Ob- jects...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)&quot;The best hoax in UFO history,&quot; (The Report on Unidentified Flying Ob- jects...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: collectionscanada.gc.ca  
    Title: Reports on non-meteoric sightings, unidentified flying objects, UFO's Location  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=5bkr531bti3qnrj4arr9r6gdmpo009bo3m2qhkhq4uoqnf7gog31&amp;brws_s=&amp;q3=Falcon+lake&amp;sk=136" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=5bkr531bti3qnrj4arr9r6gdmpo009bo3m2qhkhq4uoqnf7gog31&amp;brws_s=&amp;q3=Falcon+lake&amp;sk=136</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=5bkr531bti3qnrj4arr9r6gdmpo009bo3m2qhkhq4uoqnf7gog31&amp;brws_s=&amp;q3=Falcon+lake&amp;sk=136" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=5bkr531bti3qnrj4arr9r6gdmpo009bo3m2qhkhq4uoqnf7gog31&amp;brws_s=&amp;q3=Falcon+lake&amp;sk=136</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the UnknownCanada&#x27;s UFOs: The Search for the Unknown - Library and Archives Canada...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: twz.com  
    Title: the newly released government ufo archives will leave you shrugging  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYDQiCoj29o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYDQiCoj29o/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do YOU think this glowing object is? #UFO #UAP #Canada #UFOSighting #Alien #Aliens...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYDQiCoj29o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYDQiCoj29o/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do YOU think this glowing object is? #UFO #UAP #Canada #UFOSighting #Alien #Aliens...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: revenantjournal.com  
-   Link: <a href="https://www.revenantjournal.com/wp-content/uploads/2026/03/13_REVIEW_Search-for-the-Unknown_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/wp-content/uploads/2026/03/13_REVIEW_Search-for-the-Unknown_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of the highlights of the little-known Canadian government UFO archive that includes some unique insights...Read more...</p></details>
+   Link:<a href="https://www.revenantjournal.com/wp-content/uploads/2026/03/13_REVIEW_Search-for-the-Unknown_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/wp-content/uploads/2026/03/13_REVIEW_Search-for-the-Unknown_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary of the highlights of the little-known Canadian government UFO archive that includes some unique insights...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NRC started collecting reports of UFO sightings...Read more...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NRC started collecting reports of UFO sightings...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=tnfb1rfgqcrabeinohu8s35h3ai4sqe0bpikmrtmbd5bqcibmda0&amp;interval=20&amp;q1=&amp;q2=&amp;q3=aurora&amp;q4=ON&amp;q8=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — This archived Web page remains online for reference, research or record...</p></details>

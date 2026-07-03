@@ -280,7 +280,7 @@ image: /assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-overview-so
 
 ## Introduction
 
-[Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) can look like a modern Canadian UFO hotspot, but the best current evidence points to a more cautious conclusion: the province is unusually visible in recent reporting, not necessarily unusually strange in the sky. The 2024 [Canadian UFO Survey]({{ 'survey-limits/' | relative_url }}) found Nova Scotia “greatly overrepresented” in reports, with 12.1 per cent of Canadian cases despite having about three per cent of the national population, and attributed much of that excess to active social-media reporting channels. The 2025 survey repeated the pattern, listing 117 Nova Scotia cases and again linking the province’s high count to accessible local UFO-related social media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span>
+[Nova Scotia]({{ 'what-really-happened-in-nova-scotias-ufo/' | relative_url }}) can look like a modern Canadian UFO hotspot, but the best current evidence points to a more cautious conclusion: the province is unusually visible in recent reporting, not necessarily unusually strange in the sky. The 2024 [Canadian UFO Survey]({{ 'survey-limits/' | relative_url }}) found Nova Scotia “greatly overrepresented” in reports, with 12.1 per cent of Canadian cases despite having about three per cent of the national population, and attributed much of that excess to active social-media reporting channels. The 2025 survey repeated the pattern, listing 117 Nova Scotia cases and again linking the province’s high count to accessible local UFO-related social media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-overview.webp" | relative_url }}" alt="Overview image for Modern Reports" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,13 +288,13 @@ That distinction matters. A high number of reports can mean more sightings, but 
 
 ## What modern Canadian surveys say
 
-The Canadian UFO Survey, produced by Ufology Research and associated researchers, is the main long-running statistical source for Canadian UFO reports. Its own site says the annual surveys run from 1989 to 2025, and the survey describes its data as coming from participating researchers, direct witness reports, known UFO-report websites, government agencies, media and social media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report ANNUAL SURVEYS</span><span class="citation-popover-snippet">Canadian UFO Report ANNUAL SURVEYS</span></span></span>
+The Canadian UFO Survey, produced by Ufology Research and associated researchers, is the main long-running statistical source for Canadian UFO reports. Its own site says the annual surveys run from 1989 to 2025, and the survey describes its data as coming from participating researchers, direct witness reports, known UFO-report websites, government agencies, media and social media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-title">Canadian UFO Report ANNUAL SURVEYS</span><span class="citation-popover-snippet">Canadian UFO Report ANNUAL SURVEYS</span></span></span>
 
-For Nova Scotia, the most important recent finding is not just the raw number of reports. It is the gap between population share and report share. In 2024, the survey said larger provinces generally produced more reports, but Nova Scotia stood out: it accounted for 12.1 per cent of reports, far above its population share, and Halifax appeared among the leading metropolitan centres with 12 reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> In 2025, the survey again said Nova Scotia was overrepresented, recording 117 cases, or about 11 per cent of the national total. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
+For Nova Scotia, the most important recent finding is not just the raw number of reports. It is the gap between population share and report share. In 2024, the survey said larger provinces generally produced more reports, but Nova Scotia stood out: it accounted for 12.1 per cent of reports, far above its population share, and Halifax appeared among the leading metropolitan centres with 12 reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> In 2025, the survey again said Nova Scotia was overrepresented, recording 117 cases, or about 11 per cent of the national total.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
 
-That makes Nova Scotia interesting, but not in the simple “more UFOs are there” sense. The same surveys show that most Canadian UFO reports are not close encounters, structured craft, radar cases or multi-source investigations. In 2024, 45.2 per cent were “Nocturnal Lights”, meaning light sources seen in the night sky, and the most common reported shape was a simple point of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> In 2025, Nocturnal Lights rose to just over half of all cases, and point sources of light again dominated the shape category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
+That makes Nova Scotia interesting, but not in the simple “more UFOs are there” sense. The same surveys show that most Canadian UFO reports are not close encounters, structured craft, radar cases or multi-source investigations. In 2024, 45.2 per cent were “Nocturnal Lights”, meaning light sources seen in the night sky, and the most common reported shape was a simple point of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> In 2025, Nocturnal Lights rose to just over half of all cases, and point sources of light again dominated the shape category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
 
-The unresolved share is also small. The 2025 Canadian UFO Survey classified 3.42 per cent of cases as unexplained, while 46 per cent had insufficient information and about 34 per cent had a probable explanation. It also stressed that “unknown” does not imply alien visitation and may simply reflect missing information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span> For Nova Scotia readers, this is the key interpretive point: the province’s modern prominence is real in the dataset, but the dataset itself is dominated by brief, low-detail, sky-light reports.
+The unresolved share is also small. The 2025 Canadian UFO Survey classified 3.42 per cent of cases as unexplained, while 46 per cent had insufficient information and about 34 per cent had a probable explanation. It also stressed that “unknown” does not imply alien visitation and may simply reflect missing information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span> For Nova Scotia readers, this is the key interpretive point: the province’s modern prominence is real in the dataset, but the dataset itself is dominated by brief, low-detail, sky-light reports.
 
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,11 +302,11 @@ The unresolved share is also small. The 2025 Canadian UFO Survey classified 3.42
 
 Modern UFO reporting is shaped by friction. If a witness has to find an official form, identify the correct agency, write a detailed statement and risk embarrassment, many sightings will never be recorded. If a witness can post a short description or phone video to a local group, the number of visible reports can rise quickly without any change in the underlying sky.
 
-Nova Scotia appears to be a strong example of that effect. The 2024 survey explicitly linked the province’s overrepresentation to “very active social media where witnesses can report their UFO sightings”, and the 2025 survey used nearly the same explanation for the province’s 117 cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> A public Facebook group titled “UFO sightings in NOVA SCOTIA” describes itself as being “for and about UFO sightings in Maritime Canada”, which fits the survey’s point: local and regional groups can become informal intake systems, especially for people who would never contact a federal agency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2340648070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFO sightings in NOVA SCOTIALet&#x27;s hear your story, but PLEASE! This group is for and about UFO sightings in Maritime Canada. For...</span></span></span>
+Nova Scotia appears to be a strong example of that effect. The 2024 survey explicitly linked the province’s overrepresentation to “very active social media where witnesses can report their UFO sightings”, and the 2025 survey used nearly the same explanation for the province’s 117 cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.com">[canadianuforeport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">2024Surveyessay...</span></span></span> A public Facebook group titled “UFO sightings in NOVA SCOTIA” describes itself as being “for and about UFO sightings in Maritime Canada”, which fits the survey’s point: local and regional groups can become informal intake systems, especially for people who would never contact a federal agency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2340648070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFO sightings in NOVA SCOTIALet&#x27;s hear your story, but PLEASE! This group is for and about UFO sightings in Maritime Canada. For...</span></span></span>
 
 This changes the meaning of a hotspot. In older Canadian UFO history, a sighting often became visible because someone phoned police, contacted the Royal Canadian Mounted Police, wrote to a government office, or appeared in a newspaper. Today, a sighting may first appear as a post, comment thread, short clip or repost. That can improve visibility and help other witnesses compare notes, but it can also duplicate reports, encourage rapid speculation, and detach claims from basic details such as exact time, direction, duration, weather, aircraft traffic and camera settings.
 
-The Canadian UFO Survey’s own process reflects this new environment. Its 2025 report says cases are obtained through researchers, direct witness reports and “data mining of known websites devoted to UFO reports”, while its public data page says social media and other online sources are regularly searched for Canadian reports before cases are coded and analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span> That means modern Nova Scotia reports may enter the record not only because witnesses formally report them, but because researchers are able to find them in active online spaces.
+The Canadian UFO Survey’s own process reflects this new environment. Its 2025 report says cases are obtained through researchers, direct witness reports and “data mining of known websites devoted to UFO reports”, while its public data page says social media and other online sources are regularly searched for Canadian reports before cases are coded and analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span> That means modern Nova Scotia reports may enter the record not only because witnesses formally report them, but because researchers are able to find them in active online spaces.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The Canadian UFO Survey’s own process reflects this new environment. Its 2025 
 
 A province can be overrepresented in UFO reports for ordinary reasons. Nova Scotia has a long coastline, dark rural areas, busy harbour and airport environments, military and aviation associations around Halifax and Shearwater, and a strong cultural memory of Shag Harbour. Those conditions can increase both sky-watching and ambiguity. Lights over water are especially difficult to judge: distance is hard to estimate, horizon references can be weak, and aircraft, vessels, flares, satellites, drones, meteors and planets may appear stranger than they would in a more familiar urban setting.
 
-The official Sky Canada Project, led by the Office of the Chief Science Advisor of Canada, makes the same broader point about modern sightings. It notes that a slow-moving night light could be a nearby drone or a satellite hundreds of kilometres above Earth, and that Starlink satellite trains can appear as silent points moving in a straight line. It also warns that social media may become the place where observers seek explanations when no clear official reporting path exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The official Sky Canada Project, led by the Office of the Chief Science Advisor of Canada, makes the same broader point about modern sightings. It notes that a slow-moving night light could be a nearby drone or a satellite hundreds of kilometres above Earth, and that Starlink satellite trains can appear as silent points moving in a straight line. It also warns that social media may become the place where observers seek explanations when no clear official reporting path exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 Nova Scotia’s recent statistics therefore need a population-context reading. The question is not only “How many reports were filed?” but also “How easy was it to file them, and how many people were prompted to do so?” A province with active groups, a famous UFO landmark, and regular local discussion may produce more reports per person than a province where witnesses are unsure where to go or choose not to speak publicly.
 
@@ -325,13 +325,13 @@ This does not mean Nova Scotia reports should be dismissed. It means the high co
 <img src="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_modern_ns_ufo_report_4a2268-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The reporting gap in Canada
 
-Nova Scotia’s modern pattern also exposes a national problem: Canada does not have one simple, authoritative public system for UFO or UAP reports. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada holds older federal UFO records from the Department of National Defence, Department of Transport, National Research Council and RCMP, but those files mainly cover 1947 to the early 1980s and come with search limitations because dates, locations and document details are inconsistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+Nova Scotia’s modern pattern also exposes a national problem: Canada does not have one simple, authoritative public system for UFO or UAP reports. Library and [Archives]({{ 'archives-7abe44/' | relative_url }}) Canada holds older federal UFO records from the Department of National Defence, Department of Transport, National Research Council and RCMP, but those files mainly cover 1947 to the early 1980s and come with search limitations because dates, locations and document details are inconsistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
-For modern public reporting, Sky Canada found a fragmented landscape. It says UAP reports can reach Transport Canada’s Civil Aviation Daily Occurrence Reporting System when aviation safety is involved, the Royal Canadian Air Force or Department of National Defence in security contexts, police in public-safety contexts, and civilian groups such as Ufology Research or MUFON Canada. But it also concludes that these pathways show “the lack of a cohesive and standardized system for reporting and follow-up”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+For modern public reporting, Sky Canada found a fragmented landscape. It says UAP reports can reach Transport Canada’s Civil Aviation Daily Occurrence Reporting System when aviation safety is involved, the Royal Canadian Air Force or Department of National Defence in security contexts, police in public-safety contexts, and civilian groups such as Ufology Research or MUFON Canada. But it also concludes that these pathways show “the lack of a cohesive and standardized system for reporting and follow-up”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 That fragmentation matters in Nova Scotia because different witnesses may take different routes. A pilot report near controlled airspace is not the same kind of record as a Facebook post from Lunenburg, a police call near a harbour, or a casual video uploaded without follow-up. Each may describe something sincerely observed, but each carries a different evidential weight.
 
-Sky Canada’s consultations with the RCMP are especially relevant. The report says the RCMP does not have a formal policy for collecting or disseminating UAP reports, lacks a UAP-specific classification system, and could not provide statistics because calls may be filed under broad categories such as non-offence incidents or even unrelated labels. Local and provincial police services likewise lacked standardised systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span> In other words, a modern Nova Scotia sighting may be “reported” in a social sense while still leaving little durable official trace.
+Sky Canada’s consultations with the RCMP are especially relevant. The report says the RCMP does not have a formal policy for collecting or disseminating UAP reports, lacks a UAP-specific classification system, and could not provide statistics because calls may be filed under broad categories such as non-offence incidents or even unrelated labels. Local and provincial police services likewise lacked standardised systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span> In other words, a modern Nova Scotia sighting may be “reported” in a social sense while still leaving little durable official trace.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BbIXqJJhnPk" title="More than 1,000 UFO sightings reported in Canada last year, study finds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer">More than 1,000 UFO sightings reported in Canada last year, study finds</a></p><p class="youtube-embed-meta">Channel: CP24 &middot; Views: 5.7K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BbIXqJJhnPk">Open on YouTube</a></p></div></div></div>
@@ -355,7 +355,7 @@ The most valuable modern reports usually include:
 
 </div>
 
-The Canadian UFO Survey’s 2025 reliability discussion explains why this matters. It says many reports are emails, posts or forms without extensive supporting documentation, and that well-investigated cases are only a small fraction of UFO data. It also notes that higher-reliability cases involve interviews, multiple witnesses, supporting documentation and detailed investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
+The Canadian UFO Survey’s 2025 reliability discussion explains why this matters. It says many reports are emails, posts or forms without extensive supporting documentation, and that well-investigated cases are only a small fraction of UFO data. It also notes that higher-reliability cases involve interviews, multiple witnesses, supporting documentation and detailed investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: img1.wsimg.com">[Wsimg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">img1.wsimg.com</span><span class="citation-popover-title">Final V2 The 2025 Canadian UFO Survey</span><span class="citation-popover-snippet">Final V2 The 2025 Canadian UFO Survey</span></span></span>
 
 For Nova Scotia, this is a useful filter. A report from Halifax with an exact timestamp, original video, flight-path checks and multiple separated witnesses is far more valuable than ten vague posts about “orbs” with no time, direction or duration. The province’s high reporting volume becomes historically useful only when the reports are detailed enough to separate aircraft, satellites, drones, meteors and astronomical objects from genuinely unresolved observations.
 
@@ -374,194 +374,194 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Nova Scotia Really a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Nova Scotia Really a UFO Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are categorized and why report volume alone is not proof of anomalous phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are categorized and why report volume alone is not proof of anomalous phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines investigation methods and the challenges of interpreting large numbers of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines investigation methods and the challenges of interpreting large numbers of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced, evidence-focused framework for evaluating UFO reports and reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced, evidence-focused framework for evaluating UFO reports and reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores cultural and social influences on extraordinary reports, relevant to discussions of reporting networks and local traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cultural and social influences on extraordinary reports, relevant to discussions of reporting networks and local traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -tv" data-ebay-reference="modern-reports-is-nova-scotia-really-a-ufo-hotspot-nova-scotia-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,204 +767,204 @@ The most balanced answer to the page’s central question is therefore: Nova Sco
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canadianuforeport.com  
    Title: Microsoft Word  
-   Link: <a href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2024Surveyessay...</p></details>
+   Link:<a href="https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/essay/2024Surveyessay.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024Surveyessay...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: img1.wsimg.com  
    Title: Final V2 The 2025 Canadian UFO Survey  
-   Link: <a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323</a>  
+   Link:<a href="https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/c23c8b29-268f-4742-a45e-2dba156b0e52/downloads/2ec6f97f-1273-4fe3-a3f6-b387a34fdaa3/Final%20V2-%20The%202025%20Canadian%20UFO%20Survey.pdf?ver=1778298791323</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report ANNUAL SURVEYS  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2340648070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2340648070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in NOVA SCOTIALet&#x27;s hear your story, but PLEASE! This group is for and about UFO sightings in Maritime Canada. For...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2340648070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2340648070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in NOVA SCOTIALet&#x27;s hear your story, but PLEASE! This group is for and about UFO sightings in Maritime Canada. For...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canadianuforeport.ca  
    Title: survey data  
-   Link: <a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</p></details>
+   Link:<a href="https://canadianuforeport.ca/survey-data" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/survey-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO Survey DataCanadian UFO Survey Data collected from 1989-2025.... UFO sighting information are regularly...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canada.ca  
    Title: 's UFOs: [The search](&#123;&#123; 'the-search/' | relative_url &#125;&#125;) for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tc.canada.ca  
    Title: ca4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: ufo sight  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/ufo-sight/1448617943699013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/ufo-sight/1448617943699013/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/ufo-sight/1448617943699013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/ufo-sight/1448617943699013/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: more than 1000 ufo sightings were reported across canada in 2025 according to th  
-   Link: <a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
+   Link:<a href="https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truecanadalovers/posts/more-than-1000-ufo-sightings-were-reported-across-canada-in-2025-according-to-th/1497323999069198/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1432924358601705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1432924358601705/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1432924358601705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1432924358601705/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1414428947117913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1414428947117913/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1414428947117913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1414428947117913/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1441621497731991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1441621497731991/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1441621497731991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1441621497731991/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1446805257213615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1446805257213615/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1446805257213615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1446805257213615/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1440815384479269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1440815384479269/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1440815384479269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1440815384479269/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/3029212600621900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/3029212600621900/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/3029212600621900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/3029212600621900/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/814204010473746/posts/1415974966963311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1415974966963311/</a>  
+   Link:<a href="https://www.facebook.com/groups/814204010473746/posts/1415974966963311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/814204010473746/posts/1415974966963311/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: canada recorded 1052 ufo sightings in 2025 thats one every eight hoursin this ep  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/canada-recorded-1052-ufo-sightings-in-2025-thats-one-every-eight-hoursin-this-ep/1598993678897538/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61558504910126/posts/%EF%B8%8Falert%EF%B8%8F-ufo-spotted-over-halifax-johnys-ufo-burger-shack-is-landing-soon-at5217-/122254826714283497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558504910126/posts/%EF%B8%8Falert%EF%B8%8F-ufo-spotted-over-halifax-johnys-ufo-burger-shack-is-landing-soon-at5217-/122254826714283497/</a>  
+   Link:<a href="https://www.facebook.com/61558504910126/posts/%EF%B8%8Falert%EF%B8%8F-ufo-spotted-over-halifax-johnys-ufo-burger-shack-is-landing-soon-at5217-/122254826714283497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558504910126/posts/%EF%B8%8Falert%EF%B8%8F-ufo-spotted-over-halifax-johnys-ufo-burger-shack-is-landing-soon-at5217-/122254826714283497/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/6547120148656784/posts/27504213545854139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/6547120148656784/posts/27504213545854139/</a>  
+   Link:<a href="https://www.facebook.com/groups/6547120148656784/posts/27504213545854139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/6547120148656784/posts/27504213545854139/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10161925235066620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10161925235066620/</a>  
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10161925235066620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10161925235066620/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61558504910126/posts/-we-landed-first-contact-made-%EF%B8%8F-halifax-the-mothership-has-arrived-%EF%B8%8Fjoin-us-for-/122255440904283497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558504910126/posts/-we-landed-first-contact-made-%EF%B8%8F-halifax-the-mothership-has-arrived-%EF%B8%8Fjoin-us-for-/122255440904283497/</a>  
+   Link:<a href="https://www.facebook.com/61558504910126/posts/-we-landed-first-contact-made-%EF%B8%8F-halifax-the-mothership-has-arrived-%EF%B8%8Fjoin-us-for-/122255440904283497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558504910126/posts/-we-landed-first-contact-made-%EF%B8%8F-halifax-the-mothership-has-arrived-%EF%B8%8Fjoin-us-for-/122255440904283497/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1515927068656859/posts/3996211283961746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1515927068656859/posts/3996211283961746/</a>  
+   Link:<a href="https://www.facebook.com/groups/1515927068656859/posts/3996211283961746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1515927068656859/posts/3996211283961746/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: More than 1,000 UFO sightings reported in Canada last year, study finds  
-   Link: <a href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BbIXqJJhnPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s UFO survey results released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BbIXqJJhnPk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s UFO survey results released...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Canada’s UFO survey results released  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TERRIFYING UFO Sightings and Alien Encounters in Nova Scotia Canada...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TERRIFYING UFO Sightings and Alien Encounters in Nova Scotia Canada...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
+   Link:<a href="https://www.youtube.com/shorts/eYG7NBYWS1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eYG7NBYWS1k</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: canadasportsbetting.ca  
    Title: alien abduction odds 2026  
-   Link: <a href="https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/</a>  
+   Link:<a href="https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: TERRIFYING UFO Sightings and Alien Encounters in Nova Scotia Canada  
-   Link: <a href="https://www.youtube.com/watch?v=dSpIu30J9Yg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSpIu30J9Yg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey Ufology Research Nova Scotia Shag Harbour&#x27;s UFO mystery CBC News Nova Scotia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dSpIu30J9Yg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dSpIu30J9Yg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO Survey Ufology Research Nova Scotia Shag Harbour&#x27;s UFO mystery CBC News Nova Scotia...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uIi9fCJ2Q3A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uIi9fCJ2Q3A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Report Has Been Released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uIi9fCJ2Q3A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uIi9fCJ2Q3A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Canadian UFO Report Has Been Released...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UHfZVTfPdPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UHfZVTfPdPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFO sightings reported in Canada last year, study finds...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UHfZVTfPdPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UHfZVTfPdPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFO sightings reported in Canada last year, study finds...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTgkmaMkUbg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTgkmaMkUbg/</a>  
+   Link:<a href="https://www.instagram.com/p/DTgkmaMkUbg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTgkmaMkUbg/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZfjQ7OO0PQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZfjQ7OO0PQ/</a>  
+   Link:<a href="https://www.instagram.com/p/DZfjQ7OO0PQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZfjQ7OO0PQ/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: blueantmedia.com  
-   Link: <a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
+   Link:<a href="https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/" target="_blank" rel="noopener noreferrer nofollow">https://blueantmedia.com/2021/07/national-survey-reveals-one-in-10-canadians-claim-to-have-seen-a-ufo-65-believe-intelligent-alien-life-exists/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: thelaker.ca  
    Title: new study indicates yukon sees most ufos newfoundland buys most lotto tickets  
-   Link: <a href="https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/" target="_blank" rel="noopener noreferrer nofollow">https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/</a>  
+   Link:<a href="https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/" target="_blank" rel="noopener noreferrer nofollow">https://thelaker.ca/new-study-indicates-yukon-sees-most-ufos-newfoundland-buys-most-lotto-tickets/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: winnipeg.citynews.ca  
    Title: uncover whats really going on ufo researcher in manitoba supports ai tracking  
-   Link: <a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  
+   Link:<a href="https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2026/03/10/uncover-whats-really-going-on-ufo-researcher-in-manitoba-supports-ai-tracking/</a>  

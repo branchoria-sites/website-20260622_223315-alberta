@@ -171,26 +171,31 @@ map_view:
   items: 13
   map: /assets/maps/canada.svg
   data: /assets/maps/canadian-provinces.json
+header:
+  og_image: /assets/images/Nova_Scotia_117534-overview-social.jpg
+  preview_image: /assets/images/Nova_Scotia_117534-overview-social.jpg
+image: /assets/images/Nova_Scotia_117534-overview-social.jpg
 site_image_description: A quiet Alberta prairie field at dusk with faint circular marks in the grass and a wide sky above low farm buildings.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-fit="linked-bounds" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-initial-item="CA-ON" data-map-preview-preload="all">
-    <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
-    <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-      <img src="{{ '/assets/images/Alberta_1dc61b-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
-      <span class="interactive-map-preview-meta uap-world-map-preview-meta">
-        <span class="interactive-map-preview-chip uap-world-map-preview-chip">AB</span>
-        <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="prairie-provinces" data-uap-world-map-region-focus="prairie-provinces" aria-label="Focus map on Prairie Provinces">Prairie Provinces</button>
-        <span class="interactive-map-preview-count uap-world-map-preview-count">21 pages</span>
-      </span>
-      <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Alberta</span>
-      <strong data-interactive-map-preview-title data-uap-world-map-preview-title>What Makes Alberta&#x27;s UFO Record So Unusual?</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Alberta’s UFO history is less about one famous “alien” case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...</span>
-      <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
-    </article>
-  </section>
-  <p class="home-map-panel-note">Use the map to jump into a province or territory file, or browse the full list below.</p>
-  <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/canada" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
-  <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-ON" data-map-preview-preload="all">
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/Ontario_f9f742-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<span class="interactive-map-preview-meta uap-world-map-preview-meta">
+<span class="interactive-map-preview-chip uap-world-map-preview-chip">ON</span>
+<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="central-canada" data-uap-world-map-region-focus="central-canada" aria-label="Focus map on Central Canada">Central Canada</button>
+<span class="interactive-map-preview-count uap-world-map-preview-count">21 pages</span>
+</span>
+<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Ontario</span>
+<strong data-interactive-map-preview-title data-uap-world-map-preview-title>Why Ontario Matters In Canadian UFO History</strong>
+<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Ontario matters in Canadian UFO history for two reasons.</span>
+<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
+</article>
 </section>
+<p class="home-map-panel-note">Use the map to jump into a province or territory file, or browse the full list below.</p>
+<p class="home-map-panel-source"><a href="https://mapsvg.com/maps/canada" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+</section>
+

@@ -280,7 +280,7 @@ image: /assets/images/New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32-overview-
 
 ## Introduction
 
-Stanton T. Friedman gives [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) a distinctive place in UFO history that is not based on a single dramatic local sighting. The province matters here because Fredericton became the long-term home base, public memorial site, and archival resting place of one of North America’s best-known UFO advocates. Friedman was a nuclear physicist by training, a full-time UFO lecturer from 1970, and a central figure in reviving public interest in Roswell after his 1978 contact with former intelligence officer Jesse Marcel. His claims remain contested, but his New Brunswick connection is concrete: he lived in Fredericton for decades, travelled internationally from there, was honoured locally with Stanton Friedman Day, and left a large UFO research collection to New Brunswick institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
+Stanton T. Friedman gives [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) a distinctive place in UFO history that is not based on a single dramatic local sighting. The province matters here because Fredericton became the long-term home base, public memorial site, and archival resting place of one of North America’s best-known UFO advocates. Friedman was a nuclear physicist by training, a full-time UFO lecturer from 1970, and a central figure in reviving public interest in Roswell after his 1978 contact with former intelligence officer Jesse Marcel. His claims remain contested, but his New Brunswick connection is concrete: he lived in Fredericton for decades, travelled internationally from there, was honoured locally with Stanton Friedman Day, and left a large UFO research collection to New Brunswick institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32-overview.webp" | relative_url }}" alt="Overview image for Friedman" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ For readers trying to understand UFOs in New Brunswick, Friedman’s importance 
 
 ## Why Fredericton became more than a hometown footnote
 
-Friedman was born in New Jersey, but Fredericton became the city most closely associated with his later life. The Fredericton Region Museum says he moved to the city in the early 1980s, lived there with his wife and daughter, and used it as a base while travelling across Canada, the United States, Europe and elsewhere. The museum also records that he gave presentations at more than 600 colleges and more than 100 professional groups, appeared widely on radio and television, and was recognised by Fredericton when the city declared 27 August 2007 Stanton Friedman Day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
+Friedman was born in New Jersey, but Fredericton became the city most closely associated with his later life. The Fredericton Region Museum says he moved to the city in the early 1980s, lived there with his wife and daughter, and used it as a base while travelling across Canada, the United States, Europe and elsewhere. The museum also records that he gave presentations at more than 600 colleges and more than 100 professional groups, appeared widely on radio and television, and was recognised by Fredericton when the city declared 27 August 2007 Stanton Friedman Day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
 
 That local recognition matters because it shows how a UFO advocate became part of Fredericton’s public heritage, not merely a private resident with an unusual career. The city’s celebration did not amount to an official endorsement of his extraterrestrial conclusions. It was closer to a civic acknowledgement that Friedman had become internationally known while calling New Brunswick’s capital home.
 
-The Fredericton Region Museum later turned that connection into a physical exhibit. Its “Stanton Friedman Is Out Of This World” exhibit includes family-donated records, archives and memorabilia, and the museum says much of that material became the basis of the display. It also states that the exhibit contains archival documents linked to his larger collection donated to the Provincial Archives of New Brunswick in 2018–2019. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
+The Fredericton Region Museum later turned that connection into a physical exhibit. Its “Stanton Friedman Is Out Of This World” exhibit includes family-donated records, archives and memorabilia, and the museum says much of that material became the basis of the display. It also states that the exhibit contains archival documents linked to his larger collection donated to the Provincial Archives of New Brunswick in 2018–2019.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
 
 For New Brunswick’s UFO history, this is unusual. Most provincial UFO pages revolve around reported lights, official forms, police notes, aircraft explanations or local legends. Friedman adds a different kind of provincial link: New Brunswick as a place where UFO advocacy was organised, preserved, exhibited and remembered.
 
@@ -300,13 +300,13 @@ For New Brunswick’s UFO history, this is unusual. Most provincial UFO pages re
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32-Illustration-1-dark.svg" | relative_url }}" alt="Friedman illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fredericton as a UFO archive hub
 
-The strongest New Brunswick-specific evidence around Friedman is not a sighting report. It is the existence of his papers and memorabilia in Fredericton-area institutions. The Provincial Archives of New Brunswick acquired his records in 2019 after archivists learned he was retiring from UFO research and persuaded him to preserve the material there. Motherboard reported that the transfer took five cargo vans and that the collection was large, disordered and labour-intensive to process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">The Largest Single Collection of UFO Material Is Being Cataloged</span><span class="citation-popover-snippet">The Largest Single Collection of UFO Material Is Being Cataloged...</span></span></span>
+The strongest New Brunswick-specific evidence around Friedman is not a sighting report. It is the existence of his papers and memorabilia in Fredericton-area institutions. The Provincial Archives of New Brunswick acquired his records in 2019 after archivists learned he was retiring from UFO research and persuaded him to preserve the material there. Motherboard reported that the transfer took five cargo vans and that the collection was large, disordered and labour-intensive to process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">The Largest Single Collection of UFO Material Is Being Cataloged</span><span class="citation-popover-snippet">The Largest Single Collection of UFO Material Is Being Cataloged...</span></span></span>
 
-This made Fredericton important to UFO researchers for a practical reason: it became the location of a major private UFO archive held by professional archivists rather than only by enthusiasts, clubs or commercial publishers. The same report noted that some boxes had already been processed for visitors in 2019, while full digitisation was described as a “mammoth task” that was not then logistically feasible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">The Largest Single Collection of UFO Material Is Being Cataloged</span><span class="citation-popover-snippet">The Largest Single Collection of UFO Material Is Being Cataloged...</span></span></span>
+This made Fredericton important to UFO researchers for a practical reason: it became the location of a major private UFO archive held by professional archivists rather than only by enthusiasts, clubs or commercial publishers. The same report noted that some boxes had already been processed for visitors in 2019, while full digitisation was described as a “mammoth task” that was not then logistically feasible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">The Largest Single Collection of UFO Material Is Being Cataloged</span><span class="citation-popover-snippet">The Largest Single Collection of UFO Material Is Being Cataloged...</span></span></span>
 
 That distinction is important. A preserved archive is not the same thing as verified proof. Friedman’s files may contain letters, interview notes, correspondence, audio material, clippings, drafts, case files and claims of many different strengths. Some may be valuable historical evidence about what witnesses said and how UFO advocacy worked; some may be duplicative, second-hand, speculative or impossible to confirm. Archival custody improves preservation and future research access, but it does not automatically validate every claim inside the boxes.
 
-The processing challenge also explains why public access can be uneven. New Brunswick’s own archival framework includes restrictions on fragile or sensitive records, and provincial privacy law regulates the handling and disclosure of personal information held by public bodies. That matters for a UFO collection because witness correspondence can include names, addresses, health details, family material, distressing personal claims or allegations about other people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives2.gnb.ca">[archives2.gnb.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives2.gnb.ca</span><span class="citation-popover-snippet">Provincial Archives of New BrunswickRestrictions may apply to both government and private records. Archival documents are fragile! Handle...</span></span></span>
+The processing challenge also explains why public access can be uneven. New Brunswick’s own archival framework includes restrictions on fragile or sensitive records, and provincial privacy law regulates the handling and disclosure of personal information held by public bodies. That matters for a UFO collection because witness correspondence can include names, addresses, health details, family material, distressing personal claims or allegations about other people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives2.gnb.ca">[archives2.gnb.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives2.gnb.ca</span><span class="citation-popover-snippet">Provincial Archives of New BrunswickRestrictions may apply to both government and private records. Archival documents are fragile! Handle...</span></span></span>
 
 In other words, the Friedman collection is valuable partly because it is messy. It records not just polished UFO arguments, but the social life of the subject: letters from believers, sceptics, witnesses, media producers, researchers and curious members of the public. For a province whose UFO history is otherwise scattered across [federal records]({{ 'federal-records/' | relative_url }}) and local memory, that gives Fredericton a rare concentration of material.
 
@@ -315,13 +315,13 @@ In other words, the Friedman collection is valuable partly because it is messy. 
 
 ## Friedman's public role in UFO advocacy
 
-Friedman’s public identity rested on a particular combination: scientific credentials, aggressive debate style, archival searching and a firm commitment to the idea that some UFOs were extraterrestrial craft. The University of Chicago Magazine, writing about its alumnus, described him as a former nuclear physicist who had worked with a government security clearance and, from 1970, became a full-time ufologist who searched national archives and presidential libraries for declassified documents and scientific reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/science-medicine/science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Science? Fiction?</span><span class="citation-popover-snippet">The University of Chicago Magazine Science? Fiction?</span></span></span>
+Friedman’s public identity rested on a particular combination: scientific credentials, aggressive debate style, archival searching and a firm commitment to the idea that some UFOs were extraterrestrial craft. The University of Chicago Magazine, writing about its alumnus, described him as a former nuclear physicist who had worked with a government security clearance and, from 1970, became a full-time ufologist who searched national archives and presidential libraries for declassified documents and scientific reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/science-medicine/science-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Science? Fiction?</span><span class="citation-popover-snippet">The University of Chicago Magazine Science? Fiction?</span></span></span>
 
-His best-known role was in the Roswell story. A United States Air Force report notes that the Roswell matter had effectively faded as a UFO issue until the late 1970s, when Friedman met Jesse Marcel and began investigating Marcel’s claim that the material he handled in 1947 came from a crashed UFO. The report places Friedman’s activity alongside the later publication of *The Roswell Incident* in 1980 by William Moore and Charles Berlitz, which helped turn Roswell into a major modern UFO legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
+His best-known role was in the Roswell story. A United States Air Force report notes that the Roswell matter had effectively faded as a UFO issue until the late 1970s, when Friedman met Jesse Marcel and began investigating Marcel’s claim that the material he handled in 1947 came from a crashed UFO. The report places Friedman’s activity alongside the later publication of *The Roswell Incident* in 1980 by William Moore and Charles Berlitz, which helped turn Roswell into a major modern UFO legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
 
-For supporters, Friedman looked like the rare UFO advocate who could speak the language of physics, engineering and classified aerospace work. The Fredericton Region Museum says he first became interested in UFOs in 1958, began lecturing in 1967, carried out on-site investigations, followed up with contactees and repeatedly supplemented witness material with archival research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
+For supporters, Friedman looked like the rare UFO advocate who could speak the language of physics, engineering and classified aerospace work. The Fredericton Region Museum says he first became interested in UFOs in 1958, began lecturing in 1967, carried out on-site investigations, followed up with contactees and repeatedly supplemented witness material with archival research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
 
-For critics, the same career raised a different issue: scientific credentials do not make a contested conclusion scientific. A published response to the University of Chicago profile argued that Friedman had collected oral histories and government reports, but that alien visitation did not necessarily follow from that material. The critic contrasted popular debate and witness collections with reproducible observation, testable hypotheses and peer-reviewed consensus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Readers sound off</span><span class="citation-popover-snippet">The University of Chicago Magazine Readers sound off</span></span></span>
+For critics, the same career raised a different issue: scientific credentials do not make a contested conclusion scientific. A published response to the University of Chicago profile argued that Friedman had collected oral histories and government reports, but that alien visitation did not necessarily follow from that material. The critic contrasted popular debate and witness collections with reproducible observation, testable hypotheses and peer-reviewed consensus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Readers sound off</span><span class="citation-popover-snippet">The University of Chicago Magazine Readers sound off</span></span></span>
 
 That criticism is central to reading Friedman fairly. He was not a casual rumour-spreader, and his archive should not be dismissed as mere entertainment. But he was also not an official investigator whose conclusions were accepted by mainstream science. His work sits in the contested space between historical investigation, advocacy, witness-centred research, document-hunting and public persuasion.
 
@@ -333,7 +333,7 @@ Friedman’s Fredericton connection can easily be misunderstood. It does not mea
 
 A useful distinction is between three kinds of material:
 
-**A sighting report** is a claim that someone saw something unusual at a particular time and place. In Canada, such reports may appear in federal records, police notes, aviation channels, private databases or media accounts. Library and Archives Canada says its federal UFO records were accumulated between 1947 and the early 1980s from bodies including the Department of National Defence, Department of Transport, National Research Council and RCMP, and include about 9,500 digitised documents such as reports, correspondence, memos and procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+**A sighting report** is a claim that someone saw something unusual at a particular time and place. In Canada, such reports may appear in federal records, police notes, aviation channels, private databases or media accounts. Library and Archives Canada says its federal UFO records were accumulated between 1947 and the early 1980s from bodies including the Department of National Defence, Department of Transport, National Research Council and RCMP, and include about 9,500 digitised documents such as reports, correspondence, memos and procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
 **An investigation file** may add interviews, photographs, maps, official responses, technical checks, astronomical possibilities or aviation explanations. It can strengthen a case if it records timely, independent, detailed observations and rules out ordinary causes. It can weaken a case if it reveals vague timing, poor witness conditions, second-hand testimony or a likely meteor, aircraft, balloon, satellite or misidentification.
 
@@ -346,7 +346,7 @@ This distinction helps New Brunswick readers avoid two opposite mistakes. The fi
 
 ## The Roswell link and why it matters in New Brunswick
 
-Roswell was not a New Brunswick event, but Friedman’s role in reviving it is part of why his Fredericton residence matters. The Air Force report records that Friedman met Marcel in 1978 and began investigating claims about the Roswell debris, while later books, witnesses and media retellings pushed the incident into popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
+Roswell was not a New Brunswick event, but Friedman’s role in reviving it is part of why his Fredericton residence matters. The Air Force report records that Friedman met Marcel in 1978 and began investigating claims about the Roswell debris, while later books, witnesses and media retellings pushed the incident into popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
 
 That matters for New Brunswick because Friedman was not simply a local collector of odd stories. He was a major participant in one of the most influential UFO narratives in North American culture, while living for much of his later career in Fredericton. The city therefore became linked to Roswell’s afterlife: talks, interviews, correspondence, drafts, files and public appearances that travelled far beyond Atlantic Canada.
 
@@ -356,7 +356,7 @@ For a balanced New Brunswick page, the key point is not to retry the whole Roswe
 
 ## What the museum exhibit adds
 
-The Fredericton Region Museum gives Friedman’s story a public-facing form that archives alone cannot. Exhibits turn paper collections into local memory: photographs, memorabilia, family material, interpretive panels and guided tours. The museum’s account presents Friedman as a nuclear physicist, ufologist, Roswell authority and public lecturer who said his belief in extraterrestrials was grounded in research into government documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
+The Fredericton Region Museum gives Friedman’s story a public-facing form that archives alone cannot. Exhibits turn paper collections into local memory: photographs, memorabilia, family material, interpretive panels and guided tours. The museum’s account presents Friedman as a nuclear physicist, ufologist, Roswell authority and public lecturer who said his belief in extraterrestrials was grounded in research into government documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit</span><span class="citation-popover-snippet">Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</span></span></span>
 
 This is valuable, but it also needs careful reading. A museum exhibit about a local figure is partly commemorative. It can preserve documents, explain biography and show how a person became culturally important, but it is not the same as a scientific adjudication of UFO claims. The exhibit helps answer why Friedman matters to Fredericton; it does not, by itself, answer whether his strongest claims were correct.
 
@@ -372,9 +372,9 @@ Several limits should shape how his legacy is interpreted:
 
 * **His archive is not a verdict.** It is a body of research material, correspondence and collected claims. Its value depends on careful item-by-item evaluation.
 * **Witness testimony varies in strength.** Some accounts may be detailed and contemporaneous; others may be late, second-hand, emotionally charged or impossible to corroborate.
-* **Scientific authority has limits.** Friedman’s physics background made him an unusually credentialled advocate, but critics reasonably questioned whether his UFO conclusions met normal scientific standards of reproducibility and testability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Readers sound off</span><span class="citation-popover-snippet">The University of Chicago Magazine Readers sound off</span></span></span>
-* **Archival restrictions are not necessarily suspicious.** Privacy, personal information, fragile records and processing capacity can all affect access to collections, especially when thousands of private correspondents are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws.gnb.ca/en/document/cs/r-10.6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws.gnb.ca">[laws.gnb.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws.gnb.ca</span><span class="citation-popover-snippet">Right to Information and Protection of Privacy Act37(1)Personal information may be collected by or for a public body only if the collecti...</span></span></span>
-* **Canadian context matters.** New Brunswick’s official UFO trail runs through Canadian bodies such as the RCMP, National Research Council, Department of Transport, Department of National Defence and Library and Archives Canada, not through American reporting systems alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
+* **Scientific authority has limits.** Friedman’s physics background made him an unusually credentialled advocate, but critics reasonably questioned whether his UFO conclusions met normal scientific standards of reproducibility and testability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mag.uchicago.edu">[The University of Chicago Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mag.uchicago.edu</span><span class="citation-popover-title">The University of Chicago Magazine Readers sound off</span><span class="citation-popover-snippet">The University of Chicago Magazine Readers sound off</span></span></span>
+* **Archival restrictions are not necessarily suspicious.** Privacy, personal information, fragile records and processing capacity can all affect access to collections, especially when thousands of private correspondents are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws.gnb.ca/en/document/cs/r-10.6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws.gnb.ca">[laws.gnb.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws.gnb.ca</span><span class="citation-popover-snippet">Right to Information and Protection of Privacy Act37(1)Personal information may be collected by or for a public body only if the collecti...</span></span></span>
+* **Canadian context matters.** New Brunswick’s official UFO trail runs through Canadian bodies such as the RCMP, National Research Council, Department of Transport, Department of National Defence and Library and Archives Canada, not through American reporting systems alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">s UFOs: The search for the unknown</span></span></span>
 
 These cautions do not diminish Friedman’s importance. They make it clearer. His role belongs less in the category of “New Brunswick sighting evidence” and more in the category of “New Brunswick’s contribution to UFO research culture”.
 
@@ -383,201 +383,201 @@ These cautions do not diminish Friedman’s importance. They make it clearer. Hi
 
 ## Why Friedman still matters to New Brunswick
 
-Friedman matters to New Brunswick because he gives the province a rare link between local place and international UFO debate. He turned Fredericton into a base from which books, lectures, media appearances, Roswell arguments and witness correspondence radiated outward. After his death, the city remained part of the story through the Fredericton Region Museum exhibit and the Provincial Archives of New Brunswick’s custody of a large body of his material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
+Friedman matters to New Brunswick because he gives the province a rare link between local place and international UFO debate. He turned Fredericton into a base from which books, lectures, media appearances, Roswell arguments and witness correspondence radiated outward. After his death, the city remained part of the story through the Fredericton Region Museum exhibit and the Provincial Archives of New Brunswick’s custody of a large body of his material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frederictonregionmuseum.com">[Fredericton Region Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frederictonregionmuseum.com</span><span class="citation-popover-title">Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27</span><span class="citation-popover-snippet">Fredericton Region Museum...</span></span></span>
 
 The balanced assessment is straightforward. Friedman did not prove that UFOs over New Brunswick were extraterrestrial. He did not turn every unexplained report into a strong case. But he did make Fredericton one of the more interesting archival and cultural locations in Canadian UFO history. In a province where many UFO accounts are scattered, brief or weakly documented, his legacy provides something different: a concentrated record of how UFO belief, investigation, scepticism, media attention and public advocacy developed over decades.
 
 That is why Stanton Friedman belongs in a New Brunswick UFO history. The point is not that Fredericton was the scene of a definitive UFO incident. The point is that Fredericton became home to a man who helped shape how millions of people thought about UFO evidence, government secrecy and the possibility of extraterrestrial visitation — and whose papers now make New Brunswick part of the long-term historical record of that debate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Stanton Friedman Matters to New Brunswick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Stanton Friedman Matters to New Brunswick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers and Science">Flying Saucers and Science</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RdtEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers and Science">Flying Saucers and Science</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Explains the arguments and methods Friedman used as a leading UFO advocate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the arguments and methods Friedman used as a leading UFO advocate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+and+Science+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for the wider UFO research and advocacy world in which Friedman operated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the wider UFO research and advocacy world in which Friedman operated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how investigation and advocacy differ from evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how investigation and advocacy differ from evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Roswell revival efforts were central to Friedman&#x27;s public career and influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Roswell revival efforts were central to Friedman&#x27;s public career and influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers and Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+and+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers and Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b14904c97eb1095580da.jpg' | relative_url }}" alt="Listing image for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b14904c97eb1095580da.jpg' | relative_url }}" alt="Listing image for Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Space Jam Movie Film Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa"><img src="{{ '/assets/images/marketplace-covers/dcfa8c5bbf923be2b624.jpg' | relative_url }}" alt="Listing image for 1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa"><img src="{{ '/assets/images/marketplace-covers/dcfa8c5bbf923be2b624.jpg' | relative_url }}" alt="Listing image for 1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">1969 Moon Landing Apollo memorabilia collection newspapers lot space nasa</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="friedman-why-stanton-friedman-matters-to-new-brunswick-new-brunswick-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,196 +783,196 @@ That is why Stanton Friedman belongs in a New Brunswick UFO history. The point i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: The Largest Single Collection of UFO Material Is Being Cataloged  
-   Link: <a href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Largest Single Collection of UFO Material Is Being Cataloged...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-largest-single-collection-of-ufo-material-is-being-cataloged/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Largest Single Collection of UFO Material Is Being Cataloged...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives2.gnb.ca  
-   Link: <a href="https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8" target="_blank" rel="noopener noreferrer nofollow">https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Provincial Archives of New BrunswickRestrictions may apply to both government and private records. Archival documents are fragile! Handle...</p></details>
+   Link:<a href="https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8" target="_blank" rel="noopener noreferrer nofollow">https://archives2.gnb.ca/Archives/About.aspx?culture=en-CA&amp;p=8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provincial Archives of New BrunswickRestrictions may apply to both government and private records. Archival documents are fragile! Handle...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: laws.gnb.ca  
-   Link: <a href="https://laws.gnb.ca/en/document/cs/r-10.6" target="_blank" rel="noopener noreferrer nofollow">https://laws.gnb.ca/en/document/cs/r-10.6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Right to Information and Protection of Privacy Act37(1)Personal information may be collected by or for a public body only if the collecti...</p></details>
+   Link:<a href="https://laws.gnb.ca/en/document/cs/r-10.6" target="_blank" rel="noopener noreferrer nofollow">https://laws.gnb.ca/en/document/cs/r-10.6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Right to Information and Protection of Privacy Act37(1)Personal information may be collected by or for a public body only if the collecti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gnb.ca  
-   Link: <a href="https://archives.gnb.ca/associates/Newsletters/2019-48-Fall-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2019-48-Fall-e.pdf</a>  
+   Link:<a href="https://archives.gnb.ca/associates/Newsletters/2019-48-Fall-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2019-48-Fall-e.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gnb.ca  
-   Link: <a href="https://archives.gnb.ca/associates/Newsletters/2020-49-Summer-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2020-49-Summer-e.pdf</a>  
+   Link:<a href="https://archives.gnb.ca/associates/Newsletters/2020-49-Summer-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2020-49-Summer-e.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gnb.ca  
-   Link: <a href="https://archives.gnb.ca/Associates/Newsletters/2022-54-fall-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/Associates/Newsletters/2022-54-fall-e.pdf</a>  
+   Link:<a href="https://archives.gnb.ca/Associates/Newsletters/2022-54-fall-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/Associates/Newsletters/2022-54-fall-e.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gnb.ca  
-   Link: <a href="https://archives.gnb.ca/associates/Newsletters/2021-52-Fall-f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2021-52-Fall-f.pdf</a>  
+   Link:<a href="https://archives.gnb.ca/associates/Newsletters/2021-52-Fall-f.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archives.gnb.ca/associates/Newsletters/2021-52-Fall-f.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gnb.ca  
-   Link: <a href="https://www.gnb.ca/en/topic/your-gov/data-records/archives.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gnb.ca/en/topic/your-gov/data-records/archives.html</a>  
+   Link:<a href="https://www.gnb.ca/en/topic/your-gov/data-records/archives.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gnb.ca/en/topic/your-gov/data-records/archives.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: laws.gnb.ca  
    Title: ca R-10.6  
-   Link: <a href="https://laws.gnb.ca/en/showfulldoc/cs/R-10.6/20130627" target="_blank" rel="noopener noreferrer nofollow">https://laws.gnb.ca/en/showfulldoc/cs/R-10.6/20130627</a>  
+   Link:<a href="https://laws.gnb.ca/en/showfulldoc/cs/R-10.6/20130627" target="_blank" rel="noopener noreferrer nofollow">https://laws.gnb.ca/en/showfulldoc/cs/R-10.6/20130627</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.canada.ca  
    Title: ca Genealogy Information  
-   Link: <a href="https://open.canada.ca/data/en/dataset/0a62aa3b-5e76-d7ba-9326-1daa415929d1" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/0a62aa3b-5e76-d7ba-9326-1daa415929d1</a>  
+   Link:<a href="https://open.canada.ca/data/en/dataset/0a62aa3b-5e76-d7ba-9326-1daa415929d1" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/0a62aa3b-5e76-d7ba-9326-1daa415929d1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PWrZ0cZJwrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWrZ0cZJwrc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PWrZ0cZJwrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PWrZ0cZJwrc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Stanton Friedman  
-   Link: <a href="https://www.youtube.com/watch?v=IIC44rOSGrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IIC44rOSGrk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman - UFO Expert - Interview with Bill Boggs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IIC44rOSGrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IIC44rOSGrk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman - UFO Expert - Interview with Bill Boggs...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Stanton T. Friedman  
-   Link: <a href="https://www.youtube.com/watch?v=iirIvcWLB9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iirIvcWLB9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep164: UFO and Metaphysical Conference...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iirIvcWLB9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iirIvcWLB9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep164: UFO and Metaphysical Conference...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frederictonregionmuseum.com  
    Title: Fredericton Region Museum15th Anniversary Stanton Friedman Day August 27  
-   Link: <a href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region Museum...</p></details>
+   Link:<a href="https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/2022/08/22/15th-anniversary-stanton-friedman-day/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region Museum...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: frederictonregionmuseum.com  
    Title: Fredericton Region Museum Stanton Friedman Is Out Of This World Exhibit  
-   Link: <a href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</p></details>
+   Link:<a href="https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/stanton-friedman-ufo-exhibit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region MuseumStanton Friedman Is Out Of This World Exhibit - Fredericton Region Museum...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frederictonregionmuseum.com  
    Title: Fredericton Region Museum Stanton Friedman Is Out Of This World  
-   Link: <a href="https://www.frederictonregionmuseum.com/2021/06/16/stanton-friedman-is-out-of-this-world-exhibit-opens-june-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/2021/06/16/stanton-friedman-is-out-of-this-world-exhibit-opens-june-26/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region MuseumStanton Friedman Is Out Of This World - Fredericton Region Museum...</p></details>
+   Link:<a href="https://www.frederictonregionmuseum.com/2021/06/16/stanton-friedman-is-out-of-this-world-exhibit-opens-june-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.frederictonregionmuseum.com/2021/06/16/stanton-friedman-is-out-of-this-world-exhibit-opens-june-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fredericton Region MuseumStanton Friedman Is Out Of This World - Fredericton Region Museum...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mag.uchicago.edu  
    Title: The University of Chicago Magazine Science? Fiction?  
-   Link: <a href="https://mag.uchicago.edu/science-medicine/science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/science-medicine/science-fiction</a>  
+   Link:<a href="https://mag.uchicago.edu/science-medicine/science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/science-medicine/science-fiction</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mag.uchicago.edu  
    Title: The University of Chicago Magazine Readers sound off  
-   Link: <a href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/university-news/readers-sound-1</a>  
+   Link:<a href="https://mag.uchicago.edu/university-news/readers-sound-1" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/university-news/readers-sound-1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Stanton T. Friedman  
-   Link: <a href="https://en.wikipedia.org/wiki/Stanton_T._Friedman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanton_T._Friedman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stanton_T._Friedman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanton_T._Friedman</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Jesse Marcel  
-   Link: <a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jesse_Marcel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jesse_Marcel</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mag.uchicago.edu  
-   Link: <a href="https://mag.uchicago.edu/tags/aliens" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/tags/aliens</a>  
+   Link:<a href="https://mag.uchicago.edu/tags/aliens" target="_blank" rel="noopener noreferrer nofollow">https://mag.uchicago.edu/tags/aliens</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/Primetime/story?id=528860&amp;page=1</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sourcewatch.org  
    Title: Stanton T. Friedman  
-   Link: <a href="https://www.sourcewatch.org/index.php/Stanton_T._Friedman" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Stanton_T._Friedman</a>  
+   Link:<a href="https://www.sourcewatch.org/index.php/Stanton_T._Friedman" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Stanton_T._Friedman</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tripadvisor.com  
    Title: Provincial Archives of New Brunswick  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g154957-d7660533-Reviews-Provincial_Archives_of_New_Brunswick-Fredericton_New_Brunswick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g154957-d7660533-Reviews-Provincial_Archives_of_New_Brunswick-Fredericton_New_Brunswick.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g154957-d7660533-Reviews-Provincial_Archives_of_New_Brunswick-Fredericton_New_Brunswick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g154957-d7660533-Reviews-Provincial_Archives_of_New_Brunswick-Fredericton_New_Brunswick.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: myufophotos.com  
    Title: canada ufo files disclosure documents  
-   Link: <a href="https://myufophotos.com/ufo-archives/canada-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/canada-ufo-files-disclosure-documents/</a>  
+   Link:<a href="https://myufophotos.com/ufo-archives/canada-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/canada-ufo-files-disclosure-documents/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Ep164: UFO and Metaphysical Conference  
-   Link: <a href="https://www.youtube.com/watch?v=Kuwg69_tkVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kuwg69_tkVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman Speaks about UFOs at East Texas State University - October 1972...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Kuwg69_tkVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kuwg69_tkVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton T. Friedman Speaks about UFOs at East Texas State University - October 1972...</p></details>
    Published: October 1972  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aabc.ca  
-   Link: <a href="https://aabc.ca/Access-and-Privacy" target="_blank" rel="noopener noreferrer nofollow">https://aabc.ca/Access-and-Privacy</a>  
+   Link:<a href="https://aabc.ca/Access-and-Privacy" target="_blank" rel="noopener noreferrer nofollow">https://aabc.ca/Access-and-Privacy</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Fact-Fiction-Flying-Saucers-Misinformation/dp/1515959945?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Fact-Fiction-Flying-Saucers-Misinformation/dp/1515959945?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.co.uk/Fact-Fiction-Flying-Saucers-Misinformation/dp/1515959945?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Fact-Fiction-Flying-Saucers-Misinformation/dp/1515959945?tag=searcht-20</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ombudnb.ca  
-   Link: <a href="https://ombudnb.ca/information-and-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://ombudnb.ca/information-and-privacy/</a>  
+   Link:<a href="https://ombudnb.ca/information-and-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://ombudnb.ca/information-and-privacy/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVNewsat5/posts/nobody-knew-the-subject-of-ufos-like-the-late-stanton-friedman-of-fredericton-an/10158407125725496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsat5/posts/nobody-knew-the-subject-of-ufos-like-the-late-stanton-friedman-of-fredericton-an/10158407125725496/</a>  
+   Link:<a href="https://www.facebook.com/CTVNewsat5/posts/nobody-knew-the-subject-of-ufos-like-the-late-stanton-friedman-of-fredericton-an/10158407125725496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsat5/posts/nobody-knew-the-subject-of-ufos-like-the-late-stanton-friedman-of-fredericton-an/10158407125725496/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: medhumanities.ca  
-   Link: <a href="https://medhumanities.ca/lam/provincial-archives-of-new-brunswick-fredericton-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://medhumanities.ca/lam/provincial-archives-of-new-brunswick-fredericton-new-brunswick/</a>  
+   Link:<a href="https://medhumanities.ca/lam/provincial-archives-of-new-brunswick-fredericton-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://medhumanities.ca/lam/provincial-archives-of-new-brunswick-fredericton-new-brunswick/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ahnb-apnb.ca  
-   Link: <a href="https://ahnb-apnb.ca/en/museums/archives-special-collections-university-of-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://ahnb-apnb.ca/en/museums/archives-special-collections-university-of-new-brunswick/</a>  
+   Link:<a href="https://ahnb-apnb.ca/en/museums/archives-special-collections-university-of-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://ahnb-apnb.ca/en/museums/archives-special-collections-university-of-new-brunswick/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: erepublik.com  
-   Link: <a href="https://www.erepublik.com/en/article/2697877" target="_blank" rel="noopener noreferrer nofollow">https://www.erepublik.com/en/article/2697877</a>  
+   Link:<a href="https://www.erepublik.com/en/article/2697877" target="_blank" rel="noopener noreferrer nofollow">https://www.erepublik.com/en/article/2697877</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: silverhawkauthor.com  
-   Link: <a href="https://silverhawkauthor.com/unidentified-flying-objects-ufo-and-unidentified-aerial-phenomena-uap/stanton-friedman-exhibit-fredericton-region-museum-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://silverhawkauthor.com/unidentified-flying-objects-ufo-and-unidentified-aerial-phenomena-uap/stanton-friedman-exhibit-fredericton-region-museum-new-brunswick/</a>  
+   Link:<a href="https://silverhawkauthor.com/unidentified-flying-objects-ufo-and-unidentified-aerial-phenomena-uap/stanton-friedman-exhibit-fredericton-region-museum-new-brunswick/" target="_blank" rel="noopener noreferrer nofollow">https://silverhawkauthor.com/unidentified-flying-objects-ufo-and-unidentified-aerial-phenomena-uap/stanton-friedman-exhibit-fredericton-region-museum-new-brunswick/</a>  

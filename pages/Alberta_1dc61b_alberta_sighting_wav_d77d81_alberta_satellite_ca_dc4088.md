@@ -256,15 +256,15 @@ image: /assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satelli
 
 ## Introduction
 
-For many Albertans, the most convincing “UFO” sighting of recent years has not been a mysterious craft at all, but a line of bright lights moving silently across the night sky. Since the first large Starlink launches in 2019, satellite trains have become one of the most common explanations for modern UFO reports in the province. They are striking, unfamiliar to first-time observers, and visible over both major cities and remote prairie communities. As a result, they have generated social-media waves, emergency calls and repeated questions to police, astronomers and local skywatching groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+For many Albertans, the most convincing “UFO” sighting of recent years has not been a mysterious craft at all, but a line of bright lights moving silently across the night sky. Since the first large Starlink launches in 2019, satellite trains have become one of the most common explanations for modern UFO reports in the province. They are striking, unfamiliar to first-time observers, and visible over both major cities and remote prairie communities. As a result, they have generated social-media waves, emergency calls and repeated questions to police, astronomers and local skywatching groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})'s wider history of UFO reports, Starlink sightings are important because they show how a genuine and unusual-looking object can create a sudden surge of reports without requiring an unknown phenomenon. Understanding how these satellite formations appear helps explain many recent sighting clusters while also illustrating how rapidly changing technology has altered the night sky itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Within [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }})'s wider history of UFO reports, Starlink sightings are important because they show how a genuine and unusual-looking object can create a sudden surge of reports without requiring an unknown phenomenon. Understanding how these satellite formations appear helps explain many recent sighting clusters while also illustrating how rapidly changing technology has altered the night sky itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 ## Why satellite trains look unnatural to first-time witnesses
 
-A newly launched Starlink group does not initially appear as individual satellites scattered around the sky. Instead, dozens of satellites are released together and travel in a closely spaced line. For several days after launch they can resemble a string of evenly spaced lights moving in formation, often without blinking and without any audible sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Manitoba Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+A newly launched Starlink group does not initially appear as individual satellites scattered around the sky. Instead, dozens of satellites are released together and travel in a closely spaced line. For several days after launch they can resemble a string of evenly spaced lights moving in formation, often without blinking and without any audible sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Manitoba Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 To someone who has never seen the phenomenon before, the appearance can seem highly unusual:
 
@@ -279,37 +279,37 @@ To someone who has never seen the phenomenon before, the appearance can seem hig
 
 </div>
 
-These characteristics overlap with how many witnesses describe unidentified aerial phenomena. Yet they are exactly what observers would expect from a recently launched Starlink train. As the satellites gradually climb to their operational orbits, the formation spreads out and becomes less obvious, reducing the likelihood of mistaken reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+These characteristics overlap with how many witnesses describe unidentified aerial phenomena. Yet they are exactly what observers would expect from a recently launched Starlink train. As the satellites gradually climb to their operational orbits, the formation spreads out and becomes less obvious, reducing the likelihood of mistaken reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-Alberta's geography amplifies the effect. Large parts of the province offer broad horizons and relatively dark skies. A satellite train passing over Calgary, Edmonton or rural prairie regions can be visible to thousands of people simultaneously, creating the impression of a province-wide sighting wave. Reports posted by Alberta skywatching communities regularly show witnesses asking whether unusual formations were Starlink trains after observing lines of moving lights overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The satellites, Starlink launch G4-10, a batch of 47 satellites were launched on...Read more...</span></span></span>
+Alberta's geography amplifies the effect. Large parts of the province offer broad horizons and relatively dark skies. A satellite train passing over Calgary, Edmonton or rural prairie regions can be visible to thousands of people simultaneously, creating the impression of a province-wide sighting wave. Reports posted by Alberta skywatching communities regularly show witnesses asking whether unusual formations were Starlink trains after observing lines of moving lights overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The satellites, Starlink launch G4-10, a batch of 47 satellites were launched on...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sObt0DvN5b4" title="How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer">How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)</a></p><p class="youtube-embed-meta">Channel: ReWildUniversity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sObt0DvN5b4">Open on YouTube</a></p></div></div></div>
 
 ## RCMP call spikes and public explanations during the pandemic
 
-The pandemic years produced an unusual combination of circumstances. More people spent evenings outdoors, took up amateur astronomy or simply paid greater attention to the sky. At the same time, Starlink launches became increasingly frequent. The result was a noticeable increase in public confusion about moving lights overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+The pandemic years produced an unusual combination of circumstances. More people spent evenings outdoors, took up amateur astronomy or simply paid greater attention to the sky. At the same time, Starlink launches became increasingly frequent. The result was a noticeable increase in public confusion about moving lights overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
-In 2021, Alberta RCMP communications officials publicly discussed receiving calls about UFOs and unusual lights. Dispatch personnel specifically identified SpaceX satellite launches as a recurring source of reports. According to RCMP operations staff, callers frequently described orderly formations of lights that turned out to be Starlink satellites, and dispatchers often found themselves explaining that the objects were known satellites rather than aircraft or unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+In 2021, Alberta RCMP communications officials publicly discussed receiving calls about UFOs and unusual lights. Dispatch personnel specifically identified SpaceX satellite launches as a recurring source of reports. According to RCMP operations staff, callers frequently described orderly formations of lights that turned out to be Starlink satellites, and dispatchers often found themselves explaining that the objects were known satellites rather than aircraft or unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
-This period is significant in Alberta UFO history because it demonstrates how reporting systems react to unfamiliar but explainable sky events. The witnesses were not necessarily careless observers. Many were seeing something genuinely unusual for the first time. The mystery arose because satellite megaconstellations had changed what could be seen overhead, while public awareness lagged behind the technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+This period is significant in Alberta UFO history because it demonstrates how reporting systems react to unfamiliar but explainable sky events. The witnesses were not necessarily careless observers. Many were seeing something genuinely unusual for the first time. The mystery arose because satellite megaconstellations had changed what could be seen overhead, while public awareness lagged behind the technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDEsjHvDpI4" title="Passage of Starlink Satellites Aug 28, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDEsjHvDpI4" target="_blank" rel="noopener noreferrer">Passage of Starlink Satellites Aug 28, 2023</a></p><p class="youtube-embed-meta">Channel: AmazingSky</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDEsjHvDpI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDEsjHvDpI4">Open on YouTube</a></p></div></div></div>
 
 ## Why satellites became a leading explanation for modern Alberta sightings
 
-Before the Starlink era, many [Alberta UFO reports]({{ 'report-data/' | relative_url }}) involved isolated lights, bright planets, meteors or aircraft. Satellite trains introduced a new visual pattern that was both repeatable and highly conspicuous. Unlike a meteor, which lasts seconds, a Starlink train can remain visible for several minutes while crossing a substantial portion of the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Before the Starlink era, many [Alberta UFO reports]({{ 'report-data/' | relative_url }}) involved isolated lights, bright planets, meteors or aircraft. Satellite trains introduced a new visual pattern that was both repeatable and highly conspicuous. Unlike a meteor, which lasts seconds, a Starlink train can remain visible for several minutes while crossing a substantial portion of the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 Several factors make satellites particularly relevant to Alberta [sighting waves]({{ 'sighting-waves/' | relative_url }}):
 
-**Predictable recurrence.** New launches occur regularly, meaning similar reports can appear repeatedly rather than as one-off events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+**Predictable recurrence.** New launches occur regularly, meaning similar reports can appear repeatedly rather than as one-off events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-**Wide visibility.** A single pass can be observed across large areas of the province at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://manitobamuseum.ca/satellites-in-a-train/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manitobamuseum.ca">[Manitoba Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manitobamuseum.ca</span><span class="citation-popover-snippet">Manitoba MuseumSatellites in a Train17 May 2024 — Bright star-like objects have been seen moving across the sky, following each other in...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+**Wide visibility.** A single pass can be observed across large areas of the province at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://manitobamuseum.ca/satellites-in-a-train/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manitobamuseum.ca">[Manitoba Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manitobamuseum.ca</span><span class="citation-popover-snippet">Manitoba MuseumSatellites in a Train17 May 2024 — Bright star-like objects have been seen moving across the sky, following each other in...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-**Social-media amplification.** Witnesses often post photographs or videos before an identification is available, encouraging further reports from people who then begin looking for the same phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is this Starlink seen in Cochrane, Alberta?Just saw these at 8:30pm. 5 at a time and kept seeing them,about 10 total. Is this St...</span></span></span>
+**Social-media amplification.** Witnesses often post photographs or videos before an identification is available, encouraging further reports from people who then begin looking for the same phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Is this Starlink seen in Cochrane, Alberta?Just saw these at 8:30pm. 5 at a time and kept seeing them,about 10 total. Is this St...</span></span></span>
 
-**Appearance of coordination.** The equal spacing of the satellites creates an impression of deliberate formation flying that many people associate with advanced aircraft rather than orbital objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+**Appearance of coordination.** The equal spacing of the satellites creates an impression of deliberate formation flying that many people associate with advanced aircraft rather than orbital objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 For investigators examining modern Alberta UFO databases, these characteristics mean that a cluster of reports involving multiple lights in a straight line now demands a satellite check before more exotic explanations are considered.
 
@@ -328,7 +328,7 @@ The most useful question for witnesses is not whether an object looks strange, b
 * Do not blink like aircraft navigation lights.
 * Make no audible sound.
 * Often travel from horizon to horizon.
-* Remain visible for several minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+* Remain visible for several minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 </div>
 
@@ -340,7 +340,7 @@ The most useful question for witnesses is not whether an object looks strange, b
 * Usually display red, green and white navigation lights.
 * Often appear to blink or flash.
 * May change direction gradually.
-* Can produce audible engine noise depending on altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+* Can produce audible engine noise depending on altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
 </div>
 
@@ -364,213 +364,213 @@ The most useful question for witnesses is not whether an object looks strange, b
 * Move far faster than satellites.
 * Often leave a brief glowing trail.
 * Usually last only seconds.
-* May fragment or brighten dramatically before disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-title">alberta ufo sightings</span><span class="citation-popover-snippet">CityNews CalgaryAlberta &#x27;holds its own&#x27; in UFO sightings: Author16 Sept 2022 — Rutkowski, who has been studying UFO sightings for years...</span></span></span>
+* May fragment or brighten dramatically before disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-title">alberta ufo sightings</span><span class="citation-popover-snippet">CityNews CalgaryAlberta &#x27;holds its own&#x27; in UFO sightings: Author16 Sept 2022 — Rutkowski, who has been studying UFO sightings for years...</span></span></span>
 
 </div>
 
-A particularly useful clue is duration. If a line of lights remains visible for several minutes while maintaining steady spacing and direction, a satellite train is often a stronger explanation than a meteor or conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+A particularly useful clue is duration. If a line of lights remains visible for several minutes while maintaining steady spacing and direction, a satellite train is often a stronger explanation than a meteor or conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/46csTIAUdM4" title="Starlink satellite trains light up the Inland Northwest night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=46csTIAUdM4" target="_blank" rel="noopener noreferrer">Starlink satellite trains light up the Inland Northwest night sky</a></p><p class="youtube-embed-meta">Channel: 4 News Now</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=46csTIAUdM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=46csTIAUdM4">Open on YouTube</a></p></div></div></div>
 
 ## What satellite sightings mean for Alberta's UFO record
 
-The rise of Starlink has not eliminated unexplained reports in Alberta, but it has changed the baseline against which new sightings must be evaluated. Cases that once might have entered UFO databases as mysterious formations can now often be matched to known satellite passes. This does not mean witnesses were mistaken about what they saw; rather, the interpretation changed once the orbital context became available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+The rise of Starlink has not eliminated unexplained reports in Alberta, but it has changed the baseline against which new sightings must be evaluated. Cases that once might have entered UFO databases as mysterious formations can now often be matched to known satellite passes. This does not mean witnesses were mistaken about what they saw; rather, the interpretation changed once the orbital context became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
-For Alberta researchers, police dispatchers and ordinary skywatchers, satellite trains have become one of the clearest examples of how technological change can generate genuine UFO waves without producing a genuinely unknown object. They are now among the most repeatable and most easily verified explanations for modern reports of orderly moving lights over the province. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
+For Alberta researchers, police dispatchers and ordinary skywatchers, satellite trains have become one of the clearest examples of how technological change can generate genuine UFO waves without producing a genuinely unknown object. They are now among the most repeatable and most easily verified explanations for modern reports of orderly moving lights over the province.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calgary.citynews.ca">[CityNews Calgary+2Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calgary.citynews.ca</span><span class="citation-popover-snippet">CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</span><span class="citation-popover-meta">Published: May 2, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are those Alberta UFOs actually satellites?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are those Alberta UFOs actually satellites?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification and investigation of sightings, including the challenge of identifying ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification and investigation of sightings, including the challenge of identifying ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating UFO reports and distinguishing evidence-based cases from common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating UFO reports and distinguishing evidence-based cases from common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers recognize satellites, planets, meteors, and other common objects that are often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize satellites, planets, meteors, and other common objects that are often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical observing skills that help separate satellite trains and other celestial objects from unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical observing skills that help separate satellite trains and other celestial objects from unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art"><img src="https://i.ebayimg.com/images/g/PJUAAeSwPQ1o880G/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Poster Print Gaming Picture PS4 A1 A2 A3 Xbox PC Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/K~IAAeSwh2lo-QQL/s-l225.jpg" alt="Listing image for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Battle for Atlas Poster Ubisoft Characters Ships Weapons Game Art Print"><img src="https://i.ebayimg.com/images/g/Bv8AAeSwmhtphLJV/s-l225.jpg" alt="Listing image for Starlink Battle for Atlas Poster Ubisoft Characters Ships Weapons Game Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Battle for Atlas Poster Ubisoft Characters Ships Weapons Game Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO pin" data-ebay-reference="satellites-are-those-alberta-ufos-actually-satellites-alberta-ufo-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One"><img src="https://i.ebayimg.com/images/g/IYsAAOSwuutnhWif/s-l225.jpg" alt="Listing image for Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink: Battle For Atlas - Collection Poster (No Game) - Microsoft Xbox One</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-those-alberta-ufos-actually-satellites-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink poster" data-ebay-reference="are-those-alberta-ufos-actually-satellites-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,145 +773,144 @@ For Alberta researchers, police dispatchers and ordinary skywatchers, satellite 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The satellites, Starlink launch G4-10, a batch of 47 satellites were launched on...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/5632794506737188/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The satellites, Starlink launch G4-10, a batch of 47 satellites were launched on...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this Starlink seen in Cochrane, Alberta?Just saw these at 8:30pm. 5 at a time and kept seeing them,about 10 total. Is this St...</p></details>
+   Link:<a href="https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/livingincochrane/posts/9161414730652167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is this Starlink seen in Cochrane, Alberta?Just saw these at 8:30pm. 5 at a time and kept seeing them,about 10 total. Is this St...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/25700162906240385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/25700162906240385/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite chain in night skyThese satellites are often visible as a train of bright, evenly spaced lights moving across the nigh...</p></details>
+   Link:<a href="https://www.facebook.com/groups/AlbertaAuroraChasers/posts/25700162906240385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AlbertaAuroraChasers/posts/25700162906240385/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite chain in night skyThese satellites are often visible as a train of bright, evenly spaced lights moving across the nigh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: calgary.citynews.ca  
-   Link: <a href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</p></details>
+   Link:<a href="https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2021/05/02/aliens-are-coming-alberta-rcmp-911-dispatchers-fielding-calls-about-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews Calgary&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...May 2, 2021 — 2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCM...</p></details>
    Published: May 2, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: calgary.citynews.ca  
    Title: alberta ufo sightings  
-   Link: <a href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews CalgaryAlberta &#x27;holds its own&#x27; in UFO sightings: Author16 Sept 2022 — Rutkowski, who has been studying UFO sightings for years...</p></details>
+   Link:<a href="https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://calgary.citynews.ca/2022/09/16/alberta-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews CalgaryAlberta &#x27;holds its own&#x27; in UFO sightings: Author16 Sept 2022 — Rutkowski, who has been studying UFO sightings for years...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: i saw one when i was a kid around 12 years old i think in a farm field in albert  
-   Link: <a href="https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw one when I was a kid (around 12 years old, I think?)...“As with previous studies, the 2002 Canadian UFO survey does not offer any...</p></details>
+   Link:<a href="https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CFOXvan/posts/i-saw-one-when-i-was-a-kid-around-12-years-old-i-think-in-a-farm-field-in-albert/1368235618679112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I saw one when I was a kid (around 12 years old, I think?)...“As with previous studies, the 2002 Canadian UFO survey does not offer any...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: “We were getting a lot of calls with the Space X satellite launches  
-   Link: <a href="https://www.facebook.com/thecalgarysun/posts/we-were-getting-a-lot-of-calls-with-the-spacex-satellite-launches-theyre-a-very-/4234908476533067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecalgarysun/posts/we-were-getting-a-lot-of-calls-with-the-spacex-satellite-launches-theyre-a-very-/4234908476533067/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding calls about UFO sightings... They believe this but not the pandemic... Has a...</p></details>
+   Link:<a href="https://www.facebook.com/thecalgarysun/posts/we-were-getting-a-lot-of-calls-with-the-spacex-satellite-launches-theyre-a-very-/4234908476533067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thecalgarysun/posts/we-were-getting-a-lot-of-calls-with-the-spacex-satellite-launches-theyre-a-very-/4234908476533067/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding calls about UFO sightings... They believe this but not the pandemic... Has a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177859700191023/posts/1563850741591905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177859700191023/posts/1563850741591905/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rently it&#x27;s the Starlink satellite train, a series of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/177859700191023/posts/1563850741591905/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177859700191023/posts/1563850741591905/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rently it&#x27;s the Starlink satellite train, a series of...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: manitobamuseum.ca  
-   Link: <a href="https://manitobamuseum.ca/satellites-in-a-train/" target="_blank" rel="noopener noreferrer nofollow">https://manitobamuseum.ca/satellites-in-a-train/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manitoba MuseumSatellites in a Train17 May 2024 — Bright star-like objects have been seen moving across the sky, following each other in...</p></details>
+   Link:<a href="https://manitobamuseum.ca/satellites-in-a-train/" target="_blank" rel="noopener noreferrer nofollow">https://manitobamuseum.ca/satellites-in-a-train/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manitoba MuseumSatellites in a Train17 May 2024 — Bright star-like objects have been seen moving across the sky, following each other in...</p></details>
    Published: May 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers f...</p></details>
+   Link:<a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global News&#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers fielding...2 May 2021 — &#x27;Aliens are coming&#x27;: Alberta RCMP 911 dispatchers f...</p></details>
    Published: May 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: james.darpinian.com  
-   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
+   Link:<a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mistaken them for alien spacecraft. In May, some... READ MORE: Starlink Satellites Produce Wave of UFO Sightings in the US [Gizmodo].Rea...</p></details>
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mistaken them for alien spacecraft. In May, some... READ MORE: Starlink Satellites Produce Wave of UFO Sightings in the US [Gizmodo].Rea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: satflare.com  
    Title: STARLIN K Train  
-   Link: <a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK Train - 3D REAL TIME TRACKINGThe green line represents the part of the trajectory where the satellite is sunlit (visible), whils...</p></details>
+   Link:<a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK Train - 3D REAL TIME TRACKINGThe green line represents the part of the trajectory where the satellite is sunlit (visible), whils...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: orbitalradar.com  
-   Link: <a href="https://orbitalradar.com/starlink-tracker" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/starlink-tracker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker — Live Satellite Map, Train Finder &amp;...8 days ago — A Starlink &quot;train&quot; is a visible line of recently-launched satellite...</p></details>
+   Link:<a href="https://orbitalradar.com/starlink-tracker" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/starlink-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Tracker — Live Satellite Map, Train Finder &amp;...8 days ago — A Starlink &quot;train&quot; is a visible line of recently-launched satellite...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is known as the &quot;Starlink Train&quot;. Right after launch, SpaceX satellites travel closely together before drifting to their...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPhlge7jsq_/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is known as the &quot;Starlink Train&quot;. Right after launch, SpaceX satellites travel closely together before drifting to their...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: noctilucents.com  
-   Link: <a href="https://www.noctilucents.com/blog/spotting-a-starlink-satellite-train-during-lock-down" target="_blank" rel="noopener noreferrer nofollow">https://www.noctilucents.com/blog/spotting-a-starlink-satellite-train-during-lock-down</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting a Starlink satellite train during lock-down1 Apr 2026 — You should be able to see two faint lines, and each one is a Starlink sa...</p></details>
+   Link:<a href="https://www.noctilucents.com/blog/spotting-a-starlink-satellite-train-during-lock-down" target="_blank" rel="noopener noreferrer nofollow">https://www.noctilucents.com/blog/spotting-a-starlink-satellite-train-during-lock-down</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting a Starlink satellite train during lock-down1 Apr 2026 — You should be able to see two faint lines, and each one is a Starlink sa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Edmonton/comments/1f6xh6o/starlink_train_will_be_visible_tonight_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edmonton/comments/1f6xh6o/starlink_train_will_be_visible_tonight_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>they were launched early called the Spacecraft Cemetary...</p></details>
+   Link:<a href="https://www.reddit.com/r/Edmonton/comments/1f6xh6o/starlink_train_will_be_visible_tonight_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Edmonton/comments/1f6xh6o/starlink_train_will_be_visible_tonight_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>they were launched early called the Spacecraft Cemetary...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8_i3yjwHv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8_i3yjwHv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y some space debris coming back into the atmosphere...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DO8_i3yjwHv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8_i3yjwHv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y some space debris coming back into the atmosphere...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sObt0DvN5b4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite trains light up the Inland Northwest night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sObt0DvN5b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite trains light up the Inland Northwest night sky...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Starlink satellite trains light up the Inland Northwest night sky  
-   Link: <a href="https://www.youtube.com/watch?v=46csTIAUdM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=46csTIAUdM4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Line of lights in the sky: Starlink satellite train seen over south-central Pa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=46csTIAUdM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=46csTIAUdM4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Line of lights in the sky: Starlink satellite train seen over south-central Pa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Strange string of lights spotted in sky above metro  
-   Link: <a href="https://www.youtube.com/watch?v=02pd29OfR2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02pd29OfR2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=02pd29OfR2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02pd29OfR2Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/canadainformed/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/canadainformed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Me for Collabs and Business.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/canadainformed/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/canadainformed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Me for Collabs and Business.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MDEsjHvDpI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDEsjHvDpI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passage of Starlink Satellites Aug 28, 2023This 3-minute video [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) the passage of the train of Starlink satellites of the G7-1 group...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MDEsjHvDpI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDEsjHvDpI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passage of Starlink Satellites Aug 28, 2023This 3-minute video [records](&amp;#123;&amp;#123; &#x27;records/&#x27; | relative_url &amp;#125;&amp;#125;) the passage of the train of Starlink satellites of the G7-1 group...</p></details>

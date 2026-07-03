@@ -262,24 +262,24 @@ image: /assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteori
 
 ## Introduction
 
-For [older Eastern Arctic]({{ 'older-files/' | relative_url }}) UFO reports, one of the most misunderstood archival labels is “non-meteoric sighting.” Readers sometimes encounter National Research Council (NRC) files carrying that description and assume it meant officials had identified a genuinely extraordinary object. In reality, the label was far narrower. It usually meant only that a report was not immediately classified as a meteor or other obvious astronomical event. The NRC maintained these files as part of a broader federal record-keeping system, not as evidence that a sighting had been confirmed as a mysterious craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+For [older Eastern Arctic]({{ 'older-files/' | relative_url }}) UFO reports, one of the most misunderstood archival labels is “non-meteoric sighting.” Readers sometimes encounter National Research Council (NRC) files carrying that description and assume it meant officials had identified a genuinely extraordinary object. In reality, the label was far narrower. It usually meant only that a report was not immediately classified as a meteor or other obvious astronomical event. The NRC maintained these files as part of a broader federal record-keeping system, not as evidence that a sighting had been confirmed as a mysterious craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-1-dark.svg" | relative_url }}" alt="NRC Files illustration 1" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters for the history of what is now [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}). Many pre-1999 Eastern Arctic reports survived precisely because they passed through federal scientific and administrative channels. Their presence in an NRC “non-meteoric” file tells us something important about how Canada handled unusual aerial reports. It tells us much less about whether the original observation was truly unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+This distinction matters for the history of what is now [Nunavut]({{ 'what-really-shows-up-over-nunavut/' | relative_url }}). Many pre-1999 Eastern Arctic reports survived precisely because they passed through federal scientific and administrative channels. Their presence in an NRC “non-meteoric” file tells us something important about how Canada handled unusual aerial reports. It tells us much less about whether the original observation was truly unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CS2z-V6Qjsg" title="UFOs Part 1 — Canadian Reports, Research &amp; Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer">UFOs Part 1 — Canadian Reports, Research &amp; Disclosure</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 89 &middot; Uploaded: January 2024 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CS2z-V6Qjsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CS2z-V6Qjsg">Open on YouTube</a></p></div></div></div>
 
 ## How reports reached the National Research Council
 
-Canada never operated a single, public-facing UFO agency comparable to the popular image of American programmes such as Project Blue Book. Instead, reports moved through a network of federal departments, military organisations, police forces, transport officials and scientific institutions. The National Research Council became one of the repositories where unusual aerial reports could end up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
+Canada never operated a single, public-facing UFO agency comparable to the popular image of American programmes such as Project Blue Book. Instead, reports moved through a network of federal departments, military organisations, police forces, transport officials and scientific institutions. The National Research Council became one of the repositories where unusual aerial reports could end up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecanadianencyclopedia.ca">[The Canadian Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecanadianencyclopedia.ca</span><span class="citation-popover-title">ufos in canada</span><span class="citation-popover-snippet">The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</span></span></span>
 
-The surviving archive shows that UFO-related records were accumulated from 1947 into the early 1980s and drew material from several federal bodies, including the NRC, National Defence, Transport authorities and the RCMP. Today, thousands of those records are preserved through Library and Archives Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The surviving archive shows that UFO-related records were accumulated from 1947 into the early 1980s and drew material from several federal bodies, including the NRC, National Defence, Transport authorities and the RCMP. Today, thousands of those records are preserved through Library and Archives Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-For the Eastern Arctic, this administrative pathway was especially important. Remote communities often depended on government stations, aviation personnel, weather services and federal administrators. When an unusual light or object was reported, the observation might be forwarded through official channels rather than remaining a local story. That process helped preserve reports from places that are now within Nunavut even when no formal field investigation followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+For the Eastern Arctic, this administrative pathway was especially important. Remote communities often depended on government stations, aviation personnel, weather services and federal administrators. When an unusual light or object was reported, the observation might be forwarded through official channels rather than remaining a local story. That process helped preserve reports from places that are now within Nunavut even when no formal field investigation followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-A useful example comes from Frobisher Bay, now Iqaluit. In June 1968, government administrator D. Davies reported a star-like object moving slowly across the sky. The report was sent to the National Research Council, but local transport officials suggested a high-altitude weather balloon as the likely explanation. The case entered the federal record system despite having a plausible conventional interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</span></span></span>
+A useful example comes from Frobisher Bay, now Iqaluit. In June 1968, government administrator D. Davies reported a star-like object moving slowly across the sky. The report was sent to the National Research Council, but local transport officials suggested a high-altitude weather balloon as the likely explanation. The case entered the federal record system despite having a plausible conventional interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MuTXU_Xnys" title="The renewed interest in UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer">The renewed interest in UFOs</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 147.3K &middot; Uploaded: May 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MuTXU_Xnys">Open on YouTube</a></p></div></div></div>
@@ -288,16 +288,16 @@ A useful example comes from Frobisher Bay, now Iqaluit. In June 1968, government
 
 The phrase itself can be misleading because it sounds more dramatic than it was.
 
-In NRC usage, a non-meteoric sighting generally meant that a reported aerial phenomenon was not immediately identified as a meteor or fireball. It was essentially a filing category. Reports in these files could include aircraft, balloons, satellites, atmospheric effects, astronomical misidentifications, genuinely unknown observations, or cases with too little information for a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+In NRC usage, a non-meteoric sighting generally meant that a reported aerial phenomenon was not immediately identified as a meteor or fireball. It was essentially a filing category. Reports in these files could include aircraft, balloons, satellites, atmospheric effects, astronomical misidentifications, genuinely unknown observations, or cases with too little information for a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
 
-The surviving archival descriptions make this clear. Collections are labelled as “Reports on non-meteoric sightings, unidentified flying objects, UFO's,” linking the category to a broad range of reports rather than to confirmed anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-title">Collection Search Hertzberg Institute of Astrophysics</span><span class="citation-popover-snippet">Collection SearchHertzberg Institute of Astrophysics - Reports on non-meteoritic...Hertzberg Institute of Astrophysics - Reports on non...</span></span></span>
+The surviving archival descriptions make this clear. Collections are labelled as “Reports on non-meteoric sightings, unidentified flying objects, UFO's,” linking the category to a broad range of reports rather than to confirmed anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-collection-search.bac-lac.gc.ca">[Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-collection-search.bac-lac.gc.ca</span><span class="citation-popover-title">Collection Search Hertzberg Institute of Astrophysics</span><span class="citation-popover-snippet">Collection SearchHertzberg Institute of Astrophysics - Reports on non-meteoritic...Hertzberg Institute of Astrophysics - Reports on non...</span></span></span>
 
 Several points are worth keeping in mind:
 
-* **Non-meteoric did not mean extraterrestrial.** The term excluded one specific class of explanation, not every ordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
-* **Non-meteoric did not mean investigated to completion.** Many reports were simply recorded and archived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
-* **Non-meteoric did not mean unexplained.** Some files contain reports that were later associated with balloons, aircraft or other likely causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</span></span></span>
-* **Non-meteoric did not indicate scientific endorsement.** The NRC often acted as a repository rather than an active investigative body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+* **Non-meteoric did not mean extraterrestrial.** The term excluded one specific class of explanation, not every ordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+* **Non-meteoric did not mean investigated to completion.** Many reports were simply recorded and archived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+* **Non-meteoric did not mean unexplained.** Some files contain reports that were later associated with balloons, aircraft or other likely causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</span></span></span>
+* **Non-meteoric did not indicate scientific endorsement.** The NRC often acted as a repository rather than an active investigative body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
 
 This is one reason archival survival and evidential strength should not be confused. A report's presence in a federal file may reveal more about reporting procedures than about the nature of the object itself.
 
@@ -307,7 +307,7 @@ This is one reason archival survival and evidential strength should not be confu
 
 One of the recurring lessons from Canadian UFO archives is that some cases remain unresolved simply because the information is insufficient.
 
-The NRC's files contain reports from across the country, many consisting of brief witness statements, correspondence, military signals, or administrative summaries. In remote regions, where observers were few and technical data were limited, investigators often lacked the evidence needed to reach a firm conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The NRC's files contain reports from across the country, many consisting of brief witness statements, correspondence, military signals, or administrative summaries. In remote regions, where observers were few and technical data were limited, investigators often lacked the evidence needed to reach a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 For older Eastern Arctic sightings, several factors increased uncertainty:
 
@@ -318,11 +318,11 @@ For older Eastern Arctic sightings, several factors increased uncertainty:
 * Limited photographic evidence.
 * Large distances between communities.
 * Incomplete weather, aviation or tracking information in surviving files.
-* Archival records that sometimes preserve the report but not every follow-up step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+* Archival records that sometimes preserve the report but not every follow-up step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
 </div>
 
-As a result, a case could remain officially unidentified even when a mundane explanation was possible. An unresolved file often reflects missing data rather than evidence of an impossible event. Historians of Canadian UFO investigations have repeatedly noted that federal agencies were frequently engaged in documentation and classification rather than exhaustive investigation of every report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadashistory.ca">[Canada&#x27;s History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadashistory.ca</span><span class="citation-popover-title">search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s HistorySearch for the Unknown17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but a...</span></span></span>
+As a result, a case could remain officially unidentified even when a mundane explanation was possible. An unresolved file often reflects missing data rather than evidence of an impossible event. Historians of Canadian UFO investigations have repeatedly noted that federal agencies were frequently engaged in documentation and classification rather than exhaustive investigation of every report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadashistory.ca">[Canada&#x27;s History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadashistory.ca</span><span class="citation-popover-title">search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s HistorySearch for the Unknown17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but a...</span></span></span>
 
 For readers examining Nunavut's pre-1999 UFO history, that distinction is crucial. A surviving NRC record may show that witnesses saw something they could not identify at the time. It does not automatically show that officials encountered a phenomenon beyond conventional explanation.
 
@@ -333,186 +333,144 @@ For readers examining Nunavut's pre-1999 UFO history, that distinction is crucia
 
 The value of the NRC archive is not that it proves extraordinary events occurred over the Eastern Arctic. Its value is historical.
 
-The files demonstrate that unusual aerial observations from remote northern regions were sometimes taken seriously enough to be recorded within federal scientific and administrative systems. They preserve details that might otherwise have disappeared entirely. They also reveal the practical mindset of Canadian officials, who generally treated such reports as observational problems requiring classification rather than sensational mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
+The files demonstrate that unusual aerial observations from remote northern regions were sometimes taken seriously enough to be recorded within federal scientific and administrative systems. They preserve details that might otherwise have disappeared entirely. They also reveal the practical mindset of Canadian officials, who generally treated such reports as observational problems requiring classification rather than sensational mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</span></span></span>
 
-For the older Eastern Arctic record, the key lesson is therefore a cautious one. When a sighting appears in an NRC non-meteoric file, the most defensible conclusion is not that something extraordinary happened. Rather, it is that someone reported an aerial phenomenon that was not immediately identified as a meteor and was considered worth preserving in the federal archive. Whether the event was later explained, remained unresolved, or simply lacked enough evidence to classify is a separate question that must be examined case by case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca+2Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
+For the older Eastern Arctic record, the key lesson is therefore a cautious one. When a sighting appears in an NRC non-meteoric file, the most defensible conclusion is not that something extraordinary happened. Rather, it is that someone reported an aerial phenomenon that was not immediately identified as a meteor and was considered worth preserving in the federal archive. Whether the event was later explained, remained unresolved, or simply lacked enough evidence to classify is a separate question that must be examined case by case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca+2Collection Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</span></span></span>
 
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-3-dark.svg" | relative_url }}" alt="NRC Files illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did non meteoric sighting files really mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did non meteoric sighting files really mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Canadian UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qmSrooK2WGAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Canadian UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Canadian UFO Report">The Canadian UFO Report</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski, Geoff Dittman</p>
         
-        <p class="fr-book-desc">Directly connects to Canada&#x27;s archival handling of UFO reports and the bureaucratic context surrounding NRC-era files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to Canada&#x27;s archival handling of UFO reports and the bureaucratic context surrounding NRC-era files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Canadian+UFO+Report+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unexplained aerial reports were classified, investigated, and often remained unresolved without implying extraordinary concl...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unexplained aerial reports were classified, investigated, and often remained unresolved without implying extraordinary concl...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Big Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w5giAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Big Book of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Big Book of UFOs">The Big Book of UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Chris A. Rutkowski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Big Book of UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w5giAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Big Book of UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Big Book of UFOs">The Big Book of UFOs</a>
+</h4>
+<p class="fr-book-author">By Chris A. Rutkowski</p>
         
-        <p class="fr-book-desc">Provides Canadian and international case studies that help contextualize archival labels such as non-meteoric sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides Canadian and international case studies that help contextualize archival labels such as non-meteoric sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs+by+Chris+A.+Rutkowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores competing interpretations of unexplained reports and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores competing interpretations of unexplained reports and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Big Book of UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Canadian+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Canadian UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Big+Book+of+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Big Book of UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="nrc-files-what-did-non-meteoric-sighting-files-really-mean-nunavut-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +486,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +506,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +538,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +590,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +635,7 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,118 +676,118 @@ For the older Eastern Arctic record, the key lesson is therefore a cautious one.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: utias.utoronto.ca  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesThese reports were retained at NRC in what was called the “Non-Meteoritic Sighting F...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — These documents were accumulated between 1947 and the early 1980s and represe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO.../-/oF NON -METEORITIC SIGHTING NATIONAL RESEARCH COUNCIL UAR/REE...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO.../-/oF NON -METEORITIC SIGHTING NATIONAL RESEARCH COUNCIL UAR/REE...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...6 days ago — Series consists of reports of Non-Meteoric Sighti...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchNon-meteoric sighting reports gathered by the Herzberg...6 days ago — Series consists of reports of Non-Meteoric Sighti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian EncyclopediaUFOs in Canada20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
    Title: Collection Search Hertzberg Institute of Astrophysics  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchHertzberg Institute of Astrophysics - Reports on non-meteoritic...Hertzberg Institute of Astrophysics - Reports on non...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?app=fonandcol&amp;idnumber=1765117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collection SearchHertzberg Institute of Astrophysics - Reports on non-meteoritic...Hertzberg Institute of Astrophysics - Reports on non...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s HistorySearch for the Unknown17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but a...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s HistorySearch for the Unknown17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: revenantjournal.com  
-   Link: <a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ies between 1950 and 1995., the archive contains 4,500 sighting...</p></details>
+   Link:<a href="https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/" target="_blank" rel="noopener noreferrer nofollow">https://www.revenantjournal.com/contents/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-by-matthew-hayes-montreal-quebec-mcgill-queens-university-press-2022-isbn-978-0228010746-210pp-34/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ies between 1950 and 1995., the archive contains 4,500 sighting...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: activehistory.ca  
    Title: Canada, UFOs, and Wishful Thinking  
-   Link: <a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty UFO in Moonbeam, Ontario. Wikimedia Commons. If you&#x27;ve ever done even a cursory search on UFOs, chances are you&#x27;ve...Read more...</p></details>
+   Link:<a href="https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/" target="_blank" rel="noopener noreferrer nofollow">https://activehistory.ca/blog/2017/02/10/canada-ufos-and-wishful-thinking-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty UFO in Moonbeam, Ontario. Wikimedia Commons. If you&#x27;ve ever done even a cursory search on UFOs, chances are you&#x27;ve...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-MuTXU_Xnys</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-MuTXU_Xnys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-MuTXU_Xnys</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Reports from all over the country of a "UFO" sighting  
-   Link: <a href="https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;ve had a UFO sighting or related paranormal experience, and you would like to share it, You can follow me or message me at UFO-NB...</p></details>
+   Link:<a href="https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greg.hughes.7355/posts/reports-from-all-over-the-country-of-a-ufo-sighting-anyone-spot-it-in-the-northw/10162164247858481/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you&#x27;ve had a UFO sighting or related paranormal experience, and you would like to share it, You can follow me or message me at UFO-NB...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: northwest territories before april fools day 1999  
-   Link: <a href="https://www.reddit.com/r/MapPorn/comments/p92d5a/northwest_territories_before_april_fools_day_1999/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/p92d5a/northwest_territories_before_april_fools_day_1999/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Nunavut and the Northwest Territories hold Inuit land. They way they drew the borders doesn&#x27;t make much sense, even when looking at...</p></details>
+   Link:<a href="https://www.reddit.com/r/MapPorn/comments/p92d5a/northwest_territories_before_april_fools_day_1999/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/p92d5a/northwest_territories_before_april_fools_day_1999/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both Nunavut and the Northwest Territories hold Inuit land. They way they drew the borders doesn&#x27;t make much sense, even when looking at...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thewalrus.ca  
    Title: what ufo fears tell us about government trust  
-   Link: <a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Fears Tell Us about Trust in Government17 Feb 2023 — Released ten years after the NRC catalogued the final sighting as part of C...</p></details>
+   Link:<a href="https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/" target="_blank" rel="noopener noreferrer nofollow">https://thewalrus.ca/what-ufo-fears-tell-us-about-government-trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Fears Tell Us about Trust in Government17 Feb 2023 — Released ten years after the NRC catalogued the final sighting as part of C...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: trentarthur.ca  
    Title: trent phd student ufo sightings canada  
-   Link: <a href="https://www.trentarthur.ca/news/trent-phd-student-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.trentarthur.ca/news/trent-phd-student-ufo-sightings-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trent PhD Student Investigates History of UFO Sightings...31 Oct 2018 — Matthew Hayes has spent the last year going through more than 15...</p></details>
+   Link:<a href="https://www.trentarthur.ca/news/trent-phd-student-ufo-sightings-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.trentarthur.ca/news/trent-phd-student-ufo-sightings-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trent PhD Student Investigates History of UFO Sightings...31 Oct 2018 — Matthew Hayes has spent the last year going through more than 15...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amazon.ca  
-   Link: <a href="https://www.amazon.ca/Search-Canadas-Files-Conspiracy-Theory-ebook/dp/B09XGVM7V8?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ca/Search-Canadas-Files-Conspiracy-Theory-ebook/dp/B09XGVM7V8?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>into reports of UFOs, revealing how these reports were handled, deflected, and...</p></details>
+   Link:<a href="https://www.amazon.ca/Search-Canadas-Files-Conspiracy-Theory-ebook/dp/B09XGVM7V8?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ca/Search-Canadas-Files-Conspiracy-Theory-ebook/dp/B09XGVM7V8?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>into reports of UFOs, revealing how these reports were handled, deflected, and...</p></details>

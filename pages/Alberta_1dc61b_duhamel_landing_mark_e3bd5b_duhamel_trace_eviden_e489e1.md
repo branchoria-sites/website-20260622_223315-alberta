@@ -256,7 +256,7 @@ image: /assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_e
 
 ## Introduction
 
-The Duhamel case is often remembered as a reported UFO landing in a pasture near Camrose County, [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }}), in August 1967. What gives the incident lasting significance, however, is not the sighting story but the physical traces that investigators were able to inspect, measure and describe. Unlike many UFO reports that rest entirely on witness testimony, the Duhamel case left ring-shaped ground marks that could be examined directly. Defence-linked investigators recorded crushed grass, compressed cow dung and repeating impression patterns, creating one of the most discussed examples of alleged UFO trace evidence in Alberta's history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+The Duhamel case is often remembered as a reported UFO landing in a pasture near Camrose County, [Alberta]({{ 'what-makes-albertas-ufo-record-so/' | relative_url }}), in August 1967. What gives the incident lasting significance, however, is not the sighting story but the physical traces that investigators were able to inspect, measure and describe. Unlike many UFO reports that rest entirely on witness testimony, the Duhamel case left ring-shaped ground marks that could be examined directly. Defence-linked investigators recorded crushed grass, compressed cow dung and repeating impression patterns, creating one of the most discussed examples of alleged UFO trace evidence in Alberta's history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-1-dark.svg" | relative_url }}" alt="Trace Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,11 +267,11 @@ The key question is not whether the marks prove a UFO landed there. They do not.
 
 ## Ring dimensions and missing sections
 
-The most basic evidence consisted of four large ring-shaped impressions found in pastureland. Measurements taken during the official inspection showed circles roughly 30 to 36 feet across. Three were nearly circular, while the largest was slightly elliptical. The rings themselves were relatively narrow, generally about five to seven inches wide rather than broad flattened areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+The most basic evidence consisted of four large ring-shaped impressions found in pastureland. Measurements taken during the official inspection showed circles roughly 30 to 36 feet across. Three were nearly circular, while the largest was slightly elliptical. The rings themselves were relatively narrow, generally about five to seven inches wide rather than broad flattened areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-A notable feature was that the rings were incomplete. Investigators reported that each circle appeared to have a missing segment on one side rather than forming a continuous closed loop. This detail attracted attention because it complicated simple explanations. If a heavy object had merely settled vertically onto the ground, a complete ring might be expected. Equally, if a vehicle had driven in circles, investigators would normally expect obvious connecting tracks leading into or out of the area. Those approach and departure tracks were not found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+A notable feature was that the rings were incomplete. Investigators reported that each circle appeared to have a missing segment on one side rather than forming a continuous closed loop. This detail attracted attention because it complicated simple explanations. If a heavy object had merely settled vertically onto the ground, a complete ring might be expected. Equally, if a vehicle had driven in circles, investigators would normally expect obvious connecting tracks leading into or out of the area. Those approach and departure tracks were not found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-The dimensions also suggested that substantial pressure had been applied along a narrow band rather than over the entire interior of each circle. The marks looked less like flattened crop circles in the later British sense and more like impressions made by something contacting the ground along a ring-shaped path. That distinction became central to later discussion of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+The dimensions also suggested that substantial pressure had been applied along a narrow band rather than over the entire interior of each circle. The marks looked less like flattened crop circles in the later British sense and more like impressions made by something contacting the ground along a ring-shaped path. That distinction became central to later discussion of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0e6dKxkqbn8" title="Falcon Lake Incident: The Most Credible UFO Case in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer">Falcon Lake Incident: The Most Credible UFO Case in History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0e6dKxkqbn8">Open on YouTube</a></p></div></div></div>
@@ -280,15 +280,15 @@ The dimensions also suggested that substantial pressure had been applied along a
 
 The strongest evidence from Duhamel came from the condition of the material within the rings.
 
-Investigators reported that the pasture grass along the rings was crushed and discoloured. More importantly, fresh cow dung located within the marks had been compressed in a manner resembling the effect of a wheel passing over it. This was not simply bent vegetation. Organic material on the ground showed signs of physical pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+Investigators reported that the pasture grass along the rings was crushed and discoloured. More importantly, fresh cow dung located within the marks had been compressed in a manner resembling the effect of a wheel passing over it. This was not simply bent vegetation. Organic material on the ground showed signs of physical pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-Another detail frequently cited in later discussions was the presence of repeating impressions. Witnesses and investigators described indications of tread-like or lug-like patterns occurring at intervals of roughly three inches. Although the impressions had reportedly become less distinct by the time of the official inspection, enough remained for investigators to note them in their report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+Another detail frequently cited in later discussions was the presence of repeating impressions. Witnesses and investigators described indications of tread-like or lug-like patterns occurring at intervals of roughly three inches. Although the impressions had reportedly become less distinct by the time of the official inspection, enough remained for investigators to note them in their report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-These observations led the Defence Research Establishment Suffield investigator to record a personal impression that the marks had been produced by some form of rolling contact. The report compared the effect to that of a heavily loaded rubber-tyred wheel moving in a circular path. The reasoning was straightforward: the compression pattern resembled mechanical pressure more than scorching, digging or blast effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+These observations led the Defence Research Establishment Suffield investigator to record a personal impression that the marks had been produced by some form of rolling contact. The report compared the effect to that of a heavily loaded rubber-tyred wheel moving in a circular path. The reasoning was straightforward: the compression pattern resembled mechanical pressure more than scorching, digging or blast effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-Yet the same observations created a problem. If the rings were produced by conventional wheels, investigators expected to find tracks connecting the circles or evidence of machinery entering and leaving the pasture. Such evidence was absent. The ring marks looked wheel-like, but the broader scene did not clearly support a simple vehicle explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+Yet the same observations created a problem. If the rings were produced by conventional wheels, investigators expected to find tracks connecting the circles or evidence of machinery entering and leaving the pasture. Such evidence was absent. The ring marks looked wheel-like, but the broader scene did not clearly support a simple vehicle explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-A further complication was timing. The farmer who discovered the marks stated that he had not visited that part of the pasture for some time before noticing them. Heavy rain had also fallen before discovery. As a result, investigators could not determine exactly when the impressions were created, and weathering may already have altered their appearance before measurements were taken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Search for the Unknown: Canada&#x27;s UFO Files and the Rise...The 1967 case of the “reputed ufo landing marks” at Duhamel, Alberta, remains...</span></span></span>
+A further complication was timing. The farmer who discovered the marks stated that he had not visited that part of the pasture for some time before noticing them. Heavy rain had also fallen before discovery. As a result, investigators could not determine exactly when the impressions were created, and weathering may already have altered their appearance before measurements were taken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Search for the Unknown: Canada&#x27;s UFO Files and the Rise...The 1967 case of the “reputed ufo landing marks” at Duhamel, Alberta, remains...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-2-dark.svg" | relative_url }}" alt="Trace Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -296,215 +296,215 @@ A further complication was timing. The farmer who discovered the marks stated th
 
 The absence of certain kinds of evidence is almost as important as the evidence that was present.
 
-Investigators did not report scorched vegetation, burned soil, heat damage or signs of an exhaust blast. The rings were impressions rather than burn marks. Nor was there convincing evidence of excavated soil, displaced earth or crater formation. The surrounding ground appeared largely undisturbed outside the narrow rings themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+Investigators did not report scorched vegetation, burned soil, heat damage or signs of an exhaust blast. The rings were impressions rather than burn marks. Nor was there convincing evidence of excavated soil, displaced earth or crater formation. The surrounding ground appeared largely undisturbed outside the narrow rings themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-The marks also failed to produce the sort of dramatic physical signatures often associated with popular UFO stories. There was no verified structural damage to nearby objects, no confirmed electromagnetic effects and no clear evidence that an extremely hot or energetic object had contacted the ground. The case therefore rests on mechanical-looking traces rather than on claims of radiation burns or severe environmental disruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+The marks also failed to produce the sort of dramatic physical signatures often associated with popular UFO stories. There was no verified structural damage to nearby objects, no confirmed electromagnetic effects and no clear evidence that an extremely hot or energetic object had contacted the ground. The case therefore rests on mechanical-looking traces rather than on claims of radiation burns or severe environmental disruption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-This limitation cuts both ways. Sceptics point out that the lack of extraordinary physical effects makes ordinary explanations easier to imagine. Supporters of the case counter that the unusual combination of circular compression, missing ring segments and lack of access tracks remains difficult to reconstruct with confidence. Either way, the physical traces alone do not identify their cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+This limitation cuts both ways. Sceptics point out that the lack of extraordinary physical effects makes ordinary explanations easier to imagine. Supporters of the case counter that the unusual combination of circular compression, missing ring segments and lack of access tracks remains difficult to reconstruct with confidence. Either way, the physical traces alone do not identify their cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aTr84e04SbE" title="One of Canada’s Strangest Sightings (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer">One of Canada’s Strangest Sightings (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aTr84e04SbE">Open on YouTube</a></p></div></div></div>
 
 ## Why the trace evidence remains debated
 
-Within Alberta UFO history, Duhamel occupies an unusual position because the discussion centres on measurable traces rather than solely on witness recollections. The dimensions of the rings, the compressed dung, the crushed grass and the reported repeating impressions were all tangible observations recorded during an investigation. Those observations survive in archival [records]({{ 'records/' | relative_url }}) and continue to be cited by researchers examining Canadian UFO cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[Library and Archives Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">Symbol of the Government of Canada. Library and Archives Canada... 8/8/1967&quot;. 11/15/1967. 4733-3982-10150. Camrose, AB. 8/8/1967...Read...</span></span></span>
+Within Alberta UFO history, Duhamel occupies an unusual position because the discussion centres on measurable traces rather than solely on witness recollections. The dimensions of the rings, the compressed dung, the crushed grass and the reported repeating impressions were all tangible observations recorded during an investigation. Those observations survive in archival [records]({{ 'records/' | relative_url }}) and continue to be cited by researchers examining Canadian UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lac-bac.gc.ca">[Library and Archives Canada+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lac-bac.gc.ca</span><span class="citation-popover-snippet">Symbol of the Government of Canada. Library and Archives Canada... 8/8/1967&quot;. 11/15/1967. 4733-3982-10150. Camrose, AB. 8/8/1967...Read...</span></span></span>
 
-At the same time, the trace evidence never reached the standard needed to establish a definitive cause. The site was not secured immediately, visitors entered the area before official examination, weather may have altered the marks, and some potentially useful details became less distinct with time. Investigators could describe what they saw, but they could not demonstrate exactly what created it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
+At the same time, the trace evidence never reached the standard needed to establish a definitive cause. The site was not secured immediately, visitors entered the area before official examination, weather may have altered the marks, and some potentially useful details became less distinct with time. Investigators could describe what they saw, but they could not demonstrate exactly what created it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</span><span class="citation-popover-meta">Published: August 11, 1967</span></span></span>
 
-That unresolved status explains why the Duhamel pasture marks remain important. They are among Alberta's best-known examples of physical-trace UFO evidence, not because they prove an extraordinary event, but because they produced a set of observable ground effects that resisted a simple and universally accepted explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — the 1967 “reputed UFO landing marks” at Duhamel, Alber...</span></span></span>
+That unresolved status explains why the Duhamel pasture marks remain important. They are among Alberta's best-known examples of physical-trace UFO evidence, not because they prove an extraordinary event, but because they produced a set of observable ground effects that resisted a simple and universally accepted explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — the 1967 “reputed UFO landing marks” at Duhamel, Alber...</span></span></span>
 
 
 <img src="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-3-dark.svg" | relative_url }}" alt="Trace Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the pasture marks actually show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the pasture marks actually show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers cases involving physical evidence, official investigations, and assessment of unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cases involving physical evidence, official investigations, and assessment of unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines trace cases, witness reports, and methods used to evaluate unexplained incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines trace cases, witness reports, and methods used to evaluate unexplained incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides historical context for official inquiries and evidential assessment of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official inquiries and evidential assessment of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses reported landings, physical traces, and competing explanations for unusual ground evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses reported landings, physical traces, and competing explanations for unusual ground evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE"><img src="{{ '/assets/images/marketplace-covers/73aee8517e03b75cb5f7.jpg' | relative_url }}" alt="Listing image for DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">DEPARTURES NOVELTY AIRPORT SIGN MAN CAVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/d8f0b239e3d15596e303.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOVELTY MAN CAVE AIRPORT SIGN"><img src="{{ '/assets/images/marketplace-covers/d8f0b239e3d15596e303.jpg' | relative_url }}" alt="Listing image for NOVELTY MAN CAVE AIRPORT SIGN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">NOVELTY MAN CAVE AIRPORT SIGN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign"><img src="{{ '/assets/images/marketplace-covers/bc1cbbbb4763b760c913.jpg' | relative_url }}" alt="Listing image for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign"><img src="{{ '/assets/images/marketplace-covers/bc1cbbbb4763b760c913.jpg' | relative_url }}" alt="Listing image for Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Airport Departures Reproduction Board, Metal Stag Or Hen Gift Fun Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security"><img src="{{ '/assets/images/marketplace-covers/144f87854ba4dc9f9469.jpg' | relative_url }}" alt="Listing image for Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Airport Restricted Area Metal Sign - 18x12 - Authentic Aviation Security</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airport sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: airport sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airport+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airport sign" data-ebay-reference="trace-evidence-what-did-the-pasture-marks-actually-show-alberta-airport-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,98 +710,98 @@ That unresolved status explains why the Duhamel pasture marks remain important. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search for the Unknown: Canada&#x27;s UFO Files and the Rise...The 1967 case of the “reputed ufo landing marks” at Duhamel, Alberta, remains...</p></details>
+   Link:<a href="https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/search-for-the-unknown-canadas-ufo-files-and-the-rise-of-conspiracy-theory-9780228012290.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search for the Unknown: Canada&#x27;s UFO Files and the Rise...The 1967 case of the “reputed ufo landing marks” at Duhamel, Alberta, remains...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: the ufo files the canadian connection exposed 9781554886999  
-   Link: <a href="https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Camrose, in a pasture were reported. Local reports had it that the marks were related to the...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-files-the-canadian-connection-exposed-9781554886999.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camrose, in a pasture were reported. Local reports had it that the marks were related to the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was acqui...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — The Library and Archives Canada collection of government records on UFOs was acqui...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 1May 15, 2019 — In part one of this two part episode, we unravel Canada&#x27;s most infamous UFO c...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 1May 15, 2019 — In part one of this two part episode, we unravel Canada&#x27;s most infamous UFO c...</p></details>
    Published: May 15, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/onsite-inspection-of-ufo-landing-marks-at-duhamel-camrose-county-in-alberta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 11, 1967 — The marks were predominantly in the form of crushed and discoloured pasture grass, but where cow dung lay in the mark t...</p></details>
    Published: August 11, 1967  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — the 1967 “reputed UFO landing marks” at Duhamel, Alber...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-1995Apr 7, 2022 — the 1967 “reputed UFO landing marks” at Duhamel, Alber...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lac-bac.gc.ca  
-   Link: <a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Symbol of the Government of Canada. Library and Archives Canada... 8/8/1967&quot;. 11/15/1967. 4733-3982-10150. Camrose, AB. 8/8/1967...Read...</p></details>
+   Link:<a href="https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271" target="_blank" rel="noopener noreferrer nofollow">https://www.lac-bac.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=41bt6o0o2fvsbn3l0ot8221112&amp;brws_s=&amp;q4=AB&amp;sk=271</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symbol of the Government of Canada. Library and Archives Canada... 8/8/1967&quot;. 11/15/1967. 4733-3982-10150. Camrose, AB. 8/8/1967...Read...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/world-records/first-official-ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/first-official-ufo-landing-pad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First official UFO landing padThe world&#x27;s first official UFO landing pad was built in the small Canadian prairie town of St Paul, in Albe...</p></details>
+   Link:<a href="https://www.guinnessworldrecords.com/world-records/first-official-ufo-landing-pad" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/first-official-ufo-landing-pad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First official UFO landing padThe world&#x27;s first official UFO landing pad was built in the small Canadian prairie town of St Paul, in Albe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aupress.ca  
-   Link: <a href="https://www.aupress.ca/app/uploads/120160_99Z_MacDonald_2009-Beaver_Hills.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aupress.ca/app/uploads/120160_99Z_MacDonald_2009-Beaver_Hills.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News Clipping Binder. 1987. Library and Archives Canada [LAC]. Ottawa. RG 84. Parks Canada Records. RG 85.Read more...</p></details>
+   Link:<a href="https://www.aupress.ca/app/uploads/120160_99Z_MacDonald_2009-Beaver_Hills.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aupress.ca/app/uploads/120160_99Z_MacDonald_2009-Beaver_Hills.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Clipping Binder. 1987. Library and Archives Canada [LAC]. Ottawa. RG 84. Parks Canada Records. RG 85.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mspace.lib.umanitoba.ca  
    Title: ca Canadian Combatant Narratives of the Great War by  
-   Link: <a href="https://mspace.lib.umanitoba.ca/bitstreams/6f0c434b-9248-4c99-a237-bb36dfca8239/download" target="_blank" rel="noopener noreferrer nofollow">https://mspace.lib.umanitoba.ca/bitstreams/6f0c434b-9248-4c99-a237-bb36dfca8239/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Dumontet · 2010 · Cited by 1 — This study aims to recuperate and reevaluate a number of Canadian Great War texts by examining...</p></details>
+   Link:<a href="https://mspace.lib.umanitoba.ca/bitstreams/6f0c434b-9248-4c99-a237-bb36dfca8239/download" target="_blank" rel="noopener noreferrer nofollow">https://mspace.lib.umanitoba.ca/bitstreams/6f0c434b-9248-4c99-a237-bb36dfca8239/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Dumontet · 2010 · Cited by 1 — This study aims to recuperate and reevaluate a number of Canadian Great War texts by examining...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Official Opening of UFO Landing Pad in St  
-   Link: <a href="https://www.facebook.com/oldcanada/posts/official-opening-of-ufo-landing-pad-in-st-paul-alberta-in-1967/1350357550458571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldcanada/posts/official-opening-of-ufo-landing-pad-in-st-paul-alberta-in-1967/1350357550458571/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta...The case remains Canada&#x27;s most thoroughly documented UFO incident, referenced in both Canadian government archives and U...</p></details>
+   Link:<a href="https://www.facebook.com/oldcanada/posts/official-opening-of-ufo-landing-pad-in-st-paul-alberta-in-1967/1350357550458571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldcanada/posts/official-opening-of-ufo-landing-pad-in-st-paul-alberta-in-1967/1350357550458571/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta...The case remains Canada&#x27;s most thoroughly documented UFO incident, referenced in both Canadian government archives and U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>relate these marks to the landing of one or more UFO.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/the-buzz-started-in-a-hay-meadow-at-the-foot-of-a-mysterious-looking-geological-/1464064852430985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relate these marks to the landing of one or more UFO.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Official Opening of UFO Landing Pad, St  
-   Link: <a href="https://www.facebook.com/100057862771070/posts/official-opening-of-ufo-landing-pad-st-paul-alberta-1967-provincial-archives-of-/797193795552706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057862771070/posts/official-opening-of-ufo-landing-pad-st-paul-alberta-1967-provincial-archives-of-/797193795552706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta, 1967...UNCLASSIFIED DEFENCE RESEARCH ESTABLISHMENT SUFFIELD RALST0N ALBERT A SUFFIELD MEMORANDUM NO.... marks in a pastu...</p></details>
+   Link:<a href="https://www.facebook.com/100057862771070/posts/official-opening-of-ufo-landing-pad-st-paul-alberta-1967-provincial-archives-of-/797193795552706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057862771070/posts/official-opening-of-ufo-landing-pad-st-paul-alberta-1967-provincial-archives-of-/797193795552706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul, Alberta, 1967...UNCLASSIFIED DEFENCE RESEARCH ESTABLISHMENT SUFFIELD RALST0N ALBERT A SUFFIELD MEMORANDUM NO.... marks in a pastu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: protectadks.org  
-   Link: <a href="https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chers and all others interested in the Adirondacks.Read more...</p></details>
+   Link:<a href="https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.protectadks.org/wp-content/uploads/2012/10/adkchronology101412.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chers and all others interested in the Adirondacks.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/albertastorm/posts/1005516020961037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/albertastorm/posts/1005516020961037/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hese marks to the landing of one or more UFO.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/albertastorm/posts/1005516020961037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/albertastorm/posts/1005516020961037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hese marks to the landing of one or more UFO.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/farmersadvocateh50unse/farmersadvocateh50unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/farmersadvocateh50unse/farmersadvocateh50unse_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UNIVERSITY OF ILLINOIS LIBRARY 630.5 V ^ v. ^&gt;0 REMOTE STORAGE JOURNAL Western...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/farmersadvocateh50unse/farmersadvocateh50unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/farmersadvocateh50unse/farmersadvocateh50unse_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UNIVERSITY OF ILLINOIS LIBRARY 630.5 V ^ v. ^&gt;0 REMOTE STORAGE JOURNAL Western...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oldcropcircles.weebly.com  
    Title: north america 1967 camrose  
-   Link: <a href="https://oldcropcircles.weebly.com/north-america-1967-camrose.html" target="_blank" rel="noopener noreferrer nofollow">https://oldcropcircles.weebly.com/north-america-1967-camrose.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America 1967 Camrose - Old Crop CirclesMost of our information on this case comes from the account given in the 1967 paper, Onsite Inspec...</p></details>
+   Link:<a href="https://oldcropcircles.weebly.com/north-america-1967-camrose.html" target="_blank" rel="noopener noreferrer nofollow">https://oldcropcircles.weebly.com/north-america-1967-camrose.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America 1967 Camrose - Old Crop CirclesMost of our information on this case comes from the account given in the 1967 paper, Onsite Inspec...</p></details>

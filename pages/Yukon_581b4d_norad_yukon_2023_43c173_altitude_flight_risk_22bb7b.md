@@ -256,11 +256,11 @@ image: /assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_
 
 ## Introduction
 
-The [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) object shot down on 11 February 2023 became a military incident primarily because of where it was flying, not because officials had determined what it was. According to Canada's Department of National Defence, the object was operating at roughly 39,000 feet and was judged to pose a “reasonable threat to the safety of civilian flight”. That altitude placed it in the same broad operating band used by commercial jet traffic, turning an unidentified aerial object into an aviation-safety problem that NORAD could not simply ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+The [Yukon]({{ 'what-really-happened-in-yukons-skies/' | relative_url }}) object shot down on 11 February 2023 became a military incident primarily because of where it was flying, not because officials had determined what it was. According to Canada's Department of National Defence, the object was operating at roughly 39,000 feet and was judged to pose a “reasonable threat to the safety of civilian flight”. That altitude placed it in the same broad operating band used by commercial jet traffic, turning an unidentified aerial object into an aviation-safety problem that NORAD could not simply ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-1-dark.svg" | relative_url }}" alt="Altitude risk illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Yukon’s UFO history, this distinction matters. The incident is often remembered as part of the wave of unidentified objects detected after the Chinese surveillance balloon controversy of early February 2023. Yet the official justification for the shootdown was not proof of hostile intent, foreign surveillance, or anything exotic. The key issue was uncertainty in airspace used by civilian aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+Within Yukon’s UFO history, this distinction matters. The incident is often remembered as part of the wave of unidentified objects detected after the Chinese surveillance balloon controversy of early February 2023. Yet the official justification for the shootdown was not proof of hostile intent, foreign surveillance, or anything exotic. The key issue was uncertainty in airspace used by civilian aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w1G-ThTMFU8" title="U.S. fighter jet shot down unidentified object in northern Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w1G-ThTMFU8" target="_blank" rel="noopener noreferrer">U.S. fighter jet shot down unidentified object in northern Canada</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w1G-ThTMFU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w1G-ThTMFU8">Open on YouTube</a></p></div></div></div>
@@ -269,20 +269,20 @@ Within Yukon’s UFO history, this distinction matters. The incident is often re
 
 ### The 39,000 to 40,000-foot risk zone
 
-The most important detail in the Yukon case was altitude. Canadian officials repeatedly stated that the object was flying at approximately 39,000 to 40,000 feet when it was intercepted over central Yukon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+The most important detail in the Yukon case was altitude. Canadian officials repeatedly stated that the object was flying at approximately 39,000 to 40,000 feet when it was intercepted over central Yukon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
-That height sits close to the cruising levels used by many commercial airliners and business jets. Defence officials in both Canada and the United States emphasised that an object at roughly 40,000 feet can create a direct hazard even if its purpose is unknown. The concern is straightforward: an aircraft crew expects other traffic at those levels to be visible to air-traffic systems and operating under established rules. An unidentified object with uncertain capabilities introduces a collision risk that cannot be easily measured. U.S. Department of War+2AP News <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">air force shoots down high altitude object off alaskan coast</span><span class="citation-popover-snippet">Department of WarAir Force Shoots Down &#x27;High-Altitude Object&#x27; off Alaskan...10 Feb 2023 — An Air Force F-22 shot down a &quot;high-altitude o...</span></span></span>
+That height sits close to the cruising levels used by many commercial airliners and business jets. Defence officials in both Canada and the United States emphasised that an object at roughly 40,000 feet can create a direct hazard even if its purpose is unknown. The concern is straightforward: an aircraft crew expects other traffic at those levels to be visible to air-traffic systems and operating under established rules. An unidentified object with uncertain capabilities introduces a collision risk that cannot be easily measured. U.S. Department of War+2AP News<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">air force shoots down high altitude object off alaskan coast</span><span class="citation-popover-snippet">Department of WarAir Force Shoots Down &#x27;High-Altitude Object&#x27; off Alaskan...10 Feb 2023 — An Air Force F-22 shot down a &quot;high-altitude o...</span></span></span>
 
-The contrast with the Chinese surveillance balloon detected earlier that month is revealing. That balloon had travelled at much higher altitudes, around 60,000 feet, well above normal airline operations. By comparison, an object near 40,000 feet occupied airspace much closer to civilian aviation routes. The practical danger therefore appeared more immediate, even if the object itself was much smaller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incident</span></span></span>
+The contrast with the Chinese surveillance balloon detected earlier that month is revealing. That balloon had travelled at much higher altitudes, around 60,000 feet, well above normal airline operations. By comparison, an object near 40,000 feet occupied airspace much closer to civilian aviation routes. The practical danger therefore appeared more immediate, even if the object itself was much smaller.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2023 Chinese balloon incident</span><span class="citation-popover-snippet">2023 Chinese balloon incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uNUfdpfHyFc" title="US fighter jet shoots down &#x27;unidentified object&#x27; over Canada | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer">US fighter jet shoots down &#x27;unidentified object&#x27; over Canada | DW News</a></p><p class="youtube-embed-meta">Channel: DW News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uNUfdpfHyFc">Open on YouTube</a></p></div></div></div>
 
 ### Why a small object can be more concerning than a large one
 
-Public discussion often focused on the object's reported size and shape. Some officials described it as cylindrical, while later reporting suggested it may have resembled a small balloon carrying a payload. Yet size was not the decisive factor in the response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">norad jets shoot down small cylindrical object over yukon</span><span class="citation-popover-snippet">Cabin RadioNorad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon11 Feb 2023 — Canada says fighter aircraft have shot down what def...</span></span></span>
+Public discussion often focused on the object's reported size and shape. Some officials described it as cylindrical, while later reporting suggested it may have resembled a small balloon carrying a payload. Yet size was not the decisive factor in the response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">norad jets shoot down small cylindrical object over yukon</span><span class="citation-popover-snippet">Cabin RadioNorad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon11 Feb 2023 — Canada says fighter aircraft have shot down what def...</span></span></span>
 
-A relatively small object can be difficult for pilots to spot visually, especially in bright conditions or against cloud backgrounds. If it is not transmitting identification signals and its performance characteristics are unclear, air-defence commanders must assume a degree of risk. In aviation safety, uncertainty itself becomes part of the threat assessment. The object did not need to demonstrate hostile behaviour to justify concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+A relatively small object can be difficult for pilots to spot visually, especially in bright conditions or against cloud backgrounds. If it is not transmitting identification signals and its performance characteristics are unclear, air-defence commanders must assume a degree of risk. In aviation safety, uncertainty itself becomes part of the threat assessment. The object did not need to demonstrate hostile behaviour to justify concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-2-dark.svg" | relative_url }}" alt="Altitude risk illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -290,215 +290,215 @@ A relatively small object can be difficult for pilots to spot visually, especial
 
 One of the most common misunderstandings about the Yukon shootdown is the assumption that authorities acted because they believed the object was an enemy aircraft or confirmed surveillance platform.
 
-Public statements from Canadian and American officials pointed elsewhere. They repeatedly emphasised the danger to civilian aviation and the fact that the object's nature remained uncertain. The official language focused on airspace safety rather than proof of espionage or military aggression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">minister anandprovides an important national security update</span><span class="citation-popover-snippet">Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</span></span></span>
+Public statements from Canadian and American officials pointed elsewhere. They repeatedly emphasised the danger to civilian aviation and the fact that the object's nature remained uncertain. The official language focused on airspace safety rather than proof of espionage or military aggression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">minister anandprovides an important national security update</span><span class="citation-popover-snippet">Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</span></span></span>
 
-This distinction is important because NORAD's mission includes aerospace control as well as warning. An object does not have to be identified as hostile before commanders decide that action is necessary. If an object is operating in controlled airspace, lacks a clear explanation, and presents a possible hazard to aircraft, waiting for perfect information can itself create risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+This distinction is important because NORAD's mission includes aerospace control as well as warning. An object does not have to be identified as hostile before commanders decide that action is necessary. If an object is operating in controlled airspace, lacks a clear explanation, and presents a possible hazard to aircraft, waiting for perfect information can itself create risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
-In that sense, the Yukon incident was less a traditional UFO mystery than a risk-management decision. Officials were forced to choose between acting with incomplete information or accepting the possibility that an unidentified object could remain near civilian flight levels. They chose intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">minister anandprovides an important national security update</span><span class="citation-popover-snippet">Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</span></span></span>
+In that sense, the Yukon incident was less a traditional UFO mystery than a risk-management decision. Officials were forced to choose between acting with incomplete information or accepting the possibility that an unidentified object could remain near civilian flight levels. They chose intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">minister anandprovides an important national security update</span><span class="citation-popover-snippet">Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xS3KiX7l6us" title="High-altitude object shot down over Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xS3KiX7l6us" target="_blank" rel="noopener noreferrer">High-altitude object shot down over Canada</a></p><p class="youtube-embed-meta">Channel: THV11</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xS3KiX7l6us" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xS3KiX7l6us">Open on YouTube</a></p></div></div></div>
 
 ## Why Uncertainty Matters in Defended Airspace
 
-The Yukon event occurred during an unusual period of heightened North American airspace vigilance. Only days earlier, the Chinese balloon episode had prompted intense scrutiny of radar data and airborne objects that might previously have attracted less attention. NORAD was actively tracking unusual contacts and investigating them more aggressively than before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naadsn.ca">[NAADSN+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naadsn.ca</span><span class="citation-popover-title">25dec 2023 high altitude objects Glesby Lackenbauer NAADSN Policy Primer</span><span class="citation-popover-snippet">Revisiting the February 2023 Incidents Concerning High-...December 30, 2025 — 30 Dec 2025 — In February 2023, the North American A...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+The Yukon event occurred during an unusual period of heightened North American airspace vigilance. Only days earlier, the Chinese balloon episode had prompted intense scrutiny of radar data and airborne objects that might previously have attracted less attention. NORAD was actively tracking unusual contacts and investigating them more aggressively than before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naadsn.ca">[NAADSN+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naadsn.ca</span><span class="citation-popover-title">25dec 2023 high altitude objects Glesby Lackenbauer NAADSN Policy Primer</span><span class="citation-popover-snippet">Revisiting the February 2023 Incidents Concerning High-...December 30, 2025 — 30 Dec 2025 — In February 2023, the North American A...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
-That context did not automatically make the Yukon object dangerous, but it lowered the tolerance for uncertainty. Once NORAD detected an unidentified object crossing from Alaska into Canadian airspace and operating near civilian flight altitudes, decision-makers faced a different calculation than they might have in a less tense environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
+That context did not automatically make the Yukon object dangerous, but it lowered the tolerance for uncertainty. Once NORAD detected an unidentified object crossing from Alaska into Canadian airspace and operating near civilian flight altitudes, decision-makers faced a different calculation than they might have in a less tense environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</span></span></span>
 
-The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO history. An object can become a major defence incident without anyone proving what it is. In defended airspace, the combination of unknown identity, uncertain capabilities, and an altitude close to civilian air traffic may be enough to trigger military action. The Yukon object remains notable not because it confirmed an extraordinary claim, but because it showed how aviation safety concerns can transform an unidentified aerial object into an urgent operational problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
+The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO history. An object can become a major defence incident without anyone proving what it is. In defended airspace, the combination of unknown identity, uncertain capabilities, and an altitude close to civilian air traffic may be enough to trigger military action. The Yukon object remains notable not because it confirmed an extraordinary claim, but because it showed how aviation safety concerns can transform an unidentified aerial object into an urgent operational problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">key issues</span><span class="citation-popover-snippet">Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</span></span></span>
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-3-dark.svg" | relative_url }}" alt="Altitude risk illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why 40,000 Feet Changed Everything. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why 40,000 Feet Changed Everything. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
-        </h4>
-        <p class="fr-book-author">By Ernest K Gann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
+</h4>
+<p class="fr-book-author">By Ernest K Gann</p>
         
-        <p class="fr-book-desc">Explains real-world aviation hazards, operational decision-making, and flight safety concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains real-world aviation hazards, operational decision-making, and flight safety concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains pilot and military perspectives on unidentified objects operating in controlled airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains pilot and military perspectives on unidentified objects operating in controlled airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides wider context on aerospace systems, military aircraft, and defended airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context on aerospace systems, military aircraft, and defended airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Helps readers understand aircraft operations and why unexpected objects in airspace create hazards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand aircraft operations and why unexpected objects in airspace create hazards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Philips Chart of The Stars Astronomy Wall Poster 1978 George"><img src="{{ '/assets/images/marketplace-covers/ec503b189b33f040df98.jpg' | relative_url }}" alt="Listing image for Philips Chart of The Stars Astronomy Wall Poster 1978 George" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Philips Chart of The Stars Astronomy Wall Poster 1978 George</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="altitude-risk-why-40-000-feet-changed-everything-yukon-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,112 +704,112 @@ The resulting shootdown illustrates a broader lesson for Yukon’s modern UFO hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: key issues  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/nddn-7-march-23/key-issues.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Issues – High-Altitude Objects5 Jul 2023 — It was flying at an altitude of 39,000 feet and posed a reasonable threat to the saf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: minister anandprovides an important national security update  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2023/02/minister-anandprovides-an-important-national-security-update.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minister Anand provides an important national security...14 Feb 2023 — The object was flying at an altitude of approximately 40,00...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: air force shoots down high altitude object off alaskan coast  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAir Force Shoots Down &#x27;High-Altitude Object&#x27; off Alaskan...10 Feb 2023 — An Air Force F-22 shot down a &quot;high-altitude o...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3295813/air-force-shoots-down-high-altitude-object-off-alaskan-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAir Force Shoots Down &#x27;High-Altitude Object&#x27; off Alaskan...10 Feb 2023 — An Air Force F-22 shot down a &quot;high-altitude o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2023 Chinese balloon incident  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 2023 Alaska high altitude object  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 2023 Yukon high altitude object  
-   Link: <a href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Yukon_high-altitude_object</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: naadsn.ca  
    Title: 25dec 2023 high altitude objects Glesby Lackenbauer NAADSN Policy Primer  
-   Link: <a href="https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the February 2023 Incidents Concerning High-...December 30, 2025 — 30 Dec 2025 — In February 2023, the North American A...</p></details>
+   Link:<a href="https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.naadsn.ca/wp-content/uploads/2025/12/25dec-2023-high-altitude-objects-Glesby-Lackenbauer-NAADSN-Policy-Primer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the February 2023 Incidents Concerning High-...December 30, 2025 — 30 Dec 2025 — In February 2023, the North American A...</p></details>
    Published: December 30, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
+   Link:<a href="https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/93071207f2bbdf93b591d6b40ce1cb5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jet to shoot down an &quot;unidentified object&quot; flying over the Yukon, Canada on Saturday. The object was detected by NORAD over Alask...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cabinradio.ca  
    Title: norad jets shoot down small cylindrical object over yukon  
-   Link: <a href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioNorad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon11 Feb 2023 — Canada says fighter aircraft have shot down what def...</p></details>
+   Link:<a href="https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120820/news/politics/norad-jets-shoot-down-small-cylindrical-object-over-yukon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cabin RadioNorad jets shoot down &#x27;small, cylindrical object&#x27; over Yukon11 Feb 2023 — Canada says fighter aircraft have shot down what def...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/175f9078d1df36e392b2956ba771001e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/175f9078d1df36e392b2956ba771001e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military fighter jet, on orders from President Joe Biden, shot down an unknown object flying at approximately 40,000 feet off the remote...</p></details>
+   Link:<a href="https://apnews.com/article/175f9078d1df36e392b2956ba771001e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/175f9078d1df36e392b2956ba771001e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military fighter jet, on orders from President Joe Biden, shot down an unknown object flying at approximately 40,000 feet off the remote...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1289377384993801/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US F-22 shoots down unidentified &#x27;cylindrical&#x27; object...The object was flying at 40,000 feet, which posed a &quot;reasonable threat to the sa...</p></details>
+   Link:<a href="https://abc7chicago.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US F-22 shoots down unidentified &#x27;cylindrical&#x27; object...The object was flying at 40,000 feet, which posed a &quot;reasonable threat to the sa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.usni.org  
-   Link: <a href="https://news.usni.org/2023/02/10/u-s-downs-flying-object-near-alaska-nearly-a-week-after-shooting-down-chinese-surveillance-balloon" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2023/02/10/u-s-downs-flying-object-near-alaska-nearly-a-week-after-shooting-down-chinese-surveillance-balloon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Downs 3 Unidentified Flying Objects Nearly a...10 Feb 2023 — “The object was flying at an altitude of 40,000 feet and pose a reasonable...</p></details>
+   Link:<a href="https://news.usni.org/2023/02/10/u-s-downs-flying-object-near-alaska-nearly-a-week-after-shooting-down-chinese-surveillance-balloon" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2023/02/10/u-s-downs-flying-object-near-alaska-nearly-a-week-after-shooting-down-chinese-surveillance-balloon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Downs 3 Unidentified Flying Objects Nearly a...10 Feb 2023 — “The object was flying at an altitude of 40,000 feet and pose a reasonable...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xS3KiX7l6us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS3KiX7l6us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-altitude object shot down over CanadaBoth Canadian and U.S. jets operating as part of NORAD were scrambled and it was a U.S. jet tha...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xS3KiX7l6us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xS3KiX7l6us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-altitude object shot down over CanadaBoth Canadian and U.S. jets operating as part of NORAD were scrambled and it was a U.S. jet tha...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uNUfdpfHyFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US fighter jet shoots down &#x27;unidentified object&#x27; over Canada...Justin Trudeau says an &#x27;unidentified object&#x27; has been shot down over Cana...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uNUfdpfHyFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uNUfdpfHyFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US fighter jet shoots down &#x27;unidentified object&#x27; over Canada...Justin Trudeau says an &#x27;unidentified object&#x27; has been shot down over Cana...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/high-altitude-object-tracked-northern-canada-norad/story?id=97058669" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/high-altitude-object-tracked-northern-canada-norad/story?id=97058669</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian and U.S. aircraft were scrambled, and a U.S. F-22 successfully fired at the object. — Justin Trudeau...</p></details>
+   Link:<a href="https://abcnews.com/International/high-altitude-object-tracked-northern-canada-norad/story?id=97058669" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/high-altitude-object-tracked-northern-canada-norad/story?id=97058669</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian and U.S. aircraft were scrambled, and a U.S. F-22 successfully fired at the object. — Justin Trudeau...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: globalnews.ca  
    Title: surveillance balloon canadian forces response  
-   Link: <a href="https://globalnews.ca/news/9480589/surveillance-balloon-canadian-forces-response/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9480589/surveillance-balloon-canadian-forces-response/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2023... The object was flying at approximately 40,000 feet and “posed a reasonable threat to the safety of civilian flight,” Ana...</p></details>
+   Link:<a href="https://globalnews.ca/news/9480589/surveillance-balloon-canadian-forces-response/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9480589/surveillance-balloon-canadian-forces-response/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2023... The object was flying at approximately 40,000 feet and “posed a reasonable threat to the safety of civilian flight,” Ana...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/euronews/posts/canadian-prime-minister-justin-trudeau-said-saturday-that-on-his-order-a-us-figh/10159857909308110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/canadian-prime-minister-justin-trudeau-said-saturday-that-on-his-order-a-us-figh/10159857909308110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>threat to the safety of civilian flight.&quot; The balloon seen floating...</p></details>
+   Link:<a href="https://www.facebook.com/euronews/posts/canadian-prime-minister-justin-trudeau-said-saturday-that-on-his-order-a-us-figh/10159857909308110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/canadian-prime-minister-justin-trudeau-said-saturday-that-on-his-order-a-us-figh/10159857909308110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>threat to the safety of civilian flight.&quot; The balloon seen floating...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: The UFO was shot down on Feb  
-   Link: <a href="https://www.facebook.com/cbs21news/posts/the-ufo-was-shot-down-on-feb-11-2023-shortly-after-it-entered-canadian-airspace-/1016924260465177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbs21news/posts/the-ufo-was-shot-down-on-feb-11-2023-shortly-after-it-entered-canadian-airspace-/1016924260465177/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2023, shortly after it...The UFO was shot down on Feb. 11, 2023, shortly after it entered Canadian airspace through Alaska. It was o...</p></details>
+   Link:<a href="https://www.facebook.com/cbs21news/posts/the-ufo-was-shot-down-on-feb-11-2023-shortly-after-it-entered-canadian-airspace-/1016924260465177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbs21news/posts/the-ufo-was-shot-down-on-feb-11-2023-shortly-after-it-entered-canadian-airspace-/1016924260465177/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2023, shortly after it...The UFO was shot down on Feb. 11, 2023, shortly after it entered Canadian airspace through Alaska. It was o...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: new unidentified object shot down over canada says trudeau  
-   Link: <a href="https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian and U.S. aircraft were scrambled, and a U.S. F-22 successfully fired at the object...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/feb/11/new-unidentified-object-shot-down-over-canada-says-trudeau</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian and U.S. aircraft were scrambled, and a U.S. F-22 successfully fired at the object...</p></details>

@@ -300,29 +300,29 @@ image: /assets/images/Saskatchewan_59faf2-overview-social.jpg
 
 ## Introduction
 
-The useful way to read Saskatchewan’s UFO record is neither to dismiss every account nor to treat “unidentified” as proof of alien visitors. Canadian authorities, researchers and aviation systems have all used UFO or UAP language to describe things witnesses could not identify at the time, including lights, aircraft, meteors, balloons, drones, weather effects and genuinely unresolved reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+The useful way to read Saskatchewan’s UFO record is neither to dismiss every account nor to treat “unidentified” as proof of alien visitors. Canadian authorities, researchers and aviation systems have all used UFO or UAP language to describe things witnesses could not identify at the time, including lights, aircraft, meteors, balloons, drones, weather effects and genuinely unresolved reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Saskatchewan&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Langenburg became Saskatchewan’s defining UFO case
 
-The Langenburg event took place on the morning of 1 September 1974 near Langenburg, close to the Manitoba border. According to the town’s published account, Edwin Fuhr was swathing fields when he noticed five saucer-shaped objects near a slough, approached to within about 15 feet, and saw them hovering roughly a foot above the ground while rotating. He later said his swather would not restart, so he watched for around 15 minutes before the objects rose, emitted a grey vapour and disappeared silently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
+The Langenburg event took place on the morning of 1 September 1974 near Langenburg, close to the Manitoba border. According to the town’s published account, Edwin Fuhr was swathing fields when he noticed five saucer-shaped objects near a slough, approached to within about 15 feet, and saw them hovering roughly a foot above the ground while rotating. He later said his swather would not restart, so he watched for around 15 minutes before the objects rose, emitted a grey vapour and disappeared silently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
 
-What made the story travel beyond local folklore was the alleged physical trace. Fuhr’s account described grass left standing in the middle of each circle, with surrounding grass flattened in a circular pattern. The Royal Canadian Mint’s 2024 description of the event quotes the RCMP incident report as saying there were five distinct circles caused by something exerting “heavy air or exhaust pressure” over high grass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
+What made the story travel beyond local folklore was the alleged physical trace. Fuhr’s account described grass left standing in the middle of each circle, with surrounding grass flattened in a circular pattern. The Royal Canadian Mint’s 2024 description of the event quotes the RCMP incident report as saying there were five distinct circles caused by something exerting “heavy air or exhaust pressure” over high grass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
 
-That does not make the case proven. It does make it more substantial than a brief “light in the sky” report, because investigators and later writers could discuss a claimed location, a named witness, physical marks, a specific date and an official police file. The Langenburg case is therefore often treated as a Canadian “close encounter of the second kind”, meaning a sighting associated with an alleged physical effect on the environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
+That does not make the case proven. It does make it more substantial than a brief “light in the sky” report, because investigators and later writers could discuss a claimed location, a named witness, physical marks, a specific date and an official police file. The Langenburg case is therefore often treated as a Canadian “close encounter of the second kind”, meaning a sighting associated with an alleged physical effect on the environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
 
-The main doubts are also clear. The case depended heavily on one witness’s interpretation of what he saw, and the available public record does not provide laboratory-grade measurements, photographs with complete chain of custody, or a confirmed prosaic or extraordinary explanation. In UFO work, that distinction matters: a case can be interesting and still fall short of demonstrating what the objects were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-snippet">UNT Digital LibraryCRS CRSeptember 22, 2017 — 9 Mar 1976 — The final stage of the UFO report calls for a confrontation between data and h...</span><span class="citation-popover-meta">Published: September 22, 2017</span></span></span>
+The main doubts are also clear. The case depended heavily on one witness’s interpretation of what he saw, and the available public record does not provide laboratory-grade measurements, photographs with complete chain of custody, or a confirmed prosaic or extraordinary explanation. In UFO work, that distinction matters: a case can be interesting and still fall short of demonstrating what the objects were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-snippet">UNT Digital LibraryCRS CRSeptember 22, 2017 — 9 Mar 1976 — The final stage of the UFO report calls for a confrontation between data and h...</span><span class="citation-popover-meta">Published: September 22, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Saskatchewan&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence that helps — and the evidence that does not
 
-The strongest part of the Langenburg story is not that it sounds dramatic; many dramatic UFO stories collapse under scrutiny. Its stronger features are its specificity, the reported ground traces, the RCMP involvement, and the fact that the witness was a named local farmer rather than an anonymous internet-era claimant. The Town of Langenburg’s account also [records]({{ 'records-f9e6ac/' | relative_url }}) Fuhr’s recollection that the incident brought intense media attention and visitors from Canada and abroad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
+The strongest part of the Langenburg story is not that it sounds dramatic; many dramatic UFO stories collapse under scrutiny. Its stronger features are its specificity, the reported ground traces, the RCMP involvement, and the fact that the witness was a named local farmer rather than an anonymous internet-era claimant. The Town of Langenburg’s account also [records]({{ 'records-f9e6ac/' | relative_url }}) Fuhr’s recollection that the incident brought intense media attention and visitors from Canada and abroad.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
 
-The weakest part is that later retellings can easily become more polished than the original evidence. Claims about radioactivity, military visits or worldwide attention should be handled carefully unless tied to a specific document or named report. The town page says the site became “extremely radioactive” and that both United States Air Force and Royal Canadian Air Force personnel appeared, but those claims require stronger documentary support than a commemorative local summary before they should be treated as established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
+The weakest part is that later retellings can easily become more polished than the original evidence. Claims about radioactivity, military visits or worldwide attention should be handled carefully unless tied to a specific document or named report. The town page says the site became “extremely radioactive” and that both United States Air Force and Royal Canadian Air Force personnel appeared, but those claims require stronger documentary support than a commemorative local summary before they should be treated as established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: langenburg.ca">[langenburg.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">langenburg.ca</span><span class="citation-popover-title">ufo sightings</span><span class="citation-popover-snippet">45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</span></span></span>
 
-The Royal Canadian Mint’s 2024 coin did not “validate” the Langenburg event as a real craft encounter. It did, however, show that the case had become part of Canada’s public memory of unexplained phenomena. The Mint described the Langenburg release as the seventh coin in its Canada’s Unexplained Phenomena series, with a mintage of 6,500, and presented the event from the witness’s perspective rather than as an official scientific conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Royal Canadian Mint’s 2024 coin did not “validate” the Langenburg event as a real craft encounter. It did, however, show that the case had become part of Canada’s public memory of unexplained phenomena. The Mint described the Langenburg release as the seventh coin in its Canada’s Unexplained Phenomena series, with a mintage of 6,500, and presented the event from the witness’s perspective rather than as an official scientific conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mint.ca">[https://www.mint.ca/en-us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mint.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A fair assessment is therefore: Langenburg is Saskatchewan’s most important UFO story because it has a named witness, a clear setting, official-police texture and reported physical traces. It remains unresolved in the public record, but unresolved does not mean confirmed extraterrestrial, secret military technology or hoax.
 
@@ -331,23 +331,23 @@ A fair assessment is therefore: Langenburg is Saskatchewan’s most important UF
 
 ## Saskatchewan’s wider sighting pattern
 
-Outside Langenburg, Saskatchewan’s UFO record is more diffuse. Modern Canadian UFO surveys and media summaries show recurring reports from urban centres such as Saskatoon and Regina as well as smaller communities, but most are brief [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) of lights, shapes or fast-moving objects with limited independent evidence. In 2015, Saskatchewan recorded 37 sightings, with many reported in Saskatoon or Regina and others from communities including Prince Albert, Star City, Mossbank, Weyburn and Gravelbourg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">ufo sightings up in saskatchewan</span></span></span>
+Outside Langenburg, Saskatchewan’s UFO record is more diffuse. Modern Canadian UFO surveys and media summaries show recurring reports from urban centres such as Saskatoon and Regina as well as smaller communities, but most are brief [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) of lights, shapes or fast-moving objects with limited independent evidence. In 2015, Saskatchewan recorded 37 sightings, with many reported in Saskatoon or Regina and others from communities including Prince Albert, Star City, Mossbank, Weyburn and Gravelbourg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">ufo sightings up in saskatchewan</span></span></span>
 
-The province’s numbers are usually modest compared with larger provinces. A 2022 Saskatchewan news report, citing the Canadian UFO Survey, said Saskatchewan had 35 sightings in 2020, placing it among the lower provincial totals, ahead of only smaller or northern jurisdictions such as Prince Edward Island, Newfoundland and Labrador, the Northwest Territories, Nunavut and Yukon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: battlefordsnow.com">[battlefordsNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">battlefordsnow.com</span><span class="citation-popover-title">battlefords NOWStudies show UFO sightings rising in Sask. and Canada</span><span class="citation-popover-snippet">battlefords NOWStudies show UFO sightings rising in Sask. and Canada</span></span></span>
+The province’s numbers are usually modest compared with larger provinces. A 2022 Saskatchewan news report, citing the Canadian UFO Survey, said Saskatchewan had 35 sightings in 2020, placing it among the lower provincial totals, ahead of only smaller or northern jurisdictions such as Prince Edward Island, Newfoundland and Labrador, the Northwest Territories, Nunavut and Yukon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: battlefordsnow.com">[battlefordsNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">battlefordsnow.com</span><span class="citation-popover-title">battlefords NOWStudies show UFO sightings rising in Sask. and Canada</span><span class="citation-popover-snippet">battlefords NOWStudies show UFO sightings rising in Sask. and Canada</span></span></span>
 
-This does not mean Saskatchewan is “quiet” in any absolute sense. Prairie geography may actually make unusual lights more visible: wide horizons, dark rural skies and long sightlines can make satellites, aircraft, meteors, re-entering debris or distant weather phenomena look stranger than they would in a city. Transport Canada has warned that “UFO” in aviation occurrence records can cover drones, balloons, meteors, weather phenomena, birds and other ordinary causes, not just unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+This does not mean Saskatchewan is “quiet” in any absolute sense. Prairie geography may actually make unusual lights more visible: wide horizons, dark rural skies and long sightlines can make satellites, aircraft, meteors, re-entering debris or distant weather phenomena look stranger than they would in a city. Transport Canada has warned that “UFO” in aviation occurrence records can cover drones, balloons, meteors, weather phenomena, birds and other ordinary causes, not just unexplained craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
-The National UFO Reporting Center also maintains a Saskatchewan index containing many public reports, but this kind of database is best used as a lead source rather than proof. It is useful for seeing where and when people say they observed something, yet the entries vary widely in witness detail, corroboration and investigation quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The National UFO Reporting Center also maintains a Saskatchewan index containing many public reports, but this kind of database is best used as a lead source rather than proof. It is useful for seeing where and when people say they observed something, yet the entries vary widely in witness detail, corroboration and investigation quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Saskatchewan&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The aviation angle: prairie skies, pilots and official records
 
-Saskatchewan matters to Canadian UFO history partly because it sits under important civilian aviation routes across the Prairies. In January 2024, pilots over the Canadian Prairies reported multiple lights, sometimes in triangular formations, and media coverage connected the episode to air-traffic audio and Transport Canada reporting. One account quoted pilots describing lights moving in ways they found unusual while flying over or near Saskatchewan airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible Pilots Describe UFOs &#x27;Forming Triangles&#x27; To Air Traffic</span><span class="citation-popover-snippet">Bro Bible Pilots Describe UFOs &#x27;Forming Triangles&#x27; To Air Traffic</span></span></span>
+Saskatchewan matters to Canadian UFO history partly because it sits under important civilian aviation routes across the Prairies. In January 2024, pilots over the Canadian Prairies reported multiple lights, sometimes in triangular formations, and media coverage connected the episode to air-traffic audio and Transport Canada reporting. One account quoted pilots describing lights moving in ways they found unusual while flying over or near Saskatchewan airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">Bro Bible Pilots Describe UFOs &#x27;Forming Triangles&#x27; To Air Traffic</span><span class="citation-popover-snippet">Bro Bible Pilots Describe UFOs &#x27;Forming Triangles&#x27; To Air Traffic</span></span></span>
 
-Pilot reports deserve attention because trained observers know aircraft, navigation lights and normal flight behaviour better than most witnesses. They are not, however, immune to misidentifying distant satellites, [Starlink]({{ 'starlink-62fea8/' | relative_url }}) trains, reflections, military activity, high-altitude balloons or unusual viewing geometry. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, collects preliminary aviation occurrence information, but Transport Canada notes that UAP follow-up generally falls outside its mandate unless aviation safety or security is involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+Pilot reports deserve attention because trained observers know aircraft, navigation lights and normal flight behaviour better than most witnesses. They are not, however, immune to misidentifying distant satellites, [Starlink]({{ 'starlink-62fea8/' | relative_url }}) trains, reflections, military activity, high-altitude balloons or unusual viewing geometry. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, collects preliminary aviation occurrence information, but Transport Canada notes that UAP follow-up generally falls outside its mandate unless aviation safety or security is involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
-This is one reason Saskatchewan reports can appear in aviation systems without producing a satisfying “case closed” explanation. CADORS is built for safety reporting, not public mystery-solving. It can preserve a useful record that something was reported, but it does not automatically provide a full investigation, astronomical analysis or intelligence assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+This is one reason Saskatchewan reports can appear in aviation systems without producing a satisfying “case closed” explanation. CADORS is built for safety reporting, not public mystery-solving. It can preserve a useful record that something was reported, but it does not automatically provide a full investigation, astronomical analysis or intelligence assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qaS94Z2IZG4" title="Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer">Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?</a></p><p class="youtube-embed-meta">Channel: CBC News Saskatchewan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qaS94Z2IZG4">Open on YouTube</a></p></div></div></div>
@@ -357,9 +357,9 @@ This is one reason Saskatchewan reports can appear in aviation systems without p
 
 ## How Canadian official records shape the Saskatchewan picture
 
-Canada’s UFO record is more federal and archival than many readers expect. Library and Archives Canada says its UFO collection was assembled from records of the Department of National Defence, Department of Transport, National Research Council and RCMP, covering documents accumulated between 1947 and the early 1980s. The collection contains about 9,500 digitised documents, including correspondence, reports, memos and procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
+Canada’s UFO record is more federal and archival than many readers expect. Library and Archives Canada says its UFO collection was assembled from records of the Department of National Defence, Department of Transport, National Research Council and RCMP, covering documents accumulated between 1947 and the early 1980s. The collection contains about 9,500 digitised documents, including correspondence, reports, memos and procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
-That matters for Saskatchewan because provincial UFO history often passes through national institutions. A rural witness might speak to the RCMP; an aviation report might involve Transport Canada or NAV CANADA; an older file might sit in federal archives rather than a provincial museum. Saskatchewan’s evidence base is therefore scattered across local memory, media reports, police traces, aviation databases and national archival systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
+That matters for Saskatchewan because provincial UFO history often passes through national institutions. A rural witness might speak to the RCMP; an aviation report might involve Transport Canada or NAV CANADA; an older file might sit in federal archives rather than a provincial museum. Saskatchewan’s evidence base is therefore scattered across local memory, media reports, police traces, aviation databases and national archival systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
 Canada also had early official UFO efforts, including Project Magnet and Project Second Storey, but these were national rather than Saskatchewan-specific programmes. Project Magnet began under Wilbert Smith at the Department of Transport in 1950, while Project Second Storey brought together officials and scientists in the early 1950s to collect and assess reports.
 
@@ -367,194 +367,138 @@ Canada also had early official UFO efforts, including Project Magnet and Project
 <img src="{{ "/assets/images/Saskatchewan_59faf2-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Saskatchewan&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Saskatchewan&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Saskatchewan&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a foundational framework for evaluating UFO reports such as the Langenburg case and other Canadian sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a foundational framework for evaluating UFO reports such as the Langenburg case and other Canadian sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how unexplained sightings have been investigated and categorized, paralleling Saskatchewan UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unexplained sightings have been investigated and categorized, paralleling Saskatchewan UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and official investigations, matching the article&#x27;s emphasis on evidence and reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and official investigations, matching the article&#x27;s emphasis on evidence and reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official handling of UFO reports, relevant to understanding Canadian and North American reporting structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official handling of UFO reports, relevant to understanding Canadian and North American reporting structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="what-really-happened-in-saskatchewans-what-really-happened-in-saskatchewan-s-ufo-files-saskatche-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +514,7 @@ Canada also had early official UFO efforts, including Project Magnet and Project
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +534,7 @@ Canada also had early official UFO efforts, including Project Magnet and Project
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +566,7 @@ Canada also had early official UFO efforts, including Project Magnet and Project
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +618,7 @@ Canada also had early official UFO efforts, including Project Magnet and Project
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +663,7 @@ Canada also had early official UFO efforts, including Project Magnet and Project
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,103 +704,103 @@ Canada also had early official UFO efforts, including Project Magnet and Project
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: langenburg.ca  
    Title: ufo sightings  
-   Link: <a href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.langenburg.ca/p/ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</p></details>
+   Link:<a href="https://www.langenburg.ca/p/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.langenburg.ca/p/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>45 years ago, The Town of Langenburg became an international sensation! On September 1st, 1974 former farmer Edwin Fuhr faced an incredib...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mint.ca  
-   Link: <a href="https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o" target="_blank" rel="noopener noreferrer nofollow">https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.mint.ca/en-usCanada&#x27;s](https://www.mint.ca/en-usCanada&#x27;s) Unexplained Phenomena: The Langenburg Event2 Nov 2024 — Canada&#x27;s Unexplained Phenomena: The Langenburg...</p></details>
+   Link:<a href="https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o" target="_blank" rel="noopener noreferrer nofollow">https://www.mint.ca/en/shop/coins/2024/pure-silver-glow-in-the-dark-coin-canadas-unexplained-phenomena-the-langenburg-event?srsltid=AfmBOooddFiulqS39dqvud8S_63ltrnuNSpcQ6gugKwnlVfy8RIffx_o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.mint.ca/en-usCanada&#x27;s](https://www.mint.ca/en-usCanada&#x27;s) Unexplained Phenomena: The Langenburg Event2 Nov 2024 — Canada&#x27;s Unexplained Phenomena: The Langenburg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: digital.library.unt.edu  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNT Digital LibraryCRS CRSeptember 22, 2017 — 9 Mar 1976 — The final stage of the UFO report calls for a confrontation between data and h...</p></details>
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNT Digital LibraryCRS CRSeptember 22, 2017 — 9 Mar 1976 — The final stage of the UFO report calls for a confrontation between data and h...</p></details>
    Published: September 22, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ised-isde.canada.ca  
    Title: preview [sky canada](&#123;&#123; 'sky-canada/' | relative_url &#125;&#125;) report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: battlefordsnow.com  
    Title: battlefords NOWStudies show UFO sightings rising in Sask. and Canada  
-   Link: <a href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
+   Link:<a href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSK</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSK</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brobible.com  
    Title: Bro Bible Pilots Describe UFOs 'Forming Triangles' To Air Traffic  
-   Link: <a href="https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/</a>  
+   Link:<a href="https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/pilots-ufos-forming-triangles-air-traffic-control-canada/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
    Title: ufo sightings up in saskatchewan  
-   Link: <a href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/</a>  
+   Link:<a href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-s2EQ-Ov834" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-s2EQ-Ov834</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Langenburg [Saskatchewan UFO](&amp;#123;&amp;#123; &#x27;explanations-051262/&#x27; | relative_url &amp;#125;&amp;#125;) sighting 1974 Commemorative coin rekindles talk of 50-year-old alleged UFO sighting in rural Sask...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-s2EQ-Ov834" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-s2EQ-Ov834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Langenburg [Saskatchewan UFO](&amp;#123;&amp;#123; &#x27;explanations-051262/&#x27; | relative_url &amp;#125;&amp;#125;) sighting 1974 Commemorative coin rekindles talk of 50-year-old alleged UFO sighting in rural Sask...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: canadianuforeport.com  
-   Link: <a href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raymore, Saskatchewan. 12&#x27; crop circle found in wheat...</p></details>
+   Link:<a href="https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canadianuforeport.com/survey/physicaltracecanadasep6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raymore, Saskatchewan. 12&#x27; crop circle found in wheat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l5Z28yLjcfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5Z28yLjcfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Seeing is believing&quot; New coin marks UFO sighting from 50 years ago on Sask. farm...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l5Z28yLjcfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5Z28yLjcfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Seeing is believing&quot; New coin marks UFO sighting from 50 years ago on Sask. farm...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OvbcuYj0O30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OvbcuYj0O30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commemorative coin rekindles talk of 50-year-old alleged UFO sighting in rural Sask...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OvbcuYj0O30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OvbcuYj0O30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commemorative coin rekindles talk of 50-year-old alleged UFO sighting in rural Sask...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z6rbaLXf8rQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1974 Saskatchewan UFO Landing: Evidence That Can&#x27;t Be Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z6rbaLXf8rQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1974 Saskatchewan UFO Landing: Evidence That Can&#x27;t Be Explained...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skiesmag.com  
-   Link: <a href="https://skiesmag.com/web-news/ufos-listen-as-pilots-describe-bizarre-lights-and-triangle-formation-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/web-news/ufos-listen-as-pilots-describe-bizarre-lights-and-triangle-formation-over-canadian-prairies/</a>  
+   Link:<a href="https://skiesmag.com/web-news/ufos-listen-as-pilots-describe-bizarre-lights-and-triangle-formation-over-canadian-prairies/" target="_blank" rel="noopener noreferrer nofollow">https://skiesmag.com/web-news/ufos-listen-as-pilots-describe-bizarre-lights-and-triangle-formation-over-canadian-prairies/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cjwwradio.com  
    Title: langenburg ufo sighting memorialized on new coin released by the mint  
-   Link: <a href="https://www.cjwwradio.com/2024/09/15/langenburg-ufo-sighting-memorialized-on-new-coin-released-by-the-mint/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjwwradio.com/2024/09/15/langenburg-ufo-sighting-memorialized-on-new-coin-released-by-the-mint/</a>  
+   Link:<a href="https://www.cjwwradio.com/2024/09/15/langenburg-ufo-sighting-memorialized-on-new-coin-released-by-the-mint/" target="_blank" rel="noopener noreferrer nofollow">https://www.cjwwradio.com/2024/09/15/langenburg-ufo-sighting-memorialized-on-new-coin-released-by-the-mint/</a>  

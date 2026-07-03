@@ -256,21 +256,21 @@ image: /assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_
 
 ## Introduction
 
-Are Saskatoon and Regina real UFO hotspots? The short answer is that they are better understood as reporting hubs than as proven centres of unusual aerial activity. [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }})’s two largest cities generate a disproportionate share of the province’s UFO reports because they contain the largest populations, the busiest transportation networks, major airports, universities, active media outlets and the greatest number of people looking at — and reporting on — the sky. The available evidence shows repeated reporting from both cities across decades, but it does not show that either city experiences uniquely unexplained phenomena compared with the rest of the province. Instead, Saskatoon and Regina illustrate a common pattern in UFO history: where there are more observers, there are usually more reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+Are Saskatoon and Regina real UFO hotspots? The short answer is that they are better understood as reporting hubs than as proven centres of unusual aerial activity. [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }})’s two largest cities generate a disproportionate share of the province’s UFO reports because they contain the largest populations, the busiest transportation networks, major airports, universities, active media outlets and the greatest number of people looking at — and reporting on — the sky. The available evidence shows repeated reporting from both cities across decades, but it does not show that either city experiences uniquely unexplained phenomena compared with the rest of the province. Instead, Saskatoon and Regina illustrate a common pattern in UFO history: where there are more observers, there are usually more reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-1-dark.svg" | relative_url }}" alt="City hubs illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Saskatchewan’s wider pattern of prairie [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) beyond places such as [Langenburg]({{ 'langenburg/' | relative_url }}), these urban centres matter because they help explain how reporting systems work. They produce a large volume of observations, but many of those observations occur in complex urban airspace where aircraft, satellites, drones, planets and atmospheric effects can easily be mistaken for something unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+Within Saskatchewan’s wider pattern of prairie [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) beyond places such as [Langenburg]({{ 'langenburg/' | relative_url }}), these urban centres matter because they help explain how reporting systems work. They produce a large volume of observations, but many of those observations occur in complex urban airspace where aircraft, satellites, drones, planets and atmospheric effects can easily be mistaken for something unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
 ## Why big cities produce more reports
 
-The most important factor behind Saskatoon’s and Regina’s prominence in UFO databases is simple demographics. Saskatchewan's population is concentrated in and around these two cities, meaning more potential witnesses, more smartphones, more social-media posts and more opportunities for unusual sights to be reported rather than forgotten. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+The most important factor behind Saskatoon’s and Regina’s prominence in UFO databases is simple demographics. Saskatchewan's population is concentrated in and around these two cities, meaning more potential witnesses, more smartphones, more social-media posts and more opportunities for unusual sights to be reported rather than forgotten.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
-This pattern appears in both Canadian and international UFO databases. Public reporting collections repeatedly list Saskatoon and Regina among Saskatchewan's most frequently reported locations, not because investigators have established them as centres of unexplained activity, but because they are where the province's largest pools of observers live. The National UFO Reporting Center's Saskatchewan listings show numerous reports from both cities spanning several decades and involving many different claimed object types, from lights and [fireballs]({{ 'fireballs-74ab81/' | relative_url }}) to triangles and formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
+This pattern appears in both Canadian and international UFO databases. Public reporting collections repeatedly list Saskatoon and Regina among Saskatchewan's most frequently reported locations, not because investigators have established them as centres of unexplained activity, but because they are where the province's largest pools of observers live. The National UFO Reporting Center's Saskatchewan listings show numerous reports from both cities spanning several decades and involving many different claimed object types, from lights and [fireballs]({{ 'fireballs-74ab81/' | relative_url }}) to triangles and formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
 
-The same reporting bias appears nationally. Larger Canadian cities consistently dominate UFO statistics. When Canadian survey data identify cities with the highest numbers of reports, major population centres lead the rankings. Saskatchewan follows the same general pattern on a provincial scale, with Saskatoon and Regina occupying the role that Toronto, Montreal and Vancouver occupy nationally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</span><span class="citation-popover-meta">Published: July 10, 2018</span></span></span>
+The same reporting bias appears nationally. Larger Canadian cities consistently dominate UFO statistics. When Canadian survey data identify cities with the highest numbers of reports, major population centres lead the rankings. Saskatchewan follows the same general pattern on a provincial scale, with Saskatoon and Regina occupying the role that Toronto, Montreal and Vancouver occupy nationally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</span><span class="citation-popover-meta">Published: July 10, 2018</span></span></span>
 
-Another factor is visibility. Prairie cities provide unusually wide horizons compared with heavily forested or mountainous regions. A bright object, meteor or aircraft can remain visible for long periods, sometimes encouraging multiple independent reports. What may appear to be a local UFO event can therefore be a regional sky event observed by people spread across many kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+Another factor is visibility. Prairie cities provide unusually wide horizons compared with heavily forested or mountainous regions. A bright object, meteor or aircraft can remain visible for long periods, sometimes encouraging multiple independent reports. What may appear to be a local UFO event can therefore be a regional sky event observed by people spread across many kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
@@ -290,13 +290,13 @@ Several factors regularly complicate witness interpretations:
 * Bright planets, especially Venus and Jupiter, appearing unusually prominent near the horizon.
 * Meteors and fireballs crossing large sections of western Canada.
 * Consumer and commercial drones.
-* Advertising lights and ground-based lighting effects reflected by clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+* Advertising lights and ground-based lighting effects reflected by clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
 </div>
 
-Public databases contain examples that illustrate these difficulties. Some reports describe triangular formations, hovering lights or objects apparently changing direction. Others involve bright stationary lights that later proved difficult to distinguish from conventional astronomical or aviation sources. In at least one Saskatchewan database entry, investigators later identified unusual lights as advertising lights rather than unknown objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
+Public databases contain examples that illustrate these difficulties. Some reports describe triangular formations, hovering lights or objects apparently changing direction. Others involve bright stationary lights that later proved difficult to distinguish from conventional astronomical or aviation sources. In at least one Saskatchewan database entry, investigators later identified unusual lights as advertising lights rather than unknown objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
 
-Urban environments also create perception problems. Witnesses often lack reliable distance references when looking into a dark sky. A light moving directly toward an observer may appear stationary. A distant aircraft changing course can seem to accelerate abruptly. Bright planets viewed through atmospheric distortion may appear to shimmer, pulse or move. These are not signs that witnesses are unreliable; they are well-known challenges in reconstructing aerial observations after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+Urban environments also create perception problems. Witnesses often lack reliable distance references when looking into a dark sky. A light moving directly toward an observer may appear stationary. A distant aircraft changing course can seem to accelerate abruptly. Bright planets viewed through atmospheric distortion may appear to shimmer, pulse or move. These are not signs that witnesses are unreliable; they are well-known challenges in reconstructing aerial observations after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-2-dark.svg" | relative_url }}" alt="City hubs illustration 2" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,13 +314,13 @@ NUFORC's Saskatchewan archive includes reports from both cities involving:
 * Fireballs.
 * Circular or disc-shaped objects.
 * Apparent formations of multiple lights.
-* Objects reported as changing speed or direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
+* Objects reported as changing speed or direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
 
 </div>
 
-Taken individually, many of these reports are difficult to verify. Most depend on a witness description rather than photographs, radar [records]({{ 'records-f9e6ac/' | relative_url }}) or independent technical data. Taken collectively, however, they show a consistent pattern: residents of Saskatchewan's two largest cities regularly report unusual aerial observations, but the reported characteristics vary widely and rarely point toward a single recurring phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
+Taken individually, many of these reports are difficult to verify. Most depend on a witness description rather than photographs, radar [records]({{ 'records-f9e6ac/' | relative_url }}) or independent technical data. Taken collectively, however, they show a consistent pattern: residents of Saskatchewan's two largest cities regularly report unusual aerial observations, but the reported characteristics vary widely and rarely point toward a single recurring phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
 
-This diversity is significant because genuine reporting hotspots associated with a specific cause often produce similar reports repeatedly. Saskatoon and Regina instead generate a broad mixture of observations that resembles the reporting profile of many ordinary urban centres across Canada. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</span><span class="citation-popover-meta">Published: July 10, 2018</span></span></span>
+This diversity is significant because genuine reporting hotspots associated with a specific cause often produce similar reports repeatedly. Saskatoon and Regina instead generate a broad mixture of observations that resembles the reporting profile of many ordinary urban centres across Canada.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-snippet">Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</span><span class="citation-popover-meta">Published: July 10, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TGQDHZuJXMs" title="Sask.&#x27;s famous UFO encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TGQDHZuJXMs" target="_blank" rel="noopener noreferrer">Sask.&#x27;s famous UFO encounter</a></p><p class="youtube-embed-meta">Channel: The Leader-Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TGQDHZuJXMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TGQDHZuJXMs">Open on YouTube</a></p></div></div></div>
@@ -329,215 +329,215 @@ This diversity is significant because genuine reporting hotspots associated with
 
 Public UFO databases are valuable, but they have important limitations.
 
-Canadian UFO Survey data are designed to identify patterns rather than prove extraordinary claims. The survey gathers information from direct witness reports, researchers, existing databases, media accounts and online submissions. Reports are then coded according to characteristics such as duration, shape, reliability and strangeness. This approach helps researchers track trends over time, but it does not transform every report into a fully investigated case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+Canadian UFO Survey data are designed to identify patterns rather than prove extraordinary claims. The survey gathers information from direct witness reports, researchers, existing databases, media accounts and online submissions. Reports are then coded according to characteristics such as duration, shape, reliability and strangeness. This approach helps researchers track trends over time, but it does not transform every report into a fully investigated case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
-Likewise, databases such as NUFORC record what witnesses reported, not necessarily what occurred. A report's inclusion demonstrates that someone observed and described an event; it does not demonstrate that the event remained unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
+Likewise, databases such as NUFORC record what witnesses reported, not necessarily what occurred. A report's inclusion demonstrates that someone observed and described an event; it does not demonstrate that the event remained unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</span></span></span>
 
-The broader Saskatchewan numbers also encourage caution. The province records sightings every year, but its totals remain modest compared with Canada's largest provinces. Recent Canadian UFO Survey reporting placed Saskatchewan well behind Ontario, Quebec, British Columbia and Alberta in total annual reports. That makes Saskatoon and Regina important provincial reporting centres without making them exceptional national UFO locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: battlefordsnow.com">[battlefordsNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">battlefordsnow.com</span><span class="citation-popover-title">battlefords NOWStudies show UFO sightings rising in Sask</span><span class="citation-popover-snippet">and Canada11 Aug 2022 — According to the most recent Canadian UFO Survey, in 2020, Saskatchewan had 35 UFO sightings, which was among the...</span></span></span>
+The broader Saskatchewan numbers also encourage caution. The province records sightings every year, but its totals remain modest compared with Canada's largest provinces. Recent Canadian UFO Survey reporting placed Saskatchewan well behind Ontario, Quebec, British Columbia and Alberta in total annual reports. That makes Saskatoon and Regina important provincial reporting centres without making them exceptional national UFO locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: battlefordsnow.com">[battlefordsNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">battlefordsnow.com</span><span class="citation-popover-title">battlefords NOWStudies show UFO sightings rising in Sask</span><span class="citation-popover-snippet">and Canada11 Aug 2022 — According to the most recent Canadian UFO Survey, in 2020, Saskatchewan had 35 UFO sightings, which was among the...</span></span></span>
 
-A further limitation is survivorship. Many ordinary sightings are never reported, while some dramatic accounts receive repeated attention and become easier to find decades later. This can create the impression of concentrated activity even when the underlying pattern reflects reporting behaviour more than unusual events in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
+A further limitation is survivorship. Many ordinary sightings are never reported, while some dramatic accounts receive repeated attention and become easier to find decades later. This can create the impression of concentrated activity even when the underlying pattern reflects reporting behaviour more than unusual events in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-3-dark.svg" | relative_url }}" alt="City hubs illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## So are Saskatoon and Regina UFO hotspots?
 
-The evidence points to a qualified answer. Saskatoon and Regina are certainly Saskatchewan's principal UFO reporting hubs. Public databases, survey summaries and local media coverage repeatedly show them generating a substantial share of the province's reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+The evidence points to a qualified answer. Saskatoon and Regina are certainly Saskatchewan's principal UFO reporting hubs. Public databases, survey summaries and local media coverage repeatedly show them generating a substantial share of the province's reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
-However, the available evidence does not show that either city experiences a uniquely high concentration of unexplained phenomena. Their importance lies in population size, reporting culture, visibility and urban air traffic rather than in a proven concentration of mysterious events. In Saskatchewan's UFO history, they function less as paranormal hotspots and more as windows into how ordinary people encounter, interpret and report unusual things seen in the prairie sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
+However, the available evidence does not show that either city experiences a uniquely high concentration of unexplained phenomena. Their importance lies in population size, reporting culture, visibility and urban air traffic rather than in a proven concentration of mysterious events. In Saskatchewan's UFO history, they function less as paranormal hotspots and more as windows into how ordinary people encounter, interpret and report unusual things seen in the prairie sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News+2Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">ufo sightings up in saskatchewan</span><span class="citation-popover-snippet">Global NewsUFO sightings up in Saskatchewan &#124; Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</span><span class="citation-popover-meta">Published: April 13, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qaS94Z2IZG4" title="Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer">Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?</a></p><p class="youtube-embed-meta">Channel: CBC News Saskatchewan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qaS94Z2IZG4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Saskatoon and Regina real UFO hotspots?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Saskatoon and Regina real UFO hotspots?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores interpretation of sightings and evidence, complementing discussions of urban UFO reports and databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation of sightings and evidence, complementing discussions of urban UFO reports and databases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on categorizing sightings and assessing reports, useful for understanding whether reporting hubs indicate unusual activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on categorizing sightings and assessing reports, useful for understanding whether reporting hubs indicate unusual activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines UFO reports, evidence standards, witness credibility and reporting patterns relevant to evaluating hotspot claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports, evidence standards, witness credibility and reporting patterns relevant to evaluating hotspot claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims, witness reports and common misinterpretations of observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims, witness reports and common misinterpretations of observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="city-hubs-are-saskatoon-and-regina-real-ufo-hotspots-saskatchewan-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ However, the available evidence does not show that either city experiences a uni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ However, the available evidence does not show that either city experiences a uni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ However, the available evidence does not show that either city experiences a uni
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ However, the available evidence does not show that either city experiences a uni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ However, the available evidence does not show that either city experiences a uni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,128 +743,128 @@ However, the available evidence does not show that either city experiences a uni
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSK</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=lSK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State SKNUFORC Reports for State SK. Saskatoon SK Canada Triangle Open. Regina SK Canada Disk Open 05/14/2022 22...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: battlefordsnow.com  
    Title: battlefords NOWStudies show UFO sightings rising in Sask  
-   Link: <a href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Canada11 Aug 2022 — According to the most recent Canadian UFO Survey, in 2020, Saskatchewan had 35 UFO sightings, which was among the...</p></details>
+   Link:<a href="https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2022/08/11/studies-show-ufo-sightings-rising-in-sask-and-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Canada11 Aug 2022 — According to the most recent Canadian UFO Survey, in 2020, Saskatchewan had 35 UFO sightings, which was among the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; Canada  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Canada - Prince Edward Island, 28; Canada - Quebec, 474; Canada - Saskatchewan...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Canada - Prince Edward Island, 28; Canada - Quebec, 474; Canada - Saskatchewan...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=p040725" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p040725</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Date Posted 040725NUFORC Reports for Date Posted. Saskatoon (Canada) SK Canada Other Open 07/19/2004. Regina (Sask.) (...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=p040725" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p040725</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Date Posted 040725NUFORC Reports for Date Posted. Saskatoon (Canada) SK Canada Other Open 07/19/2004. Regina (Sask.) (...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196137" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196137</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1961371 Mar 2026 — Location: Saskatoon, SK, Canada Location details: Roughly 2400 feet Shape: Triangle Color: Black E...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=196137" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196137</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1961371 Mar 2026 — Location: Saskatoon, SK, Canada Location details: Roughly 2400 feet Shape: Triangle Color: Black E...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Some are specifically concerned with particular UFO sightings, while others are mor...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — Some are specifically concerned with particular UFO sightings, while others are mor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: globalnews.ca  
    Title: ufo sightings up in saskatchewan  
-   Link: <a href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsUFO sightings up in Saskatchewan | Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</p></details>
+   Link:<a href="https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2636162/ufo-sightings-up-in-saskatchewan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsUFO sightings up in Saskatchewan | Globalnews.caApril 13, 2016 — 13 Apr 2016 — SASKATOON – There were 1,267 UFO sightings repo...</p></details>
    Published: April 13, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyReport a Sighting! File a UFO report in Canada. We want to hear about your experience. The more det...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</p></details>
+   Link:<a href="https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/4323986/ufo-sightings-canada-2017-ufology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global NewsHere are the Canadian cities with the most UFO sightings...July 10, 2018 — 10 Jul 2018 — Montreal, Toronto, Vancouver and Edm...</p></details>
    Published: July 10, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalnews.ca  
    Title: survey says 1267 ufos sighted in canada in 2015 quebec leads way  
-   Link: <a href="https://globalnews.ca/news/2632498/survey-says-1267-ufos-sighted-in-canada-in-2015-quebec-leads-way/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2632498/survey-says-1267-ufos-sighted-in-canada-in-2015-quebec-leads-way/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey says 1267 UFOs sighted in Canada in 2015...11 Apr 2016 — The continued reporting of UFOs by the public and the yearly increase in...</p></details>
+   Link:<a href="https://globalnews.ca/news/2632498/survey-says-1267-ufos-sighted-in-canada-in-2015-quebec-leads-way/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/2632498/survey-says-1267-ufos-sighted-in-canada-in-2015-quebec-leads-way/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Survey says 1267 UFOs sighted in Canada in 2015...11 Apr 2016 — The continued reporting of UFOs by the public and the yearly increase in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/embed/2635473/amp/?pageurl=https%3A%2F%2Fglobalnews.ca%2Fnews%2F2636162%2Fufo-sightings-up-in-saskatchewan%2Famp%2F" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/embed/2635473/amp/?pageurl=https%3A%2F%2Fglobalnews.ca%2Fnews%2F2636162%2Fufo-sightings-up-in-saskatchewan%2Famp%2F</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings up in SaskatchewanA group that tracks UFO sightings says there were more sightings during 2015 in Saskatchewan than in any...</p></details>
+   Link:<a href="https://globalnews.ca/video/embed/2635473/amp/?pageurl=https%3A%2F%2Fglobalnews.ca%2Fnews%2F2636162%2Fufo-sightings-up-in-saskatchewan%2Famp%2F" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/embed/2635473/amp/?pageurl=https%3A%2F%2Fglobalnews.ca%2Fnews%2F2636162%2Fufo-sightings-up-in-saskatchewan%2Famp%2F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings up in SaskatchewanA group that tracks UFO sightings says there were more sightings during 2015 in Saskatchewan than in any...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: ufo sightings up in saskatchewan  
-   Link: <a href="https://globalnews.ca/video/2635473/ufo-sightings-up-in-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/2635473/ufo-sightings-up-in-saskatchewan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch News Videos OnlineA group that tracks UFO sightings says there were more sightings during 2015 in Saskatchewan than in any other ye...</p></details>
+   Link:<a href="https://globalnews.ca/video/2635473/ufo-sightings-up-in-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/2635473/ufo-sightings-up-in-saskatchewan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch News Videos OnlineA group that tracks UFO sightings says there were more sightings during 2015 in Saskatchewan than in any other ye...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/video/4335929/ufo-sightings-in-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/4335929/ufo-sightings-in-saskatchewan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Saskatchewan | Watch News Videos OnlineWhile overall UFO sightings are up in Canada, they are down in Saskatchewan as ex...</p></details>
+   Link:<a href="https://globalnews.ca/video/4335929/ufo-sightings-in-saskatchewan" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/video/4335929/ufo-sightings-in-saskatchewan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Saskatchewan | Watch News Videos OnlineWhile overall UFO sightings are up in Canada, they are down in Saskatchewan as ex...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/skaurorahunters/posts/2771992556320317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/skaurorahunters/posts/2771992556320317/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Saskatchewan?Did anyone else see this just now? My daughter said maybe it’s Santa’s sleigh. 🤪🤷🏻‍♀️😂 It appeared to be fal...</p></details>
+   Link:<a href="https://www.facebook.com/groups/skaurorahunters/posts/2771992556320317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/skaurorahunters/posts/2771992556320317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in Saskatchewan?Did anyone else see this just now? My daughter said maybe it’s Santa’s sleigh. 🤪🤷🏻‍♀️😂 It appeared to be fal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GlobalReginaNews/posts/watch-saskatchewan-recorded-37-ufo-sightings-last-year-one-of-the-highest-years-/10154269957876091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlobalReginaNews/posts/watch-saskatchewan-recorded-37-ufo-sightings-last-year-one-of-the-highest-years-/10154269957876091/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Saskatchewan recorded 37 UFO sightings last year...WATCH: Saskatchewan recorded 37 UFO sightings last year, one of the highest ye...</p></details>
+   Link:<a href="https://www.facebook.com/GlobalReginaNews/posts/watch-saskatchewan-recorded-37-ufo-sightings-last-year-one-of-the-highest-years-/10154269957876091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GlobalReginaNews/posts/watch-saskatchewan-recorded-37-ufo-sightings-last-year-one-of-the-highest-years-/10154269957876091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Saskatchewan recorded 37 UFO sightings last year...WATCH: Saskatchewan recorded 37 UFO sightings last year, one of the highest ye...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/</a>  
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/1kf3q0g/sask_ufo_sightings/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/472456403800111/posts/1095813488131063/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472456403800111/posts/1095813488131063/</a>  
+   Link:<a href="https://www.facebook.com/groups/472456403800111/posts/1095813488131063/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472456403800111/posts/1095813488131063/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/saskatchewan/comments/nwd8bb/edwin_fuhr_indicates_where_multiple_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/nwd8bb/edwin_fuhr_indicates_where_multiple_flying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it use to be available in there you heard for places in Saskatchewan?...</p></details>
+   Link:<a href="https://www.reddit.com/r/saskatchewan/comments/nwd8bb/edwin_fuhr_indicates_where_multiple_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/saskatchewan/comments/nwd8bb/edwin_fuhr_indicates_where_multiple_flying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it use to be available in there you heard for places in Saskatchewan?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries DRAFT 8  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Audio recording of reports to NUFORC, Saskatchewan: Regina L. Taylor...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Audio recording of reports to NUFORC, Saskatchewan: Regina L. Taylor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kentondejong.travel  
    Title: best places to encounter a ufo in canada  
-   Link: <a href="https://kentondejong.travel/blog/best-places-to-encounter-a-ufo-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://kentondejong.travel/blog/best-places-to-encounter-a-ufo-in-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dec 2025 — According to NUFORC, or the National UFO Reporting Center, there was one sighting in 1979 that even has them scratching the...</p></details>
+   Link:<a href="https://kentondejong.travel/blog/best-places-to-encounter-a-ufo-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://kentondejong.travel/blog/best-places-to-encounter-a-ufo-in-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dec 2025 — According to NUFORC, or the National UFO Reporting Center, there was one sighting in 1979 that even has them scratching the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: panow.com  
    Title: sask ufo club growing in popularity  
-   Link: <a href="https://panow.com/2015/02/13/sask-ufo-club-growing-in-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2015/02/13/sask-ufo-club-growing-in-popularity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sask. UFO club growing in popularity13 Feb 2015 — Saum said so far their UFO group has attracted people including retired RCMP officers...</p></details>
+   Link:<a href="https://panow.com/2015/02/13/sask-ufo-club-growing-in-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2015/02/13/sask-ufo-club-growing-in-popularity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sask. UFO club growing in popularity13 Feb 2015 — Saum said so far their UFO group has attracted people including retired RCMP officers...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaCanadian UFO Survey results. edit. According to the 2002 Canadian UFO Survey published by Ufology Research of M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaCanadian UFO Survey results. edit. According to the 2002 Canadian UFO Survey published by Ufology Research of M...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oK-mqAUdQ7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?...</p></details>

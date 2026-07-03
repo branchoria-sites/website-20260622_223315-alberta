@@ -256,21 +256,21 @@ image: /assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night
 
 ## Introduction
 
-Many [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) UFO reports begin with a simple observation: a light that appears to hover, drift, follow a vehicle, suddenly brighten, or seem to dart across the sky. In a province known for dark skies, long sightlines and open horizons, these impressions are common and often sincere. The key point is that apparent motion is not always real motion. Human observers are surprisingly poor at judging the distance, speed and height of isolated lights at night, especially when there are few landmarks for comparison. In Manitoba, where much of the landscape offers unobstructed views for tens of kilometres, ordinary astronomical and aviation lights can appear far stranger than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+Many [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }}) UFO reports begin with a simple observation: a light that appears to hover, drift, follow a vehicle, suddenly brighten, or seem to dart across the sky. In a province known for dark skies, long sightlines and open horizons, these impressions are common and often sincere. The key point is that apparent motion is not always real motion. Human observers are surprisingly poor at judging the distance, speed and height of isolated lights at night, especially when there are few landmarks for comparison. In Manitoba, where much of the landscape offers unobstructed views for tens of kilometres, ordinary astronomical and aviation lights can appear far stranger than they really are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-1-dark.svg" | relative_url }}" alt="Night Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because night-time lights are the largest category of UFO reports in Canada. Surveys conducted by Manitoba-based researchers consistently show that point-like lights dominate sightings, while only a small minority of cases remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</span></span></span>
+This matters because night-time lights are the largest category of UFO reports in Canada. Surveys conducted by Manitoba-based researchers consistently show that point-like lights dominate sightings, while only a small minority of cases remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</span></span></span>
 
 ## Planets, aircraft and horizon effects
 
 The most common sources of apparent UFO motion are not exotic craft but bright celestial objects and ordinary aircraft.
 
-Venus is the classic example. It is often the brightest object in the night sky apart from the Moon and can remain low above the horizon for long periods. To someone expecting a moving object, Venus can appear to hover, pulse, change colour or even follow a moving car. Astronomers have noted for decades that Venus generates a large share of UFO reports because its brightness and position make it look unusual to casual observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+Venus is the classic example. It is often the brightest object in the night sky apart from the Moon and can remain low above the horizon for long periods. To someone expecting a moving object, Venus can appear to hover, pulse, change colour or even follow a moving car. Astronomers have noted for decades that Venus generates a large share of UFO reports because its brightness and position make it look unusual to casual observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
-Atmospheric conditions can make the effect stronger. When a bright planet sits low over the horizon, layers of turbulent air can cause it to twinkle, shimmer or flash different colours. An observer may interpret these changes as manoeuvres or structured lighting rather than atmospheric distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+Atmospheric conditions can make the effect stronger. When a bright planet sits low over the horizon, layers of turbulent air can cause it to twinkle, shimmer or flash different colours. An observer may interpret these changes as manoeuvres or structured lighting rather than atmospheric distortion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
-Aircraft create a different illusion. A plane flying directly towards an observer may appear almost stationary because its motion is largely along the line of sight rather than across it. For several minutes it can seem to hover in one place. Only when it changes direction or passes overhead does its movement become obvious. Landing lights can also make an aircraft appear much closer than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+Aircraft create a different illusion. A plane flying directly towards an observer may appear almost stationary because its motion is largely along the line of sight rather than across it. For several minutes it can seem to hover in one place. Only when it changes direction or passes overhead does its movement become obvious. Landing lights can also make an aircraft appear much closer than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
 Manitoba's major flight corridors and the approaches to airports around Winnipeg, Brandon, Thompson and other communities mean that aircraft lights regularly become part of the province's UFO reporting pattern. A distant aircraft seen over a dark horizon can look dramatically different from the same aircraft viewed in daylight.
 
@@ -290,7 +290,7 @@ Several well-known perception effects contribute to mistaken motion:
 * **Autokinesis**: a stationary light observed against a dark background may appear to drift or zigzag because of tiny involuntary eye movements.
 * **Relative motion**: a light can seem to move when clouds, a vehicle or the observer are moving instead.
 * **Approach illusion**: lights travelling toward the observer show little sideways movement, creating the impression of hovering.
-* **Horizon compression**: objects near the horizon can seem larger and more dramatic than the same objects higher in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+* **Horizon compression**: objects near the horizon can seem larger and more dramatic than the same objects higher in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
 These effects help explain why witnesses sometimes report lights that appear to stop, accelerate or reverse direction even when the underlying source is stationary or moving steadily.
 
@@ -298,7 +298,7 @@ These effects help explain why witnesses sometimes report lights that appear to 
 <img src="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-2-dark.svg" | relative_url }}" alt="Night Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Manitoba example: the northern lights that sparked UFO speculation
 
-A useful illustration came from northern Manitoba in 2023, when unusual lights filmed near [Lynn Lake]({{ 'lynn-lake/' | relative_url }}) attracted online attention and discussion within UFO communities. Witnesses described being amazed by what they saw, but the case also highlighted how difficult it can be to interpret distant night-time lights from video footage alone. Investigators and commentators immediately considered more conventional explanations, including aircraft, atmospheric effects and other identifiable light sources before reaching more extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">City News Winnipeg Strange lights over Northern Manitoba cause stir online</span><span class="citation-popover-snippet">CityNews WinnipegStrange lights over Northern Manitoba cause stir onlineAugust 30, 2023 — 30 Aug 2023 — A video of mysterious lights capt...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
+A useful illustration came from northern Manitoba in 2023, when unusual lights filmed near [Lynn Lake]({{ 'lynn-lake/' | relative_url }}) attracted online attention and discussion within UFO communities. Witnesses described being amazed by what they saw, but the case also highlighted how difficult it can be to interpret distant night-time lights from video footage alone. Investigators and commentators immediately considered more conventional explanations, including aircraft, atmospheric effects and other identifiable light sources before reaching more extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipeg.citynews.ca">[CityNews Winnipeg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipeg.citynews.ca</span><span class="citation-popover-title">City News Winnipeg Strange lights over Northern Manitoba cause stir online</span><span class="citation-popover-snippet">CityNews WinnipegStrange lights over Northern Manitoba cause stir onlineAugust 30, 2023 — 30 Aug 2023 — A video of mysterious lights capt...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 The incident was notable less because it proved anything unusual and more because it demonstrated a recurring pattern in Manitoba reports: a distant light source recorded under dark-sky conditions can appear highly unusual when viewers lack information about distance, direction, weather conditions or local air traffic.
 
@@ -306,9 +306,9 @@ The incident was notable less because it proved anything unusual and more becaus
 
 Many people assume that a sighting lasting twenty or thirty minutes is stronger evidence for something extraordinary. In practice, investigators often reach the opposite conclusion.
 
-A meteor or fireball is usually brief. A bright planet, however, can remain visible for hours. A distant aircraft may stay in view for an extended period if its path aligns with the observer. Satellites can also produce striking appearances, including sudden brightening and fading as sunlight reflects from their surfaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network+2Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+A meteor or fireball is usually brief. A bright planet, however, can remain visible for hours. A distant aircraft may stay in view for an extended period if its path aligns with the observer. Satellites can also produce striking appearances, including sudden brightening and fading as sunlight reflects from their surfaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network+2Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
-This is one reason Canadian UFO researchers pay close attention to duration. A light reported as hovering in roughly the same position for a long period often points investigators toward astronomical explanations before they consider more unusual possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</span></span></span>
+This is one reason Canadian UFO researchers pay close attention to duration. A light reported as hovering in roughly the same position for a long period often points investigators toward astronomical explanations before they consider more unusual possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
@@ -331,7 +331,7 @@ Investigators typically find the following details most useful:
 * Presence of sound.
 * Independent witnesses from different locations.
 * Photographs or video accompanied by original files and metadata.
-* Information about nearby aircraft, satellites or astronomical objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+* Information about nearby aircraft, satellites or astronomical objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
 </div>
 
@@ -343,201 +343,201 @@ Reports become more persuasive when multiple observers see the same event from d
 
 Manitoba is home to some of Canada's most famous UFO stories, yet the province's day-to-day reporting pattern is far less dramatic. Most sightings are not close encounters or structured craft. They are distant lights observed under conditions that make distance, speed and motion difficult to judge.
 
-Understanding mistaken motion does not dismiss witnesses. Rather, it explains why honest observers can report hovering objects, sudden accelerations or impossible manoeuvres when viewing planets, aircraft, satellites or other ordinary lights under dark-sky conditions. The lesson from Manitoba's broader sighting record is that unusual appearance alone is rarely enough. The strongest cases are the ones that survive careful checks of astronomy, aviation and perception effects, while many others become less mysterious once those factors are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report+2Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</span></span></span>
+Understanding mistaken motion does not dismiss witnesses. Rather, it explains why honest observers can report hovering objects, sudden accelerations or impossible manoeuvres when viewing planets, aircraft, satellites or other ordinary lights under dark-sky conditions. The lesson from Manitoba's broader sighting record is that unusual appearance alone is rarely enough. The strongest cases are the ones that survive careful checks of astronomy, aviation and perception effects, while many others become less mysterious once those factors are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadianuforeport.ca">[Canadian UFO Report+2Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadianuforeport.ca</span><span class="citation-popover-snippet">Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ov3fYgGwy60" title="Venus -the Morning Star and Evening Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer">Venus -the Morning Star and Evening Star</a></p><p class="youtube-embed-meta">Channel: Explaining Science &middot; Views: 20.1K &middot; Uploaded: November 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ov3fYgGwy60">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Manitoba lights can look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Manitoba lights can look like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses recurring sighting characteristics and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses recurring sighting characteristics and investigative approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, stars and sky phenomena commonly mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, stars and sky phenomena commonly mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical observing skills that reduce misidentification of lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical observing skills that reduce misidentification of lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating perception, evidence and extraordinary interpretations of lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating perception, evidence and extraordinary interpretations of lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor"><img src="{{ '/assets/images/marketplace-covers/87db59f7a56cfee60f4d.jpg' | relative_url }}" alt="Listing image for Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Dark Night Sky Falling Stars Framed Canvas Print Wall Art Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art"><img src="{{ '/assets/images/marketplace-covers/569e554901569d019b69.jpg' | relative_url }}" alt="Listing image for Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Woman Coast Painting 5&quot;x7&quot; Print on Matte Paper Night Sky Magic Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="night-lights-why-manitoba-lights-can-look-like-ufos-manitoba-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,127 +743,127 @@ Understanding mistaken motion does not dismiss witnesses. Rather, it explains wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: 14884 jupiter venus mistaken ufos  
-   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective it co...</p></details>
+   Link:<a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;13 Mar 2012 — Because Venus orbits the sun inside our own orbit, from our perspective it co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: winnipeg.citynews.ca  
    Title: City News Winnipeg Strange lights over Northern Manitoba cause stir online  
-   Link: <a href="https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews WinnipegStrange lights over Northern Manitoba cause stir onlineAugust 30, 2023 — 30 Aug 2023 — A video of mysterious lights capt...</p></details>
+   Link:<a href="https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/" target="_blank" rel="noopener noreferrer nofollow">https://winnipeg.citynews.ca/2023/08/30/strange-lights-over-northern-manitoba-cause-stir-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews WinnipegStrange lights over Northern Manitoba cause stir onlineAugust 30, 2023 — 30 Aug 2023 — A video of mysterious lights capt...</p></details>
    Published: August 30, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>canada.caPreview: Sky Canada Report from the Office of the Chief...15 Jan 2025 — Chart 15: Do you think reports of UAP (UFO) sightings a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
    Title: signs of alien life detected on venus 12071625  
-   Link: <a href="https://news.sky.com/story/signs-of-alien-life-detected-on-venus-12071625" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/signs-of-alien-life-detected-on-venus-12071625</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microbes unlike any life on Earth could be thriving high in the clouds of Venus, according to a new...Read more...</p></details>
+   Link:<a href="https://news.sky.com/story/signs-of-alien-life-detected-on-venus-12071625" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/signs-of-alien-life-detected-on-venus-12071625</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microbes unlike any life on Earth could be thriving high in the clouds of Venus, according to a new...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canadianuforeport.ca  
-   Link: <a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</p></details>
+   Link:<a href="https://canadianuforeport.ca/" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO ReportCanadian UFO SurveyExplore annual findings on UFO sightings across Canada. By Ufology... JUST RELEASED - THE 2025 CAN...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canadianuforeport.ca  
    Title: Canadian UFO Report ANNUAL SURVEYS  
-   Link: <a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious scientific attention...</p></details>
+   Link:<a href="https://canadianuforeport.ca/annual-surveys" target="_blank" rel="noopener noreferrer nofollow">https://canadianuforeport.ca/annual-surveys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL SURVEYS - Canadian UFO SurveyIn either situation, it can be argued that UFO reports deserve and merit serious scientific attention...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: popsci.com  
    Title: Popular Science You didn't see a UFO  
-   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — The classic culprit for UFO sightings is a group of clouds moving in front of Venus. N...</p></details>
+   Link:<a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was probably one of these things.10 Sept 2023 — The classic culprit for UFO sightings is a group of clouds moving in front of Venus. N...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</p></details>
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — The survey also states that the average duration of Canadian UFO sightings was 47 minutes, a “very significant” increase ov...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VenusFrom Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VenusFrom Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
    Title: ufos over manitoba spacex satellites  
-   Link: <a href="https://globalnews.ca/news/6750532/ufos-over-manitoba-spacex-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6750532/ufos-over-manitoba-spacex-satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Manitoba skies last weekend? Not quite, says...30 Mar 2020 — Strange sites over Manitoba last weekend weren&#x27;t UFOs, but new sate...</p></details>
+   Link:<a href="https://globalnews.ca/news/6750532/ufos-over-manitoba-spacex-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6750532/ufos-over-manitoba-spacex-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Manitoba skies last weekend? Not quite, says...30 Mar 2020 — Strange sites over Manitoba last weekend weren&#x27;t UFOs, but new sate...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No way they could be aircraft. Four sets of them. 06-Feb-09. Not Given Rossendale.Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tourismwinnipeg.com  
-   Link: <a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg, Manitoba: Canada&#x27;s Twilight ZoneThompson&#x27;s was the first of many Manitoban UFO sightings and with America&#x27;s recent confirmation...</p></details>
+   Link:<a href="https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismwinnipeg.com/things-to-do/only-in-the-peg/read%2Cpost/1254/winnipeg-manitoba-canada-s-twilight-zone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg, Manitoba: Canada&#x27;s Twilight ZoneThompson&#x27;s was the first of many Manitoban UFO sightings and with America&#x27;s recent confirmation...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFO survey results releasedMaralee speaks with UFO researcher Chris Rutkowski about the most recent annual survey and how AI can...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: everythinggp.com  
    Title: alberta third best region for canadian ufo sightings study  
-   Link: <a href="https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/" target="_blank" rel="noopener noreferrer nofollow">https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta third-best region for Canadian UFO sightings: study16 Apr 2024 — Alberta has frequently found itself near the top of the UFO sigh...</p></details>
+   Link:<a href="https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/" target="_blank" rel="noopener noreferrer nofollow">https://everythinggp.com/2024/04/16/alberta-third-best-region-for-canadian-ufo-sightings-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alberta third-best region for Canadian UFO sightings: study16 Apr 2024 — Alberta has frequently found itself near the top of the UFO sigh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anadian UFO Survey” produced by a group of Manitoba-based volunteers called...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Strange Bright light in the sky east of Winnipeg, 9:55pm  
-   Link: <a href="https://www.reddit.com/r/Manitoba/comments/tpb7ni/strange_bright_light_in_the_sky_east_of_winnipeg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Manitoba/comments/tpb7ni/strange_bright_light_in_the_sky_east_of_winnipeg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright light about 5x brighter than any stars, satellites, planes I’ve ever seen, slowly travelling in a southbound straight line, sighte...</p></details>
+   Link:<a href="https://www.reddit.com/r/Manitoba/comments/tpb7ni/strange_bright_light_in_the_sky_east_of_winnipeg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Manitoba/comments/tpb7ni/strange_bright_light_in_the_sky_east_of_winnipeg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright light about 5x brighter than any stars, satellites, planes I’ve ever seen, slowly travelling in a southbound straight line, sighte...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DBy1QTyP_qs/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBy1QTyP_qs/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the early hours of Saturday, June 6, as northern lights were visible...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DBy1QTyP_qs/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DBy1QTyP_qs/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the early hours of Saturday, June 6, as northern lights were visible...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: livescience.com  
    Title: 32849 7 ways to generate a great space hoax  
-   Link: <a href="https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Things Most Often Mistaken for UFOs10 Nov 2010 — The late 1940s and early 1950s were a great time for spotting UFOs and aliens in New M...</p></details>
+   Link:<a href="https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Things Most Often Mistaken for UFOs10 Nov 2010 — The late 1940s and early 1950s were a great time for spotting UFOs and aliens in New M...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: armaghplanet.com  
    Title: Here some of the most common inspirations for UFO reports.Read more  
-   Link: <a href="https://armaghplanet.com/revealed-5-secret-solutions-to-the-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/revealed-5-secret-solutions-to-the-ufo-mystery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: 5 secret solutions to the UFO mystery23 Mar 2011 — Most often these UFOs turn out to be not as mysterious or alien as they firs...</p></details>
+   Link:<a href="https://armaghplanet.com/revealed-5-secret-solutions-to-the-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/revealed-5-secret-solutions-to-the-ufo-mystery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealed: 5 secret solutions to the UFO mystery23 Mar 2011 — Most often these UFOs turn out to be not as mysterious or alien as they firs...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dailypost.co.uk  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/what-mysterious-shimmering-ufo-spotted-15510549" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/what-mysterious-shimmering-ufo-spotted-15510549</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the mysterious shimmering &#x27;UFO&#x27; spotted above...5 Dec 2018 — The planet, which appears to change colour and shimmer, is commonly mi...</p></details>
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/what-mysterious-shimmering-ufo-spotted-15510549" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/what-mysterious-shimmering-ufo-spotted-15510549</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the mysterious shimmering &#x27;UFO&#x27; spotted above...5 Dec 2018 — The planet, which appears to change colour and shimmer, is commonly mi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: campbellrivermirror.com  
-   Link: <a href="https://campbellrivermirror.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://campbellrivermirror.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...Mar 19, 2026 — Most UFO sightings are reports of lights in the sky, often either white...</p></details>
+   Link:<a href="https://campbellrivermirror.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://campbellrivermirror.com/2026/03/19/south-cariboo-woman-helps-document-the-2025-canadian-1052-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Cariboo woman helps document 2025&#x27;s 1052...Mar 19, 2026 — Most UFO sightings are reports of lights in the sky, often either white...</p></details>

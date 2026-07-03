@@ -284,19 +284,19 @@ image: /assets/images/Yukon_581b4d_northern_sky_explana_5ca616-overview-social.j
 
 
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
-The useful question is not “were people fooled?” but “what clues separate a genuinely unresolved report from a vivid mistake?” In Yukon, the strongest approach is to look for timing, direction, duration, motion, sound, weather, independent witnesses, aviation data, satellite predictions and space-weather conditions. Canadian agencies make the same distinction: “unidentified” means not yet identified from the available information, not automatically alien, secret, or unexplainable. Transport Canada notes that aviation records using “UFO” can include drones, balloons, meteors, weather phenomena, birds and other ordinary sources, while the Sky Canada review found that Canada lacks a single standardised system for public UAP reporting and follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — the term “UFO” can be used to describe many things, including sightings o...</span></span></span>
+The useful question is not “were people fooled?” but “what clues separate a genuinely unresolved report from a vivid mistake?” In Yukon, the strongest approach is to look for timing, direction, duration, motion, sound, weather, independent witnesses, aviation data, satellite predictions and space-weather conditions. Canadian agencies make the same distinction: “unidentified” means not yet identified from the available information, not automatically alien, secret, or unexplainable. Transport Canada notes that aviation records using “UFO” can include drones, balloons, meteors, weather phenomena, birds and other ordinary sources, while the Sky Canada review found that Canada lacks a single standardised system for public UAP reporting and follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — the term “UFO” can be used to describe many things, including sightings o...</span></span></span>
 
 ## Why Yukon skies turn small clues into big stories
 
 Yukon is one of the best places in Canada to see the night sky, but that is exactly why it can also be one of the best places to misread it. Away from Whitehorse and a few other centres, there are fewer lights, fewer buildings, fewer aircraft noise cues and wider stretches of dark road. A bright object can seem closer than it is. A slow light can look stationary when there is no nearby tree line or city skyline to compare it with. A silent object may simply be too high or too distant for sound to arrive.
 
-The aurora adds another layer. Travel Yukon promotes the territory’s northern lights season as running from mid-August to mid-April, with the best viewing on dark, clear, preferably moonless nights between about 10 pm and 3 am. Those are also the conditions under which people are most likely to be outside looking up, driving dark highways, or photographing the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-snippet">Open source on travelyukon.com.</span></span></span>
+The aurora adds another layer. Travel Yukon promotes the territory’s northern lights season as running from mid-August to mid-April, with the best viewing on dark, clear, preferably moonless nights between about 10 pm and 3 am. Those are also the conditions under which people are most likely to be outside looking up, driving dark highways, or photographing the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelyukon.com">[travelyukon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelyukon.com</span><span class="citation-popover-snippet">Open source on travelyukon.com.</span></span></span>
 
 Yukon’s UFO history therefore needs a different kind of reading from a city-centred report. A bright moving light over a suburb may be checked quickly against airport traffic, street cameras or dozens of phone videos. A light seen between [Fox Lake]({{ 'fox-lake/' | relative_url }}) and Carmacks, or over a remote camp road, may be remembered clearly by the witness but leave almost no independent record. That gap between vivid experience and thin evidence is where many northern UFO stories live.
 
 ## Aurora, darkness and distance
 
-The aurora is not a UFO explanation for every strange Yukon sighting, but it is one of the territory’s most important sky conditions. It can appear as bands, curtains, rays, arcs or patches of colour. During stronger activity it can move rapidly, change shape, brighten, fade and spread across large parts of the sky. NOAA’s aurora guidance describes displays that can develop curls and waves and move from one horizon to another as geomagnetic activity increases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Space Weather Prediction CenterAurora Tutorial &#124; NOAA / NWS Space...When geomagnetic activity increases further, the aurora develops gre...</span></span></span>
+The aurora is not a UFO explanation for every strange Yukon sighting, but it is one of the territory’s most important sky conditions. It can appear as bands, curtains, rays, arcs or patches of colour. During stronger activity it can move rapidly, change shape, brighten, fade and spread across large parts of the sky. NOAA’s aurora guidance describes displays that can develop curls and waves and move from one horizon to another as geomagnetic activity increases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Space Weather Prediction CenterAurora Tutorial &#124; NOAA / NWS Space...When geomagnetic activity increases further, the aurora develops gre...</span></span></span>
 
 That matters because many UFO reports begin with a mismatch between what a person expects the sky to do and what it actually does. A visitor expecting slow green curtains may be startled by pulsing rays, sudden brightening, reddish patches or overhead motion. A driver on a dark road may see only part of a wider auroral form through trees or cloud and interpret it as a discrete object. A camera may also intensify colour and structure that looked weaker to the naked eye, turning a faint atmospheric display into an apparently sharp or uncanny image.
 
@@ -308,9 +308,9 @@ The key clues are practical. Aurora usually covers a broad area, changes shape r
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-1-dark.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors can be brief, bright and unforgettable
 
-Meteors are among the most common causes of sudden “what was that?” reports, and Yukon has a famous example nearby: the Tagish Lake fireball of 18 January 2000. It was seen from the Yukon, northern British Columbia, Alaska and beyond. Accounts describe a brilliant multi-coloured fireball, daylight-like illumination, sonic booms and later scientific recovery of rare meteorite material from the frozen landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">the fireball from Whitehorse, Yukon Territory, finding exploded fragments. managed to recover about 200...</span></span></span>
+Meteors are among the most common causes of sudden “what was that?” reports, and Yukon has a famous example nearby: the Tagish Lake fireball of 18 January 2000. It was seen from the Yukon, northern British Columbia, Alaska and beyond. Accounts describe a brilliant multi-coloured fireball, daylight-like illumination, sonic booms and later scientific recovery of rare meteorite material from the frozen landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Western Meteor Physics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">the fireball from Whitehorse, Yukon Territory, finding exploded fragments. managed to recover about 200...</span></span></span>
 
-The Tagish Lake event is useful because it shows how a natural object can look spectacular enough to become a major public event. Witnesses reported green flashes, loud bangs and a dramatic explosion. Some people experiencing only part of such an event could easily describe it as an aircraft, missile, explosion, strange object or UFO before the meteor explanation became clear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://yukonnuggets.com/stories/yukon-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukonnuggets.com">[yukonnuggets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukonnuggets.com</span><span class="citation-popover-title">yukon meteorite</span><span class="citation-popover-snippet">Fragments of a meteor, that stunned viewers when it exploded in a giant fireball over the Yukon in January of 2000, could help explain th...</span></span></span>
+The Tagish Lake event is useful because it shows how a natural object can look spectacular enough to become a major public event. Witnesses reported green flashes, loud bangs and a dramatic explosion. Some people experiencing only part of such an event could easily describe it as an aircraft, missile, explosion, strange object or UFO before the meteor explanation became clear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://yukonnuggets.com/stories/yukon-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukonnuggets.com">[yukonnuggets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukonnuggets.com</span><span class="citation-popover-title">yukon meteorite</span><span class="citation-popover-snippet">Fragments of a meteor, that stunned viewers when it exploded in a giant fireball over the Yukon in January of 2000, could help explain th...</span></span></span>
 
 Meteors create several recurring traps in UFO interpretation:
 
@@ -329,11 +329,11 @@ For Yukon reports, the meteor explanation is strongest when the sighting is brie
 
 ## Satellites and rocket effects have changed the UFO landscape
 
-Older Yukon UFO stories were often compared with aircraft, stars, planets or meteors. Modern sightings need another layer: [satellites]({{ 'satellites-8f2167/' | relative_url }}) and rocket activity. Starlink and other satellite constellations have made rows of moving lights a familiar but still startling sight. Space.com’s 2026 Starlink guide describes the satellites as visible to the unaided eye, sometimes appearing as a “string of pearls” or a train of bright lights, especially shortly after launch before they spread out and become harder to see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy</span></span></span>
+Older Yukon UFO stories were often compared with aircraft, stars, planets or meteors. Modern sightings need another layer: [satellites]({{ 'satellites-8f2167/' | relative_url }}) and rocket activity. Starlink and other satellite constellations have made rows of moving lights a familiar but still startling sight. Space.com’s 2026 Starlink guide describes the satellites as visible to the unaided eye, sometimes appearing as a “string of pearls” or a train of bright lights, especially shortly after launch before they spread out and become harder to see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy</span></span></span>
 
 This is highly relevant to Yukon because dark skies improve visibility. A satellite train that might be barely noticed in a bright urban sky can look dramatic over a northern road, cabin, lake or mining camp. The motion is often smooth and silent. To an unprepared witness, a line of lights crossing the sky can look organised, artificial and large, even though the “object” is really a sequence of separate satellites reflecting sunlight.
 
-Rocket fuel dumps and upper-stage venting can be even stranger. In recent years, glowing spirals and cloud-like forms after SpaceX launches have been mistaken for UFOs in several places. Reporting on the phenomenon explains that vented fuel or vapour at high altitude can freeze or reflect sunlight, producing luminous spirals when the rocket stage is spinning; the effect is most visible when the ground is dark but the high-altitude material remains sunlit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Open source on washingtonpost.com.</span></span></span>
+Rocket fuel dumps and upper-stage venting can be even stranger. In recent years, glowing spirals and cloud-like forms after SpaceX launches have been mistaken for UFOs in several places. Reporting on the phenomenon explains that vented fuel or vapour at high altitude can freeze or reflect sunlight, producing luminous spirals when the rocket stage is spinning; the effect is most visible when the ground is dark but the high-altitude material remains sunlit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Open source on washingtonpost.com.</span></span></span>
 
 For Yukon, the lesson is not that every spiral or line of lights is Starlink or SpaceX. It is that a serious investigation now has to check launch times, orbital predictions and satellite visibility before treating a sky report as deeply anomalous. A report that once might have sat in the “unexplained lights” category can now sometimes be tested against public satellite trackers, launch notices and astronomical records.
 
@@ -341,7 +341,7 @@ For Yukon, the lesson is not that every spiral or line of lights is Starlink or 
 
 Aircraft are a routine explanation in UFO reporting, but in Yukon the explanation has to be handled carefully. The territory has real aviation activity: scheduled flights, medevac flights, charter operations, bush flying, military or NORAD-related awareness in broader northern airspace, and aircraft moving between Alaska, western Canada and the North. Yet many sightings occur far from airports, where aircraft noise may be faint or absent and where a plane’s lights can appear to hover during approach or when travelling almost directly towards the observer.
 
-Aviation records also use language that can mislead non-specialists. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, captures preliminary aviation occurrence information, much of it from NAV CANADA and other aviation sources. Transport Canada has explicitly cautioned that “UFO” in such records can refer to a range of things including drones, balloons, meteors, weather phenomena and birds, rather than extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
+Aviation records also use language that can mislead non-specialists. Transport Canada’s Civil Aviation Daily Occurrence Reporting System, known as CADORS, captures preliminary aviation occurrence information, much of it from NAV CANADA and other aviation sources. Transport Canada has explicitly cautioned that “UFO” in such records can refer to a range of things including drones, balloons, meteors, weather phenomena and birds, rather than extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
 This matters for Yukon because an aviation-linked UFO report may be stronger than a casual roadside account, but it still needs interpretation. A pilot report may include better timing, direction and altitude estimates. It may also be affected by cockpit geometry, reflections, satellite visibility, atmospheric conditions or incomplete traffic information. A ground witness may see landing lights, navigation lights or a distant aircraft turning and interpret the changing brightness as acceleration or disappearance.
 
@@ -351,7 +351,7 @@ The strongest aircraft clues are steady motion, navigation-light colours, alignm
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-2-dark.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1996 Fox Lake case shows why misidentification is not always simple
 
-The 11 December 1996 [Klondike Highway]({{ 'klondike-case/' | relative_url }}) and Fox Lake sightings remain Yukon’s best-known UFO story. Local and UFO-archive accounts describe multiple witnesses from Fox Lake, Carmacks, Pelly Crossing and Mayo reporting a very large object or formation of lights. The Whitehorse Star reported in 2006 that 31 people had given eyewitness testimony, with accounts centred on a craft first seen near Fox Lake and later reported by others farther north. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitehorsestar.com">[Whitehorse Daily Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitehorsestar.com</span><span class="citation-popover-title">yukoners to put ufos under scrutiny</span><span class="citation-popover-snippet">yukoners to put ufos under scrutiny</span></span></span>
+The 11 December 1996 [Klondike Highway]({{ 'klondike-case/' | relative_url }}) and Fox Lake sightings remain Yukon’s best-known UFO story. Local and UFO-archive accounts describe multiple witnesses from Fox Lake, Carmacks, Pelly Crossing and Mayo reporting a very large object or formation of lights. The Whitehorse Star reported in 2006 that 31 people had given eyewitness testimony, with accounts centred on a craft first seen near Fox Lake and later reported by others farther north.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitehorsestar.com">[Whitehorse Daily Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitehorsestar.com</span><span class="citation-popover-title">yukoners to put ufos under scrutiny</span><span class="citation-popover-snippet">yukoners to put ufos under scrutiny</span></span></span>
 
 This case belongs on a page about mistaken sightings not because it has been neatly debunked, but because it shows the limits of quick explanations. A meteor does not comfortably match a long-duration, apparently slow, multi-witness report. A single aircraft does not easily match claims of enormous apparent size. Aurora alone is not a good fit for a structured object with rows of lights. At the same time, the case also lacks the kind of hard evidence that would settle it: clear photographs, radar data, recovered material or official technical findings.
 
@@ -363,7 +363,7 @@ That distinction is important for public readers. “Unresolved” does not mean
 <img src="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-3-dark.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yukon_581b4d_northern_sky_explana_5ca616-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to separate clues from guesses
 
-A good Yukon sky report does not need professional equipment to be useful. It needs details that can be checked. The Sky Canada review found that Canadian UAP reporting is fragmented across different organisations and forms, which makes consistent analysis difficult. That is a national problem, but it is especially relevant in a territory where small communities and remote roads can produce strong stories with limited documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial</span></span></span>
+A good Yukon sky report does not need professional equipment to be useful. It needs details that can be checked. The Sky Canada review found that Canadian UAP reporting is fragmented across different organisations and forms, which makes consistent analysis difficult. That is a national problem, but it is especially relevant in a territory where small communities and remote roads can produce strong stories with limited documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial</span></span></span>
 
 The most useful questions are simple:
 
@@ -399,194 +399,194 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Yukon Skies Create Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Yukon Skies Create Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores reported aerial phenomena and encourages evidence-based examination of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reported aerial phenomena and encourages evidence-based examination of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on witness testimony, aviation observations, and standards of evidence relevant to evaluating sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness testimony, aviation observations, and standards of evidence relevant to evaluating sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how sightings are evaluated and how unexplained reports differ from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how sightings are evaluated and how unexplained reports differ from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify astronomical objects, meteors, satellites, and sky phenomena often mistaken for anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify astronomical objects, meteors, satellites, and sky phenomena often mistaken for anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/4dc5774e5bd9cab05918.jpg' | relative_url }}" alt="Listing image for PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">PRETTY BLUE NIGHT SKY REFLECTION IN RIVER FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for London Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f6673332d2fee20ff1a.jpg' | relative_url }}" alt="Listing image for London Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">London Night Sky Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search <span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starry Night Sky Black White Canvas Print Large Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/51a0fcf6fea98ad82b4e.jpg' | relative_url }}" alt="Listing image for Starry Night Sky Black White Canvas Print Large Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">Starry Night Sky Black White Canvas Print Large Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night sky print">Search<span data-ebay-domain-label>eBay.co.uk</span>: night sky print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+sky+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print" data-ebay-reference="sky-clues-why-yukon-skies-create-strange-sightings-yukon-night-sky-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,198 +792,198 @@ The most useful legacy of Yukon’s mistaken sightings is therefore not embarras
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — the term “UFO” can be used to describe many things, including sightings o...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — the term “UFO” can be used to describe many things, including sightings o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: travelyukon.com  
-   Link: <a href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/media/northern-lights</a>  
+   Link:<a href="https://www.travelyukon.com/en/media/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/media/northern-lights</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yukonnuggets.com  
    Title: yukon meteorite  
-   Link: <a href="https://yukonnuggets.com/stories/yukon-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://yukonnuggets.com/stories/yukon-meteorite</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of a meteor, that stunned viewers when it exploded in a giant fireball over the Yukon in January of 2000, could help explain th...</p></details>
+   Link:<a href="https://yukonnuggets.com/stories/yukon-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://yukonnuggets.com/stories/yukon-meteorite</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fragments of a meteor, that stunned viewers when it exploded in a giant fireball over the Yukon in January of 2000, could help explain th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gi.alaska.edu  
    Title: aurora forecast  
-   Link: <a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
+   Link:<a href="https://www.gi.alaska.edu/monitors/aurora-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/monitors/aurora-forecast</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: travelyukon.com  
-   Link: <a href="https://www.travelyukon.com/en/discover-yukon/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/discover-yukon/northern-lights</a>  
+   Link:<a href="https://www.travelyukon.com/en/discover-yukon/northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/discover-yukon/northern-lights</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: travelyukon.com  
-   Link: <a href="https://www.travelyukon.com/en/get-inspired/ufos-yukon" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/get-inspired/ufos-yukon</a>  
+   Link:<a href="https://www.travelyukon.com/en/get-inspired/ufos-yukon" target="_blank" rel="noopener noreferrer nofollow">https://www.travelyukon.com/en/get-inspired/ufos-yukon</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
+   Link:<a href="https://www.canada.ca/en/library-[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-[archives</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: Northern lights forecast  
-   Link: <a href="https://www.space.com/live/aurora-forecast-live-blog-2025-2026-season" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/live/aurora-forecast-live-blog-2025-2026-season</a>  
+   Link:<a href="https://www.space.com/live/aurora-forecast-live-blog-2025-2026-season" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/live/aurora-forecast-live-blog-2025-2026-season</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: alaska.gov  
-   Link: <a href="https://www.alaska.gov/kids/learn/northernlights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alaska.gov/kids/learn/northernlights.htm</a>  
+   Link:<a href="https://www.alaska.gov/kids/learn/northernlights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alaska.gov/kids/learn/northernlights.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: Canada FOIA Part 06 Pages 1501 1800 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Weather Prediction CenterAurora Tutorial | NOAA / NWS Space...When geomagnetic activity increases further, the aurora develops gre...</p></details>
+   Link:<a href="https://www.spaceweather.gov/content/aurora-tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/content/aurora-tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Weather Prediction CenterAurora Tutorial | NOAA / NWS Space...When geomagnetic activity increases further, the aurora develops gre...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the fireball from Whitehorse, Yukon Territory, finding exploded fragments. managed to recover about 200...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/~pbrown/Videos/recovery_article.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the fireball from Whitehorse, Yukon Territory, finding exploded fragments. managed to recover about 200...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
+   Link:<a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: whitehorsestar.com  
    Title: yukoners to put ufos under scrutiny  
-   Link: <a href="https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny" target="_blank" rel="noopener noreferrer nofollow">https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny</a>  
+   Link:<a href="https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny" target="_blank" rel="noopener noreferrer nofollow">https://whitehorsestar.com/News/yukoners-to-put-ufos-under-scrutiny</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NBC6SouthFlorida/posts/nbc6-meteorologist-chelsea-ambriz-explains-why-a-spacex-launch-is-behind-this-ph/1452882982872690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBC6SouthFlorida/posts/nbc6-meteorologist-chelsea-ambriz-explains-why-a-spacex-launch-is-behind-this-ph/1452882982872690/</a>  
+   Link:<a href="https://www.facebook.com/NBC6SouthFlorida/posts/nbc6-meteorologist-chelsea-ambriz-explains-why-a-spacex-launch-is-behind-this-ph/1452882982872690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NBC6SouthFlorida/posts/nbc6-meteorologist-chelsea-ambriz-explains-why-a-spacex-launch-is-behind-this-ph/1452882982872690/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: carlkop.home.xs4all.nl  
-   Link: <a href="https://carlkop.home.xs4all.nl/yukon.html" target="_blank" rel="noopener noreferrer nofollow">https://carlkop.home.xs4all.nl/yukon.html</a>  
+   Link:<a href="https://carlkop.home.xs4all.nl/yukon.html" target="_blank" rel="noopener noreferrer nofollow">https://carlkop.home.xs4all.nl/yukon.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iauarchive.eso.org  
    Title: satellite constellations  
-   Link: <a href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow">https://iauarchive.eso.org/public/themes/satellite-constellations/</a>  
+   Link:<a href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow">https://iauarchive.eso.org/public/themes/satellite-constellations/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: spaceweather.gc.ca  
    Title: sfst en  
-   Link: <a href="https://www.spaceweather.gc.ca/forecast-prevision/short-court/sfst-en.php" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gc.ca/forecast-prevision/short-court/sfst-en.php</a>  
+   Link:<a href="https://www.spaceweather.gc.ca/forecast-prevision/short-court/sfst-en.php" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gc.ca/forecast-prevision/short-court/sfst-en.php</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-TKZ33fXyLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-TKZ33fXyLA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-TKZ33fXyLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-TKZ33fXyLA</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b1xl76hHtqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1xl76hHtqU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b1xl76hHtqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1xl76hHtqU</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTrQYxjjEGa/?hl=en</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/communities/aurora-dashboard-experimental" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/communities/aurora-dashboard-experimental</a>  
+   Link:<a href="https://www.spaceweather.gov/communities/aurora-dashboard-experimental" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/communities/aurora-dashboard-experimental</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: spaceweatherlive.com  
-   Link: <a href="https://www.spaceweatherlive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweatherlive.com/</a>  
+   Link:<a href="https://www.spaceweatherlive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweatherlive.com/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lfCQDyQW3To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lfCQDyQW3To</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Sky Canada Project UFO UAP report CTV News Canada’s top scientist releases new UFO report CTV News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lfCQDyQW3To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lfCQDyQW3To</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada Sky Canada Project UFO UAP report CTV News Canada’s top scientist releases new UFO report CTV News...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2604.09427v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.09427v1</a>  
+   Link:<a href="https://arxiv.org/html/2604.09427v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.09427v1</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: More than 1,000 UFO sightings reported in Canada last year, study finds  
-   Link: <a href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BbIXqJJhnPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFOs spotted in Canada every day in 2017: survey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BbIXqJJhnPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BbIXqJJhnPk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three UFOs spotted in Canada every day in 2017: survey...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Document reveals first known Canadian UFO study in nearly 30 years  
-   Link: <a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s top scientist releases new UFO report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s top scientist releases new UFO report...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bXs994N7lTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bXs994N7lTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFO sightings reported in Canada last year, study finds...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bXs994N7lTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bXs994N7lTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than 1,000 UFO sightings reported in Canada last year, study finds...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2000/03/000317051829.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2000/03/000317051829.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Meteorite May Provide &quot;New Window Into The...17 Mar 2000 — The fragments are part of a meteor that blew apart in a fir...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2000/03/000317051829.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2000/03/000317051829.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yukon Meteorite May Provide &quot;New Window Into The...17 Mar 2000 — The fragments are part of a meteor that blew apart in a fir...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: auroraborealisyukon.com  
-   Link: <a href="https://www.auroraborealisyukon.com/tour/1-night-aurora-viewing" target="_blank" rel="noopener noreferrer nofollow">https://www.auroraborealisyukon.com/tour/1-night-aurora-viewing</a>  
+   Link:<a href="https://www.auroraborealisyukon.com/tour/1-night-aurora-viewing" target="_blank" rel="noopener noreferrer nofollow">https://www.auroraborealisyukon.com/tour/1-night-aurora-viewing</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSNews/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1054349319890245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1054349319890245/</a>  
+   Link:<a href="https://www.facebook.com/CBSNews/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1054349319890245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1054349319890245/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/</a>  
+   Link:<a href="https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTVNewsNorthernOntario/posts/a-leading-scientific-ufo-conference-is-landing-in-canada-this-summer-as-the-trum/1662843519184303/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theweathernetworkCAN/posts/a-mysterious-swirl-of-light-was-spotted-in-the-night-sky-over-parts-of-alaska-yu/608419431326349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theweathernetworkCAN/posts/a-mysterious-swirl-of-light-was-spotted-in-the-night-sky-over-parts-of-alaska-yu/608419431326349/</a>  
+   Link:<a href="https://www.facebook.com/theweathernetworkCAN/posts/a-mysterious-swirl-of-light-was-spotted-in-the-night-sky-over-parts-of-alaska-yu/608419431326349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theweathernetworkCAN/posts/a-mysterious-swirl-of-light-was-spotted-in-the-night-sky-over-parts-of-alaska-yu/608419431326349/</a>  

@@ -256,7 +256,7 @@ image: /assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_da
 
 ## Introduction
 
-The Days Corner sighting is one of [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s more vivid UFO witness reports, but it is also a good example of how a striking account can remain difficult to evaluate. According to the official report that entered Canada’s federal UFO files, a Bedeque family encountered a brightly lit object near Days Corner late on the night of 1 October 1977. The [witnesses]({{ 'witnesses/' | relative_url }}) described not only unusual lights and a distinctive shape but also a loud boom and a scratching noise as the object passed overhead. Yet the entire event reportedly lasted only a few seconds and occurred during heavy rain, leaving investigators with a memorable story but little hard evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The Days Corner sighting is one of [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s more vivid UFO witness reports, but it is also a good example of how a striking account can remain difficult to evaluate. According to the official report that entered Canada’s federal UFO files, a Bedeque family encountered a brightly lit object near Days Corner late on the night of 1 October 1977. The [witnesses]({{ 'witnesses/' | relative_url }}) described not only unusual lights and a distinctive shape but also a loud boom and a scratching noise as the object passed overhead. Yet the entire event reportedly lasted only a few seconds and occurred during heavy rain, leaving investigators with a memorable story but little hard evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-1-dark.svg" | relative_url }}" alt="Witness account illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,22 +264,22 @@ The Days Corner sighting is one of [Prince Edward Island]({{ 'prince-edward-isla
 
 ### The late-night drive near Bedeque
 
-The account preserved in the National Research Council and RCMP [records]({{ 'records-10b687/' | relative_url }}) states that Rosemary Anger contacted the [Summerside]({{ 'summerside/' | relative_url }}) RCMP shortly after midnight on 1 October 1977. She reported that she and her two daughters had been driving home through the Days Corner area near Bedeque when they observed an unusual aerial object at approximately 11:50 p.m. The weather conditions were poor, with heavy rain falling at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The account preserved in the National Research Council and RCMP [records]({{ 'records-10b687/' | relative_url }}) states that Rosemary Anger contacted the [Summerside]({{ 'summerside/' | relative_url }}) RCMP shortly after midnight on 1 October 1977. She reported that she and her two daughters had been driving home through the Days Corner area near Bedeque when they observed an unusual aerial object at approximately 11:50 p.m. The weather conditions were poor, with heavy rain falling at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-According to the report, Anger and her eldest daughter, 21-year-old Kim Greencorn, first noticed a lighted object ahead and to the left of their vehicle. The object then appeared to approach them closely enough for them to observe details of its form. The official record emphasises that the witnesses believed they obtained a good look at the object before it passed overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+According to the report, Anger and her eldest daughter, 21-year-old Kim Greencorn, first noticed a lighted object ahead and to the left of their vehicle. The object then appeared to approach them closely enough for them to observe details of its form. The official record emphasises that the witnesses believed they obtained a good look at the object before it passed overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-A notable detail is that the youngest daughter, Echo Anger, did not see the object itself. Her position in the vehicle or the brief duration of the event may have prevented a visual observation. However, she reportedly heard the unusual sound associated with the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+A notable detail is that the youngest daughter, Echo Anger, did not see the object itself. Her position in the vehicle or the brief duration of the event may have prevented a visual observation. However, she reportedly heard the unusual sound associated with the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ### The lights, shape, boom and scratching sound
 
-The witness description combines visual and auditory elements. Rosemary Anger reportedly compared the object's appearance to two lampshades arranged inside a broad V-shaped form. Around this structure was a glow, while a mist-like effect appeared above it. Such descriptions are difficult to visualise precisely because they rely on comparisons rather than measurements, but they suggest the witnesses believed they were observing a structured object rather than a simple point of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The witness description combines visual and auditory elements. Rosemary Anger reportedly compared the object's appearance to two lampshades arranged inside a broad V-shaped form. Around this structure was a glow, while a mist-like effect appeared above it. Such descriptions are difficult to visualise precisely because they rely on comparisons rather than measurements, but they suggest the witnesses believed they were observing a structured object rather than a simple point of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-The most dramatic part of the report concerns the object's apparent proximity. Anger estimated that it passed directly over the vehicle at a height of roughly 50 feet. As it did so, the witnesses reported hearing first a boom and then a loud scratching sound. Immediately afterwards the object disappeared from view. The report notes that the entire incident lasted only a few seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The most dramatic part of the report concerns the object's apparent proximity. Anger estimated that it passed directly over the vehicle at a height of roughly 50 feet. As it did so, the witnesses reported hearing first a boom and then a loud scratching sound. Immediately afterwards the object disappeared from view. The report notes that the entire incident lasted only a few seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-The sound claims are significant because many UFO reports involve silent lights seen at a distance. Here, the witnesses described noises that they associated with the object's passage. The fact that all three occupants reportedly heard the sounds gives the auditory element some corroboration within the witness group, even though only two people reported seeing the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The sound claims are significant because many UFO reports involve silent lights seen at a distance. Here, the witnesses described noises that they associated with the object's passage. The fact that all three occupants reportedly heard the sounds gives the auditory element some corroboration within the witness group, even though only two people reported seeing the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-2-dark.svg" | relative_url }}" alt="Witness account illustration 2" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -287,13 +287,13 @@ The sound claims are significant because many UFO reports involve silent lights 
 
 The Days Corner report is often remembered because of its close-range description. A glowing object apparently crossing over a vehicle at low altitude sounds more compelling than a distant light on the horizon. However, several factors make firm conclusions difficult.
 
-First, the observation was extremely brief. The official record states that the sighting lasted only a few seconds. Human observers can accurately report some details during short events, but very brief encounters also increase the risk of misjudging distance, size, speed and shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+First, the observation was extremely brief. The official record states that the sighting lasted only a few seconds. Human observers can accurately report some details during short events, but very brief encounters also increase the risk of misjudging distance, size, speed and shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-Second, the weather was poor. Heavy rain can distort visibility, create reflections on windscreens, scatter light and complicate estimates of altitude and distance. Rain can also affect how sounds are perceived, particularly at night on rural roads. The report itself explicitly notes the heavy rainfall, making it an important part of any assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+Second, the weather was poor. Heavy rain can distort visibility, create reflections on windscreens, scatter light and complicate estimates of altitude and distance. Rain can also affect how sounds are perceived, particularly at night on rural roads. The report itself explicitly notes the heavy rainfall, making it an important part of any assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-Third, there is no known supporting evidence beyond the witness testimony. The surviving record contains the report and the witness description, but no radar data, photographs, physical traces or independent observational records that would allow investigators to test the account against other evidence. This limitation is common in Canadian UFO files, many of which preserve reports without providing enough information for later investigators to reach a definitive conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+Third, there is no known supporting evidence beyond the witness testimony. The surviving record contains the report and the witness description, but no radar data, photographs, physical traces or independent observational records that would allow investigators to test the account against other evidence. This limitation is common in Canadian UFO files, many of which preserve reports without providing enough information for later investigators to reach a definitive conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2Digital Collections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-The sound description presents an additional challenge. A boom followed by a scratching noise is unusual, but the record offers no further detail about duration, direction or acoustic character. Without those details it is difficult to compare the sounds reliably with aircraft, weather effects, road noise, electrical phenomena or other conventional [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). The sounds are therefore part of the witness account rather than independently verifiable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+The sound description presents an additional challenge. A boom followed by a scratching noise is unusual, but the record offers no further detail about duration, direction or acoustic character. Without those details it is difficult to compare the sounds reliably with aircraft, weather effects, road noise, electrical phenomena or other conventional [explanations]({{ 'explanations-b5b0c8/' | relative_url }}). The sounds are therefore part of the witness account rather than independently verifiable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
@@ -303,202 +303,146 @@ The sound description presents an additional challenge. A boom followed by a scr
 
 ## How the witness testimony fits into Prince Edward Island's UFO history
 
-Within Prince Edward Island's relatively modest UFO record, Days Corner stands out because it combines a close-range visual description with reported sounds and because it entered the official Canadian reporting system through the RCMP. The surviving file demonstrates that the event was reported promptly and recorded by authorities, which gives historians confidence that the account was not simply a much later retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+Within Prince Edward Island's relatively modest UFO record, Days Corner stands out because it combines a close-range visual description with reported sounds and because it entered the official Canadian reporting system through the RCMP. The surviving file demonstrates that the event was reported promptly and recorded by authorities, which gives historians confidence that the account was not simply a much later retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
-At the same time, the case illustrates the limits of witness testimony. The description is detailed enough to be memorable but not detailed enough to establish what was actually present in the sky. The combination of heavy rain, a few seconds of observation and the absence of independent evidence leaves the sighting unresolved. For that reason, the Days Corner account remains most valuable as a documented witness narrative within Prince Edward Island's official UFO paper trail rather than as evidence for any specific explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
+At the same time, the case illustrates the limits of witness testimony. The description is detailed enough to be memorable but not detailed enough to establish what was actually present in the sky. The combination of heavy rain, a few seconds of observation and the absence of independent evidence leaves the sighting unresolved. For that reason, the Days Corner account remains most valuable as a documented witness narrative within Prince Edward Island's official UFO paper trail rather than as evidence for any specific explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR &#124; Ce MR LOUIS RICHA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-3-dark.svg" | relative_url }}" alt="Witness account illustration 3" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the Days Corner witnesses report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the Days Corner witnesses report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented sightings and the strengths and limits of eyewitness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented sightings and the strengths and limits of eyewitness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reports, observation quality, and the challenges of identifying unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reports, observation quality, and the challenges of identifying unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how investigators evaluate reports that are vivid but difficult to verify.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how investigators evaluate reports that are vivid but difficult to verify.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides context for how perception and memory can shape unusual-event reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how perception and memory can shape unusual-event reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="witness-account-what-did-the-days-corner-witnesses-report-prince-edward-island-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +458,7 @@ At the same time, the case illustrates the limits of witness testimony. The desc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +478,7 @@ At the same time, the case illustrates the limits of witness testimony. The desc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +510,7 @@ At the same time, the case illustrates the limits of witness testimony. The desc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +562,7 @@ At the same time, the case illustrates the limits of witness testimony. The desc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +607,7 @@ At the same time, the case illustrates the limits of witness testimony. The desc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,82 +648,82 @@ At the same time, the case illustrates the limits of witness testimony. The desc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR | Ce MR LOUIS RICHA...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2011%20-%20Pages%203001-3300_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;8000 pages of Declassified Canadian UFO...UFO REPORT As 01 OCT 77 10002-11002 Be CLEAR | Ce MR LOUIS RICHA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — Canada&#x27;s most infamous UFO case. They cover from before 1950 right through to...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — Canada&#x27;s most infamous UFO case. They cover from before 1950 right through to...</p></details>
    Published: May 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/historyofphoenic00rawl/historyofphoenic00rawl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/historyofphoenic00rawl/historyofphoenic00rawl_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>historyofphoenic00rawl_djvu.txtPEEFACE. Histories of Phoenicia or of the Phoenicians were written towards the middle of the present centu...</p></details>
+   Link:<a href="https://archive.org/download/historyofphoenic00rawl/historyofphoenic00rawl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/historyofphoenic00rawl/historyofphoenic00rawl_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>historyofphoenic00rawl_djvu.txtPEEFACE. Histories of Phoenicia or of the Phoenicians were written towards the middle of the present centu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report. He lamented the incomp...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Collectionsa history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — UFO drawing from an RCMP report. He lamented the incomp...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1311159306464113/posts/1980803879499649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1311159306464113/posts/1980803879499649/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Little Sands settlers and familiesWhen Angus said in his unsteady voice, “Who are you?&quot; She answered, “I&#x27;m the devil.&quot; His rep...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1311159306464113/posts/1980803879499649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1311159306464113/posts/1980803879499649/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Little Sands settlers and familiesWhen Angus said in his unsteady voice, “Who are you?&quot; She answered, “I&#x27;m the devil.&quot; His rep...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fliphtml5.com  
-   Link: <a href="https://fliphtml5.com/vwnyr/ycak/epdf.pub_native-american-women-a-biographical-dictionary/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/vwnyr/ycak/epdf.pub_native-american-women-a-biographical-dictionary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>epdf.pub_native-american-women-a-biographical-dictionaryHer work ranges from the anger of “Today Was a Bad Day like TB,”...</p></details>
+   Link:<a href="https://fliphtml5.com/vwnyr/ycak/epdf.pub_native-american-women-a-biographical-dictionary/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/vwnyr/ycak/epdf.pub_native-american-women-a-biographical-dictionary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>epdf.pub_native-american-women-a-biographical-dictionaryHer work ranges from the anger of “Today Was a Bad Day like TB,”...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/jed-davis-on-the-start-of-the-modern-ufo-phenomenonwatch-this-full-episode-of-re/975166568223694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/jed-davis-on-the-start-of-the-modern-ufo-phenomenonwatch-this-full-episode-of-re/975166568223694/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;eality Check&quot;: [https://youtu.be/ogJplVuElLs...&quot;](https://youtu.be/ogJplVuElLs...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/jed-davis-on-the-start-of-the-modern-ufo-phenomenonwatch-this-full-episode-of-re/975166568223694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/jed-davis-on-the-start-of-the-modern-ufo-phenomenonwatch-this-full-episode-of-re/975166568223694/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;eality Check&quot;: [https://youtu.be/ogJplVuElLs...&quot;](https://youtu.be/ogJplVuElLs...&quot;)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/world-clothing-and-fashion-an-encyclopedia-of-history-culture-and-social-influence-1nbsped-0765683008-9780765683007.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/world-clothing-and-fashion-an-encyclopedia-of-history-culture-and-social-influence-1nbsped-0765683008-9780765683007.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>plores the diverse and colourful history o...</p></details>
+   Link:<a href="https://dokumen.pub/world-clothing-and-fashion-an-encyclopedia-of-history-culture-and-social-influence-1nbsped-0765683008-9780765683007.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/world-clothing-and-fashion-an-encyclopedia-of-history-culture-and-social-influence-1nbsped-0765683008-9780765683007.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plores the diverse and colourful history o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaSightings of unidentified flying objects in Canada occurred throughout the first half of the twentieth century...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaSightings of unidentified flying objects in Canada occurred throughout the first half of the twentieth century...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ort.org  
-   Link: <a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Crashed Into The Ocean — The RCMP Watched It...8 Jun 2026 — Eleven witnesses watch. The witnesses call the RCMP. They think a plan...</p></details>
+   Link:<a href="https://ort.org/29f5835d/21f34929kdJBxfSjA5M" target="_blank" rel="noopener noreferrer nofollow">https://ort.org/29f5835d/21f34929kdJBxfSjA5M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Crashed Into The Ocean — The RCMP Watched It...8 Jun 2026 — Eleven witnesses watch. The witnesses call the RCMP. They think a plan...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: professorfethers.com  
    Title: Music Library (Search + Letter)  
-   Link: <a href="https://professorfethers.com/library_search_letter.asp" target="_blank" rel="noopener noreferrer nofollow">https://professorfethers.com/library_search_letter.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Song for R. What Are They Doing in Heaven Today; Crow Waltz; When Doves Cry. 3 albums • 39 tracks. The Beach Boys.Read more...</p></details>
+   Link:<a href="https://professorfethers.com/library_search_letter.asp" target="_blank" rel="noopener noreferrer nofollow">https://professorfethers.com/library_search_letter.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Song for R. What Are They Doing in Heaven Today; Crow Waltz; When Doves Cry. 3 albums • 39 tracks. The Beach Boys.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
    Title: Alexander Theroux  
-   Link: <a href="https://www.scribd.com/document/463250255/Alexander-Theroux-The-Secondary-Colors-Three-Essays-Henry-Holt-Co-1996-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/463250255/Alexander-Theroux-The-Secondary-Colors-Three-Essays-Henry-Holt-Co-1996-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secondary Colors - Three Essays...Alexander Theroux - The Secondary Colors_ Three Essays-Henry Holt &amp; Co (1996).pdf - Free download...</p></details>
+   Link:<a href="https://www.scribd.com/document/463250255/Alexander-Theroux-The-Secondary-Colors-Three-Essays-Henry-Holt-Co-1996-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/463250255/Alexander-Theroux-The-Secondary-Colors-Three-Essays-Henry-Holt-Co-1996-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secondary Colors - Three Essays...Alexander Theroux - The Secondary Colors_ Three Essays-Henry Holt &amp; Co (1996).pdf - Free download...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-Edited12 Jan 2009 — Witness was in his lounge. Witness heard the noise first which grew louder. Saw a bright...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 2009 for MoD website-Edited12 Jan 2009 — Witness was in his lounge. Witness heard the noise first which grew louder. Saw a bright...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thecanadianencyclopedia.ca  
    Title: ufos in canada  
-   Link: <a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs). Several of its departments and agenc...</p></details>
+   Link:<a href="https://thecanadianencyclopedia.ca/en/article/ufos-in-canada" target="_blank" rel="noopener noreferrer nofollow">https://thecanadianencyclopedia.ca/en/article/ufos-in-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Oct 2020 — For 45 years, the Canadian government investigated unidentified flying objects (UFOs). Several of its departments and agenc...</p></details>

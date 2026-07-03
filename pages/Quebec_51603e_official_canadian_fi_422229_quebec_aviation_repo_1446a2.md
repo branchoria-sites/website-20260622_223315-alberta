@@ -262,7 +262,7 @@ image: /assets/images/Quebec_51603e_official_canadian_fi_422229_quebec_aviation_
 
 ## Introduction
 
-Many of [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s modern UFO reports enter official records not because anyone has proved something extraordinary happened, but because an unusual sighting affected aviation operations. When a pilot, air traffic controller or flight crew reports an unidentified object, light or aerial phenomenon that could influence flight safety, the event may be logged in Canada's aviation occurrence systems. In practice, that means a UFO report can become a safety record long before anyone knows what was actually seen. Transport Canada, NAV CANADA and related aviation bodies are concerned first with operational risk: whether an object posed a hazard, distracted a crew, affected routing decisions, or required monitoring in controlled airspace. The question of what the object ultimately was is often secondary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">That information is provided in an aviation</span></span></span>
+Many of [Quebec]({{ 'what-really-happened-in-quebecs-ufo/' | relative_url }})’s modern UFO reports enter official records not because anyone has proved something extraordinary happened, but because an unusual sighting affected aviation operations. When a pilot, air traffic controller or flight crew reports an unidentified object, light or aerial phenomenon that could influence flight safety, the event may be logged in Canada's aviation occurrence systems. In practice, that means a UFO report can become a safety record long before anyone knows what was actually seen. Transport Canada, NAV CANADA and related aviation bodies are concerned first with operational risk: whether an object posed a hazard, distracted a crew, affected routing decisions, or required monitoring in controlled airspace. The question of what the object ultimately was is often secondary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">That information is provided in an aviation</span></span></span>
 
 
 <img src="{{ "/assets/images/Quebec_51603e_official_canadian_fi_422229_quebec_aviation_repo_1446a2-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Logs illustration 1" data-theme-src-dark="{{ "/assets/images/Quebec_51603e_official_canadian_fi_422229_quebec_aviation_repo_1446a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Quebec_51603e_official_canadian_fi_422229_quebec_aviation_repo_1446a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -275,7 +275,7 @@ This reporting pathway matters in Quebec because the province contains some of C
 
 A common misunderstanding is that a report appearing in an official aviation database means authorities confirmed a mysterious craft. In reality, aviation systems exist to record operational occurrences, not to certify [explanations]({{ 'explanations-344909/' | relative_url }}).
 
-If a pilot flying over Quebec reports an unidentified light, a possible drone, an object crossing a flight path, or an unusual aerial display, controllers and safety personnel may create records because the sighting could affect safe aircraft operations. The report is entered as an occurrence requiring documentation, assessment or follow-up. Whether the object later proves to be a satellite, a weather phenomenon, another aircraft, a balloon or something unresolved does not change the need to record the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">That information is provided in an aviation</span></span></span>
+If a pilot flying over Quebec reports an unidentified light, a possible drone, an object crossing a flight path, or an unusual aerial display, controllers and safety personnel may create records because the sighting could affect safe aircraft operations. The report is entered as an occurrence requiring documentation, assessment or follow-up. Whether the object later proves to be a satellite, a weather phenomenon, another aircraft, a balloon or something unresolved does not change the need to record the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">civil aviation daily occurrence reporting system cadors</span><span class="citation-popover-snippet">That information is provided in an aviation</span></span></span>
 
 This is why aviation archives often contain entries that UFO researchers later discover and discuss. The records document the reporting process and operational response, not a conclusion that something exotic was present.
 
@@ -286,7 +286,7 @@ This is why aviation archives often contain entries that UFO researchers later d
 
 ## How pilot and controller reports enter official systems
 
-The main Canadian mechanism is the Civil Aviation Daily Occurrence Reporting System, usually known as CADORS. Transport Canada describes CADORS as a system for collecting and distributing information about aviation occurrences involving Canadian aircraft, Canadian airspace and Canadian airports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ...</span></span></span>
+The main Canadian mechanism is the Civil Aviation Daily Occurrence Reporting System, usually known as CADORS. Transport Canada describes CADORS as a system for collecting and distributing information about aviation occurrences involving Canadian aircraft, Canadian airspace and Canadian airports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ...</span></span></span>
 
 A simplified pathway looks like this:
 
@@ -333,7 +333,7 @@ Aviation history provides many examples of initially puzzling observations that 
 * Balloons.
 * Atmospheric optics.
 * Bright planets and stars. [* Distant lights viewed from high altitude.](#endnote-2 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ&quot;)...</p></details>
 * Emerging technologies such as drones. [arXiv](https://arxiv.org/abs/2403.08155)
 
 The key point for Quebec readers is that an aviation record preserves the fact that a report occurred. It does not, by itself, establish the nature of the object.
@@ -368,194 +368,194 @@ At the same time, these records must be read carefully. They were created to sup
 That is why many modern Quebec UFO reports appear in aviation databases. The system is designed to capture potential hazards in the sky. When a sighting intersects with flight operations, it becomes part of the safety record whether the object is eventually identified, plausibly explained, or remains unresolved. [Transport Canada+2Transport Canada](https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO becomes an aviation report. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO becomes an aviation report. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unidentified reports are investigated and why unexplained does not equal extraterrestrial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unidentified reports are investigated and why unexplained does not equal extraterrestrial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses heavily on pilot, military, and official reporting of unexplained aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on pilot, military, and official reporting of unexplained aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official reporting systems handle unexplained aerial sightings and aviation-related cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official reporting systems handle unexplained aerial sightings and aviation-related cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced aircraft, helping readers understand how unusual aerial observations can be misidentified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced aircraft, helping readers understand how unusual aerial observations can be misidentified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="aviation-logs-when-a-ufo-becomes-an-aviation-report-quebec-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,112 +761,112 @@ That is why many modern Quebec UFO reports appear in aviation databases. The sys
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — Transport Canada collects aviation occurrence information through the Civ...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Reporting System (CADORS)CADORS is the name given to the Canadian national ATS safety data report...</p></details>
+   Link:<a href="https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Daily Occurrence Reporting System (CADORS)CADORS is the name given to the Canadian national ATS safety data report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: navcanada.ca  
-   Link: <a href="https://www.navcanada.ca/en/air-traffic/safety.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/air-traffic/safety.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SafetyLearn about our safety practices and programs including the Canadian Aviation Safety Officer Partnership (CASOP)...</p></details>
+   Link:<a href="https://www.navcanada.ca/en/air-traffic/safety.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/air-traffic/safety.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SafetyLearn about our safety practices and programs including the Canadian Aviation Safety Officer Partnership (CASOP)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gc.ca  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s and provide pilots with explanations, helping to reduce distractions during...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s and provide pilots with explanations, helping to reduce distractions during...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenom...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaSky Canada Project3 Dec 2025 — The Sky Canada Project was launched in the Fall of 2022 to study how Unidentified Aerial Phenom...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s associated with collecting and analyzing reliable data on UAP sightings; a...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada. They include:.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advisor of Canada (OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advisor of Canada (OCSA), was initiated to review current practices surrounding public reporting...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
+   Link:<a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comCADORS: Civil Aviation Daily Occurrence Reporting SystemTitle, CADORS: Civil Aviation Daily Occurrence Reporting System. Author...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: laserpointersafety.com  
-   Link: <a href="https://www.laserpointersafety.com/find/find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/find/find.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To find incident reportsUse the Civil Aviation Daily Occurrence Reporting System, CADORS. Fill in... pilots can report anonymously, with...</p></details>
+   Link:<a href="https://www.laserpointersafety.com/find/find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/find/find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To find incident reportsUse the Civil Aviation Daily Occurrence Reporting System, CADORS. Fill in... pilots can report anonymously, with...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spaceq.ca  
-   Link: <a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage UAP (UFO) sighti...</p></details>
+   Link:<a href="https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://spaceq.ca/sky-canadas-uap-report-preview-how-canada-plans-to-handle-ufo-sightings-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada&#x27;s UAP Report Preview: How Canada Plans to...29 May 2025 — Canada&#x27;s Sky Canada Project explores how to manage UAP (UFO) sighti...</p></details>
    Published: May 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ucalgary.scholaris.ca  
-   Link: <a href="https://ucalgary.scholaris.ca/server/api/core/bitstreams/afa84b52-fc8e-40ee-9734-d5548cb7591e/content" target="_blank" rel="noopener noreferrer nofollow">https://ucalgary.scholaris.ca/server/api/core/bitstreams/afa84b52-fc8e-40ee-9734-d5548cb7591e/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV incidents were analyzed using data from Transport Canada&#x27;s Civil Aviation Daily Occurrence. Reporting System (CADORS)...</p></details>
+   Link:<a href="https://ucalgary.scholaris.ca/server/api/core/bitstreams/afa84b52-fc8e-40ee-9734-d5548cb7591e/content" target="_blank" rel="noopener noreferrer nofollow">https://ucalgary.scholaris.ca/server/api/core/bitstreams/afa84b52-fc8e-40ee-9734-d5548cb7591e/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAV incidents were analyzed using data from Transport Canada&#x27;s Civil Aviation Daily Occurrence. Reporting System (CADORS)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mona Nemer, Canada’s chief science advisor, commissioned a $34,369 national survey on unidentified aerial phenomena (UAPs), despite findi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mona Nemer, Canada’s chief science advisor, commissioned a $34,369 national survey on unidentified aerial phenomena (UAPs), despite findi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: icao.int  
    Title: 5.2 08 Annex A CADORS Reportable Occurences for CANADA  
-   Link: <a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p># $ CADORS MANUAL TP 4044Difficulties in controlling the aircraft in flight are encountered due to any aircraft system malfunction, weath...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/SMI/TrainingDocs/Chapter%205%20Safety%20Data%20Collection%20and%20Processing%20Systems/5.2-08-Annex-A-CADORS-Reportable-Occurences-for-CANADA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p># $ CADORS MANUAL TP 4044Difficulties in controlling the aircraft in flight are encountered due to any aircraft system malfunction, weath...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: globalnews.ca  
    Title: ufo data collection spy balloons misinformation  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report explores the public&#x27;s decades-long fascination with uniden...</p></details>
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report explores the public&#x27;s decades-long fascination with uniden...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: multiple pilots reported seeing the same thing  
-   Link: <a href="https://www.facebook.com/Rock101Van/posts/multiple-pilots-reported-seeing-the-same-thing/10156731468527808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Rock101Van/posts/multiple-pilots-reported-seeing-the-same-thing/10156731468527808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, multiple commercial airline pilots reported observing unidentified aerial objects while flying over the Atlantic Ocean. The sigh...</p></details>
+   Link:<a href="https://www.facebook.com/Rock101Van/posts/multiple-pilots-reported-seeing-the-same-thing/10156731468527808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Rock101Van/posts/multiple-pilots-reported-seeing-the-same-thing/10156731468527808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2021, multiple commercial airline pilots reported observing unidentified aerial objects while flying over the Atlantic Ocean. The sigh...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian journalist calls for total government transparency on UAP reports | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian journalist calls for total government transparency on UAP reports | Reality Check...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Global UFO Sightings by Airline Pilots are Being Reported  
-   Link: <a href="https://www.youtube.com/watch?v=O6AyvC0p1us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6AyvC0p1us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada aviation CADORS UFO pilot report Lights In The Sky Over Baffin Bay Dec 15 2022 #ufo #uap #joerogan #aviation #pirep @joerogan Squa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O6AyvC0p1us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O6AyvC0p1us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada aviation CADORS UFO pilot report Lights In The Sky Over Baffin Bay Dec 15 2022 #ufo #uap #joerogan #aviation #pirep @joerogan Squa...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilots report &#x27;triangles&#x27; over Canadian prairies on Jan. 19, 2024...</p></details>

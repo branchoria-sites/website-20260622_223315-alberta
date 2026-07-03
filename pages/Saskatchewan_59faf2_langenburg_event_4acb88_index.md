@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-langenburg-event/
 description: Focused pages that expand on Langenburg.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_langenburg_event_4acb88
 parent_title: Langenburg
@@ -16,7 +16,7 @@ parent_permalink: /langenburg/
 
 # Explore Topics in Langenburg
 
-The following pages expand on the main **[Langenburg]({{ '/langenburg/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Langenburg]({{ '/langenburg/' | relative_url }})** page and cover its key branches in.
 
 - [Fuhr account]({{ '/fuhr-account/' | relative_url }})
 - [Grass rings]({{ '/grass-rings/' | relative_url }})

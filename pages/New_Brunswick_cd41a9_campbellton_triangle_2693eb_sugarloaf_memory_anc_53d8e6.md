@@ -256,31 +256,31 @@ image: /assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf
 
 ## Introduction
 
-Sugarloaf Mountain is important to Campbellton’s UFO history not because it proves any sighting happened as reported, but because it gave unusual sky stories a fixed point on the landscape. When people in Campbellton describe strange lights or triangular objects, they often place them “over Sugarloaf”. That shared reference point helps stories survive across decades, even when documentation is incomplete or disputed. In the [Campbellton triangle]({{ 'campbellton/' | relative_url }}) tradition, the mountain functions less as evidence and more as a memory anchor: a highly visible landmark that allows different generations to attach extraordinary experiences to the same piece of local geography. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
+Sugarloaf Mountain is important to Campbellton’s UFO history not because it proves any sighting happened as reported, but because it gave unusual sky stories a fixed point on the landscape. When people in Campbellton describe strange lights or triangular objects, they often place them “over Sugarloaf”. That shared reference point helps stories survive across decades, even when documentation is incomplete or disputed. In the [Campbellton triangle]({{ 'campbellton/' | relative_url }}) tradition, the mountain functions less as evidence and more as a memory anchor: a highly visible landmark that allows different generations to attach extraordinary experiences to the same piece of local geography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-1-dark.svg" | relative_url }}" alt="Sugarloaf illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO reports, Sugarloaf stands out because both the best-documented local sightings from 1971 and later remembered accounts from 1989 are tied to the same mountain. Whether one sees those reports as unexplained events, misidentifications, or folklore in the making, Sugarloaf helps explain why the Campbellton story remains part of local conversation long after many other regional sightings have faded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
+Within the broader history of [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO reports, Sugarloaf stands out because both the best-documented local sightings from 1971 and later remembered accounts from 1989 are tied to the same mountain. Whether one sees those reports as unexplained events, misidentifications, or folklore in the making, Sugarloaf helps explain why the Campbellton story remains part of local conversation long after many other regional sightings have faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKQePic8cdc" title="UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer">UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada</a></p><p class="youtube-embed-meta">Channel: PinkPossibly</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKQePic8cdc">Open on YouTube</a></p></div></div></div>
 
 ## The mountain as a shared sightline
 
-Sugarloaf dominates the skyline around Campbellton. The summit overlooks the city, the Restigouche River valley, Chaleur Bay and neighbouring parts of Quebec. From many streets and neighbourhoods, the mountain is immediately recognisable, making it a natural reference point when describing something unusual in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
+Sugarloaf dominates the skyline around Campbellton. The summit overlooks the city, the Restigouche River valley, Chaleur Bay and neighbouring parts of Quebec. From many streets and neighbourhoods, the mountain is immediately recognisable, making it a natural reference point when describing something unusual in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
 
 This matters for local UFO memory because witnesses rarely describe positions using compass bearings or precise coordinates. Instead, they rely on landmarks. A report that an object appeared “over Sugarloaf Mountain” is easy for residents to visualise. The location can be understood instantly by people across the region, allowing stories to be retold without losing their basic setting.
 
-The pattern appears repeatedly in Campbellton’s UFO lore. Publicly accessible Canadian UFO records include reports from the summer of 1971 that specifically reference activity around Sugarloaf Mountain. [Later retellings]({{ 'later-retelling/' | relative_url }}) of the 1989 triangle sighting also place the reported objects above the mountain. Even though the documentary strength of those cases differs, the same landmark links them together in local memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
+The pattern appears repeatedly in Campbellton’s UFO lore. Publicly accessible Canadian UFO records include reports from the summer of 1971 that specifically reference activity around Sugarloaf Mountain. [Later retellings]({{ 'later-retelling/' | relative_url }}) of the 1989 triangle sighting also place the reported objects above the mountain. Even though the documentary strength of those cases differs, the same landmark links them together in local memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JEw6d5SLfn8" title="Visiting Sugarloaf Provincial Park | Campbellton, New Brunswick 📍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JEw6d5SLfn8" target="_blank" rel="noopener noreferrer">Visiting Sugarloaf Provincial Park | Campbellton, New Brunswick 📍</a></p><p class="youtube-embed-meta">Channel: Maritime Dan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JEw6d5SLfn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JEw6d5SLfn8">Open on YouTube</a></p></div></div></div>
 
 ## Landscape, folklore and local identity
 
-Sugarloaf is more than a topographic feature. It is one of northern New Brunswick’s most recognisable landmarks and a major symbol of Campbellton itself. The mountain sits within a provincial park, attracts hikers and skiers, and occupies a central place in local identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks+2Tourism New Brunswick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
+Sugarloaf is more than a topographic feature. It is one of northern New Brunswick’s most recognisable landmarks and a major symbol of Campbellton itself. The mountain sits within a provincial park, attracts hikers and skiers, and occupies a central place in local identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks+2Tourism New Brunswick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
 
-The mountain also carries older layers of meaning. Geological studies identify it as an ancient volcanic feature within the Appalachian region, while Mi’kmaq traditions include stories explaining the mountain’s creation. Over time, local history has added further associations, including the well-known memorial crosses visible on its face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sugarloaf Mountain (New Brunswick</span><span class="citation-popover-snippet">Sugarloaf Mountain (New Brunswick</span></span></span>
+The mountain also carries older layers of meaning. Geological studies identify it as an ancient volcanic feature within the Appalachian region, while Mi’kmaq traditions include stories explaining the mountain’s creation. Over time, local history has added further associations, including the well-known memorial crosses visible on its face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sugarloaf Mountain (New Brunswick</span><span class="citation-popover-snippet">Sugarloaf Mountain (New Brunswick</span></span></span>
 
 Because of these existing cultural associations, unusual stories attached to Sugarloaf gain a ready-made stage. People already look at the mountain, talk about it and use it as a symbol of place. A strange light seen near an anonymous ridge might be forgotten; a strange light reported above Sugarloaf immediately becomes part of a familiar local narrative.
 
@@ -292,16 +292,16 @@ That does not make UFO claims more credible. It does, however, make them more me
 
 A landmark can preserve a story even when evidence becomes difficult to verify.
 
-The Campbellton triangle account illustrates this mechanism. Modern summaries typically describe two sisters observing three silent triangular objects above Sugarloaf Mountain in November 1989. The story continues to circulate in books, websites, podcasts and UFO compilations. Yet the publicly available documentary trail is much thinner than many retellings imply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</span></span></span>
+The Campbellton triangle account illustrates this mechanism. Modern summaries typically describe two sisters observing three silent triangular objects above Sugarloaf Mountain in November 1989. The story continues to circulate in books, websites, podcasts and UFO compilations. Yet the publicly available documentary trail is much thinner than many retellings imply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</span></span></span>
 
 What remains consistent is the setting. The image of unusual objects hovering above Sugarloaf is easier to remember than details such as dates, witness names or investigative findings. Over time, the mountain becomes the stable element while other parts of the story evolve, simplify or disappear.
 
 Several factors make this especially effective in Campbellton:
 
-* **Visibility:** Sugarloaf can be seen from much of the urban area and surrounding valley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
-* **Distinctiveness:** It is the dominant local landmark rather than one hill among many. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tourismnewbrunswick.ca">[Tourism New Brunswick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tourismnewbrunswick.ca</span><span class="citation-popover-title">Tourism New Brunswick Sugarloaf Provincial Park</span><span class="citation-popover-snippet">With over 25 km (15.5 mi.) of hiking and biking...</span></span></span>
-* **Repetition:** Multiple UFO stories have been attached to the same location, particularly the 1971 reports and later triangle narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
-* **Community identity:** Residents often use the mountain as a symbol of Campbellton itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: byronchristopher.org">[Byron Christopher]</a><span class="citation-popover" role="note"><span class="citation-popover-source">byronchristopher.org</span><span class="citation-popover-snippet">Byron ChristopherLove Affair With a Mountain &#124; Byron ChristopherJuly 16, 2017 — My bedroom window provided a great view of the old mountain...</span><span class="citation-popover-meta">Published: July 16, 2017</span></span></span>
+* **Visibility:** Sugarloaf can be seen from much of the urban area and surrounding valley.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parcsnbparks.info">[NB Parks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parcsnbparks.info</span><span class="citation-popover-snippet">NB ParksSugarloaf Provincial Park &#124; Parks &#124; NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</span></span></span>
+* **Distinctiveness:** It is the dominant local landmark rather than one hill among many.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tourismnewbrunswick.ca">[Tourism New Brunswick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tourismnewbrunswick.ca</span><span class="citation-popover-title">Tourism New Brunswick Sugarloaf Provincial Park</span><span class="citation-popover-snippet">With over 25 km (15.5 mi.) of hiking and biking...</span></span></span>
+* **Repetition:** Multiple UFO stories have been attached to the same location, particularly the 1971 reports and later triangle narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">On August 16, Edward Flanagan reported seeing an amber light</span><span class="citation-popover-snippet">The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
+* **Community identity:** Residents often use the mountain as a symbol of Campbellton itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: byronchristopher.org">[Byron Christopher]</a><span class="citation-popover" role="note"><span class="citation-popover-source">byronchristopher.org</span><span class="citation-popover-snippet">Byron ChristopherLove Affair With a Mountain &#124; Byron ChristopherJuly 16, 2017 — My bedroom window provided a great view of the old mountain...</span><span class="citation-popover-meta">Published: July 16, 2017</span></span></span>
 
 These characteristics help explain why Sugarloaf occupies a larger place in regional UFO memory than many better-documented but less geographically distinctive cases elsewhere.
 
@@ -312,9 +312,9 @@ These characteristics help explain why Sugarloaf occupies a larger place in regi
 
 The strongest conclusion supported by available evidence is not that Sugarloaf Mountain is a UFO hotspot. Rather, it is that Sugarloaf is the focal point through which Campbellton remembers unusual aerial reports.
 
-Canadian archival collections confirm that federal agencies collected UFO reports from the Campbellton area and that some 1971 incidents were associated with Sugarloaf Mountain. Those records establish that the mountain entered the UFO record decades ago. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
+Canadian archival collections confirm that federal agencies collected UFO reports from the Campbellton area and that some 1971 incidents were associated with Sugarloaf Mountain. Those records establish that the mountain entered the UFO record decades ago.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</span></span></span>
 
-The later triangle story remains more difficult to document in comparable detail. It survives primarily through secondary retellings and UFO compilations rather than a widely cited official investigative file. That uncertainty weakens any attempt to treat the event as established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</span></span></span>
+The later triangle story remains more difficult to document in comparable detail. It survives primarily through secondary retellings and UFO compilations rather than a widely cited official investigative file. That uncertainty weakens any attempt to treat the event as established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Static Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</span></span></span>
 
 Yet even if individual cases remain unresolved, disputed or weakly sourced, Sugarloaf’s role in the story is clear. The mountain provides a common visual reference that links separate reports, helps residents picture events, and allows Campbellton’s UFO folklore to persist across generations. In the wider context of New Brunswick UFO history, that function as a memory anchor may be more significant than any single sighting associated with it.
 
@@ -322,194 +322,194 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-3-dark.svg" | relative_url }}" alt="Sugarloaf illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sugarloaf made the story stick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sugarloaf made the story stick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly explores how folklore, place, and extraordinary sightings become lasting cultural stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how folklore, place, and extraordinary sightings become lasting cultural stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Represents the broader cultural world of remembered UFO experiences and how they become embedded in public consciousness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the broader cultural world of remembered UFO experiences and how they become embedded in public consciousness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for why certain sightings remain part of public conversation long after the events themselves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why certain sightings remain part of public conversation long after the events themselves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="sugarloaf-why-sugarloaf-made-the-story-stick-new-brunswick-ufo-wall-art-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,139 +715,139 @@ Yet even if individual cases remain unresolved, disputed or weakly sourced, Suga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sugarloaf Mountain (New Brunswick)  
-   Link: <a href="https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Mountain_%28New_Brunswick%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: On August 16, Edward Flanagan reported seeing an amber light  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv4g5o/the_1971_ufo_sightings_over_sugarloaf_mountain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1971 UFO Sightings Over Sugarloaf Mountain, New...November 19, 2024 — In August 1971, Campbellton, N.B., became the site of my...</p></details>
    Published: November 19, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In November, 1989, in Campbellton, New Brunswick 2 sisters living on Van Horne Crescent witnessed 3 triangular UFOs hovering just over Su...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sugarloaf Provincial Park  
-   Link: <a href="https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sugarloaf_Provincial_Park</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown2 Mar 2026 — The Library and Archives Canada collection of government records on UFOs was...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/newbrunswickcanada/comments/1qz7vdv/mount_sugarloaf_campbelltonatholville_panoramic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newbrunswickcanada/comments/1qz7vdv/mount_sugarloaf_campbelltonatholville_panoramic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 8, 2026 — Mount Sugarloaf, Campbellton/Atholville. Panoramic aerial view of an ancient volcano. 4K Video...</p></details>
+   Link:<a href="https://www.reddit.com/r/newbrunswickcanada/comments/1qz7vdv/mount_sugarloaf_campbelltonatholville_panoramic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newbrunswickcanada/comments/1qz7vdv/mount_sugarloaf_campbelltonatholville_panoramic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 8, 2026 — Mount Sugarloaf, Campbellton/Atholville. Panoramic aerial view of an ancient volcano. 4K Video...</p></details>
    Published: February 8, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: any truth to this  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ls0wqu/any_truth_to_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ls0wqu/any_truth_to_this/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsThere was the Belgian ufo wave of 1989-1991 with this exact model.... sugarloaf mountain. For another 3-4 mins then it shot up...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ls0wqu/any_truth_to_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ls0wqu/any_truth_to_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/UFOsThere was the Belgian ufo wave of 1989-1991 with this exact model.... sugarloaf mountain. For another 3-4 mins then it shot up...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: parcsnbparks.info  
-   Link: <a href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NB ParksSugarloaf Provincial Park | Parks | NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</p></details>
+   Link:<a href="https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://www.parcsnbparks.info/en/parks/9/sugarloaf-provincial-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NB ParksSugarloaf Provincial Park | Parks | NB ParksA steep climb but well worth the effort to reach this iconic New Brunswick view. A st...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tourismnewbrunswick.ca  
    Title: Tourism New Brunswick Sugarloaf Provincial Park  
-   Link: <a href="https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With over 25 km (15.5 mi.) of hiking and biking...</p></details>
+   Link:<a href="https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park" target="_blank" rel="noopener noreferrer nofollow">https://tourismnewbrunswick.ca/listing/sugarloaf-provincial-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With over 25 km (15.5 mi.) of hiking and biking...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024-9240-6920" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024-9240-6920</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaItem Display - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — National research - Radio and Electrical...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaItem Display - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — National research - Radio and Electrical...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: byronchristopher.org  
-   Link: <a href="https://byronchristopher.org/tag/lottie-ramsay/" target="_blank" rel="noopener noreferrer nofollow">https://byronchristopher.org/tag/lottie-ramsay/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Byron ChristopherLottie Ramsay | Byron ChristopherIn the distance is Sugarloaf Mountain, Campbellton&#x27;s oldest landmark.... To borrow a l...</p></details>
+   Link:<a href="https://byronchristopher.org/tag/lottie-ramsay/" target="_blank" rel="noopener noreferrer nofollow">https://byronchristopher.org/tag/lottie-ramsay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Byron ChristopherLottie Ramsay | Byron ChristopherIn the distance is Sugarloaf Mountain, Campbellton&#x27;s oldest landmark.... To borrow a l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: staticradio.com  
    Title: campbellton ufo with franky corcoran  
-   Link: <a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Static Radio2 Jan 2026 — But at least we brought out the knowledge of the Campbellton, New Brunswick UFO sighting from 1989 over Sugarloa...</p></details>
+   Link:<a href="https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/" target="_blank" rel="noopener noreferrer nofollow">https://www.staticradio.com/2026/01/02/campbellton-ufo-with-franky-corcoran/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Static Radio2 Jan 2026 — But at least we brought out the knowledge of the Campbellton, New Brunswick UFO sighting from 1989 over Sugarloa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: byronchristopher.org  
-   Link: <a href="https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Byron ChristopherLove Affair With a Mountain | Byron ChristopherJuly 16, 2017 — My bedroom window provided a great view of the old mountain...</p></details>
+   Link:<a href="https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://byronchristopher.org/2017/07/16/my-love-affair-with-a-mountain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Byron ChristopherLove Affair With a Mountain | Byron ChristopherJuly 16, 2017 — My bedroom window provided a great view of the old mountain...</p></details>
    Published: July 16, 2017  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: This is one of the most investigated UFO events in Canadian  
-   Link: <a href="https://www.facebook.com/1075daverocks/posts/this-is-one-of-the-most-investigated-ufo-events-in-canadian-historydark-poutine-/10161520377370623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1075daverocks/posts/this-is-one-of-the-most-investigated-ufo-events-in-canadian-historydark-poutine-/10161520377370623/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton... The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterious UFO... UFO reports in a single year since the Canadian U...</p></details>
+   Link:<a href="https://www.facebook.com/1075daverocks/posts/this-is-one-of-the-most-investigated-ufo-events-in-canadian-historydark-poutine-/10161520377370623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1075daverocks/posts/this-is-one-of-the-most-investigated-ufo-events-in-canadian-historydark-poutine-/10161520377370623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton... The Sugarloaf Mountain Flap/ In the Summer of 1971 a mysterious UFO... UFO reports in a single year since the Canadian U...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xMolU5dAIVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMolU5dAIVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO with Franky Corcoran | Static RadioCampbellton UFO In November 1989, a notable UFO sighting occurred in Campbellton, New...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xMolU5dAIVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMolU5dAIVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO with Franky Corcoran | Static RadioCampbellton UFO In November 1989, a notable UFO sighting occurred in Campbellton, New...</p></details>
    Published: November 1989  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Sugarloaf Mountain in Campbellton, New Brunswick, a beautiful  
-   Link: <a href="https://www.facebook.com/groups/352084125584644/posts/1617181995741511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352084125584644/posts/1617181995741511/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2024 — Panoramic view of Campbellton and Cross Point from top of mt Sugarloaf. Niice hike and spectacular view...</p></details>
+   Link:<a href="https://www.facebook.com/groups/352084125584644/posts/1617181995741511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352084125584644/posts/1617181995741511/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2024 — Panoramic view of Campbellton and Cross Point from top of mt Sugarloaf. Niice hike and spectacular view...</p></details>
    Published: May 25, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Climbing Sugarloaf Mountain | Campbellton, New Brunswick  
-   Link: <a href="https://www.youtube.com/watch?v=HVrJ4wJGSAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HVrJ4wJGSAE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>view from the summit. Sugarloaf Provincial Park, Campbellton NB What You&#x27;ll See: • Hiking the Sugarloaf Mountain trail • The climb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HVrJ4wJGSAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HVrJ4wJGSAE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>view from the summit. Sugarloaf Provincial Park, Campbellton NB What You&#x27;ll See: • Hiking the Sugarloaf Mountain trail • The climb...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: podbay.fm  
    Title: mondo freako static radio  
-   Link: <a href="https://podbay.fm/p/mondo-freako-static-radio" target="_blank" rel="noopener noreferrer nofollow">https://podbay.fm/p/mondo-freako-static-radio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mondo Freako – Static Radio | Podcast on PodbayCampbellton UFO with Franky Corcoran. Campbellton UFO In November 1989, a notable UF...</p></details>
+   Link:<a href="https://podbay.fm/p/mondo-freako-static-radio" target="_blank" rel="noopener noreferrer nofollow">https://podbay.fm/p/mondo-freako-static-radio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mondo Freako – Static Radio | Podcast on PodbayCampbellton UFO with Franky Corcoran. Campbellton UFO In November 1989, a notable UF...</p></details>
    Published: November 1989  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024-9338-6980" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024-9338-6980</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — National research - Radio and Electrical Engineering Division - Unident...</p></details>
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-119.01-e.php?PHPSESSID=p3nkrgrtp6rqto4smk2s3jodb7&amp;interval=&amp;isn_id_nbr=37024&amp;record_id=37024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED - Canada&#x27;s UFOs: The Search for the Unknown29 Oct 2007 — National research - Radio and Electrical Engineering Division - Unident...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: open.spotify.com  
    Title: 5A75Qfhh Lzc Kn Bhq PEmq UG  
-   Link: <a href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sugarloaf Mountain... Campbellton UFO with Franky Corcoran. Static Radio. Jan 2. 38 min. Campbellton UFO In November 1989, a notable UFO...</p></details>
+   Link:<a href="https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5A75QfhhLzcKnBhqPEmqUG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sugarloaf Mountain... Campbellton UFO with Franky Corcoran. Static Radio. Jan 2. 38 min. Campbellton UFO In November 1989, a notable UFO...</p></details>
    Published: November 1989  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Discover New Brunswick's HIDDEN GEM Provincial Park!  
-   Link: <a href="http://www.youtube.com/watch?v=QgWaGxwJW9E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QgWaGxwJW9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO Static Radio Campbellton UFO with Franky Corcoran | Static Radio Static Radio...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QgWaGxwJW9E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QgWaGxwJW9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Campbellton UFO Static Radio Campbellton UFO with Franky Corcoran | Static Radio Static Radio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Visiting Sugarloaf Provincial Park | Campbellton, New Brunswick 📍  
-   Link: <a href="http://www.youtube.com/watch?v=JEw6d5SLfn8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JEw6d5SLfn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JEw6d5SLfn8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JEw6d5SLfn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: UNEXPLAINED UFO Sightings and Alien Encounters in New Brunswick Canada  
-   Link: <a href="http://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKQePic8cdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sugar Loaf Provincial Park 4K - CBC New Brunswick...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UKQePic8cdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKQePic8cdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sugar Loaf Provincial Park 4K - CBC New Brunswick...</p></details>

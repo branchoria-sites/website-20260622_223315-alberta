@@ -280,7 +280,7 @@ image: /assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3-overview-socia
 
 ## Introduction
 
-Transport Canada records matter to [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s UFO history because they show how modern unusual-sky reports are handled when they enter aviation safety systems rather than folklore. In this setting, “UFO” or “unidentified aerial phenomenon” is not a verdict about alien technology. It is usually a provisional safety label for something a pilot, air traffic controller, operator, police agency or member of the public could not immediately identify: a drone, balloon, meteor, satellite, aircraft light, weather phenomenon, bird, rocket, military activity or something genuinely unresolved. Transport Canada has said explicitly that “UFO” in the Civil Aviation Daily Occurrence Reporting System can cover many ordinary categories and should not be interpreted as extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+Transport Canada records matter to [Manitoba]({{ 'why-manitoba-matters-in-canadian-ufo/' | relative_url }})’s UFO history because they show how modern unusual-sky reports are handled when they enter aviation safety systems rather than folklore. In this setting, “UFO” or “unidentified aerial phenomenon” is not a verdict about alien technology. It is usually a provisional safety label for something a pilot, air traffic controller, operator, police agency or member of the public could not immediately identify: a drone, balloon, meteor, satellite, aircraft light, weather phenomenon, bird, rocket, military activity or something genuinely unresolved. Transport Canada has said explicitly that “UFO” in the Civil Aviation Daily Occurrence Reporting System can cover many ordinary categories and should not be interpreted as extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3-overview.webp" | relative_url }}" alt="Overview image for Aviation Records" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,17 +288,17 @@ For Manitoba, the important shift is from famous close-encounter stories such as
 
 ## CADORS is a safety database, not a UFO investigation office
 
-The central system is CADORS, the Civil Aviation Daily Occurrence Reporting System. Transport Canada says CADORS was launched in 1985 to provide timely information about civil aviation occurrences and is used to capture information that air traffic services operators must report under section 807.01 of the Canadian Aviation Regulations. Transport Canada’s own safety article says the department receives an average of about 16,750 aviation incident and accident reports a year, roughly 45 per day, and uses CADORS to identify hazards, notify civil aviation stakeholders and assess risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span><span class="citation-popover-snippet">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span></span></span>
+The central system is CADORS, the Civil Aviation Daily Occurrence Reporting System. Transport Canada says CADORS was launched in 1985 to provide timely information about civil aviation occurrences and is used to capture information that air traffic services operators must report under section 807.01 of the Canadian Aviation Regulations. Transport Canada’s own safety article says the department receives an average of about 16,750 aviation incident and accident reports a year, roughly 45 per day, and uses CADORS to identify hazards, notify civil aviation stakeholders and assess risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span><span class="citation-popover-snippet">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span></span></span>
 
 That scale is the first reason to read aviation UFO entries carefully. CADORS is not a curated catalogue of mystery cases. It is a broad occurrence-reporting system that also contains engine issues, bird strikes, runway incursions, laser incidents, unruly passengers, airspace events and unusual objects. A UFO-like entry is therefore best understood as an aviation occurrence first: something was reported because it might matter to safety, separation, airspace awareness or operational follow-up.
 
-The legal framework reinforces that point. The Canadian Aviation Regulations state that the holder of an air traffic services operations certificate must report to the Minister the aviation occurrence information specified in the CADORS Manual. The current CADORS Manual describes its purpose as setting out criteria and procedures to help air traffic services certificate holders meet those regulatory obligations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws-lois.justice.gc.ca">[laws-lois.justice.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws-lois.justice.gc.ca</span><span class="citation-popover-title">Canadian Aviation Regulations</span><span class="citation-popover-snippet">Canadian Aviation Regulations</span></span></span>
+The legal framework reinforces that point. The Canadian Aviation Regulations state that the holder of an air traffic services operations certificate must report to the Minister the aviation occurrence information specified in the CADORS Manual. The current CADORS Manual describes its purpose as setting out criteria and procedures to help air traffic services certificate holders meet those regulatory obligations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laws-lois.justice.gc.ca">[laws-lois.justice.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laws-lois.justice.gc.ca</span><span class="citation-popover-title">Canadian Aviation Regulations</span><span class="citation-popover-snippet">Canadian Aviation Regulations</span></span></span>
 
 For readers used to older UFO files from police, defence or [archives]({{ 'archives/' | relative_url }}), this is a different kind of evidence. A CADORS record may be valuable because it places a sighting in a flight-safety chain, not because it proves what the object was. It often records what was said, who relayed it, where the aircraft was, and what category the occurrence was assigned. It usually does not provide a full scientific reconstruction.
 
 ## How a Manitoba sighting enters the official aviation trail
 
-Most CADORS information does not begin with Transport Canada investigators watching the sky. Transport Canada says about 80 per cent of aviation occurrence information used to create a CADORS record comes from NAV CANADA in an aviation occurrence report; other sources can include the Transportation Safety Board, RCMP, aircraft operators and other government agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span><span class="citation-popover-snippet">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span></span></span>
+Most CADORS information does not begin with Transport Canada investigators watching the sky. Transport Canada says about 80 per cent of aviation occurrence information used to create a CADORS record comes from NAV CANADA in an aviation occurrence report; other sources can include the Transportation Safety Board, RCMP, aircraft operators and other government agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span><span class="citation-popover-snippet">Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS</span></span></span>
 
 That matters in Manitoba because many reports are operationally mediated. A pilot may call air traffic control; a controller may relay the report; NAV CANADA may file the aviation occurrence information; Transport Canada may publish a CADORS entry. The resulting record can look official, but it is still usually a record of a report, not a confirmed identification.
 
@@ -315,7 +315,7 @@ A typical pathway can involve several layers:
 
 </div>
 
-The Transportation Safety Board’s separate reporting rules show why this is not simply a “UFO hotline”. Aircraft owners, operators, pilots-in-command, crew members and, in some cases, air traffic controllers have reporting duties for reportable aviation occurrences; the TSB also specifies rapid initial reporting and fuller follow-up for occurrences within its mandate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bst.gc.ca">[Transportation Safety Board of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bst.gc.ca</span><span class="citation-popover-title">Transportation Safety Board of Canada Report an air transportation occurrence</span><span class="citation-popover-snippet">Transportation Safety Board of CanadaReport an air transportation occurrence - Transportation Safety Board of Canada...</span></span></span>
+The Transportation Safety Board’s separate reporting rules show why this is not simply a “UFO hotline”. Aircraft owners, operators, pilots-in-command, crew members and, in some cases, air traffic controllers have reporting duties for reportable aviation occurrences; the TSB also specifies rapid initial reporting and fuller follow-up for occurrences within its mandate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bst.gc.ca">[Transportation Safety Board of Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bst.gc.ca</span><span class="citation-popover-title">Transportation Safety Board of Canada Report an air transportation occurrence</span><span class="citation-popover-snippet">Transportation Safety Board of CanadaReport an air transportation occurrence - Transportation Safety Board of Canada...</span></span></span>
 
 
 <img src="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Records illustration 1" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_aviation_ufo_records_4967d3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,7 +325,7 @@ A Manitoba-linked aviation UFO report may not be a neat “sighting in Manitoba�
 
 That is why Manitoba’s aviation records should be read through flight context. A report may matter to Manitoba UFO history because it involves Winnipeg crews, Winnipeg air traffic control, Winnipeg departures or Manitoba airspace. But the precise location can still be Alberta, Saskatchewan, north-western Ontario or a broader Prairie region depending on where the aircraft was when the report was made.
 
-A recent example illustrates the difference. In March 2026, the Winnipeg Free Press reported that WestJet pilots on flight WJA485, travelling from Winnipeg to Calgary, had reported passing a “basketball-sized object” at about 13,000 feet while north-west of Canmore on 19 January. The report said NAV CANADA classified the occurrence under “weather balloon, meteor, rocket, CIRVIS/UFO”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipegfreepress.com">[Winnipeg Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipegfreepress.com</span><span class="citation-popover-snippet">Winnipeg Free Press&#x27;Fly WestJet, see a UFO&#x27; – Winnipeg Free Press3 days ago — NAV Canada has classified the incident, under occurrence ev...</span></span></span>
+A recent example illustrates the difference. In March 2026, the Winnipeg Free Press reported that WestJet pilots on flight WJA485, travelling from Winnipeg to Calgary, had reported passing a “basketball-sized object” at about 13,000 feet while north-west of Canmore on 19 January. The report said NAV CANADA classified the occurrence under “weather balloon, meteor, rocket, CIRVIS/UFO”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnipegfreepress.com">[Winnipeg Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnipegfreepress.com</span><span class="citation-popover-snippet">Winnipeg Free Press&#x27;Fly WestJet, see a UFO&#x27; – Winnipeg Free Press3 days ago — NAV Canada has classified the incident, under occurrence ev...</span></span></span>
 
 That incident belongs on a Manitoba aviation-records page not because it proves a Manitoba object, but because it shows how a Winnipeg-origin flight can enter the Canadian aviation UFO record. It also shows the importance of the category label: the same CADORS-style bucket can contain a balloon, meteor, rocket, formal vital-intelligence sighting or an unresolved object. The label keeps the report searchable and safety-relevant, but it does not settle the explanation.
 
@@ -333,9 +333,9 @@ That incident belongs on a Manitoba aviation-records page not because it proves 
 
 Pilot reports deserve attention because trained aviation professionals are often better than casual observers at judging aircraft lights, altitude bands, traffic [patterns]({{ 'patterns/' | relative_url }}) and operational risk. They also report through systems that preserve time, location and flight context. That makes pilot cases more useful than many social-media sightings.
 
-But aviation training does not make every distant light identifiable. A pilot looking through a cockpit window at night may still be seeing reflections, satellites, meteors, balloons, drones, military activity, atmospheric effects or another aircraft at a misleading angle. The Office of the Chief Science Advisor’s Sky Canada report identifies common explanations for UAP reports including aircraft, drones, satellites, balloons, astronomical objects and weather-related phenomena, while also stressing that Canada’s reporting landscape is fragmented and difficult to analyse consistently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+But aviation training does not make every distant light identifiable. A pilot looking through a cockpit window at night may still be seeing reflections, satellites, meteors, balloons, drones, military activity, atmospheric effects or another aircraft at a misleading angle. The Office of the Chief Science Advisor’s Sky Canada report identifies common explanations for UAP reports including aircraft, drones, satellites, balloons, astronomical objects and weather-related phenomena, while also stressing that Canada’s reporting landscape is fragmented and difficult to analyse consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
-The January 2024 [prairie lights]({{ 'prairie-lights/' | relative_url }}) case shows the problem clearly. CTV reporting, summarised and preserved in multiple syndicated accounts, described several aircraft crews reporting unusual lights above the Canadian Prairies, with Winnipeg air traffic control involved in radio exchanges. The reports included pilots describing lights moving in formations, while sceptical analysis argued that Starlink satellite reflections could create the appearance of moving lights or shifting triangle-like patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaceromendoza.blogspot.com/2024/01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaceromendoza.blogspot.com">[orbitaceromendoza.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaceromendoza.blogspot.com</span><span class="citation-popover-title">Orbita Cero: Mendoza, Argentina: enero</span><span class="citation-popover-snippet">WestJet que volaba de Winnipeg a Toronto. &quot;Lo he... READ the &quot;CIRVIS/#UFO&quot; report published last... WestJet, Air Canada Express, Porter...</span></span></span>
+The January 2024 [prairie lights]({{ 'prairie-lights/' | relative_url }}) case shows the problem clearly. CTV reporting, summarised and preserved in multiple syndicated accounts, described several aircraft crews reporting unusual lights above the Canadian Prairies, with Winnipeg air traffic control involved in radio exchanges. The reports included pilots describing lights moving in formations, while sceptical analysis argued that Starlink satellite reflections could create the appearance of moving lights or shifting triangle-like patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaceromendoza.blogspot.com/2024/01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaceromendoza.blogspot.com">[orbitaceromendoza.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaceromendoza.blogspot.com</span><span class="citation-popover-title">Orbita Cero: Mendoza, Argentina: enero</span><span class="citation-popover-snippet">WestJet que volaba de Winnipeg a Toronto. &quot;Lo he... READ the &quot;CIRVIS/#UFO&quot; report published last... WestJet, Air Canada Express, Porter...</span></span></span>
 
 That is the core tension in aviation sightings. Multiple trained crews may sincerely report something strange, and the report may still be compatible with a mundane explanation once satellite positions, sun angle, altitude, timing and viewing geometry are considered. The official record is therefore a starting point for investigation, not the final answer.
 
@@ -348,13 +348,13 @@ One of the most misunderstood labels in Canadian aviation UFO material is “CIR
 
 For ordinary readers, the word “vital” can make a report sound like a secret military confirmation. That is not what it means by itself. It means the event may fit a reporting category that could be relevant to airspace awareness or security. It may later prove to be a balloon, meteor, satellite, drone, aircraft or misperception.
 
-Transport Canada’s 2022 briefing note on unidentified aerial phenomena says CADORS captures UAP reports, that the database contains preliminary aviation occurrence information, and that most information comes from NAV CANADA, with other sources including the public, operators, airports or other involved parties. The same note says further investigation into UAP sightings falls outside Transport Canada’s mandate, although the department remains open to collaboration with other departments for aviation safety and security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
+Transport Canada’s 2022 briefing note on unidentified aerial phenomena says CADORS captures UAP reports, that the database contains preliminary aviation occurrence information, and that most information comes from NAV CANADA, with other sources including the public, operators, airports or other involved parties. The same note says further investigation into UAP sightings falls outside Transport Canada’s mandate, although the department remains open to collaboration with other departments for aviation safety and security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
 
 That statement is crucial for Manitoba readers. Transport Canada records can confirm that an aviation report was made and categorised. They usually cannot confirm that an unknown craft existed, that it behaved as first described, or that an extraordinary explanation is likely. They document the governance trail.
 
 ## High-altitude objects changed how readers interpret UFO records
 
-The 2023 high-altitude object incidents over North America made aviation UFO language more visible to the public. Transport Canada later prepared material saying it had taken action alongside government and aviation partners to mitigate safety risks, including issuing NOTAMs, or Notices to Airmen, during high-altitude object events. In the same document, the department stressed that “UFO” in CADORS can mean drones, balloons, meteors, weather phenomena and birds, and should not be read as extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+The 2023 high-altitude object incidents over North America made aviation UFO language more visible to the public. Transport Canada later prepared material saying it had taken action alongside government and aviation partners to mitigate safety risks, including issuing NOTAMs, or Notices to Airmen, during high-altitude object events. In the same document, the department stressed that “UFO” in CADORS can mean drones, balloons, meteors, weather phenomena and birds, and should not be read as extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 The wider Canadian context matters because Manitoba sits under the same national airspace safety architecture. A high-altitude balloon crossing western or northern Canada is not just a UFO story; it can be an aviation hazard, a security concern, a diplomatic issue and a NORAD matter. The public may encounter the story through UFO language, while the aviation system treats it as airspace management.
 
@@ -382,7 +382,7 @@ What CADORS cannot usually do:
 
 * **It cannot prove the nature of the object.** A short entry may contain only what a pilot or controller reported.
 * **It may not include raw audio, radar data or full follow-up.** Journalists sometimes obtain audio or additional context separately, but the public CADORS entry itself can be sparse.
-* **It is not always a final investigation report.** Transport Canada describes CADORS information as preliminary aviation occurrence information, and the system supplements normal reporting and investigation procedures rather than replacing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
+* **It is not always a final investigation report.** Transport Canada describes CADORS information as preliminary aviation occurrence information, and the system supplements normal reporting and investigation procedures rather than replacing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
 * **It can mix very different phenomena in one category.** “Weather balloon, meteor, rocket, CIRVIS/UFO” is a broad administrative lane, not a precise explanation.
 
 This makes CADORS both useful and easy to overread. For Manitoba, the best use is to treat aviation records as a disciplined index of reported anomalies, then test each case against external evidence.
@@ -394,9 +394,9 @@ This makes CADORS both useful and easy to overread. For Manitoba, the best use i
 
 Manitoba’s geography makes aviation sightings especially prone to mixed explanations. The province has dark rural skies, long winter nights, wide horizons, remote northern routes, military and civil aviation activity, medevac flights, drones, satellites, auroral conditions and meteor activity. A bright object over a lake, highway, airport approach or prairie horizon may be hard to identify even for experienced observers.
 
-The [Canadian UFO Survey]({{ 'survey-data/' | relative_url }})’s recent findings support that caution. The 2025 survey counted 1,052 Canadian UFO reports, but only 3.42 per cent were classified as unexplained; Chris Rutkowski told Global News that most reports had simple or easily explained configurations such as aircraft, satellites and planets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Global News Reports of UFO sightings in Canada jumped last year</span></span></span>
+The [Canadian UFO Survey]({{ 'survey-data/' | relative_url }})’s recent findings support that caution. The 2025 survey counted 1,052 Canadian UFO reports, but only 3.42 per cent were classified as unexplained; Chris Rutkowski told Global News that most reports had simple or easily explained configurations such as aircraft, satellites and planets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">Global News Reports of UFO sightings in Canada jumped last year</span><span class="citation-popover-snippet">Global News Reports of UFO sightings in Canada jumped last year</span></span></span>
 
-The Office of the Chief Science Advisor made a related point from a governance perspective. Its Sky Canada report estimated that Canadians report roughly 600 to 1,000 UAP sightings annually, but said the absence of a single data-collection organisation makes the number and nature of observations difficult to establish conclusively, partly because the same sighting can be reported to more than one organisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
+The Office of the Chief Science Advisor made a related point from a governance perspective. Its Sky Canada report estimated that Canadians report roughly 600 to 1,000 UAP sightings annually, but said the absence of a single data-collection organisation makes the number and nature of observations difficult to establish conclusively, partly because the same sighting can be reported to more than one organisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span><span class="citation-popover-snippet">Management of Public Reporting of Unidentified Aerial Phenomena in Canada</span></span></span>
 
 For Manitoba aviation sightings, that means the strongest interpretation is usually modest: a report may be real, sincere and worth logging, while the object remains unconfirmed. “Unidentified” is a status of available information, not a claim of exotic origin.
 
@@ -411,7 +411,7 @@ The most useful way to read a Transport Canada or CADORS-linked UFO report is to
 
 **Second, who reported it?** A pilot, controller, police agency, airport operator or member of the public may all create a record, but each source has different strengths and limits. A pilot report has operational value, but still depends on viewing angle, lighting, workload and available instruments.
 
-**Third, what category was assigned?** Labels such as “CIRVIS/UFO”, “weather balloon”, “meteor”, “rocket” or “laser interference” may reflect administrative fit more than final identification. Transport Canada has acknowledged that CADORS captures a smaller number of UAP-type reports than the broader public UFO-survey total and that the categories may include several ordinary phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
+**Third, what category was assigned?** Labels such as “CIRVIS/UFO”, “weather balloon”, “meteor”, “rocket” or “laser interference” may reflect administrative fit more than final identification. Transport Canada has acknowledged that CADORS captures a smaller number of UAP-type reports than the broader public UFO-survey total and that the categories may include several ordinary phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-title">Open Government Portal Question Period Notes</span><span class="citation-popover-snippet">Open Government Portal Question Period Notes</span></span></span>
 
 **Fourth, what follow-up exists?** A strong case should have more than a short entry: corroborating crews, radar or sensor data, audio, weather checks, satellite analysis, NOTAMs, military response, photographs, debris, or a later explanation. Without that, the record remains a useful report but not a strong conclusion.
 
@@ -426,194 +426,194 @@ They also show why a balanced Manitoba UFO history should include governance as 
 For Manitoba, the strongest conclusion is cautious but meaningful: official aviation records do not validate extraordinary claims by themselves, yet they do preserve a small, important class of sightings that entered Canada’s aviation safety system. Those entries are best read as evidence of reported uncertainty, not evidence of confirmed alien craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Official Aviation Reports Handle UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Official Aviation Reports Handle UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong focus on pilot reports, government documentation, and how official institutions handle unexplained aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong focus on pilot reports, government documentation, and how official institutions handle unexplained aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores classification of sightings and the distinction between unidentified reports and extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores classification of sightings and the distinction between unidentified reports and extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern government, military, and aviation-related UFO cases and reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern government, military, and aviation-related UFO cases and reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by the former head of Project Blue Book and centered on official investigation procedures and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the former head of Project Blue Book and centered on official investigation procedures and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL."><img src="{{ '/assets/images/marketplace-covers/9c3b32c129f3990886bd.jpg' | relative_url }}" alt="Listing image for Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Aviation Memorabilia Swissport Handling Short Sleeved White Shirt. XL.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight-fly Past Memorabilia Book Two Photos."><img src="{{ '/assets/images/marketplace-covers/7c46a14632513277878f.jpg' | relative_url }}" alt="Listing image for Flight-fly Past Memorabilia Book Two Photos." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight-fly Past Memorabilia Book Two Photos.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight-fly Past Memorabilia Book Two Photos."><img src="{{ '/assets/images/marketplace-covers/7c46a14632513277878f.jpg' | relative_url }}" alt="Listing image for Flight-fly Past Memorabilia Book Two Photos." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight-fly Past Memorabilia Book Two Photos.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/c309299236d38b356328.jpg' | relative_url }}" alt="Listing image for Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/c309299236d38b356328.jpg' | relative_url }}" alt="Listing image for Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage McDonnell Douglas &amp; MD-11 Leather Key Fobs Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia"><img src="{{ '/assets/images/marketplace-covers/241548fb0ad68af2436a.jpg' | relative_url }}" alt="Listing image for Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage PSA Airlines Tie - Grinning Smiling Plane Logo - Aviation Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation memorabilia" data-ebay-reference="aviation-records-how-official-aviation-reports-handle-ufos-manitoba-aviation-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,166 +819,166 @@ For Manitoba, the strongest conclusion is cautious but meaningful: official avia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tc.canada.ca  
    Title: Transport Canada The Civil Aviation Daily Occurrence Reporting System (CADORS)  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: laws-lois.justice.gc.ca  
    Title: Canadian Aviation Regulations  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html</a>  
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-56.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
-   Link: <a href="https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaCivil Aviation Daily Occurrence Reporting System (CADORS) Manual - TP 4044...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/aviation-publications/civil-aviation-daily-occurrence-reporting-system-cadors-manual-tp-4044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaCivil Aviation Daily Occurrence Reporting System (CADORS) Manual - TP 4044...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial Phenomena in Canada  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: orbitaceromendoza.blogspot.com  
    Title: Orbita Cero: Mendoza, Argentina: enero  
-   Link: <a href="https://orbitaceromendoza.blogspot.com/2024/01/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaceromendoza.blogspot.com/2024/01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WestJet que volaba de Winnipeg a Toronto. &quot;Lo he... READ the &quot;CIRVIS/#UFO&quot; report published last... WestJet, Air Canada Express, Porter...</p></details>
+   Link:<a href="https://orbitaceromendoza.blogspot.com/2024/01/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaceromendoza.blogspot.com/2024/01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WestJet que volaba de Winnipeg a Toronto. &quot;Lo he... READ the &quot;CIRVIS/#UFO&quot; report published last... WestJet, Air Canada Express, Porter...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: search.open.canada.ca  
    Title: Open Government Portal Question Period Notes  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.gc.ca  
    Title: sky canada report  
-   Link: <a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
+   Link:<a href="https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ised-isde.canada.ca  
    Title: preview sky canada report ocsa  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ised-isde.canada.ca  
    Title: sky canada project  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.canada.ca  
-   Link: <a href="https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f</a>  
+   Link:<a href="https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f" target="_blank" rel="noopener noreferrer nofollow">https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tc.canada.ca  
    Title: issue 2 2021  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tc.canada.ca  
    Title: report incident affecting airport aerodrome safety  
-   Link: <a href="https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/operating-airports-aerodromes/report-incident-affecting-airport-aerodrome-safety</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tc.canada.ca  
-   Link: <a href="https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations</a>  
+   Link:<a href="https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/reference-centre/exemptions-canadian-aviation-regulations-cars/exemption-standards-specified-cadors-manual-made-pursuant-section-80701-canadian-aviation-regulations</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laws-lois.justice.gc.ca  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html</a>  
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/SOR-96-433/page-111.html/page-33.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: laws-lois.justice.gc.ca  
    Title: justice.gc.ca Canadian Aviation Regulations (SOR /96-433)604.176  
-   Link: <a href="https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/</a>  
+   Link:<a href="https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/" target="_blank" rel="noopener noreferrer nofollow">https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/</a>  
+   Link:<a href="https://www.norad.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5VQRoDa8JX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5VQRoDa8JX4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport Canada CADORS UFO aviation pilot sightings Lights In The Sky Over Baffin Bay Dec 15 2022 #ufo #uap #joerogan #aviation #pirep @...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5VQRoDa8JX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5VQRoDa8JX4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport Canada CADORS UFO aviation pilot sightings Lights In The Sky Over Baffin Bay Dec 15 2022 #ufo #uap #joerogan #aviation #pirep @...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bst.gc.ca  
    Title: Transportation Safety Board of Canada Report an air transportation occurrence  
-   Link: <a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of CanadaReport an air transportation occurrence - Transportation Safety Board of Canada...</p></details>
+   Link:<a href="https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bst.gc.ca/eng/incidents-occurrence/aviation/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Safety Board of CanadaReport an air transportation occurrence - Transportation Safety Board of Canada...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: winnipegfreepress.com  
-   Link: <a href="https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg Free Press&#x27;Fly WestJet, see a UFO&#x27; – Winnipeg Free Press3 days ago — NAV Canada has classified the incident, under occurrence ev...</p></details>
+   Link:<a href="https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.winnipegfreepress.com/breakingnews/2026/03/21/fly-westjet-see-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Winnipeg Free Press&#x27;Fly WestJet, see a UFO&#x27; – Winnipeg Free Press3 days ago — NAV Canada has classified the incident, under occurrence ev...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: globalnews.ca  
    Title: Global News Reports of UFO sightings in Canada jumped last year  
-   Link: <a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
+   Link:<a href="https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11723579/ufo-sightings-in-canada-2025/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globalnews.ca  
    Title: alberta rcmp ufo sightings  
-   Link: <a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
+   Link:<a href="https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/7827693/alberta-rcmp-ufo-sightings/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
+   Link:<a href="https://publications.gc.ca/site/eng/9.954480/publication.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/site/eng/9.954480/publication.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/CADORS.html?id=0HALHQAACAAJ</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DgbNKOK7lr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DgbNKOK7lr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Sky Canada Project, UFOs, UAPs and FOIA | UAP Files Podcast S3E7 | Daniel Otis  
-   Link: <a href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPBzvNkDOTk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPBzvNkDOTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPBzvNkDOTk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Pilot reports unusual lights over Quebec on Feb. 12, 2023...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: How Canada tracks UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yuwQMa0xL28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yuwQMa0xL28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: How Canada tracks UFOs...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The truth is out there: How Canada tracks UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWistYd7Vng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Flight almost hits unidentified object over Lake Ontario on Nov. 14, 2016...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hWistYd7Vng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic control audio: Flight almost hits unidentified object over Lake Ontario on Nov. 14, 2016...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/</a>  
+   Link:<a href="https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PreparingforPoleshift/posts/a-ufo-was-captured-over-the-skies-of-canada/895183285949702/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: canadacommons.ca  
-   Link: <a href="https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/</a>  
+   Link:<a href="https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/" target="_blank" rel="noopener noreferrer nofollow">https://canadacommons.ca/artifacts/30345867/air-traffic-organization-occurrence-reporting/31245707/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1456083107944941/posts/4146330022253556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1456083107944941/posts/4146330022253556/</a>  
+   Link:<a href="https://www.facebook.com/groups/1456083107944941/posts/4146330022253556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1456083107944941/posts/4146330022253556/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/hbrcih/cador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/hbrcih/cador/</a>  
+   Link:<a href="https://www.reddit.com/r/flying/comments/hbrcih/cador/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/hbrcih/cador/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: fatiguemanagersnetwork.org  
-   Link: <a href="https://fatiguemanagersnetwork.org/wp-content/uploads/Canada_Transport-Canada_Safety-Management-System-Development-Guide-for-Smaller-Aviation-Organizations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatiguemanagersnetwork.org/wp-content/uploads/Canada_Transport-Canada_Safety-Management-System-Development-Guide-for-Smaller-Aviation-Organizations.pdf</a>  
+   Link:<a href="https://fatiguemanagersnetwork.org/wp-content/uploads/Canada_Transport-Canada_Safety-Management-System-Development-Guide-for-Smaller-Aviation-Organizations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatiguemanagersnetwork.org/wp-content/uploads/Canada_Transport-Canada_Safety-Management-System-Development-Guide-for-Smaller-Aviation-Organizations.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  
+   Link:<a href="https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/letstalkalbertaindependence/posts/1707926206472248/</a>  

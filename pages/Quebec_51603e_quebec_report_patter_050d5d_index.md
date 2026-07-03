@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-report-patter/
 description: Focused pages that expand on Report Patterns.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_report_patter_050d5d
 parent_title: Report Patterns
@@ -16,7 +16,7 @@ parent_permalink: /report-patterns/
 
 # Explore Topics in Report Patterns
 
-The following pages expand on the main **[Report Patterns]({{ '/report-patterns/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Report Patterns]({{ '/report-patterns/' | relative_url }})** page and cover its key branches in.
 
 - [Urban Clusters]({{ '/urban-clusters/' | relative_url }})
 - [2015 Spike]({{ '/2015-spike/' | relative_url }})

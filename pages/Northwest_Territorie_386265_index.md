@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /northwest-territorie-386265-index/
 description: Focused pages that expand on Northwest Territories.
-date: '2026-06-22'
+date: '2026'
 layout: default
 parent_basename: Northwest_Territorie_386265
 parent_title: Northwest Territories
@@ -16,7 +16,7 @@ parent_permalink: /northwest-territories/
 
 # Explore Topics in Northwest Territories
 
-The following pages expand on the main **[Northwest Territories]({{ '/northwest-territories/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Northwest Territories]({{ '/northwest-territories/' | relative_url }})** page and cover its key branches in.
 
 - [Clan Lake]({{ '/clan-lake/' | relative_url }})
 - [Defence North]({{ '/defence-north/' | relative_url }})

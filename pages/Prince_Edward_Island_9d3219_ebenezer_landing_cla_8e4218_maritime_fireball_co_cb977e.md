@@ -256,42 +256,42 @@ image: /assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_ma
 
 ## Introduction
 
-The strongest conventional explanation for the Ebenezer incident is not a single local misunderstanding but a wider evening of unusual sky reports across Atlantic Canada. On 22 August 1990, [witnesses]({{ 'witnesses/' | relative_url }}) in New Brunswick, Nova Scotia, [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}), Quebec's Gulf region and neighbouring areas reported bright fireballs, glowing objects with tails, coloured lights and apparent descending bodies. Canadian records linked several of these reports to possible meteors, creating an important context for the later claim that an object had landed near Ebenezer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The strongest conventional explanation for the Ebenezer incident is not a single local misunderstanding but a wider evening of unusual sky reports across Atlantic Canada. On 22 August 1990, [witnesses]({{ 'witnesses/' | relative_url }}) in New Brunswick, Nova Scotia, [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }}), Quebec's Gulf region and neighbouring areas reported bright fireballs, glowing objects with tails, coloured lights and apparent descending bodies. Canadian records linked several of these reports to possible meteors, creating an important context for the later claim that an object had landed near Ebenezer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-1-dark.svg" | relative_url }}" alt="Fireball Context illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This broader pattern matters because fireballs often generate exactly the kind of testimony that later develops into UFO landing stories. They can appear low above the horizon, seem to descend into nearby woods or fields, change colour dramatically and leave observers convinced that something has come down nearby. At the same time, the [Ebenezer]({{ 'ebenezer/' | relative_url }}) account contains features that some witnesses felt went beyond a brief meteor sighting, which is why the debate has continued within Prince Edward Island UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
+This broader pattern matters because fireballs often generate exactly the kind of testimony that later develops into UFO landing stories. They can appear low above the horizon, seem to descend into nearby woods or fields, change colour dramatically and leave observers convinced that something has come down nearby. At the same time, the [Ebenezer]({{ 'ebenezer/' | relative_url }}) account contains features that some witnesses felt went beyond a brief meteor sighting, which is why the debate has continued within Prince Edward Island UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4eG7Z5de1D0" title="The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer">The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: The Canadian Gothic Live Recordings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4eG7Z5de1D0">Open on YouTube</a></p></div></div></div>
 
 ## Reports from New Brunswick and Nova Scotia
 
-The Ebenezer sighting did not occur in isolation. Contemporary summaries of National Research Council UFO files describe a cluster of reports across the Maritimes on the same evening. Several sightings involved bright objects with tails, rapidly moving luminous bodies and coloured fireball-like phenomena. Some were formally assessed as probable meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The Ebenezer sighting did not occur in isolation. Contemporary summaries of National Research Council UFO files describe a cluster of reports across the Maritimes on the same evening. Several sightings involved bright objects with tails, rapidly moving luminous bodies and coloured fireball-like phenomena. Some were formally assessed as probable meteors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-What makes this regional pattern significant is its geographical scale. Notes associated with the 22 August 1990 reports stated that the phenomenon was observed across a vast area stretching from Anticosti Island towards Halifax and from Newfoundland south towards Maine. Witnesses reported fireballs, flare-like objects, apparent burning aircraft and other dramatic aerial displays over a period of roughly ninety minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+What makes this regional pattern significant is its geographical scale. Notes associated with the 22 August 1990 reports stated that the phenomenon was observed across a vast area stretching from Anticosti Island towards Halifax and from Newfoundland south towards Maine. Witnesses reported fireballs, flare-like objects, apparent burning aircraft and other dramatic aerial displays over a period of roughly ninety minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-The same file record also mentions reports from outside Prince Edward Island that sounded remarkably similar to the Island observations. One Nova Scotia witness reportedly believed a glowing object had come down in nearby woods, while police detachments elsewhere in the Maritimes received information suggesting possible debris locations. Such reports are common during major fireball events because observers in different locations often interpret the same atmospheric phenomenon as a nearby fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The same file record also mentions reports from outside Prince Edward Island that sounded remarkably similar to the Island observations. One Nova Scotia witness reportedly believed a glowing object had come down in nearby woods, while police detachments elsewhere in the Maritimes received information suggesting possible debris locations. Such reports are common during major fireball events because observers in different locations often interpret the same atmospheric phenomenon as a nearby fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-For the Ebenezer case, this wider distribution is important evidence. A genuine local landing would normally be expected to generate reports concentrated around one area. A meteor or bolide, by contrast, can be seen simultaneously across hundreds of kilometres and produce many apparently separate incidents that later turn out to be linked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
+For the Ebenezer case, this wider distribution is important evidence. A genuine local landing would normally be expected to generate reports concentrated around one area. A meteor or bolide, by contrast, can be seen simultaneously across hundreds of kilometres and produce many apparently separate incidents that later turn out to be linked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ## Why fireballs can look low and dramatic
 
-One reason fireballs generate persistent UFO stories is that human observers are poor at judging the distance of bright objects in the night sky. Astronomical research on fireball observations has long noted that exceptionally bright meteors attract intense public attention precisely because they appear unusually close and dramatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
+One reason fireballs generate persistent UFO stories is that human observers are poor at judging the distance of bright objects in the night sky. Astronomical research on fireball observations has long noted that exceptionally bright meteors attract intense public attention precisely because they appear unusually close and dramatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
 
 Several characteristics of major fireballs can create the impression of a landing:
 
 * **Apparent low altitude.** A meteor tens of kilometres high can seem to skim treetops or hills on the horizon.
 * **Brightness and colour changes.** Fragmentation can produce red, orange, green or white flashes that resemble powered objects.
 * **Perceived descent.** As the object approaches the horizon, observers often conclude it has entered woods, fields or water nearby.
-* **Persistence effects.** Smoke trails, glowing trains and after-images can make people believe an object remains visible after its passage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
+* **Persistence effects.** Smoke trails, glowing trains and after-images can make people believe an object remains visible after its passage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[ADS Abs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</span></span></span>
 
-These effects are especially relevant to the Ebenezer description. Witnesses reported a glowing object behind trees and judged that it had come down in woodland. That interpretation is consistent with a known pattern in major fireball cases, where many observers independently identify different and often contradictory landing locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+These effects are especially relevant to the Ebenezer description. Witnesses reported a glowing object behind trees and judged that it had come down in woodland. That interpretation is consistent with a known pattern in major fireball cases, where many observers independently identify different and often contradictory landing locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-The regional spread of reports on the same evening strengthens this possibility. If numerous communities across Atlantic Canada were reacting to a bright atmospheric event, then the Ebenezer observation may represent one local interpretation of a phenomenon that was visible over a much larger area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The regional spread of reports on the same evening strengthens this possibility. If numerous communities across Atlantic Canada were reacting to a bright atmospheric event, then the Ebenezer observation may represent one local interpretation of a phenomenon that was visible over a much larger area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-2-dark.svg" | relative_url }}" alt="Fireball Context illustration 2" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -299,215 +299,215 @@ The regional spread of reports on the same evening strengthens this possibility.
 
 Although the fireball context is the strongest natural explanation, it does not resolve every aspect of the Ebenezer story.
 
-The principal difficulty is duration. The most frequently cited account states that the object remained visible for an extended period after its apparent descent. A meteor itself lasts only seconds. To fit a meteor scenario, investigators must assume that witnesses were observing something else after the initial event, such as a lingering luminous effect, a distant terrestrial light, aircraft activity, or a misperceived horizon feature. The available public record does not establish exactly what remained visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The principal difficulty is duration. The most frequently cited account states that the object remained visible for an extended period after its apparent descent. A meteor itself lasts only seconds. To fit a meteor scenario, investigators must assume that witnesses were observing something else after the initial event, such as a lingering luminous effect, a distant terrestrial light, aircraft activity, or a misperceived horizon feature. The available public record does not establish exactly what remained visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-Another issue is witness interpretation. The Yeo family's description of an "ice cream cone" shape and the conviction that the object had landed gave the event a distinctly local character. While fireballs frequently create landing impressions, they do not automatically explain every reported detail of shape and behaviour. Those details remain dependent on eyewitness recollection rather than independently verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+Another issue is witness interpretation. The Yeo family's description of an "ice cream cone" shape and the conviction that the object had landed gave the event a distinctly local character. While fireballs frequently create landing impressions, they do not automatically explain every reported detail of shape and behaviour. Those details remain dependent on eyewitness recollection rather than independently verified evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-The reports of police interest also contribute to the case's longevity. Charlottetown RCMP reportedly received numerous calls and dispatched officers to investigate. That response demonstrates that something unusual was widely observed, even though it does not confirm that an object actually reached the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+The reports of police interest also contribute to the case's longevity. Charlottetown RCMP reportedly received numerous calls and dispatched officers to investigate. That response demonstrates that something unusual was widely observed, even though it does not confirm that an object actually reached the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-Most importantly, no publicly documented recovery, verified debris field, or confirmed impact site emerged from the event. If a large object had genuinely landed near Ebenezer, stronger physical evidence would normally be expected. The absence of such evidence tends to favour a sky-based explanation, even if some witness observations remain difficult to reconstruct in detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+Most importantly, no publicly documented recovery, verified debris field, or confirmed impact site emerged from the event. If a large object had genuinely landed near Ebenezer, stronger physical evidence would normally be expected. The absence of such evidence tends to favour a sky-based explanation, even if some witness observations remain difficult to reconstruct in detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oK-mqAUdQ7Q" title="The 2025 Canadian UFO Survey (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer">The 2025 Canadian UFO Survey (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oK-mqAUdQ7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oK-mqAUdQ7Q">Open on YouTube</a></p></div></div></div>
 
 ## Why the fireball context remains central
 
-Within Prince Edward Island UFO history, the regional fireball reports are not a side issue but the key mechanism behind the Ebenezer debate. The same evening produced multiple reports across Atlantic Canada that resembled meteor observations and were, in several cases, treated as such by investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+Within Prince Edward Island UFO history, the regional fireball reports are not a side issue but the key mechanism behind the Ebenezer debate. The same evening produced multiple reports across Atlantic Canada that resembled meteor observations and were, in several cases, treated as such by investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
-That does not prove that every detail reported at Ebenezer resulted from a meteor. It does, however, provide the most coherent explanation for why so many people across such a large area simultaneously reported bright, dramatic objects in the sky. The later landing narrative is best understood against that broader Maritime backdrop: a night when a likely fireball episode generated widespread excitement, multiple interpretations and one of Prince Edward Island's most enduring UFO stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
+That does not prove that every detail reported at Ebenezer resulted from a meteor. It does, however, provide the most coherent explanation for why so many people across such a large area simultaneously reported bright, dramatic objects in the sky. The later landing narrative is best understood against that broader Maritime backdrop: a night when a likely fireball episode generated widespread excitement, multiple interpretations and one of Prince Edward Island's most enduring UFO stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforum.blogspot.com">[Uforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforum.blogspot.com</span><span class="citation-popover-title">crash go ufos onto canada</span><span class="citation-popover-snippet">Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-3-dark.svg" | relative_url }}" alt="Fireball Context illustration 3" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Ebenezer part of a Maritime fireball?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Ebenezer part of a Maritime fireball?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and conventional explanations for unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses UFO reports, witness testimony, and conventional explanations for unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating disputed UFO incidents and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating disputed UFO incidents and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores how extraordinary claims can arise from misinterpretations of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary claims can arise from misinterpretations of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Helps readers understand fireballs, meteors, and large-scale regional sky events like those discussed in the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand fireballs, meteors, and large-scale regional sky events like those discussed in the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="{{ '/assets/images/marketplace-covers/9dfff612588b378f510e.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift"><img src="{{ '/assets/images/marketplace-covers/6334d97401f900843e45.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="{{ '/assets/images/marketplace-covers/3050cb0d7d4bb42d0507.jpg' | relative_url }}" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！"><img src="{{ '/assets/images/marketplace-covers/d42a50de6551ffda29c9.jpg' | relative_url }}" alt="Listing image for NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Aliens AVP GRID ALIEN Series 7 movie 7&quot; Action Figure UK STOCK！</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="fireball-context-was-ebenezer-part-of-a-maritime-fireball-prince-edward-island-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-ebenezer-part-of-a-maritime-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-ebenezer-part-of-a-maritime-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,70 +710,69 @@ That does not prove that every detail reported at Ebenezer resulted from a meteo
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uforum.blogspot.com  
    Title: crash go ufos onto canada  
-   Link: <a href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow">https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</p></details>
+   Link:<a href="https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html" target="_blank" rel="noopener noreferrer nofollow">https://uforum.blogspot.com/2016/06/crash-go-ufos-onto-canada.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crash go the UFOs... onto Canada!1 Jun 2016 — According to N90/65, from 222350Z to 230115Z (7:50 pm to 9:15 pm), Shirley Yeo of Ebe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2003JRASC..97...71B</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/2003JRASC..97...71B" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2003JRASC..97...71B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS AbsThe Millman Fireball Archiveby M Beech · 2003 · Cited by 20 — INTRODUCTION It is the unexpected brightness and rapid, transitory n...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/123782228/The_Adirondack_Chronology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123782228/The_Adirondack_Chronology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Adirondack ChronologyThe Adirondack Chronology is intended to be a useful resource for researchers and others interested in the...</p></details>
+   Link:<a href="https://www.academia.edu/123782228/The_Adirondack_Chronology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123782228/The_Adirondack_Chronology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Adirondack ChronologyThe Adirondack Chronology is intended to be a useful resource for researchers and others interested in the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2393127970/posts/10163302891317971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163302891317971/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in Atlantic CanadaThere are reports of a fireball seen from Atlantic Canada particularly in Nova Scotia. Apparently, at abo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2393127970/posts/10163302891317971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163302891317971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in Atlantic CanadaThere are reports of a fireball seen from Atlantic Canada particularly in Nova Scotia. Apparently, at abo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2393127970/posts/10163304982262971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163304982262971/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in NS, NB, and Gulf of St. LawrenceIt is official. A fireball was seen late last night in NS, PEI, and NB. If something lan...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2393127970/posts/10163304982262971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2393127970/posts/10163304982262971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball seen in NS, NB, and Gulf of St. LawrenceIt is official. A fireball was seen late last night in NS, PEI, and NB. If something lan...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ai.stanford.edu  
-   Link: <a href="https://ai.stanford.edu/~amaas/data/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://ai.stanford.edu/~amaas/data/words.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduwords.txt... 22 a._b._c. 23 a._b._c.&#x27;s 24 a._b._c._d. 25 a._b._c.s 26 a._b._e. 27 a._c. 28 a._c.&#x27;s 29 a._c._c. 30 a._c._d._c...</p></details>
+   Link:<a href="https://ai.stanford.edu/~amaas/data/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://ai.stanford.edu/~amaas/data/words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduwords.txt... 22 a._b._c. 23 a._b._c.&#x27;s 24 a._b._c._d. 25 a._b._c.s 26 a._b._e. 27 a._c. 28 a._c.&#x27;s 29 a._c._c. 30 a._c._d._c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/sentence-transformers/average_word_embeddings_glove.6B.300d/commit/d1863690dfb53d8207dc81d5060052effdbd00de.diff?file=0_WordEmbeddings%2Fwhitespacetokenizer_config.json" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/sentence-transformers/average_word_embeddings_glove.6B.300d/commit/d1863690dfb53d8207dc81d5060052effdbd00de.diff?file=0_WordEmbeddings%2Fwhitespacetokenizer_config.json</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nation&quot;, &quot;german&quot;, &quot;station&quot;, &quot;board&quot;, &quot;football&quot;, &quot;ministry&quot;, &quot;workers&quot;...</p></details>
+   Link:<a href="https://huggingface.co/sentence-transformers/average_word_embeddings_glove.6B.300d/commit/d1863690dfb53d8207dc81d5060052effdbd00de.diff?file=0_WordEmbeddings%2Fwhitespacetokenizer_config.json" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/sentence-transformers/average_word_embeddings_glove.6B.300d/commit/d1863690dfb53d8207dc81d5060052effdbd00de.diff?file=0_WordEmbeddings%2Fwhitespacetokenizer_config.json</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nation&quot;, &quot;german&quot;, &quot;station&quot;, &quot;board&quot;, &quot;football&quot;, &quot;ministry&quot;, &quot;workers&quot;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nlp.biu.ac.il  
-   Link: <a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lso other how may had am been 2 her were them people...Read more...</p></details>
+   Link:<a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lso other how may had am been 2 her were them people...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/history.otd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/history.otd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>400 people were injured and 33 were killed...</p></details>
+   Link:<a href="https://www.instagram.com/history.otd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/history.otd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>400 people were injured and 33 were killed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: liverpoolmaritimesociety.org  
    Title: Bulletin Vol 47 2003  
-   Link: <a href="https://liverpoolmaritimesociety.org/wp-content/uploads/2019/03/Bulletin-Vol-47-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://liverpoolmaritimesociety.org/wp-content/uploads/2019/03/Bulletin-Vol-47-2003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports are a warning against. From Nova Scotia, homeward bound, A lifeline racing death across three thousand miles of sea. iled from Lo...</p></details>
+   Link:<a href="https://liverpoolmaritimesociety.org/wp-content/uploads/2019/03/Bulletin-Vol-47-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://liverpoolmaritimesociety.org/wp-content/uploads/2019/03/Bulletin-Vol-47-2003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports are a warning against. From Nova Scotia, homeward bound, A lifeline racing death across three thousand miles of sea. iled from Lo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cufos.org  
    Title: UFOsand Intelligence  
-   Link: <a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline12 Nov 2023 — After an effort of many years, I have prepared a comprehensive timeline of UFO history tha...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline12 Nov 2023 — After an effort of many years, I have prepared a comprehensive timeline of UFO history tha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: data.qld.gov.au  
-   Link: <a href="https://www.data.qld.gov.au/datastore/dump/71d98015-6742-452d-82a9-836cebf86fd6?bom=True" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/datastore/dump/71d98015-6742-452d-82a9-836cebf86fd6?bom=True</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSVPersonal and Professional Skills in Business (2011 Edition).?Queensland cadastral maps combined index mid 1989 to 31 dec 1999] epheme...</p></details>
+   Link:<a href="https://www.data.qld.gov.au/datastore/dump/71d98015-6742-452d-82a9-836cebf86fd6?bom=True" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/datastore/dump/71d98015-6742-452d-82a9-836cebf86fd6?bom=True</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSVPersonal and Professional Skills in Business (2011 Edition).?Queensland cadastral maps combined index mid 1989 to 31 dec 1999] epheme...</p></details>

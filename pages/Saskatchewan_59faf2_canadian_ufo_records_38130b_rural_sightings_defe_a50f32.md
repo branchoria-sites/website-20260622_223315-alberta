@@ -256,7 +256,7 @@ image: /assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sigh
 
 ## Introduction
 
-Many people assume that if a dramatic light or object is reported over a remote [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) field, the Royal Canadian Air Force (RCAF) or another defence agency will automatically investigate. In practice, that is rarely how the system works. Canadian defence organisations are primarily concerned with threats to airspace, national security, military operations and aviation safety. A striking sighting reported by a farmer, hunter or rural resident may be recorded by police, discussed in local media, or later appear in UFO archives, yet still never trigger a military investigation. That pattern helps explain why many Saskatchewan cases appear to have received little or no defence follow-up. It is usually a matter of institutional priorities rather than evidence of suppression or disinterest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
+Many people assume that if a dramatic light or object is reported over a remote [Saskatchewan]({{ 'what-really-happened-in-saskatchewans/' | relative_url }}) field, the Royal Canadian Air Force (RCAF) or another defence agency will automatically investigate. In practice, that is rarely how the system works. Canadian defence organisations are primarily concerned with threats to airspace, national security, military operations and aviation safety. A striking sighting reported by a farmer, hunter or rural resident may be recorded by police, discussed in local media, or later appear in UFO archives, yet still never trigger a military investigation. That pattern helps explain why many Saskatchewan cases appear to have received little or no defence follow-up. It is usually a matter of institutional priorities rather than evidence of suppression or disinterest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-1-dark.svg" | relative_url }}" alt="Defence Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ Many people assume that if a dramatic light or object is reported over a remote 
 
 The key question for defence agencies is not whether a sighting is unusual. It is whether the reported object could affect Canadian security, military operations, or aircraft.
 
-Modern Canadian and NORAD procedures focus on identifying and assessing unknown objects that enter monitored airspace or could pose a threat. An unidentified object becomes important when it is detected by radar, reported by military personnel, interferes with aircraft, enters protected airspace, or raises concerns about hostile activity. NORAD states that unknown objects entering the Canadian Air Defence Identification Zone are assessed to determine whether they represent a threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
+Modern Canadian and NORAD procedures focus on identifying and assessing unknown objects that enter monitored airspace or could pose a threat. An unidentified object becomes important when it is detected by radar, reported by military personnel, interferes with aircraft, enters protected airspace, or raises concerns about hostile activity. NORAD states that unknown objects entering the Canadian Air Defence Identification Zone are assessed to determine whether they represent a threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
 
-Most rural UFO reports do not meet those thresholds. A witness may observe lights over a field, an object near a tree line, or something unusual over a slough or pasture. If there is no radar track, no military activity nearby, no aircraft involved and no indication of danger, the report often remains outside defence workflows. From the military perspective, an unexplained sighting is not automatically a defence problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
+Most rural UFO reports do not meet those thresholds. A witness may observe lights over a field, an object near a tree line, or something unusual over a slough or pasture. If there is no radar track, no military activity nearby, no aircraft involved and no indication of danger, the report often remains outside defence workflows. From the military perspective, an unexplained sighting is not automatically a defence problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
 
 This distinction is important when reading Saskatchewan case files. The absence of military involvement does not necessarily mean a report was dismissed. It often means the report never crossed the threshold that would justify allocating defence resources.
 
@@ -277,7 +277,7 @@ This distinction is important when reading Saskatchewan case files. The absence 
 
 Popular UFO culture often portrays armed forces as the main investigators of mysterious aerial events. Canadian [records]({{ 'records-f9e6ac/' | relative_url }}) show a more complicated reality.
 
-Historically, UFO-related reports were distributed among several institutions, including the Department of National Defence, the Department of Transport, the National Research Council and the RCMP. Canada did not maintain a permanent agency devoted solely to investigating every public UFO report. Instead, reports were handled according to their apparent relevance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
+Historically, UFO-related reports were distributed among several institutions, including the Department of National Defence, the Department of Transport, the National Research Council and the RCMP. Canada did not maintain a permanent agency devoted solely to investigating every public UFO report. Instead, reports were handled according to their apparent relevance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
 
 In Saskatchewan, this meant that:
 
@@ -291,7 +291,7 @@ In Saskatchewan, this meant that:
 
 </div>
 
-As a result, many well-known rural [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) never generated extensive military files because they did not originate within military systems. Even during periods when the Department of National Defence maintained UFO records, investigations tended to be selective rather than universal. Historical records show that some cases received interviews or field visits, while many others were simply logged and forwarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThroughout the following years, DND maintained a UFO file based on reports submitted...</span></span></span>
+As a result, many well-known rural [sightings]({{ 'sightings-3aa7bd/' | relative_url }}) never generated extensive military files because they did not originate within military systems. Even during periods when the Department of National Defence maintained UFO records, investigations tended to be selective rather than universal. Historical records show that some cases received interviews or field visits, while many others were simply logged and forwarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utias.utoronto.ca">[utias.utoronto.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utias.utoronto.ca</span><span class="citation-popover-snippet">University of Toronto Institute for Aerospace StudiesThroughout the following years, DND maintained a UFO file based on reports submitted...</span></span></span>
 
 The famous 1974 [Langenburg]({{ 'langenburg/' | relative_url }}) case illustrates the difference. Its significance comes largely from witness testimony, RCMP involvement and reported ground traces. The case became part of Canada's UFO history, but it was not automatically transformed into a major air-defence investigation simply because it was unusual.
 
@@ -301,7 +301,7 @@ The famous 1974 [Langenburg]({{ 'langenburg/' | relative_url }}) case illustrate
 
 One reason some Canadian UFO reports attract official attention while others do not is that aviation incidents create clear operational risks.
 
-Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS), which collects aviation occurrence information, including reports involving unidentified aerial phenomena. The system exists because pilots, air traffic controllers and aviation operators must deal with potential hazards in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
+Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS), which collects aviation occurrence information, including reports involving unidentified aerial phenomena. The system exists because pilots, air traffic controllers and aviation operators must deal with potential hazards in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.open.canada.ca">[Open Government Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.open.canada.ca</span><span class="citation-popover-snippet">Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</span></span></span>
 
 When professional aircrew report an unidentified object near an aircraft, officials have practical questions to answer:
 
@@ -315,7 +315,7 @@ When professional aircrew report an unidentified object near an aircraft, offici
 
 </div>
 
-Ground-based rural sightings usually provide less information for answering those questions. Witnesses may have no reference points for distance, altitude or speed. In many cases there is no supporting radar, imagery or aviation data. That does not make the witness dishonest, but it limits what agencies can verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
+Ground-based rural sightings usually provide less information for answering those questions. Witnesses may have no reference points for distance, altitude or speed. In many cases there is no supporting radar, imagery or aviation data. That does not make the witness dishonest, but it limits what agencies can verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4</span><span class="citation-popover-snippet">High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</span></span></span>
 
 This is one reason why a pilot's unexplained sighting may generate official documentation while a visually dramatic report from an isolated rural location receives little formal follow-up.
 
@@ -326,7 +326,7 @@ This is one reason why a pilot's unexplained sighting may generate official docu
 
 A recurring theme in Canadian UFO discussions is the belief that lack of investigation indicates deliberate concealment. The documentary record does not support that conclusion as a general rule.
 
-Government archives show that Canadian agencies accumulated thousands of UFO-related records over decades. At the same time, the records reveal a system that was often administrative rather than investigative. Reports were collected, filed, circulated and sometimes assessed, but many never advanced beyond that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
+Government archives show that Canadian agencies accumulated thousands of UFO-related records over decades. At the same time, the records reveal a system that was often administrative rather than investigative. Reports were collected, filed, circulated and sometimes assessed, but many never advanced beyond that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
 
 There are practical reasons for this:
 
@@ -342,7 +342,7 @@ There are practical reasons for this:
 
 The result is that a report can remain unexplained without becoming a defence priority. In Saskatchewan's rural landscape, where sightings may occur far from airports, military facilities and population centres, this outcome is especially common.
 
-The historical record also shows that when authorities did believe an event might involve security, military operations or aviation safety, they were capable of responding. Cases such as the nationally known Shag Harbour incident involved both civilian and military authorities because officials believed an object may have entered Canadian waters and required a search effort. That level of response was driven by operational concerns, not merely by the fact that witnesses described something unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related ResearchSep 26, 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
+The historical record also shows that when authorities did believe an event might involve security, military operations or aviation safety, they were capable of responding. Cases such as the nationally known Shag Harbour incident involved both civilian and military authorities because officials believed an object may have entered Canadian waters and required a search effort. That level of response was driven by operational concerns, not merely by the fact that witnesses described something unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recherche-research.bac-lac.gc.ca">[recherche-research.bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recherche-research.bac-lac.gc.ca</span><span class="citation-popover-snippet">1967 Shag Harbour UFO Sighting and Related ResearchSep 26, 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</span><span class="citation-popover-meta">Published: October 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-3-dark.svg" | relative_url }}" alt="Defence Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -350,187 +350,145 @@ The historical record also shows that when authorities did believe an event migh
 
 When examining Canadian records behind [Saskatchewan UFO]({{ 'explanations-051262/' | relative_url }}) cases, readers should be cautious about treating military silence as evidence for or against a sighting.
 
-A rural report may never reach defence agencies at all. If it does, it may be logged without further action because it presents no obvious threat. In other cases, relevant information may reside in RCMP, aviation or archival records rather than military files. Canada’s historical UFO collections demonstrate that responsibility was dispersed across multiple institutions rather than concentrated in a single investigative body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
+A rural report may never reach defence agencies at all. If it does, it may be logged without further action because it presents no obvious threat. In other cases, relevant information may reside in RCMP, aviation or archival records rather than military files. Canada’s historical UFO collections demonstrate that responsibility was dispersed across multiple institutions rather than concentrated in a single investigative body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</span></span></span>
 
-For Saskatchewan researchers, the practical lesson is straightforward: the question is not whether the military investigated a case, but whether the case raised the kinds of security, airspace or safety concerns that would normally attract military attention. Most rural sightings did not. That administrative reality explains far more of the historical record than theories about systematic suppression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
+For Saskatchewan researchers, the practical lesson is straightforward: the question is not whether the military investigated a case, but whether the case raised the kinds of security, airspace or safety concerns that would normally attract military attention. Most rural sightings did not. That administrative reality explains far more of the historical record than theories about systematic suppression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">norad authorities and operations</span><span class="citation-popover-snippet">NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWistYd7Vng" title="The truth is out there: How Canada tracks UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer">The truth is out there: How Canada tracks UFOs</a></p><p class="youtube-embed-meta">Channel: Toronto Star</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWistYd7Vng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWistYd7Vng">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why most rural sightings never reach defence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why most rural sightings never reach defence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for understanding sighting reports, reporting quality, and why many cases remain uninvestigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for understanding sighting reports, reporting quality, and why many cases remain uninvestigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines standards of evidence and institutional responses to unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines standards of evidence and institutional responses to unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains how military, aviation, and government institutions evaluate unidentified aerial reports and why only some cases receive officia...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how military, aviation, and government institutions evaluate unidentified aerial reports and why only some cases receive officia...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how official investigations prioritize cases and why many reports never become major defense concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official investigations prioritize cases and why many reports never become major defense concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="defence-limits-why-most-rural-sightings-never-reach-defence-saskatchewan-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +504,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +524,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +556,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +608,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +653,7 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,137 +694,137 @@ For Saskatchewan researchers, the practical lesson is straightforward: the quest
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: norad authorities and operations  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Authorities and Operations24 Apr 2023 — Should an unknown object enter the Canadian Air Defence Identification Zone (CADIZ)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknownMar 2, 2026 — These documents were accumulated between 1947 and the early 1980s and repres...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n airspace...</p></details>
+   Link:<a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n airspace...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.gc.ca  
    Title: Management of Public Reporting of Unidentified Aerial  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and the Canadian government response to them. As for Dr... “Canada&#x27;s defence minister was briefed on UFOs ahead of U.S. in...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/[sky-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings and the Canadian government response to them. As for Dr... “Canada&#x27;s defence minister was briefed on UFOs ahead of U.S. in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: utias.utoronto.ca  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesThroughout the following years, DND maintained a UFO file based on reports submitted...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesThroughout the following years, DND maintained a UFO file based on reports submitted...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: search.open.canada.ca  
-   Link: <a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
+   Link:<a href="https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005" target="_blank" rel="noopener noreferrer nofollow">https://search.open.canada.ca/qpnotes/record/tc%2CTC-2022-QP-00005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Government PortalQuestion Period Note: Unidentified Aerial Phenomena (UAP)Transport Canada (TC) manages the Civil Aviation Daily Occ...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tc.canada.ca  
    Title: It is also used to capture information  
-   Link: <a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
+   Link:<a href="https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/aviation/publications/aviation-safety-letter/issue-2-2021/civil-aviation-daily-occurrence-reporting-system-cadors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaThe Civil Aviation Daily Occurrence Reporting System...15 Jul 2021 — Launched in 1985, CADORS was created to provide tim...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Altitude Object Incidents - Transports Canada11 Aug 2023 — In the Civil Aviation Daily Occurrence Reporting System (CADORS), the ter...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: recherche-research.bac-lac.gc.ca  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related ResearchSep 26, 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/list/43130" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/list/43130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Shag Harbour UFO Sighting and Related ResearchSep 26, 2024 — The Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous...</p></details>
    Published: October 1967  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gc.ca  
    Title: questions and answers about sky canada project  
-   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference? The acronym UFO... Government of Canada regarding UAP sightings...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/questions-and-answers-about-sky-canada-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference? The acronym UFO... Government of Canada regarding UAP sightings...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: recherche-research.bac-lac.gc.ca  
    Title: bac-lac.gc.ca Public research lists  
-   Link: <a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
+   Link:<a href="https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5" target="_blank" rel="noopener noreferrer nofollow">https://recherche-research.bac-lac.gc.ca/eng/public/search?topicId=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research lists - LAC AccountThe Shag Harbour UFO sighting on 4 October 1967 is Canada&#x27;s most famous UFO incident, investigated by the RCM...</p></details>
    Published: October 1967  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: canadashistory.ca  
    Title: search for the unknown  
-   Link: <a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
+   Link:<a href="https://www.canadashistory.ca/explore/books/search-for-the-unknown" target="_blank" rel="noopener noreferrer nofollow">https://www.canadashistory.ca/explore/books/search-for-the-unknown</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2023 — Search for the Unknown explores the many accounts by Canadians of UFO sightings but also attempts to unpack the meaning beh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Canada FOIA Part 06 Pages 1501 1800 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC REED OTT RCMP PR Vv National Research Council of Canada/ RG 77, Vol. 307 Conseil national de recherches du Canada MUS /¢ NRC REED OTT...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2006%20-%20Pages%201501-1800_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NRC REED OTT RCMP PR Vv National Research Council of Canada/ RG 77, Vol. 307 Conseil national de recherches du Canada MUS /¢ NRC REED OTT...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US F-22 shoots down unidentified &#x27;cylindrical&#x27; object...13 Feb 2023 — Canadian Prime Minister Justin Trudeau confirmed that he ordered t...</p></details>
+   Link:<a href="https://abc7news.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/canada-high-altitude-airborne-object-justin-trudeau-north-american-aerospace-defense-command/12801392/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US F-22 shoots down unidentified &#x27;cylindrical&#x27; object...13 Feb 2023 — Canadian Prime Minister Justin Trudeau confirmed that he ordered t...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Government Releases 20 Years of UFO ReportsCanadian Government Releases 20 Years of UFO Reports. File. File Text Pages Notes Res...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO flight reportsA primary source of UAP event information in Canada is the Civil Aviation Daily Occurrence Reporting System (C...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/198e3pq/canadian_ufo_flight_reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian UFO flight reportsA primary source of UAP event information in Canada is the Civil Aviation Daily Occurrence Reporting System (C...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KIRO7Seattle/posts/norad-said-it-had-positively-identified-a-high-altitude-airborne-object-over-nor/6556297477723283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KIRO7Seattle/posts/norad-said-it-had-positively-identified-a-high-altitude-airborne-object-over-nor/6556297477723283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD said it had “positively identified a high-altitude...The North American Aerospace Defense Command (NORAD) has shot down an unident...</p></details>
+   Link:<a href="https://www.facebook.com/KIRO7Seattle/posts/norad-said-it-had-positively-identified-a-high-altitude-airborne-object-over-nor/6556297477723283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KIRO7Seattle/posts/norad-said-it-had-positively-identified-a-high-altitude-airborne-object-over-nor/6556297477723283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD said it had “positively identified a high-altitude...The North American Aerospace Defense Command (NORAD) has shot down an unident...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wads.ang.af.mil  
-   Link: <a href="https://www.wads.ang.af.mil/About-Us/Fact-Sheets/Article/1175459/north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.wads.ang.af.mil/About-Us/Fact-Sheets/Article/1175459/north-american-aerospace-defense-command/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandNORAD is a United States and Canada bi-national organization charged with the missions of aerospa...</p></details>
+   Link:<a href="https://www.wads.ang.af.mil/About-Us/Fact-Sheets/Article/1175459/north-american-aerospace-defense-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.wads.ang.af.mil/About-Us/Fact-Sheets/Article/1175459/north-american-aerospace-defense-command/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandNORAD is a United States and Canada bi-national organization charged with the missions of aerospa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incidentThe Shag Harbour UFO incident was the reported impact of an unknown large object into waters near Shag Harbou...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incidentThe Shag Harbour UFO incident was the reported impact of an unknown large object into waters near Shag Harbou...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: recherche-collection-search.bac-lac.gc.ca  
-   Link: <a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.caNon-meteoric sighting reports gathered by the Herzberg...5 days ago — See Library and Archives Canada&#x27;s online Thematic Gui...</p></details>
+   Link:<a href="https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol" target="_blank" rel="noopener noreferrer nofollow">https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=134925&amp;app=FonAndCol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bac-lac.gc.caNon-meteoric sighting reports gathered by the Herzberg...5 days ago — See Library and Archives Canada&#x27;s online Thematic Gui...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: we may not be area 51 but did you know that we hold a vast collection of ufo fil  
-   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaThese include more than 20,000 separate UFO reports filed with various agencies since 1989, almost 10,000 Cana...</p></details>
+   Link:<a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives CanadaThese include more than 20,000 separate UFO reports filed with various agencies since 1989, almost 10,000 Cana...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globalnews.ca  
    Title: ufo data collection spy balloons misinformation  
-   Link: <a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report notes Transport Canada currently maintains the Civil Aviat...</p></details>
+   Link:<a href="https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/11293838/ufo-data-collection-spy-balloons-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO data collection, analysis by feds could dispel...18 Jul 2025 — The report notes Transport Canada currently maintains the Civil Aviat...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theccf.ca  
-   Link: <a href="https://theccf.ca/?case=freedom-of-information-case-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://theccf.ca/?case=freedom-of-information-case-uaps-and-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OPG) to deny him access to records about Unidentified Aerial...Read more...</p></details>
+   Link:<a href="https://theccf.ca/?case=freedom-of-information-case-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://theccf.ca/?case=freedom-of-information-case-uaps-and-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OPG) to deny him access to records about Unidentified Aerial...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: legionmagazine.com  
    Title: militaries governments get serious about ufos  
-   Link: <a href="https://legionmagazine.com/militaries-governments-get-serious-about-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://legionmagazine.com/militaries-governments-get-serious-about-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Militaries, governments get serious about UFOs3 Oct 2022 — UFO research has taken a serious turn as official government documents are rel...</p></details>
+   Link:<a href="https://legionmagazine.com/militaries-governments-get-serious-about-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://legionmagazine.com/militaries-governments-get-serious-about-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Militaries, governments get serious about UFOs3 Oct 2022 — UFO research has taken a serious turn as official government documents are rel...</p></details>

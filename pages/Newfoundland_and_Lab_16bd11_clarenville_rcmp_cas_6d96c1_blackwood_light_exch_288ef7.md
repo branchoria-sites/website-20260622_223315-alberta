@@ -256,7 +256,7 @@ image: /assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_bl
 
 ## Introduction
 
-One of the most frequently repeated details in the 1978 [Clarenville]({{ 'clarenville/' | relative_url }}) sighting is RCMP Constable James Blackwood’s claim that the object appeared to react when he activated the flashing lights on his police cruiser. According to later [retellings]({{ 'retellings/' | relative_url }}), the object either illuminated or flashed in apparent synchrony with the cruiser’s lightbar, creating the impression of a deliberate exchange. That moment is important because it seems to move the case beyond a simple observation of an unusual light and into the realm of interaction. At the same time, it is also one of the weakest parts of the case from an evidential standpoint because it depends entirely on witness perception and memory rather than on any recorded measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO</span><span class="citation-popover-snippet">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
+One of the most frequently repeated details in the 1978 [Clarenville]({{ 'clarenville/' | relative_url }}) sighting is RCMP Constable James Blackwood’s claim that the object appeared to react when he activated the flashing lights on his police cruiser. According to later [retellings]({{ 'retellings/' | relative_url }}), the object either illuminated or flashed in apparent synchrony with the cruiser’s lightbar, creating the impression of a deliberate exchange. That moment is important because it seems to move the case beyond a simple observation of an unusual light and into the realm of interaction. At the same time, it is also one of the weakest parts of the case from an evidential standpoint because it depends entirely on witness perception and memory rather than on any recorded measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO</span><span class="citation-popover-snippet">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-1-dark.svg" | relative_url }}" alt="Light Exchange illustration 1" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -264,9 +264,9 @@ Within the broader Clarenville case, the reported light exchange remains memorab
 
 ## What Blackwood said happened with the cruiser lights
 
-In accounts given years after the event, Blackwood consistently described activating the roof lights of his RCMP vehicle while observing the object over the water near Random Island. He stated that when he switched on the cruiser lights, the object appeared to activate lights of its own at the same time. Some versions describe the object as instantly mimicking the flashing pattern, while others simply say that its lights came on simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+In accounts given years after the event, Blackwood consistently described activating the roof lights of his RCMP vehicle while observing the object over the water near Random Island. He stated that when he switched on the cruiser lights, the object appeared to activate lights of its own at the same time. Some versions describe the object as instantly mimicking the flashing pattern, while others simply say that its lights came on simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
 
-The claim became embedded in later summaries of the incident. Royal Canadian Mint promotional material for its 2020 Clarenville commemorative coin highlighted the moment as one of the defining features of the sighting, describing how the officer flashed his cruiser lightbar and the object seemingly responded. Similar wording appeared in media coverage revisiting the case decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire+2News Hub Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville...8 Oct 2020 — It emitted no sound; and when the officer flashed the ligh...</span></span></span>
+The claim became embedded in later summaries of the incident. Royal Canadian Mint promotional material for its 2020 Clarenville commemorative coin highlighted the moment as one of the defining features of the sighting, describing how the officer flashed his cruiser lightbar and the object seemingly responded. Similar wording appeared in media coverage revisiting the case decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newswire.ca">[Newswire+2News Hub Asia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newswire.ca</span><span class="citation-popover-snippet">The Glowing Vision of a UFO Observed Over Clarenville...8 Oct 2020 — It emitted no sound; and when the officer flashed the ligh...</span></span></span>
 
 What makes the claim notable is that Blackwood was not describing a distant object merely changing brightness over time. He interpreted the timing as a reaction to a specific action he took. If accurate, that would suggest some form of awareness or signalling. However, the evidence for that interpretation rests entirely on human observation.
 
@@ -279,14 +279,14 @@ Human observers naturally look for patterns, especially during unusual events. W
 
 Several aspects of the Clarenville incident encouraged that interpretation:
 
-* The sighting reportedly lasted for a long period, giving witnesses time to watch for changes and test their impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
-* Blackwood was an experienced police officer rather than a casual passer-by, which made later audiences more inclined to take his observations seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
-* The object was already being viewed as unusual before the light exchange occurred, creating an expectation that unusual behaviour might continue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
-* The apparent simultaneity of the flashes gave observers a simple narrative: action, response, and therefore communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO</span><span class="citation-popover-snippet">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
+* The sighting reportedly lasted for a long period, giving witnesses time to watch for changes and test their impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+* Blackwood was an experienced police officer rather than a casual passer-by, which made later audiences more inclined to take his observations seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+* The object was already being viewed as unusual before the light exchange occurred, creating an expectation that unusual behaviour might continue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+* The apparent simultaneity of the flashes gave observers a simple narrative: action, response, and therefore communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-title">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO</span><span class="citation-popover-snippet">New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
 
 Importantly, none of these factors prove a response occurred. They explain why witnesses might reasonably have interpreted events that way in the moment.
 
-A key distinction in UFO investigations is the difference between a perceived interaction and a documented interaction. In Clarenville, no instrument recorded the timing of the cruiser lights and the object's lights. There is no surviving video, photographic sequence, radio exchange, or sensor record showing a response cycle. The interaction exists only through testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+A key distinction in UFO investigations is the difference between a perceived interaction and a documented interaction. In Clarenville, no instrument recorded the timing of the cruiser lights and the object's lights. There is no surviving video, photographic sequence, radio exchange, or sensor record showing a response cycle. The interaction exists only through testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 
 <img src="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-2-dark.svg" | relative_url }}" alt="Light Exchange illustration 2" data-theme-src-dark="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -300,11 +300,11 @@ In the Clarenville case, several uncertainties remain:
 
 * There is no contemporaneous timing record showing exactly when the cruiser lights were activated.
 * Publicly available accounts differ slightly on whether the object copied the lights repeatedly or merely illuminated at the same moment.
-* Most detailed descriptions available today come from interviews and recollections made decades after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+* Most detailed descriptions available today come from interviews and recollections made decades after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
 
 Memory can remain vivid while still becoming simplified over time. Witnesses often retain confidence in a central event while unconsciously smoothing out ambiguities. That does not mean the memory is false; it means historians and investigators must distinguish between confidence and verifiable evidence.
 
-The passage of more than forty years between the original sighting and many modern retellings makes this especially important. Later accounts may preserve the essence of what witnesses believed they saw while losing details that would help test alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-snippet">The incident garnered international...Read more...</span></span></span>
+The passage of more than forty years between the original sighting and many modern retellings makes this especially important. Later accounts may preserve the essence of what witnesses believed they saw while losing details that would help test alternative explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocm.com">[VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocm.com</span><span class="citation-popover-snippet">The incident garnered international...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LvnWjFojHMA" title="NTV UFO Interview with James Blackwood – 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer">NTV UFO Interview with James Blackwood – 1978</a></p><p class="youtube-embed-meta">Channel: James Blackwood - Raccoon Whisperer &middot; Views: 37.4K &middot; Uploaded: October 2020 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LvnWjFojHMA">Open on YouTube</a></p></div></div></div>
@@ -313,9 +313,9 @@ The passage of more than forty years between the original sighting and many mode
 
 The answer depends on what standard of evidence is being applied.
 
-As a witness-credibility factor, the story strengthens the case. It shows that Blackwood was actively observing and attempting to understand the object rather than passively watching it. The detail is specific, memorable, and has remained a consistent part of his account over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+As a witness-credibility factor, the story strengthens the case. It shows that Blackwood was actively observing and attempting to understand the object rather than passively watching it. The detail is specific, memorable, and has remained a consistent part of his account over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
 
-As proof that the object intelligently responded, however, the value is much lower. The claim lacks independent confirmation and cannot be tested today. No known physical record exists that would allow investigators to determine whether the apparent synchronisation was exact, approximate, or coincidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+As proof that the object intelligently responded, however, the value is much lower. The claim lacks independent confirmation and cannot be tested today. No known physical record exists that would allow investigators to determine whether the apparent synchronisation was exact, approximate, or coincidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
 
 This places the cruiser-light episode in an important middle category common in UFO history. It is stronger than an anonymous report because it comes from a named witness whose account remained public for decades. Yet it falls short of the kind of evidence that could establish an objective interaction beyond reasonable doubt.
 
@@ -325,201 +325,201 @@ This places the cruiser-light episode in an important middle category common in 
 
 The reported exchange between Blackwood's cruiser lights and the object remains the most dramatic element of the Clarenville story because it suggests communication rather than mere observation. It is also the aspect most vulnerable to normal problems of perception, timing, and recollection.
 
-For that reason, investigators and historians generally treat the episode as an interesting testimonial claim rather than a demonstrated fact. The incident contributes to Clarenville's reputation within [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})'s UFO history because it illustrates how a seemingly responsive event can elevate a sighting from a report of strange lights to a lasting local mystery. Yet the evidential weight comes from witness testimony alone, not from instruments, recordings, or physical traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
+For that reason, investigators and historians generally treat the episode as an interesting testimonial claim rather than a demonstrated fact. The incident contributes to Clarenville's reputation within [Newfoundland and Labrador]({{ 'newfoundland-and-labrador/' | relative_url }})'s UFO history because it illustrates how a seemingly responsive event can elevate a sighting from a report of strange lights to a lasting local mystery. Yet the evidential weight comes from witness testimony alone, not from instruments, recordings, or physical traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canadiancoinnews.com">[Canadian Coin News+2VOCM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canadiancoinnews.com</span><span class="citation-popover-title">James Blackwood arrived at the scene</span><span class="citation-popover-snippet">Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</span><span class="citation-popover-meta">Published: October 8, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YNiMD_LRU2w" title="Flashback October 1978 - UFO Sighting Interview - NTV Captain Atlantis Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YNiMD_LRU2w" target="_blank" rel="noopener noreferrer">Flashback October 1978 - UFO Sighting Interview - NTV Captain Atlantis Special</a></p><p class="youtube-embed-meta">Channel: andrew867</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YNiMD_LRU2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YNiMD_LRU2w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Clarenville lights really respond?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Clarenville lights really respond?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how perception, coincidence, and critical thinking affect interpretations of unusual events such as apparent light res...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how perception, coincidence, and critical thinking affect interpretations of unusual events such as apparent light res...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reported UFO interactions and witness testimony, including claims of responsive behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reported UFO interactions and witness testimony, including claims of responsive behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores pattern recognition, belief formation, and why people may perceive meaningful responses in ambiguous situations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores pattern recognition, belief formation, and why people may perceive meaningful responses in ambiguous situations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and investigative approaches relevant to historic UFO cases like Clarenville.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and investigative approaches relevant to historic UFO cases like Clarenville.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket -tv" data-ebay-reference="light-exchange-did-the-clarenville-lights-really-respond-newfoundland-and-labrador-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For that reason, investigators and historians generally treat the episode as an 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For that reason, investigators and historians generally treat the episode as an 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For that reason, investigators and historians generally treat the episode as an 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For that reason, investigators and historians generally treat the episode as an 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For that reason, investigators and historians generally treat the episode as an 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,104 +725,104 @@ For that reason, investigators and historians generally treat the episode as an 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vocm.com  
    Title: New Glow-In-The-Dark Coin Recalls '78 Clarenville UFO  
-   Link: <a href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/12/clarenville-coin-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</p></details>
+   Link:<a href="https://vocm.com/2020/10/12/clarenville-coin-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/12/clarenville-coin-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Glow-In-The-Dark Coin Recalls &#x27;78 Clarenville UFO...October 12, 2020 — 12 Oct 2020 — The UFO made no sound but when Blackwood tu...</p></details>
    Published: October 12, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vocm.com  
-   Link: <a href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/13/103414/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident garnered international...Read more...</p></details>
+   Link:<a href="https://vocm.com/2020/10/13/103414/" target="_blank" rel="noopener noreferrer nofollow">https://vocm.com/2020/10/13/103414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident garnered international...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newswire.ca  
-   Link: <a href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville...8 Oct 2020 — It emitted no sound; and when the officer flashed the ligh...</p></details>
+   Link:<a href="https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newswire.ca/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-891372498.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville...8 Oct 2020 — It emitted no sound; and when the officer flashed the ligh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canadiancoinnews.com  
    Title: James Blackwood arrived at the scene  
-   Link: <a href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow">https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</p></details>
+   Link:<a href="https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/" target="_blank" rel="noopener noreferrer nofollow">https://canadiancoinnews.com/rcms-third-ufo-coin-features-1978-clarenville-event/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Coin NewsRCM&#x27;s third UFO coin features 1978 &#x27;Clarenville Event&#x27;October 8, 2020 — 8 Oct 2020 — 1978 event in Clarenville, N.L., w...</p></details>
    Published: October 8, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newshubasia.com  
-   Link: <a href="https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/" target="_blank" rel="noopener noreferrer nofollow">https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1978, when Clarenville made UFO history. On that night, RCMP Constable James Blackwood responded to a call from astonished onlookers. Whe...</p></details>
+   Link:<a href="https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/" target="_blank" rel="noopener noreferrer nofollow">https://www.newshubasia.com/feature-report/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1978, when Clarenville made UFO history. On that night, RCMP Constable James Blackwood responded to a call from astonished onlookers. Whe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>directed his attention to a brightly lit object in the sky...</p></details>
+   Link:<a href="https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/in/news-releases/the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-881248382.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed his attention to a brightly lit object in the sky...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LvnWjFojHMA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTV UFO Interview with James Blackwood – 1978Decades-old video of a much younger constable jim blackwood about to describe what he saw in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LvnWjFojHMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LvnWjFojHMA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTV UFO Interview with James Blackwood – 1978Decades-old video of a much younger constable jim blackwood about to describe what he saw in...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBC&#x27;s Labrador MorningFACTS -About 1,000 sightings are reported annually across Canada Officer Blackwood tells about his UFO experience i...</p></details>
+   Link:<a href="https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/labradormorning/posts/its-been-45-years-since-a-ufo-surprised-the-small-labrador-outport-community-of-/851322236997978/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBC&#x27;s Labrador MorningFACTS -About 1,000 sightings are reported annually across Canada Officer Blackwood tells about his UFO experience i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: 𝗧𝗵𝗲 𝟭𝟵𝟳𝟴 𝗖𝗹𝗮𝗿𝗲𝗻𝘃𝗶𝗹𝗹𝗲 𝗨𝗙𝗢 𝗦𝗶𝗴𝗵𝘁𝗶𝗻𝗴when clarenville rcmp constable jim blackwood r  
-   Link: <a href="https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AD%F0%9D%9F%B5%F0%9D%9F%B3%F0%9D%9F%B4-%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4when-clarenville-rcmp-constable-jim-blackwood-r/2997751183659765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AD%F0%9D%9F%B5%F0%9D%9F%B3%F0%9D%9F%B4-%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4when-clarenville-rcmp-constable-jim-blackwood-r/2997751183659765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>𝗧𝗵𝗲 𝟭𝟵𝟳𝟴 𝗖𝗹𝗮𝗿𝗲𝗻𝘃𝗶𝗹𝗹𝗲 𝗨𝗙𝗢 𝗦𝗶𝗴𝗵𝘁𝗶𝗻𝗴...7 Oct 2020 — It emitted no sound; and when the officer flashed the light bar on his police cruiser...</p></details>
+   Link:<a href="https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AD%F0%9D%9F%B5%F0%9D%9F%B3%F0%9D%9F%B4-%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4when-clarenville-rcmp-constable-jim-blackwood-r/2997751183659765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCanadianGothic/posts/%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AD%F0%9D%9F%B5%F0%9D%9F%B3%F0%9D%9F%B4-%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%99%F0%9D%97%A2-%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4when-clarenville-rcmp-constable-jim-blackwood-r/2997751183659765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>𝗧𝗵𝗲 𝟭𝟵𝟳𝟴 𝗖𝗹𝗮𝗿𝗲𝗻𝘃𝗶𝗹𝗹𝗲 𝗨𝗙𝗢 𝗦𝗶𝗴𝗵𝘁𝗶𝗻𝗴...7 Oct 2020 — It emitted no sound; and when the officer flashed the light bar on his police cruiser...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newfoundlandtea.substack.com  
-   Link: <a href="https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo" target="_blank" rel="noopener noreferrer nofollow">https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>me time.” — RCMP Constable James Blackwood The story made national...Read more...</p></details>
+   Link:<a href="https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo" target="_blank" rel="noopener noreferrer nofollow">https://newfoundlandtea.substack.com/p/the-night-sky-is-closer-here-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>me time.” — RCMP Constable James Blackwood The story made national...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the 1978 clarenville newfoundland ufo sighting as  
-   Link: <a href="https://www.reddit.com/r/canada/comments/6556lx/the_1978_clarenville_newfoundland_ufo_sighting_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/6556lx/the_1978_clarenville_newfoundland_ufo_sighting_as/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Clarenville Newfoundland UFO Sighting (as...On Oct 26, 1978 Clarenville RCMP Constable Jim Blackwood received a report of an un...</p></details>
+   Link:<a href="https://www.reddit.com/r/canada/comments/6556lx/the_1978_clarenville_newfoundland_ufo_sighting_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/6556lx/the_1978_clarenville_newfoundland_ufo_sighting_as/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Clarenville Newfoundland UFO Sighting (as...On Oct 26, 1978 Clarenville RCMP Constable Jim Blackwood received a report of an un...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: helencescott.com  
    Title: are ufo s observing rcmp officers in nl  
-   Link: <a href="https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl" target="_blank" rel="noopener noreferrer nofollow">https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFO&#x27;s Observing RCMP Officers in NL?20 Oct 2020 — They spoke of the UFO encounter several times over their careers but admits there h...</p></details>
+   Link:<a href="https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl" target="_blank" rel="noopener noreferrer nofollow">https://www.helencescott.com/post/are-ufo-s-observing-rcmp-officers-in-nl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFO&#x27;s Observing RCMP Officers in NL?20 Oct 2020 — They spoke of the UFO encounter several times over their careers but admits there h...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: finanznachrichten.de  
-   Link: <a href="https://www.finanznachrichten.de/nachrichten-2020-10/50912161-the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-008.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.finanznachrichten.de/nachrichten-2020-10/50912161-the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-008.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville...It emitted no sound; and when the officer flashed the lightbar on his police cru...</p></details>
+   Link:<a href="https://www.finanznachrichten.de/nachrichten-2020-10/50912161-the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-008.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.finanznachrichten.de/nachrichten-2020-10/50912161-the-glowing-vision-of-a-ufo-observed-over-clarenville-newfoundland-and-labrador-comes-to-life-on-new-royal-canadian-mint-collector-coin-008.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Glowing Vision of a UFO Observed Over Clarenville...It emitted no sound; and when the officer flashed the lightbar on his police cru...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: productofnewfoundland.ca  
-   Link: <a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product of NewfoundlandOuter Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — On October 26, 1978 the Clarenville detachment of the RC...</p></details>
+   Link:<a href="https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.productofnewfoundland.ca/articles/ufos-of-newfoundland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Product of NewfoundlandOuter Space to Outer Cove: Newfoundland UFOs24 Oct 2022 — On October 26, 1978 the Clarenville detachment of the RC...</p></details>
    Published: October 26, 1978  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/greyriver/posts/10160562902434947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/greyriver/posts/10160562902434947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;𝐋𝐨𝐯𝐞 𝐢𝐭 ❤️ Clarenville, Newfoundland UFO Sighting In...UFO near Clarenville NL as told by RCMP Officer James Blackwood [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/groups/greyriver/posts/10160562902434947/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/greyriver/posts/10160562902434947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;𝐋𝐨𝐯𝐞 𝐢𝐭 ❤️ Clarenville, Newfoundland UFO Sighting In...UFO near Clarenville NL as told by RCMP Officer James Blackwood [https://youtu...&quot;](https://youtu...&quot;)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a67cB4niqf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a67cB4niqf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flashback October 1978 - UFO Sighting Interview - NTV Captain Atlantis Special...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a67cB4niqf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a67cB4niqf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flashback October 1978 - UFO Sighting Interview - NTV Captain Atlantis Special...</p></details>
    Published: October 1978  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YNiMD_LRU2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YNiMD_LRU2w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bell Island 1978 - A genuine mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YNiMD_LRU2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YNiMD_LRU2w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bell Island 1978 - A genuine mystery...</p></details>
    Published: October 1978  

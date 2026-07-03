@@ -262,7 +262,7 @@ image: /assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_s
 
 ## Introduction
 
-One of the least appreciated problems in the [Kensington video]({{ 'kensington/' | relative_url }}) is not what the lights were, but where the recording was made. The footage was filmed from the Twin Shores area on [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s North Shore, looking out across the Gulf of St. Lawrence. That setting gave the witness an unusually wide, dark view of the sky and sea, making distant lights easier to notice. At the same time, it removed many of the visual references that investigators normally use to estimate distance, altitude, speed and size. As a result, even viewers who agree on what appears in the video can reach very different conclusions about what they are seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
+One of the least appreciated problems in the [Kensington video]({{ 'kensington/' | relative_url }}) is not what the lights were, but where the recording was made. The footage was filmed from the Twin Shores area on [Prince Edward Island]({{ 'prince-edward-island/' | relative_url }})’s North Shore, looking out across the Gulf of St. Lawrence. That setting gave the witness an unusually wide, dark view of the sky and sea, making distant lights easier to notice. At the same time, it removed many of the visual references that investigators normally use to estimate distance, altitude, speed and size. As a result, even viewers who agree on what appears in the video can reach very different conclusions about what they are seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
 
 
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-1-dark.svg" | relative_url }}" alt="Horizon doubts illustration 1" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,9 +270,9 @@ Within the broader debate around the Kensington sighting, the horizon problem is
 
 ## Why the Gulf horizon complicates the video
 
-Twin Shores sits on an exposed stretch of Prince Edward Island coastline facing the Gulf of St. Lawrence. The campground promotes its Gulf beach, extensive coastline and unobstructed sunset views, features that provide long sightlines over open water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores+2Canadian Camping and RV Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
+Twin Shores sits on an exposed stretch of Prince Edward Island coastline facing the Gulf of St. Lawrence. The campground promotes its Gulf beach, extensive coastline and unobstructed sunset views, features that provide long sightlines over open water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores+2Canadian Camping and RV Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
 
-For ordinary sightseeing, an open horizon is an advantage. For analysing unusual lights, it can become a limitation. Human observers judge distance partly by comparing an object with familiar reference points such as buildings, trees, roads, shorelines or hills. In the Kensington footage, most of those references disappear into darkness. Viewers are largely left with points of light against a black background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
+For ordinary sightseeing, an open horizon is an advantage. For analysing unusual lights, it can become a limitation. Human observers judge distance partly by comparing an object with familiar reference points such as buildings, trees, roads, shorelines or hills. In the Kensington footage, most of those references disappear into darkness. Viewers are largely left with points of light against a black background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
 
 That creates several uncertainties:
 
@@ -293,7 +293,7 @@ These are not unique to the Kensington case. They are common difficulties in nig
 
 ## What the Twin Shores viewpoint offered
 
-The location nevertheless had genuine strengths. A coastal observer looking north over the Gulf is less affected by urban light pollution than someone filming from a town centre. The broad field of view also makes it easier to notice lights that would be hidden behind terrain elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
+The location nevertheless had genuine strengths. A coastal observer looking north over the Gulf is less affected by urban light pollution than someone filming from a town centre. The broad field of view also makes it easier to notice lights that would be hidden behind terrain elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
 
 This helps explain why the witness believed the observation was unusual. From a shoreline campsite, a light can remain visible for a long period with few obstructions. Long visibility often encourages [witnesses]({{ 'witnesses/' | relative_url }}) to study an object carefully and compare its behaviour with familiar aircraft or stars.
 
@@ -303,7 +303,7 @@ This distinction matters because extraordinary interpretations generally require
 
 ## Why open water weakens scale and distance
 
-The strongest sceptical criticism of the Kensington footage is not necessarily that the witness misidentified a known object. It is that the video contains too little geometric information to determine where the lights actually were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
+The strongest sceptical criticism of the Kensington footage is not necessarily that the witness misidentified a known object. It is that the video contains too little geometric information to determine where the lights actually were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
 
 Open water creates several specific problems.
 
@@ -365,199 +365,199 @@ None of these would automatically identify the lights, but they would greatly re
 <img src="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-3-dark.svg" | relative_url }}" alt="Horizon doubts illustration 3" data-theme-src-dark="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the horizon debate still matters
 
-The Twin Shores horizon issue illustrates a broader lesson for modern UFO reporting in Prince Edward Island. The Kensington video is frequently discussed because it includes actual footage rather than only witness recollections. Yet the recording also demonstrates that video evidence is not automatically precise evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
+The Twin Shores horizon issue illustrates a broader lesson for modern UFO reporting in Prince Edward Island. The Kensington video is frequently discussed because it includes actual footage rather than only witness recollections. Yet the recording also demonstrates that video evidence is not automatically precise evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">does the cbc think that aliens exist</span><span class="citation-popover-snippet">Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</span></span></span>
 
-The North Shore location likely helped the witness notice and document an unusual light display over the Gulf of St. Lawrence. At the same time, the darkness, open water and lack of measurable reference points left crucial questions unanswered. The result is a case that remains interesting but difficult to quantify. For many investigators, the key uncertainty is not whether lights were present, but how far away they were and where they sat relative to the Gulf horizon. Until that geometry can be reconstructed, claims about height, speed, manoeuvres or size remain far less certain than the video alone might suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
+The North Shore location likely helped the witness notice and document an unusual light display over the Gulf of St. Lawrence. At the same time, the darkness, open water and lack of measurable reference points left crucial questions unanswered. The result is a case that remains interesting but difficult to quantify. For many investigators, the key uncertainty is not whether lights were present, but how far away they were and where they sat relative to the Gulf horizon. Until that geometry can be reconstructed, claims about height, speed, manoeuvres or size remain far less certain than the video alone might suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twinshores.com">[twinshores+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twinshores.com</span><span class="citation-popover-snippet">Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Gulf horizon complicates the video. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Gulf horizon complicates the video. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how limited evidence and perception issues affect conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how limited evidence and perception issues affect conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for assessing aerial-sighting evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for assessing aerial-sighting evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses methods for evaluating observations where distance and scale are uncertain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses methods for evaluating observations where distance and scale are uncertain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Relevant to interpreting distant lights against dark horizons and night skies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to interpreting distant lights against dark horizons and night skies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="horizon-doubts-why-the-gulf-horizon-complicates-the-video-prince-edward-island-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ The North Shore location likely helped the witness notice and document an unusua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ The North Shore location likely helped the witness notice and document an unusua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ The North Shore location likely helped the witness notice and document an unusua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ The North Shore location likely helped the witness notice and document an unusua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ The North Shore location likely helped the witness notice and document an unusua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,103 +763,103 @@ The North Shore location likely helped the witness notice and document an unusua
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: twinshores.com  
-   Link: <a href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/ourbeaches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</p></details>
+   Link:<a href="https://www.twinshores.com/ourbeaches" target="_blank" rel="noopener noreferrer nofollow">https://www.twinshores.com/ourbeaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our BeachesWe have 3 different beaches and almost 4KM of coastline on-site! Our Gulf of St Lawrence Beach is one of the finest...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: does the cbc think that aliens exist  
-   Link: <a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</p></details>
+   Link:<a href="https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/does-the-cbc-think-that-aliens-exist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the CBC Just Confirm the Existence of Aliens?12 Jan 2016 — Today—about a year and a half later—the CBC released a 700-word articl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ccrva.ca  
-   Link: <a href="https://ccrva.ca/campground/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://ccrva.ca/campground/twin-shores-camping-area/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Camping and RV AssociationTwin Shores Camping AreaCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore...</p></details>
+   Link:<a href="https://ccrva.ca/campground/twin-shores-camping-area/" target="_blank" rel="noopener noreferrer nofollow">https://ccrva.ca/campground/twin-shores-camping-area/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Camping and RV AssociationTwin Shores Camping AreaCanada&#x27;s premier oceanfront camping destination. Nestled along the North Shore...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tourismpei.com  
-   Link: <a href="https://www.tourismpei.com/where-to-stay/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismpei.com/where-to-stay/twin-shores-camping-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores Camping Area | Tourism PEIA 200-acre family camping resort that&#x27;s a beach lover&#x27;s paradise. Our unique location allows you to...</p></details>
+   Link:<a href="https://www.tourismpei.com/where-to-stay/twin-shores-camping-area" target="_blank" rel="noopener noreferrer nofollow">https://www.tourismpei.com/where-to-stay/twin-shores-camping-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores Camping Area | Tourism PEIA 200-acre family camping resort that&#x27;s a beach lover&#x27;s paradise. Our unique location allows you to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tripadvisor.com  
    Title: TWI N SHORES CAMPING AREA  
-   Link: <a href="https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence. It was very windy during our stay (14 - 16 mph) so couldn&#x27;t enjoy the beach as much as we would have liked...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Hotel_Review-g1867443-d3376968-Reviews-Twin_Shores_Camping_Area-Darnley_Prince_Edward_Island.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence. It was very windy during our stay (14 - 16 mph) so couldn&#x27;t enjoy the beach as much as we would have liked...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cavendishbeachpei.com  
-   Link: <a href="https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/" target="_blank" rel="noopener noreferrer nofollow">https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores Camping AreaA 200-acre family camping resort that&#x27;s a beach lover&#x27;s paradise. Our unique location allows you to experience th...</p></details>
+   Link:<a href="https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/" target="_blank" rel="noopener noreferrer nofollow">https://cavendishbeachpei.com/members-operators/twin-shores-camping-area-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Shores Camping AreaA 200-acre family camping resort that&#x27;s a beach lover&#x27;s paradise. Our unique location allows you to experience th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you know PEI is home to one of the Top 10...Did you know PEI is home to one of the Top 10 UFO sightings in Canada?! For #WorldUFODay...</p></details>
+   Link:<a href="https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heritagePEI/photos/did-you-know-pei-is-home-to-one-of-the-top-10-ufo-sightings-in-canada-for-worldu/3239106256120369/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you know PEI is home to one of the Top 10...Did you know PEI is home to one of the Top 10 UFO sightings in Canada?! For #WorldUFODay...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pinterest.com  
    Title: Gulf of St  
-   Link: <a href="https://www.pinterest.com/pin/463307880393694363/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/463307880393694363/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence Beach at Twin Shores Camping Area15 Jul 2015 — Experience the beauty of Darnley, Prince Edward Island at the Gulf of St. Lawrenc...</p></details>
+   Link:<a href="https://www.pinterest.com/pin/463307880393694363/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/463307880393694363/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawrence Beach at Twin Shores Camping Area15 Jul 2015 — Experience the beauty of Darnley, Prince Edward Island at the Gulf of St. Lawrenc...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1798211527342479/posts/2040411343122495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1798211527342479/posts/2040411343122495/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We are planning to stay in PEI for 4 days June 29th to July 4th. We would like the best ocean front beach camping grounds...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1798211527342479/posts/2040411343122495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1798211527342479/posts/2040411343122495/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are planning to stay in PEI for 4 days June 29th to July 4th. We would like the best ocean front beach camping grounds...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wVNYwZgooGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVNYwZgooGw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=wVNYwZgooGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVNYwZgooGw</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: etheses.whiterose.ac.uk  
-   Link: <a href="https://etheses.whiterose.ac.uk/id/eprint/20039/1/Emily%20Thew%20Thesis%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/20039/1/Emily%20Thew%20Thesis%20Final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loss and the Nonhuman: Melancholia and...by E Thew · 2017 · Cited by 2 — &#x27;affect aliens&#x27; who have failed to move on from loss in this way...</p></details>
+   Link:<a href="https://etheses.whiterose.ac.uk/id/eprint/20039/1/Emily%20Thew%20Thesis%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/20039/1/Emily%20Thew%20Thesis%20Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loss and the Nonhuman: Melancholia and...by E Thew · 2017 · Cited by 2 — &#x27;affect aliens&#x27; who have failed to move on from loss in this way...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: the 2014 kensington ufo sighting pei canada  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2014 Kensington UFO Sighting (PEI, Canada)The 2014 Kensington UFO Sighting (PEI, Canada). Unexplained Phenomena. When John Sheppard a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/6651xy/the_2014_kensington_ufo_sighting_pei_canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2014 Kensington UFO Sighting (PEI, Canada)The 2014 Kensington UFO Sighting (PEI, Canada). Unexplained Phenomena. When John Sheppard a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: ☀️ TIAPEI Visits Twin Shores Campground!  
-   Link: <a href="https://www.instagram.com/reel/DMu9Ug7sxqS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMu9Ug7sxqS/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🏕️ Today, the TIAPEI team had the pleasure of visiting Twin Shores Camping Area—one of PEI&#x27;s most beloved coastal getaways! Nestled betwe...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMu9Ug7sxqS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMu9Ug7sxqS/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🏕️ Today, the TIAPEI team had the pleasure of visiting Twin Shores Camping Area—one of PEI&#x27;s most beloved coastal getaways! Nestled betwe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nlp.biu.ac.il  
    Title: glove vocab.250k.txt  
-   Link: <a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>biu.ac.ilglove_vocab.250k.txt... video part online each little high + look around same game read service 2009... ufo demons charcoal fav...</p></details>
+   Link:<a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>biu.ac.ilglove_vocab.250k.txt... video part online each little high + look around same game read service 2009... ufo demons charcoal fav...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: boyshigh.com  
    Title: The Pretorian 2023  
-   Link: <a href="https://boyshigh.com/wp-content/uploads/The-Pretorian-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://boyshigh.com/wp-content/uploads/The-Pretorian-2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The-Pretorian-2023.pdf... alien vegetation at Loch Armstrong, a perennial activity of the Society. 7. At Rietvlei on the hike with the gu...</p></details>
+   Link:<a href="https://boyshigh.com/wp-content/uploads/The-Pretorian-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://boyshigh.com/wp-content/uploads/The-Pretorian-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The-Pretorian-2023.pdf... alien vegetation at Loch Armstrong, a perennial activity of the Society. 7. At Rietvlei on the hike with the gu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Radar Station Veterans  
-   Link: <a href="https://www.facebook.com/groups/RadarStationVeterans/posts/8182942288458825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/8182942288458825/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WAS OBSERVED TO AVOID JET. AS SOON AS JET GOT CLOSE, UFO APPEARED TO MOVE AWAY FOR SEVERAL MILES...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/RadarStationVeterans/posts/8182942288458825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/RadarStationVeterans/posts/8182942288458825/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO WAS OBSERVED TO AVOID JET. AS SOON AS JET GOT CLOSE, UFO APPEARED TO MOVE AWAY FOR SEVERAL MILES...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: One of Canada's Strangest Sightings | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been Debunked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian UFO Crash That Hasn&#x27;t Been Debunked...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Road in Gulf Breeze in December 1988, a new resident found a UFO model made up of...Read more...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Road in Gulf Breeze in December 1988, a new resident found a UFO model made up of...Read more...</p></details>
    Published: December 1988  

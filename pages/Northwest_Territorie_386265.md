@@ -300,33 +300,33 @@ image: /assets/images/Northwest_Territorie_386265-overview-social.jpg
 
 ## Why Northwest Territories UFO reports are usually fragmentary
 
-UFO reports from the Northwest Territories are shaped by remoteness. A sighting may involve a small number of witnesses, limited photographs, delayed official paperwork, difficult site access, and few independent observers nearby. That does not make witnesses unreliable; it means the evidence often remains incomplete. Library and Archives Canada’s UFO collection shows how uneven Canadian [official records]({{ 'official-record/' | relative_url }}) can be: the digitised federal files were gathered from the Department of National Defence, Department of Transport, National Research Council, and RCMP, but many records lack complete dates or locations, and researchers are warned that searches by place or date only return partial results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+UFO reports from the Northwest Territories are shaped by remoteness. A sighting may involve a small number of witnesses, limited photographs, delayed official paperwork, difficult site access, and few independent observers nearby. That does not make witnesses unreliable; it means the evidence often remains incomplete. Library and Archives Canada’s UFO collection shows how uneven Canadian [official records]({{ 'official-record/' | relative_url }}) can be: the digitised federal files were gathered from the Department of National Defence, Department of Transport, National Research Council, and RCMP, but many records lack complete dates or locations, and researchers are warned that searches by place or date only return partial results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265-overview.webp" | relative_url }}" alt="Overview image for Northwest Territories" loading="eager" decoding="sync" fetchpriority="high">
 This matters because the Northwest Territories can look overrepresented in the imagination while being under-documented in the archive. The North has long been associated with Cold War radar, military alertness, remote airstrips, northern lights, and dark skies. Yet the actual case record is not a neat catalogue of confirmed unknown craft. It is a mixture of witness testimony, RCMP notes, aviation occurrence reports, local journalism, and later retellings. The useful question is not “were aliens here?” but “what was reported, who recorded it, and what ordinary explanations were checked?”
 
-Canada’s current reporting landscape remains messy. The Office of the Chief Science Advisor’s Sky Canada Project was created to examine how Canadians can report unidentified aerial phenomena, and it explicitly said it was not investigating what UAPs “are”. Its survey work found that public interest is high, but reporting pathways are unclear: one in four respondents said they had personally witnessed a UAP in their lifetime, only 10 per cent had reported it, and 40 per cent did not know whom to contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
+Canada’s current reporting landscape remains messy. The Office of the Chief Science Advisor’s Sky Canada Project was created to examine how Canadians can report unidentified aerial phenomena, and it explicitly said it was not investigating what UAPs “are”. Its survey work found that public interest is high, but reporting pathways are unclear: one in four respondents said they had personally witnessed a UAP in their lifetime, only 10 per cent had reported it, and 40 per cent did not know whom to contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
 ## Clan Lake, 1960: the territory’s strongest historical case
 
-The best-known Northwest Territories UFO case centres on Clan Lake, north of Yellowknife, in June 1960. According to archival research into Canada’s UFO investigations, a camper at Clan Lake heard a growing sound “like a big plane in the distance”, could not see the source, then heard something strike the water. The witness reported a splash and an object with “arms or spokes” rotating in the lake before it slowed and sank. He and his partner paddled to the area and reported burnt grass and a channel in the grass that seemed to match the object’s path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+The best-known Northwest Territories UFO case centres on Clan Lake, north of Yellowknife, in June 1960. According to archival research into Canada’s UFO investigations, a camper at Clan Lake heard a growing sound “like a big plane in the distance”, could not see the source, then heard something strike the water. The witness reported a splash and an object with “arms or spokes” rotating in the lake before it slowed and sank. He and his partner paddled to the area and reported burnt grass and a channel in the grass that seemed to match the object’s path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
-What makes Clan Lake more interesting than a routine “light in the sky” report is that it was treated as a physical incident, not merely a distant visual observation. The RCMP report described the witness as well known locally, experienced in bush life, and considered reliable. An aerial patrol later inspected the site and concluded that something probably had hit the lake, although nothing was recovered. An RCMP inspector even recommended a diver search, while also suggesting a possible conventional explanation: a rocket nose cone or other scientific object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+What makes Clan Lake more interesting than a routine “light in the sky” report is that it was treated as a physical incident, not merely a distant visual observation. The RCMP report described the witness as well known locally, experienced in bush life, and considered reliable. An aerial patrol later inspected the site and concluded that something probably had hit the lake, although nothing was recovered. An RCMP inspector even recommended a diver search, while also suggesting a possible conventional explanation: a rocket nose cone or other scientific object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
 The case’s weakness is just as important as its strength. No recovered object is known, the underwater search question appears to have ended without a clear find, and the interpretation depends heavily on testimony and site observations made after the event. The incident is therefore unresolved in a limited archival sense, not proven in a spectacular one. It is strong enough to belong in the Northwest Territories UFO record, but not strong enough to carry claims beyond the evidence.
 
-Clan Lake also shows how Canadian official responsibility could become blurred. The account sits inside a period when civil and military reporting systems overlapped awkwardly. A historical study of Canadian UFO investigation notes that Canada’s CIRVIS-MERINT procedure was intended for reporting “vital intelligence sightings” in peacetime, including unusual air and water observations, but departments could be uncertain about who should act. In the Clan Lake file, interest passed among the RCMP, RCAF, and other officials rather than through a single clear UFO-investigation office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+Clan Lake also shows how Canadian official responsibility could become blurred. The account sits inside a period when civil and military reporting systems overlapped awkwardly. A historical study of Canadian UFO investigation notes that Canada’s CIRVIS-MERINT procedure was intended for reporting “vital intelligence sightings” in peacetime, including unusual air and water observations, but departments could be uncertain about who should act. In the Clan Lake file, interest passed among the RCMP, RCAF, and other officials rather than through a single clear UFO-investigation office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
 
 <img src="{{ "/assets/images/Northwest_Territorie_386265-Illustration-1-dark.svg" | relative_url }}" alt="Northwest Territories illustration 1" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Yellowknife, 2023: a modern pilot case with no simple public answer
 
-The most useful modern Northwest Territories example is the Canadian North flight 5071 report near Yellowknife in January 2023. Cabin Radio reported that the ATR 42-500 charter from Fort McMurray to Yellowknife was approaching the airport when the crew saw two lights roughly 10 nautical miles northwest of the field. The crew described the lights as “dancing around”, while Yellowknife air traffic control said there was no reported traffic and nothing on radar. The pilots also reported that the lights were not appearing on TCAS, the aircraft’s traffic collision avoidance system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span><span class="citation-popover-snippet">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span></span></span>
+The most useful modern Northwest Territories example is the Canadian North flight 5071 report near Yellowknife in January 2023. Cabin Radio reported that the ATR 42-500 charter from Fort McMurray to Yellowknife was approaching the airport when the crew saw two lights roughly 10 nautical miles northwest of the field. The crew described the lights as “dancing around”, while Yellowknife air traffic control said there was no reported traffic and nothing on radar. The pilots also reported that the lights were not appearing on TCAS, the aircraft’s traffic collision avoidance system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span><span class="citation-popover-snippet">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span></span></span>
 
-The incident is notable because it involved trained flight crew, air traffic control audio, and a Transport Canada CADORS occurrence note. It was also filed with a CIRVIS report, a procedure used for sightings that pilots think may involve hostile or unidentified aircraft, missiles, or other unidentified flying objects. That gives the case aviation value even if it does not prove anything exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span><span class="citation-popover-snippet">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span></span></span>
+The incident is notable because it involved trained flight crew, air traffic control audio, and a Transport Canada CADORS occurrence note. It was also filed with a CIRVIS report, a procedure used for sightings that pilots think may involve hostile or unidentified aircraft, missiles, or other unidentified flying objects. That gives the case aviation value even if it does not prove anything exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span><span class="citation-popover-snippet">Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife</span></span></span>
 
-The doubts are substantial. CADORS is a preliminary reporting system, and Cabinet briefing material from Transport Canada cautions that the word “UFO” in CADORS can cover drones, balloons, meteors, weather phenomena, birds, and other non-extraterrestrial things. Transport Canada also says CADORS information is preliminary, unsubstantiated, and subject to change. The Yellowknife event occurred around the same broad period as the Chinese surveillance balloon’s passage across northern North America, but local reporting noted that the public timeline made a direct link uncertain and probably geographically awkward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+The doubts are substantial. CADORS is a preliminary reporting system, and Cabinet briefing material from Transport Canada cautions that the word “UFO” in CADORS can cover drones, balloons, meteors, weather phenomena, birds, and other non-extraterrestrial things. Transport Canada also says CADORS information is preliminary, unsubstantiated, and subject to change. The Yellowknife event occurred around the same broad period as the Chinese surveillance balloon’s passage across northern North America, but local reporting noted that the public timeline made a direct link uncertain and probably geographically awkward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 This is exactly the sort of case that benefits from better public reporting rather than speculation. It has credible observers and an official aviation trace, but no public resolution. For a territory with sparse sighting records, it deserves attention; for a reader weighing evidence, it remains an unexplained aviation observation, not a confirmed anomalous craft.
 
@@ -335,11 +335,11 @@ This is exactly the sort of case that benefits from better public reporting rath
 
 ## The northern defence backdrop: relevant, but not a UFO explanation by itself
 
-The Northwest Territories sits inside Canada’s northern aerospace-security geography. The old Distant Early Warning Line was a Cold War radar and communications network built across the top of North America to warn of Soviet bomber or missile attack; the Northwest Territories timeline project notes that it stretched from Alaska to Greenland and was completed in 1957. The same source also stresses that these installations affected Inuit and Gwich’in communities through infrastructure, airstrips, wage labour, and environmental consequences, and that consultation was minimal by modern standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline Distant Early Warning Line</span><span class="citation-popover-snippet">Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</span></span></span>
+The Northwest Territories sits inside Canada’s northern aerospace-security geography. The old Distant Early Warning Line was a Cold War radar and communications network built across the top of North America to warn of Soviet bomber or missile attack; the Northwest Territories timeline project notes that it stretched from Alaska to Greenland and was completed in 1957. The same source also stresses that these installations affected Inuit and Gwich’in communities through infrastructure, airstrips, wage labour, and environmental consequences, and that consultation was minimal by modern standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline Distant Early Warning Line</span><span class="citation-popover-snippet">Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</span></span></span>
 
 That history matters for UFO interpretation in two ways. First, the North has long had real military and surveillance infrastructure, so “something in the sky” is not automatically a fantasy. Second, the presence of radar and defence systems can encourage overinterpretation: a report near a northern route or facility may sound more dramatic than the underlying evidence justifies.
 
-Today’s North Warning System continues the aerospace-surveillance context. A 2022 Government of Canada backgrounder says North Warning System radar data supports NORAD and Royal Canadian Air Force sovereignty operations, and describes the North Warning System Office as a binational programme involving the Department of National Defence and the United States Air Force. Canada is also modernising NORAD with Arctic and Polar Over-the-Horizon Radar plans intended to improve early warning and tracking across northern approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">Backgrounder – North Warning System In-Service Support</span><span class="citation-popover-snippet">Backgrounder – North Warning System In-Service Support - Canada.ca...</span></span></span>
+Today’s North Warning System continues the aerospace-surveillance context. A 2022 Government of Canada backgrounder says North Warning System radar data supports NORAD and Royal Canadian Air Force sovereignty operations, and describes the North Warning System Office as a binational programme involving the Department of National Defence and the United States Air Force. Canada is also modernising NORAD with Arctic and Polar Over-the-Horizon Radar plans intended to improve early warning and tracking across northern approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">Backgrounder – North Warning System In-Service Support</span><span class="citation-popover-snippet">Backgrounder – North Warning System In-Service Support - Canada.ca...</span></span></span>
 
 None of this confirms any UFO case. It simply explains why aviation, military, and public reporting overlap in the Northwest Territories more naturally than they might in a southern urban setting. A sober UFO history of the territory should keep that defence context in view without turning it into conspiracy shorthand.
 
@@ -347,20 +347,20 @@ None of this confirms any UFO case. It simply explains why aviation, military, a
 <img src="{{ "/assets/images/Northwest_Territorie_386265-Illustration-2-dark.svg" | relative_url }}" alt="Northwest Territories illustration 2" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary explanations are common, and Fort Smith shows why
 
-A good Northwest Territories UFO page needs debunked or explained cases as much as unresolved ones. In September 2024, residents in [Fort Smith]({{ 'fort-smith/' | relative_url }}) discussed hovering, flashing lights seen over town. Speculation ranged from drones and balloons to “visitors”, but NWT Fire identified the lights as FireBoss 802 air tankers returning from wildfire missions near Kakisa Lake. The explanation was local, practical, and tied to real emergency operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio UFOs over Fort Smith are rapidly identified</span><span class="citation-popover-snippet">Cabin Radio UFOs over Fort Smith are rapidly identified</span></span></span>
+A good Northwest Territories UFO page needs debunked or explained cases as much as unresolved ones. In September 2024, residents in [Fort Smith]({{ 'fort-smith/' | relative_url }}) discussed hovering, flashing lights seen over town. Speculation ranged from drones and balloons to “visitors”, but NWT Fire identified the lights as FireBoss 802 air tankers returning from wildfire missions near Kakisa Lake. The explanation was local, practical, and tied to real emergency operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cabinradio.ca">[Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cabinradio.ca</span><span class="citation-popover-title">Cabin Radio UFOs over Fort Smith are rapidly identified</span><span class="citation-popover-snippet">Cabin Radio UFOs over Fort Smith are rapidly identified</span></span></span>
 
 This case is useful because it shows how northern sightings can become mysterious before a local operational explanation catches up. Fire aircraft may fly at unusual times, in groups, or along routes not obvious to observers on the ground. In a small community with dark skies, lights from aircraft can appear more striking than they would near a busy southern airport.
 
-Other common explanations should be kept in play before calling a Northwest Territories sighting unresolved. These include aircraft approaching or departing Yellowknife, Inuvik, Fort Smith, or other airfields; satellites and Starlink trains; meteors and re-entering space debris; aurora and atmospheric optics; drones; balloons; and wildfire or survey aircraft. Transport Canada’s own guidance on CADORS explicitly groups “UFO” reporting with categories that may include balloons, meteors, rockets, drones, weather phenomena, and birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
+Other common explanations should be kept in play before calling a Northwest Territories sighting unresolved. These include aircraft approaching or departing Yellowknife, Inuvik, Fort Smith, or other airfields; satellites and Starlink trains; meteors and re-entering space debris; aurora and atmospheric optics; drones; balloons; and wildfire or survey aircraft. Transport Canada’s own guidance on CADORS explicitly groups “UFO” reporting with categories that may include balloons, meteors, rockets, drones, weather phenomena, and birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tc.canada.ca">[Transport Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tc.canada.ca</span><span class="citation-popover-title">Transport Canada4. High Altitude Object Incidents</span><span class="citation-popover-snippet">Transport Canada4. High Altitude Object Incidents</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtPuEN6wAa4" title="Canada’s UFO survey results released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer">Canada’s UFO survey results released</a></p><p class="youtube-embed-meta">Channel: CTV News &middot; Views: 11.5K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtPuEN6wAa4">Open on YouTube</a></p></div></div></div>
 
 ## How to weigh a Northwest Territories UFO claim
 
-The strongest Northwest Territories cases tend to have more than one of the following: named location, clear time, multiple witnesses, [official reporting]({{ 'official-files-6fe4b6/' | relative_url }}), aviation or radar context, physical trace claims, and later follow-up. Clan Lake has witness testimony, RCMP involvement, site observations, and an attempted official pathway. The 2023 Yellowknife case has trained aviation witnesses, air traffic control communication, CADORS, and CIRVIS. Fort Smith 2024 has video discussion and a prompt operational explanation from NWT Fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation 1950 1995</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation 1950 1995</span></span></span>
+The strongest Northwest Territories cases tend to have more than one of the following: named location, clear time, multiple witnesses, [official reporting]({{ 'official-files-6fe4b6/' | relative_url }}), aviation or radar context, physical trace claims, and later follow-up. Clan Lake has witness testimony, RCMP involvement, site observations, and an attempted official pathway. The 2023 Yellowknife case has trained aviation witnesses, air traffic control communication, CADORS, and CIRVIS. Fort Smith 2024 has video discussion and a prompt operational explanation from NWT Fire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcollections.trentu.ca">[digitalcollections.trentu.ca+2Cabin Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcollections.trentu.ca</span><span class="citation-popover-title">A History of Canada s UFO Investigation</span><span class="citation-popover-snippet">A History of Canada s UFO Investigation</span></span></span>
 
-A weak claim, by contrast, usually has an uncertain date, vague location, no original witness statement, no independent corroboration, and only social-media reposting. Remote-community sightings should not be dismissed simply because they are remote, but they should be handled respectfully and carefully: a reliable account needs attributable witnesses or records, not romanticised assumptions about northern or Indigenous knowledge. The [DEW Line]({{ 'dew-line/' | relative_url }}) history is a reminder that northern communities have often been affected by outside military and technological projects; that history should be treated as lived context, not mined for paranormal atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline Distant Early Warning Line</span><span class="citation-popover-snippet">Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</span></span></span>
+A weak claim, by contrast, usually has an uncertain date, vague location, no original witness statement, no independent corroboration, and only social-media reposting. Remote-community sightings should not be dismissed simply because they are remote, but they should be handled respectfully and carefully: a reliable account needs attributable witnesses or records, not romanticised assumptions about northern or Indigenous knowledge. The [DEW Line]({{ 'dew-line/' | relative_url }}) history is a reminder that northern communities have often been affected by outside military and technological projects; that history should be treated as lived context, not mined for paranormal atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nwttimeline.ca">[Northwest Territories Timeline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nwttimeline.ca</span><span class="citation-popover-title">Northwest Territories Timeline Distant Early Warning Line</span><span class="citation-popover-snippet">Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</span></span></span>
 
 A fair working scale is simple:
 
@@ -378,7 +378,7 @@ A fair working scale is simple:
 <img src="{{ "/assets/images/Northwest_Territorie_386265-Illustration-3-dark.svg" | relative_url }}" alt="Northwest Territories illustration 3" data-theme-src-dark="{{ "/assets/images/Northwest_Territorie_386265-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northwest_Territorie_386265-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Northwest Territories adds to Canadian UFO history
 
-The Northwest Territories adds a northern, aviation-heavy, archive-fragmented strand to Canada’s UFO story. It does not rival Nova Scotia’s Shag Harbour or Manitoba’s Falcon Lake in public fame, but it helps show how Canadian UFO reporting actually worked: RCMP detachments, transport officials, military procedures, pilots, and local media all appear at different times, often without a single agency owning the question. Library and Archives Canada’s UFO collection, the historical record of Canadian UFO investigation, and the Sky Canada Project all point to the same structural problem: Canada has collected reports, but not always in a consistent, transparent, scientifically useful way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
+The Northwest Territories adds a northern, aviation-heavy, archive-fragmented strand to Canada’s UFO story. It does not rival Nova Scotia’s Shag Harbour or Manitoba’s Falcon Lake in public fame, but it helps show how Canadian UFO reporting actually worked: RCMP detachments, transport officials, military procedures, pilots, and local media all appear at different times, often without a single agency owning the question. Library and Archives Canada’s UFO collection, the historical record of Canadian UFO investigation, and the Sky Canada Project all point to the same structural problem: Canada has collected reports, but not always in a consistent, transparent, scientifically useful way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada+2digitalcollections.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</span></span></span>
 
 For readers, the sensible conclusion is neither dismissal nor belief. The Northwest Territories has a few genuinely interesting UFO reports, especially Clan Lake and the 2023 [Yellowknife pilot]({{ 'pilot-lights/' | relative_url }}) sighting. It also has clear examples of misidentified aircraft and a setting where balloons, satellites, aurora, wildfire operations, and defence surveillance can complicate perception. The territory’s UFO history is therefore best read as a record of unresolved observations under difficult northern conditions, not as evidence of a settled mystery.
 
@@ -387,194 +387,194 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Northern UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Northern UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are categorized and investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are categorized and investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UAP debates and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UAP debates and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a careful evidence-based framework for assessing UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a careful evidence-based framework for assessing UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places unusual aerial reports in a broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places unusual aerial reports in a broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="northwest-territories-what-really-happened-in-northern-ufo-reports-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,149 +780,149 @@ For readers, the sensible conclusion is neither dismissal nor belief. The Northw
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/preview-sky-canada-report-ocsa</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tc.canada.ca  
    Title: Transport Canada4. High Altitude Object Incidents  
-   Link: <a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
+   Link:<a href="https://tc.canada.ca/en/binder/4-high-altitude-object-incidents" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/en/binder/4-high-altitude-object-incidents</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: canada.ca  
    Title: Backgrounder – North Warning System In-Service Support  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Backgrounder – North Warning System In-Service Support - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/news/2022/01/backgrounder--north-warning-system-in-service-support.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Backgrounder – North Warning System In-Service Support - Canada.ca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: canada.ca  
    Title: NORAD Authorities and Operations  
-   Link: <a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Authorities and Operations - Canada.ca...</p></details>
+   Link:<a href="https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/department-national-defence/corporate/reports-publications/proactive-disclosure/secd-april-24-2023/norad-authorities-and-operations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Authorities and Operations - Canada.ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: canada.ca  
    Title: distant early warning line clean up project  
-   Link: <a href="https://www.canada.ca/en/news/archive/2009/06/distant-early-warning-line-clean-up-project.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/news/archive/2009/06/distant-early-warning-line-clean-up-project.html</a>  
+   Link:<a href="https://www.canada.ca/en/news/archive/2009/06/distant-early-warning-line-clean-up-project.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/news/archive/2009/06/distant-early-warning-line-clean-up-project.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf</a>  
+   Link:<a href="https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/CanadaUFO/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/</a>  
+   Link:<a href="https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/newsroom/article/979834/exercise-vigilant-shield-17-takes-off-in-yellowknife-northwest-territories/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cabinradio.ca  
    Title: Cabin Radio Canadian North crew reports ‘lights in sky’ over Yellowknife  
-   Link: <a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
+   Link:<a href="https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/120760/news/yellowknife/canadian-north-crew-reports-lights-in-sky-over-yellowknife/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nwttimeline.ca  
    Title: Northwest Territories Timeline Distant Early Warning Line  
-   Link: <a href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwttimeline.ca/stories/distant-early-warning-line/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</p></details>
+   Link:<a href="https://www.nwttimeline.ca/stories/distant-early-warning-line/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwttimeline.ca/stories/distant-early-warning-line/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northwest Territories TimelineDistant Early Warning Line - Northwest Territories Timeline...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cabinradio.ca  
    Title: Cabin Radio UFOs over Fort Smith are rapidly identified  
-   Link: <a href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/</a>  
+   Link:<a href="https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/" target="_blank" rel="noopener noreferrer nofollow">https://cabinradio.ca/199392/news/south-slave/fort-smith/ufos-over-fort-smith-are-rapidly-identified/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
+   Link:<a href="https://www.facebook.com/groups/350991197872690/posts/973435668961570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/350991197872690/posts/973435668961570/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RCAF.ARC/photos/north-warning-system-nws-site-baf-3-is-located-in-brevoort-island-nunavut-northw/10157403854696237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCAF.ARC/photos/north-warning-system-nws-site-baf-3-is-located-in-brevoort-island-nunavut-northw/10157403854696237/</a>  
+   Link:<a href="https://www.facebook.com/RCAF.ARC/photos/north-warning-system-nws-site-baf-3-is-located-in-brevoort-island-nunavut-northw/10157403854696237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RCAF.ARC/photos/north-warning-system-nws-site-baf-3-is-located-in-brevoort-island-nunavut-northw/10157403854696237/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: North Warning System  
-   Link: <a href="https://en.wikipedia.org/wiki/North_Warning_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/North_Warning_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/North_Warning_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/North_Warning_System</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rtPuEN6wAa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rtPuEN6wAa4</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: collectionscanada.gc.ca  
-   Link: <a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=191" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=191</a>  
+   Link:<a href="https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=191" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/databases/ufo/001057-110.01-e.php?PHPSESSID=7s3gu1hfmo1icf3uviansi35p1&amp;brws_s=&amp;q4=NS&amp;sk=191</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: documents.theblackvault.com  
    Title: Canada FOIA Part 03 Pages 601 900  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/canada/Canada%20-%20FOIA%20Part%2003%20-%20Pages%20601-900.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/973164/north-warning-system-mission-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973164/north-warning-system-mission-feature</a>  
+   Link:<a href="https://www.dvidshub.net/video/973164/north-warning-system-mission-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973164/north-warning-system-mission-feature</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3551/2205</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFO sighting in Northern Canada  
-   Link: <a href="https://www.youtube.com/watch?v=gG6iN2UIfXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG6iN2UIfXA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Document reveals first known Canadian UFO study in nearly 30 years...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gG6iN2UIfXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gG6iN2UIfXA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document reveals first known Canadian UFO study in nearly 30 years...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Document reveals first known Canadian UFO study in nearly 30 years  
-   Link: <a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada&#x27;s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OGCggCRTh1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OGCggCRTh1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of Canada&#x27;s Strangest Sightings (S5) | The Proof Is Out There...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: One of Canada's Strangest Sightings (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aTr84e04SbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aTr84e04SbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Sky Canada Project Report Preview (with Chris Rutkowski)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed</a>  
+   Link:<a href="https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gov.nt.ca  
-   Link: <a href="https://www.gov.nt.ca/ecc/en/bison-control-area-program-annual-report-20222023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/bison-control-area-program-annual-report-20222023</a>  
+   Link:<a href="https://www.gov.nt.ca/ecc/en/bison-control-area-program-annual-report-20222023" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.nt.ca/ecc/en/bison-control-area-program-annual-report-20222023</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: canadianbaseoperators.com  
-   Link: <a href="https://canadianbaseoperators.com/historical-experience/north-warning-system/" target="_blank" rel="noopener noreferrer nofollow">https://canadianbaseoperators.com/historical-experience/north-warning-system/</a>  
+   Link:<a href="https://canadianbaseoperators.com/historical-experience/north-warning-system/" target="_blank" rel="noopener noreferrer nofollow">https://canadianbaseoperators.com/historical-experience/north-warning-system/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/21273403-canadian-government-releases-20-years-of-ufo-reports/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: latest-ufo-sightings.net  
-   Link: <a href="https://www.latest-ufo-sightings.net/2023/02/canadian-north-crew-reports-2-lights-dancing-in-the-sky-over-yellowknife.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/02/canadian-north-crew-reports-2-lights-dancing-in-the-sky-over-yellowknife.html</a>  
+   Link:<a href="https://www.latest-ufo-sightings.net/2023/02/canadian-north-crew-reports-2-lights-dancing-in-the-sky-over-yellowknife.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/02/canadian-north-crew-reports-2-lights-dancing-in-the-sky-over-yellowknife.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dewlineadventures.com  
-   Link: <a href="https://www.dewlineadventures.com/visitor-comments/" target="_blank" rel="noopener noreferrer nofollow">https://www.dewlineadventures.com/visitor-comments/</a>  
+   Link:<a href="https://www.dewlineadventures.com/visitor-comments/" target="_blank" rel="noopener noreferrer nofollow">https://www.dewlineadventures.com/visitor-comments/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cca.qc.ca  
-   Link: <a href="https://www.cca.qc.ca/en/articles/issues/11/nature-reorganized/41922/everyone-just-left" target="_blank" rel="noopener noreferrer nofollow">https://www.cca.qc.ca/en/articles/issues/11/nature-reorganized/41922/everyone-just-left</a>  
+   Link:<a href="https://www.cca.qc.ca/en/articles/issues/11/nature-reorganized/41922/everyone-just-left" target="_blank" rel="noopener noreferrer nofollow">https://www.cca.qc.ca/en/articles/issues/11/nature-reorganized/41922/everyone-just-left</a>  

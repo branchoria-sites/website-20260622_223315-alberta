@@ -256,32 +256,32 @@ image: /assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_198
 
 ## Introduction
 
-The Hampton sighting of July 1981 is a useful example of how an ordinary [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO report entered Canada’s [federal records]({{ 'federal-records/' | relative_url }}) without ever becoming evidence of anything extraordinary. The case began with a brief morning observation by Bruce Bosence and his wife near Hampton and ended with an RCMP follow-up investigation, witness re-interviews, and air-traffic enquiries. None of those checks produced an explanation, but neither did they uncover evidence of an unusual craft, military activity or physical trace. What makes the incident noteworthy within New Brunswick’s UFO history is not the sighting itself so much as the paper trail it generated. The resulting file shows how Canadian authorities documented, checked and archived reports that remained unidentified after routine enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The Hampton sighting of July 1981 is a useful example of how an ordinary [New Brunswick]({{ 'what-really-happened-in-new-brunswick/' | relative_url }}) UFO report entered Canada’s [federal records]({{ 'federal-records/' | relative_url }}) without ever becoming evidence of anything extraordinary. The case began with a brief morning observation by Bruce Bosence and his wife near Hampton and ended with an RCMP follow-up investigation, witness re-interviews, and air-traffic enquiries. None of those checks produced an explanation, but neither did they uncover evidence of an unusual craft, military activity or physical trace. What makes the incident noteworthy within New Brunswick’s UFO history is not the sighting itself so much as the paper trail it generated. The resulting file shows how Canadian authorities documented, checked and archived reports that remained unidentified after routine enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-1-dark.svg" | relative_url }}" alt="Hampton 1981 illustration 1" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Bruce Bosence and his wife reported
 
-According to the RCMP file, Bruce Bosence contacted police after he and his wife observed an unidentified object on the morning of 17 July 1981. The sighting occurred at approximately 8:27 a.m. while the family was travelling west on Highway 1, roughly two kilometres from Hampton. Also in the vehicle was their five-year-old daughter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+According to the RCMP file, Bruce Bosence contacted police after he and his wife observed an unidentified object on the morning of 17 July 1981. The sighting occurred at approximately 8:27 a.m. while the family was travelling west on Highway 1, roughly two kilometres from Hampton. Also in the vehicle was their five-year-old daughter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-Bosence described the object as round, flat and white, comparing it to a large ping-pong ball. It appeared to move steadily across the sky and was visible for about one minute before disappearing beyond the horizon. No flashing lights, markings or obvious aircraft features were reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+Bosence described the object as round, flat and white, comparing it to a large ping-pong ball. It appeared to move steadily across the sky and was visible for about one minute before disappearing beyond the horizon. No flashing lights, markings or obvious aircraft features were reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-A more detailed witness statement provides additional context. Bosence said he initially assumed the object was a balloon near the Hammond River area. As the vehicle rounded a bend, however, he became convinced the object itself was moving rather than merely appearing to shift because of the car’s motion. The object briefly disappeared behind a tree before ultimately vanishing from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+A more detailed witness statement provides additional context. Bosence said he initially assumed the object was a balloon near the Hammond River area. As the vehicle rounded a bend, however, he became convinced the object itself was moving rather than merely appearing to shift because of the car’s motion. The object briefly disappeared behind a tree before ultimately vanishing from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-One detail that later investigators noted was that the witnesses were not isolated observers. Bosence told police that other motorists appeared to notice the object as well, judging by their reactions, although no independent witness reports were ultimately collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+One detail that later investigators noted was that the witnesses were not isolated observers. Bosence told police that other motorists appeared to notice the object as well, judging by their reactions, although no independent witness reports were ultimately collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4eG7Z5de1D0" title="The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer">The Summer of UFOs: Canada’s 1975 Wave (with Chris Rutkowski)</a></p><p class="youtube-embed-meta">Channel: The Canadian Gothic Live Recordings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4eG7Z5de1D0">Open on YouTube</a></p></div></div></div>
 
 ## How the RCMP and air-traffic checks shaped the file
 
-The Hampton case became more substantial than many local sightings because the RCMP did more than simply log the initial complaint. The report was forwarded to the National Research Council under the procedures then used for UFO reporting in Canada, creating a federal record rather than leaving the matter solely in local police files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The Hampton case became more substantial than many local sightings because the RCMP did more than simply log the initial complaint. The report was forwarded to the National Research Council under the procedures then used for UFO reporting in Canada, creating a federal record rather than leaving the matter solely in local police files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-Ten days after the sighting, RCMP officers conducted follow-up interviews with Bruce and Dianne Bosence. Importantly, the statements were obtained separately. According to the investigating officer, the couple's accounts matched each other and did not differ from the description given immediately after the event. That consistency strengthened the credibility of the witnesses as observers, even though it did not identify the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+Ten days after the sighting, RCMP officers conducted follow-up interviews with Bruce and Dianne Bosence. Importantly, the statements were obtained separately. According to the investigating officer, the couple's accounts matched each other and did not differ from the description given immediately after the event. That consistency strengthened the credibility of the witnesses as observers, even though it did not identify the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-The investigating constable also recorded background information about Bruce Bosence, noting that he was a computer technician and a vice-president of a Saint John firm. The officer explicitly stated that the couple appeared sincere and that a practical joke seemed unlikely. This is one reason the file stands out among routine reports: the investigator left a written assessment of witness reliability rather than merely recording the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The investigating constable also recorded background information about Bruce Bosence, noting that he was a computer technician and a vice-president of a Saint John firm. The officer explicitly stated that the couple appeared sincere and that a practical joke seemed unlikely. This is one reason the file stands out among routine reports: the investigator left a written assessment of witness reliability rather than merely recording the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-The most significant official check involved air-traffic enquiries. The district air-traffic control office was contacted to determine whether aircraft activity could account for the observation. According to the RCMP report, controllers advised that nothing unusual had appeared on radar and that no aircraft were reported in the area at the relevant time. Police also noted that no additional sightings from the same day had been received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The most significant official check involved air-traffic enquiries. The district air-traffic control office was contacted to determine whether aircraft activity could account for the observation. According to the RCMP report, controllers advised that nothing unusual had appeared on radar and that no aircraft were reported in the area at the relevant time. Police also noted that no additional sightings from the same day had been received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 These checks transformed the incident from a simple witness claim into a documented case that had undergone at least a basic investigative process.
 
@@ -289,7 +289,7 @@ These checks transformed the incident from a simple witness claim into a documen
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-2-dark.svg" | relative_url }}" alt="Hampton 1981 illustration 2" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unexplained did not mean extraordinary
 
-The final RCMP assessment stated that the sighting remained unexplained. That conclusion is often misunderstood when later UFO databases or archival collections classify a case as “unidentified”. In the Hampton file, unexplained simply meant that investigators could not match the report to a known aircraft, radar target or other immediately obvious cause. It did not mean that police believed the object was exotic or non-human. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The final RCMP assessment stated that the sighting remained unexplained. That conclusion is often misunderstood when later UFO databases or archival collections classify a case as “unidentified”. In the Hampton file, unexplained simply meant that investigators could not match the report to a known aircraft, radar target or other immediately obvious cause. It did not mean that police believed the object was exotic or non-human.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 Several limitations remain clear in the record:
 
@@ -300,11 +300,11 @@ Several limitations remain clear in the record:
 * No photographs or physical evidence were obtained.
 * No independent witnesses submitted corroborating reports.
 * Radar checks reportedly revealed nothing unusual.
-* The object was observed at a distance, making size, altitude and speed difficult to estimate accurately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+* The object was observed at a distance, making size, altitude and speed difficult to estimate accurately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 </div>
 
-Those factors leave open a range of possibilities, including a distant aircraft viewed under unusual conditions, a balloon, or another conventional aerial object that could not be identified after the fact. The surviving documentation does not provide enough information to discriminate confidently among such explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+Those factors leave open a range of possibilities, including a distant aircraft viewed under unusual conditions, a balloon, or another conventional aerial object that could not be identified after the fact. The surviving documentation does not provide enough information to discriminate confidently among such explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qaS94Z2IZG4" title="Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer">Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?</a></p><p class="youtube-embed-meta">Channel: CBC News Saskatchewan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qaS94Z2IZG4">Open on YouTube</a></p></div></div></div>
@@ -314,186 +314,144 @@ Those factors leave open a range of possibilities, including a distant aircraft 
 
 ## What the Hampton case contributes to New Brunswick UFO history
 
-The value of the Hampton incident lies less in the mystery itself than in the quality of the surviving record. Many UFO reports consist only of a brief witness account. Here, the file contains an initial complaint, follow-up interviews, witness assessments and air-traffic enquiries, all preserved through the Canadian federal reporting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+The value of the Hampton incident lies less in the mystery itself than in the quality of the surviving record. Many UFO reports consist only of a brief witness account. Here, the file contains an initial complaint, follow-up interviews, witness assessments and air-traffic enquiries, all preserved through the Canadian federal reporting system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
-Within the broader history of federal UFO records and New Brunswick reports, Hampton illustrates a recurring pattern. A local observation was reported to the RCMP, forwarded through established channels to federal authorities, checked against available aviation information and ultimately archived when no straightforward explanation emerged. The result was a stronger documentary record, but not stronger evidence for an extraordinary event. The case remains unidentified in the narrow sense used by investigators: something was seen, routine checks failed to explain it, and the available evidence never advanced beyond that point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
+Within the broader history of federal UFO records and New Brunswick reports, Hampton illustrates a recurring pattern. A local observation was reported to the RCMP, forwarded through established channels to federal authorities, checked against available aviation information and ultimately archived when no straightforward explanation emerged. The result was a stronger documentary record, but not stronger evidence for an extraordinary event. The case remains unidentified in the narrow sense used by investigators: something was seen, routine checks failed to explain it, and the available evidence never advanced beyond that point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Canada FOIA Part 19 Pages 5401 5700 djvu.txt</span><span class="citation-popover-snippet">Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-3-dark.svg" | relative_url }}" alt="Hampton 1981 illustration 3" data-theme-src-dark="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What made the Hampton sighting stay unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What made the Hampton sighting stay unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented UFO cases and official investigations, matching the article&#x27;s focus on recorded reports and unresolved files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented UFO cases and official investigations, matching the article&#x27;s focus on recorded reports and unresolved files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how sightings are classified and why some cases remain unidentified despite investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how sightings are classified and why some cases remain unidentified despite investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Fits the article&#x27;s theme that unexplained does not automatically mean extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the article&#x27;s theme that unexplained does not automatically mean extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+    
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+    
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-shado+-tv&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign -book -books -series -television -gerry -anderson -band -concert -tour -shado -tv" data-ebay-reference="hampton-1981-what-made-the-hampton-sighting-stay-unexplained-new-brunswick-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +467,7 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +487,7 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +519,7 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +571,7 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +616,7 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,83 +657,83 @@ Within the broader history of federal UFO records and New Brunswick reports, Ham
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Canada FOIA Part 19 Pages 5401 5700 djvu.txt  
-   Link: <a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CanadaUFO/Canada%20-%20FOIA%20Part%2019%20-%20Pages%205401-5700_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting,Complaint of Hampton N.B. 81-07-17 81-07-18 On 81-07-17 a complaint...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19790814/1979_08_14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19790814/1979_08_14_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Only three per cent of the 1977 education graduates from UVic...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19790814/1979_08_14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19790814/1979_08_14_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Only three per cent of the 1977 education graduates from UVic...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19730531/1973_05_31_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730531/1973_05_31_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. Home Edition TELEPHONE 333-4111 CLASSIFIED 333-2121 Vancouver Island&#x27;s...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19730531/1973_05_31_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730531/1973_05_31_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. Home Edition TELEPHONE 333-4111 CLASSIFIED 333-2121 Vancouver Island&#x27;s...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19730424/1973_04_24_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730424/1973_04_24_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1973-04-24)&quot;24 Apr 1973 — All; Books/Docs; Text Contents; Radio; TV; Video; Audio; Software; Images; Li...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19730424/1973_04_24_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730424/1973_04_24_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1973-04-24)&quot;24 Apr 1973 — All; Books/Docs; Text Contents; Radio; TV; Video; Audio; Software; Images; Li...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19760923/1976_09_23_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19760923/1976_09_23_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1976-09-23)&quot;23 Sept 1976 — Canadian military air and sea crafttbavc maintained a nonfStop watch on the...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19760923/1976_09_23_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19760923/1976_09_23_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1976-09-23)&quot;23 Sept 1976 — Canadian military air and sea crafttbavc maintained a nonfStop watch on the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19690829/1969_08_29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19690829/1969_08_29_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1969-08-29)&quot;“It was a Wardair aircraft on charter this summer by the Legion to lz&gt;ndon, England.” Mr. M...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19690829/1969_08_29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19690829/1969_08_29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1969-08-29)&quot;“It was a Wardair aircraft on charter this summer by the Legion to lz&gt;ndon, England.” Mr. M...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19760925/1976_09_25_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19760925/1976_09_25_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1976-09-25)&quot;25 Sept 1976 — Full text of &quot;The Daily Colonist (1976-09-25)&quot;. See other formats. Home OI.&lt;...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19760925/1976_09_25_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19760925/1976_09_25_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1976-09-25)&quot;25 Sept 1976 — Full text of &quot;The Daily Colonist (1976-09-25)&quot;. See other formats. Home OI.&lt;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: dailycolonist1029uvic 5 djvu.txt  
-   Link: <a href="https://archive.org/stream/dailycolonist1029uvic_5/dailycolonist1029uvic_5_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist1029uvic_5/dailycolonist1029uvic_5_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A. Tbompaon. of Weetero Canada Air- wan and J. MaeHman. oT Domln- MB txplorera...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist1029uvic_5/dailycolonist1029uvic_5_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist1029uvic_5/dailycolonist1029uvic_5_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A. Tbompaon. of Weetero Canada Air- wan and J. MaeHman. oT Domln- MB txplorera...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dailycolonist19730630/1973_06_30_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730630/1973_06_30_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1973-06-30)&quot;30 Jun 1973 — All; Books/Docs; Text Contents; Radio; TV; Video; Audio; Software; Images; Li...</p></details>
+   Link:<a href="https://archive.org/stream/dailycolonist19730630/1973_06_30_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dailycolonist19730630/1973_06_30_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Daily Colonist (1973-06-30)&quot;30 Jun 1973 — All; Books/Docs; Text Contents; Radio; TV; Video; Audio; Software; Images; Li...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: saanich.ca  
    Title: Anna M. Todd Scrapbooks  
-   Link: <a href="https://www.saanich.ca/assets/Parks~Recreation~and~Community~Services/Documents/Archives~Collections~and~Research/Category~8/Todd%20scrapbooks-index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saanich.ca/assets/Parks~Recreation~and~Community~Services/Documents/Archives~Collections~and~Research/Category~8/Todd%20scrapbooks-index.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Index9 Nov 2022 — Pictured drivers waiting to sign up: RCMP corporal Joe Shepherd; Chief... Aerial photo showing new trans-Canada highwa...</p></details>
+   Link:<a href="https://www.saanich.ca/assets/Parks~Recreation~and~Community~Services/Documents/Archives~Collections~and~Research/Category~8/Todd%20scrapbooks-index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saanich.ca/assets/Parks~Recreation~and~Community~Services/Documents/Archives~Collections~and~Research/Category~8/Todd%20scrapbooks-index.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Index9 Nov 2022 — Pictured drivers waiting to sign up: RCMP corporal Joe Shepherd; Chief... Aerial photo showing new trans-Canada highwa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qaS94Z2IZG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Summer of UFOs: Canada&#x27;s 1975 Wave (with Chris Rutkowski)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: RCMP Officer Interview  
-   Link: <a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LXmXIVOT4Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXmXIVOT4Fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BJInZy0dask" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BJInZy0dask</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science writer releasing book on UFOs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Science writer releasing book on UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP Officer Interview - UFO Sighting 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjChc432GMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjChc432GMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCMP Officer Interview - UFO Sighting 1978...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4eG7Z5de1D0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eG7Z5de1D0</a>  
